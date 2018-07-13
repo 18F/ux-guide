@@ -1,0 +1,14 @@
+# _data/navigation.yml
+primary:
+  - text: 18F
+    href: https://18f.gsa.gov
+    external: true
+  # link objects with a 'links' field will be presented as
+  # collapsible link lists. The 'links' field can either be a
+  # reference to another link list in this file, or a literal list.
+  - text: Research
+    links:
+    - text: Conduct research
+      href: /research/conduct-research/
+    - text: Plan research
+      href: /research/plan-research/
