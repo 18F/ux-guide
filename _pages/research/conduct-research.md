@@ -3,19 +3,17 @@ layout: page
 permalink: /research/conduct-research/
 layout: post
 title: Conduct research sessions
-sidenav: docs
+sidenav: research-sidenav
 subnav:
   - text: Supporting documents
     href: '#set-up-supporting-documents'
   - text: Make a record
     href: '#make-a-consistent-usable-record-of-the-session'
-  - text: Logistics
+  - text: Prep logistics
     href: '#prepare-logistics-to-respect-users-time'
   - text: Talk to the user
     href: '#make-the-user-comfortable'
 ---
-
-# Conduct research sessions
 
 For each session, you’ll need:
 
@@ -26,9 +24,7 @@ For each session, you’ll need:
 
 Resource: 
 
-- My Best Advice for Conducting User Interviews
-- Build empathy with stakeholder interviews, part 1: Preparation
-- Build empathy with stakeholder interviews, part 2: Conversation
+- [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
 ## Set up supporting documents
 
@@ -56,8 +52,8 @@ Don’t fix spelling, punctuation, or grammar while taking notes — you can do 
 
 **Resources on note taking:**
 
-- Tips to capturing the best data from user interviews
-- Observer role guide
+- [Tips to capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)
+- [Observer role guide]https://docs.google.com/document/d/1Y32VlziDeHXdIbor9JZE0ctNkD3meGjWWljlURXHDqM/)
 
 ## Prepare logistics to respect users’ time
 
@@ -78,4 +74,4 @@ During research sessions, users are doing us a favor. Do whatever you can to ens
 - Adapt the script as needed to make the interviewee comfortable and be respectful of their time.
 - Thank them for their time and be very clear about any follow-up promised.
 
-Resource: User Interviews: Bias and How to Reduce It
+Resource: [User Interviews: Bias and How to Reduce It](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it)
