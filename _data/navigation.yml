@@ -1,9 +1,11 @@
 # _data/navigation.yml
 primary:
-  - text: Research
+  - text: User research
     href: /research/
 
-research-sidenav:
+research:
+  - text: Overview
+    href: /research/
   - text: Plan research
     href: /research/plan-research/
   - text: Conduct research

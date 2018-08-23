@@ -3,7 +3,8 @@ layout: page
 permalink: /research/
 layout: post
 title: User research
-sidenav: research-sidenav
+sidenav: research
+sticky_sidenav: true
 ---
 
 **We do many different kinds of research at 18F — with each project, we aim to design research that fits the needs and constraints of the partner, product, and team.**
