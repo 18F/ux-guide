@@ -3,7 +3,8 @@ layout: page
 permalink: /research/plan-research/
 layout: post
 title: Plan your research
-sidenav: research-sidenav
+sidenav: research
+sticky_sidenav: true
 subnav:
   - text: Write a research plan
     href: '#write-a-research-plan'

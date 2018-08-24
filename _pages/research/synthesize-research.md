@@ -3,7 +3,8 @@ layout: page
 permalink: /research/synthesize-research/
 layout: post
 title: Process what you heard
-sidenav: research-sidenav
+sidenav: research
+sticky_sidenav: true
 subnav:
   - text: Debrief
     href: '#debrief-after-each-research-session'

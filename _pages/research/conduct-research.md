@@ -3,7 +3,8 @@ layout: page
 permalink: /research/conduct-research/
 layout: post
 title: Conduct research sessions
-sidenav: research-sidenav
+sidenav: research
+sticky_sidenav: true
 subnav:
   - text: Supporting documents
     href: '#set-up-supporting-documents'
