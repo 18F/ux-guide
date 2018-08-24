@@ -16,17 +16,19 @@ subnav:
     href: '#prepare-materials'
 ---
 
-Research planning often takes longer than you expect, and is crucial for making the most of users’ time. Research planning often takes 1-2 weeks of dedicated time, and can include many conversations about goals, expectations, and logistics.
+Research planning is crucial for making the most of users’ time. It often takes 1-2 weeks of dedicated time, and can include many conversations about goals, expectations, and logistics.
 
 ## Write a research plan 
 
-The research plan should help the whole team get to a shared understanding of what you're hoping to accomplish and how you'll get there. This document should make clear:
+The research plan should help the whole team get to a shared understanding of what you're hoping to accomplish and how you'll get there. [Research plan template]({{ site.baseurl }}/resources/research-plan/)
+
+This document should make clear:
 
 - What big questions are you trying to answer? What should this research help you do?
 - What kinds of research will do you? What methods will you use? Is it generative research? Stakeholder interviews? Usability testing?
-- How many people are you hoping to talk to? This can be a wide range, but should help set expectations for scale; 5-8 interviews is a very different undertaking than 30+ sessions.
-    - Resource: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+- How many people are you hoping to talk to? This can be a wide range, but should help set expectations for scale; 5-8 interviews is a very different undertaking than 30+ sessions. For explaining _why_ 5-8 usability sessions can be enough, this article is always helpful: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 - How will you find participants? What’s the plan for recruiting them? Sometimes you’ll want to start on recruiting even before your plan is finalized, because it’s a common timeline torpedo.
+  + todo: Expand on recruiting, esp what to do if recruiting doesn't go as planned/if you can't find enough participants. I.e. get contacts through the partner agency, get contacts through previous participants, email listservs, etc.
 - When do you know you’re done with this round/sprint of research?
 
 **Here are a few research tactics we use a lot at 18F:**
