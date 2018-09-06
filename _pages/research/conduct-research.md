@@ -23,7 +23,7 @@ For each session, you’ll need:
 - Location (physical or virtual)
 - Participant
 
-Resource: 
+**Resource:**
 
 - [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
@@ -35,11 +35,14 @@ Resource:
     - Never use real names in these documents
     - Make sure permissions are restricted to core research team
     - Don’t try to intersperse notes with the interview script, it’s confusing as hell (you can include the script for reference, but it’s much easier to have a blank “notes” section at the bottom of the doc for notetakers to work in)
-- Invitation email (or other recruiting materials) explaining what the research is about and what to expect — in a way that won’t bias the research in unintended ways
+- Invitation email and consent form (or other recruiting materials) explaining what the research is about and what to expect — in a way that won’t bias the research in unintended ways
+
+**Resource:**
+ [User Interviews: Bias and How to Reduce It](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it)
 
 ## Make a consistent, usable record of the session
 
-For much of the research we do at 18F, we use detailed note taking either in lieu of or in addition to audio/video recording. It's important to align about what kind of notes the team should be taking so that: 
+For much of the research we do at 18F, we use detailed note taking either in lieu of or in addition to audio/video recording. It's important to align about what kind of notes the team should be taking so that:
 
 - Team members who weren’t able to attend the session are able to take a look at the notes and get a very clear sense of what the user said, did, and felt
 - Researchers capture all the details so that when our memories do eventually fade, we can refer back to the notes
@@ -54,7 +57,7 @@ Don’t fix spelling, punctuation, or grammar while taking notes — you can do 
 **Resources on note taking:**
 
 - [Tips to capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)
-- [Observer role guide]https://docs.google.com/document/d/1Y32VlziDeHXdIbor9JZE0ctNkD3meGjWWljlURXHDqM/)
+- [Observer role guide](https://docs.google.com/document/d/1Y32VlziDeHXdIbor9JZE0ctNkD3meGjWWljlURXHDqM/)
 
 ## Prepare logistics to respect users’ time
 
@@ -74,5 +77,3 @@ During research sessions, users are doing us a favor. Do whatever you can to ens
 - Leave time for the interviewee to ask questions.
 - Adapt the script as needed to make the interviewee comfortable and be respectful of their time.
 - Thank them for their time and be very clear about any follow-up promised.
-
-Resource: [User Interviews: Bias and How to Reduce It](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it)
