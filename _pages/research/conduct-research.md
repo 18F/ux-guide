@@ -50,9 +50,9 @@ For much of the research we do at 18F, we use detailed note taking either in lie
 
 In general, we try to take verbatim notes, to the extent it’s possible. Try simply typing down most of what a person says during each session. Avoid thinking ahead, summarizing what you think they mean, or planning what to fix/change. The idea here is to capture as much as possible during this precious time we have with our users, and avoid introducing cognitive biases by selecting what to write or not write.
 
-It’s often impossible to get every single word; if need be, prioritize capturing more exact phrasing from the user, rather than the interviewer.
+It’s often impossible to get every single word; if need be, prioritize capturing more exact phrasing from the user, rather than the interviewer. Don’t fix spelling, punctuation, or grammar while taking notes — you can do this afterward.
 
-Don’t fix spelling, punctuation, or grammar while taking notes — you can do this afterward. If there are two notetakers, trade off who takes notes for each answer. Avoid working too close to each other (for instance, fixing a word before the other person has finished typing the next word), as it can be distracting.
+If there are two notetakers, discuss your strategy before the interview. Notetakers can trade off who takes notes for each answer or take notes on different things (for instance, what was said verses what actions were taken). Avoid working too close to each other (for instance, fixing a word before the other person has finished typing the next word), as it can be distracting.
 
 **Resources on note taking:**
 
