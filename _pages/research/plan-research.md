@@ -18,22 +18,22 @@ subnav:
 
 Research planning is crucial for making the most of users’ time. It often takes 1-2 weeks of dedicated time, and can include many conversations about goals, expectations, and logistics.
 
-## Write a research plan 
+## Write a research plan
 
-The research plan should help the whole team get to a shared understanding of what you're hoping to accomplish and how you'll get there. [Research plan template]({{ site.baseurl }}/resources/research-plan/)
+The research plan should help the whole team get to a shared understanding of what you're hoping to accomplish and how you'll get there. Feel free to utilize our [research plan template]({{ site.baseurl }}/resources/research-plan/).
 
 This document should make clear:
 
 - What big questions are you trying to answer? What should this research help you do?
-- What kinds of research will do you? What methods will you use? Is it generative research? Stakeholder interviews? Usability testing?
-- How many people are you hoping to talk to? This can be a wide range, but should help set expectations for scale; 5-8 interviews is a very different undertaking than 30+ sessions. For explaining _why_ 5-8 usability sessions can be enough, this article is always helpful: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
-- How will you find participants? What’s the plan for recruiting them? Sometimes you’ll want to start on recruiting even before your plan is finalized, because it’s a common timeline torpedo.
+- What kinds of research will do you? What methods will you use?
+- How many people are you hoping to learn from? This can be a wide range, but should help set expectations for scale; 5-8 interviews is a very different undertaking than 30+ sessions. For explaining _why_ 5-8 usability sessions can be enough, this article is always helpful: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
+- How will you find people to learn from? What’s the plan for recruiting them? Sometimes you’ll want to start on recruiting even before your plan is finalized, because it’s a common timeline torpedo.
   + todo: Expand on recruiting, esp what to do if recruiting doesn't go as planned/if you can't find enough participants. I.e. get contacts through the partner agency, get contacts through previous participants, email listservs, etc.
 - When do you know you’re done with this round/sprint of research?
 
-**Here are a few research tactics we use a lot at 18F:**
+**Here are a few research methods we use a lot at 18F:**
 
-_Choose research methods that are appropriate for the product and project; this is just to note what we have the most patterns for._
+_Choose research methods that are appropriate for your product and project; this is just to note what we use most often._
 
 - Generative [stakeholder or user interviews](https://methods.18f.gov/#stakeholder-and-user-interviews) (remember to be clear about which you’re doing, and target questions and synthesis accordingly)
 - Remote [contextual inquiry](https://methods.18f.gov/#contextual-inquiry) or [usability testing](https://methods.18f.gov/#usability-testing)
@@ -58,11 +58,16 @@ Most research scripts include these sections:
 - Potential follow-up questions
 - Concluding thanks, questions, or invitations to follow up
 
-Resource: [Avoiding bias in the oh-so-human world of user testing](https://blog.optimalworkshop.com/avoiding-bias-in-the-oh-so-human-world-of-user-testing)
+Resources:
+[Avoiding bias in the oh-so-human world of user testing](https://blog.optimalworkshop.com/avoiding-bias-in-the-oh-so-human-world-of-user-testing)
+[Build empathy with stakeholder interviews, part 1: Preparation](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/)
 
 ## Plan to include partners and team members
 
-Figure out who will be participating in research, and work with them on both of those elements. If you have partners or team members who are new to research, make time to walk them through the plan and script so they can ask questions and understand what to expect. If you have folks who are new to research, and you expect them to take notes, train them on research note-taking! If you have multiple notetakers/observers, talk about how to work together and avoid stepping on toes during note-taking.
+Figure out who will be participating in research, and work with them as you prepare to create shared expectations. If you have partners or team members who are new to research, make time to walk them through the plan and script so they can ask questions and understand what to expect. If you expect them to take notes, train them on research note-taking! If you have multiple notetakers/observers, talk about how to work together and avoid stepping on toes during note-taking.
+
+**Resource**
+- [Observer role guide](https://docs.google.com/document/d/1Y32VlziDeHXdIbor9JZE0ctNkD3meGjWWljlURXHDqM/)
 
 ## Prepare materials
 
