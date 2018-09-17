@@ -23,9 +23,6 @@ For each session, you’ll need:
 - Location (physical or virtual)
 - Participant
 
-Resource: 
-
-- [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
 ## Set up supporting documents
 
@@ -35,26 +32,37 @@ Resource:
     - Never use real names in these documents
     - Make sure permissions are restricted to core research team
     - Don’t try to intersperse notes with the interview script, it’s confusing as hell (you can include the script for reference, but it’s much easier to have a blank “notes” section at the bottom of the doc for notetakers to work in)
-- Invitation email (or other recruiting materials) explaining what the research is about and what to expect — in a way that won’t bias the research in unintended ways
+- Invitation email and consent form (or other recruiting materials) explaining what the research is about and what to expect — in a way that won’t bias the research in unintended ways
+
+**Resources:**
+ [User Interviews: Bias and How to Reduce It](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it)
+ - [6 weird tips for protecting PII](https://docs.google.com/presentation/d/1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg/edit#slide=id.p)
 
 ## Make a consistent, usable record of the session
 
-For much of the research we do at 18F, we use detailed note taking either in lieu of or in addition to audio/video recording. It's important to align about what kind of notes the team should be taking so that: 
+For much of the research we do at 18F, we use detailed note taking either in lieu of or in addition to audio/video recording. It's important to align about what kind of notes the team should be taking so that:
 
 - Team members who weren’t able to attend the session are able to take a look at the notes and get a very clear sense of what the user said, did, and felt
 - Researchers capture all the details so that when our memories do eventually fade, we can refer back to the notes
 - The notes can become the starting point for synthesis sessions that will then lead to tangible changes in the app/service
 
-In general, we try to take verbatim notes, to the extent it’s possible. Try simply typing down most of what a person says during each session. Avoid thinking ahead, summarizing what you think they mean, or planning what to fix/change. The idea here is to capture as much as possible during this precious time we have with our users, and avoid introducing cognitive biases by selecting what to write or not write.
+In general, we try to take verbatim notes, to the extent it’s possible. Try simply typing down most of what a person says during each session. The idea here is to capture as much as possible during this precious time we have with our users, and avoid introducing cognitive biases by selecting what to write or not write.
 
-It’s often impossible to get every single word; if need be, prioritize capturing more exact phrasing from the user, rather than the interviewer.
+It’s often impossible to get every single word; if need be, prioritize capturing more exact phrasing from the user, rather than the interviewer. As you take notes **try to avoid**:
 
-Don’t fix spelling, punctuation, or grammar while taking notes — you can do this afterward. If there are two notetakers, trade off who takes notes for each answer. Avoid working too close to each other (for instance, fixing a word before the other person has finished typing the next word), as it can be distracting.
+- Thinking ahead
+- Summarizing what you think they mean
+- Planning what to fix/change
+- Fixing spelling, punctuation, or grammar — you can do this afterward.
 
-**Resources on note taking:**
+If there are two notetakers, discuss your strategy before the interview. Notetakers can trade off who takes notes for each answer or take notes on different things (for example, what was said verses what actions were taken). Avoid working too close to each other (for instance, fixing a word before the other person has finished typing the next word), as it can be distracting.
+
+**Resources:**
 
 - [Tips to capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)
-- [Observer role guide]https://docs.google.com/document/d/1Y32VlziDeHXdIbor9JZE0ctNkD3meGjWWljlURXHDqM/)
+- [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
+
+
 
 ## Prepare logistics to respect users’ time
 
@@ -74,5 +82,3 @@ During research sessions, users are doing us a favor. Do whatever you can to ens
 - Leave time for the interviewee to ask questions.
 - Adapt the script as needed to make the interviewee comfortable and be respectful of their time.
 - Thank them for their time and be very clear about any follow-up promised.
-
-Resource: [User Interviews: Bias and How to Reduce It](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it)
