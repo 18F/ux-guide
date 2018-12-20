@@ -7,12 +7,24 @@ primary:
   - text: Research
     href: /research/
   - text: Design
-    href: /research/
+    href: /design/
   - text: Resources
-    href: /research/
+    href: /resources/
+
+our-approach:
+  - text: Our approach
+    href: /our-approach/
+  - text: UX at 18F
+    href: /our-approach/ux-at-18F/
+  - text: Lean UX
+    href: /our-approach/lean-ux/
+  - text: Coaching and doing
+    href: /our-approach/coaching-and-doing/
+  - text: Synthesizing
+    href: /research/synthesizing/
 
 research:
-  - text: Overview
+  - text: Research
     href: /research/
   - text: Research in government
     href: /research/in-government/

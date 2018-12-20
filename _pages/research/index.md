@@ -7,7 +7,7 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-**With each project, we aim to design user research that fits the needs and constraints of the partner, product, and team.**
+**With each project, we aim to design research that fits the needs and constraints of the partner, product, and team.**
 
 Some practices have emerged as norms that can be useful starting-points for getting comfortable conducting research on 18F projects. This guide isn't about *the one right way* to do research — think of it as a list of tips, resources, and expectations for what "user research" means at 18F.
 
