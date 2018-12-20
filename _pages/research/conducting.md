@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/conduct-research/
+permalink: /research/conducting/
 layout: post
 title: Conduct research sessions
 sidenav: research

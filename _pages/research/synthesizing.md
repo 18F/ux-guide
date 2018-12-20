@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /research/synthesize-research/
+permalink: /research/synthesizing/
 layout: post
-title: Process what you heard
+title: Synthesizing
 sidenav: research
 sticky_sidenav: true
 subnav:

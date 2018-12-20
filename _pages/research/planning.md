@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/plan-research/
+permalink: /research/planning/
 layout: post
 title: Plan your research
 sidenav: research

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /our-approach/ux-at-18f
+permalink: /our-approach/ux-at-18f/
 layout: post
 title: UX at 18F
 sidenav: our-approach
