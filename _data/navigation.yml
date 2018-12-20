@@ -1,14 +1,24 @@
 # _data/navigation.yml
 primary:
-  - text: User research
+  - text: Introduction
+    href: /introduction/
+  - text: Our approach
+    href: /our-approach/
+  - text: Research
+    href: /research/
+  - text: Design
+    href: /research/
+  - text: Resources
     href: /research/
 
 research:
   - text: Overview
     href: /research/
-  - text: Plan research
-    href: /research/plan-research/
-  - text: Conduct research
-    href: /research/conduct-research/
-  - text: Process what you heard
-    href: /research/synthesize-research/
+  - text: Research in government
+    href: /research/in-government/
+  - text: Planning
+    href: /research/planning/
+  - text: Conducting
+    href: /research/conducting/
+  - text: Synthesizing
+    href: /research/synthesizing/

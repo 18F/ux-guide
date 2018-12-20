@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 18F User Experience Design Guide
-email: your-email@example.com
+email: 18f-xd@gsa.gov
 description: >-
   This is the beginning of a guide that will house
   resources, norms, and practices for doing user
