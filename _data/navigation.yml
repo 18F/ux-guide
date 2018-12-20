@@ -11,6 +11,14 @@ primary:
   - text: Resources
     href: /resources/
 
+Introduction:
+  - text: About
+    href: /about/
+  - text: Values and principles
+    href: /values-and-principles/
+  - text: Licensing
+    href: /licensing/
+
 our-approach:
   - text: Our approach
     href: /our-approach/
