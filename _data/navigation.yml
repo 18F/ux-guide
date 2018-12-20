@@ -1,7 +1,5 @@
 # _data/navigation.yml
 primary:
-  - text: Introduction
-    href: /introduction/
   - text: Our approach
     href: /our-approach/
   - text: Research
@@ -11,29 +9,35 @@ primary:
   - text: Resources
     href: /resources/
 
-Introduction:
-  - text: About
-    href: /about/
-  - text: Values and principles
-    href: /values-and-principles/
-  - text: Licensing
-    href: /licensing/
-
 our-approach:
-  - text: Our approach
-    href: /our-approach/
   - text: UX at 18F
     href: /our-approach/ux-at-18F/
   - text: Lean UX
     href: /our-approach/lean-ux/
   - text: Coaching and doing
     href: /our-approach/coaching-and-doing/
+
+research:
+  - text: Research in government
+    href: /research/in-government/
+  - text: Planning
+    href: /research/planning/
+  - text: Conducting
+    href: /research/conducting/
   - text: Synthesizing
     href: /research/synthesizing/
 
-research:
-  - text: Research
-    href: /research/
+design:
+  - text: Research in government
+    href: /research/in-government/
+  - text: Planning
+    href: /research/planning/
+  - text: Conducting
+    href: /research/conducting/
+  - text: Synthesizing
+    href: /research/synthesizing/
+
+resources:
   - text: Research in government
     href: /research/in-government/
   - text: Planning
