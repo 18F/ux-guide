@@ -1,9 +1,6 @@
 # Contributing
 
-This document provides people who have been asked to substantially contribute content to the 18F UX guide — that is, people on 18F's UX Team — with a high-level picture of the editorial process that will shape their contributions. This document also includes some style advice and a rough timeline.
-
-If you do not work at 18F and are interested in contributing to this guide, you can either email us, file an issue, or submit a pull request. More on that [below](#members-of-the-public). You might also consider forking this guide and customizing it to your organizational needs.
-
+This document provides people who have been asked to substantially contribute content to the 18F UX guide — that is, people on 18F's UX Team — with a high-level picture of the editorial process that will shape their contributions. This document also includes some style advice and a rough timeline. (See also: [Guidance for non-18F contributors](#non-18F-contributors))
 
 ## High-level goals
 
@@ -42,9 +39,9 @@ We'll review this in a team-wide huddle and provide opportunities to share with 
 Also, please know that the guide's editor/facilitator, Andrew Maier, is available to help should you and your partner like an extra set of eyes/ears (and hands if need be). We're happy to provide feedback every step of the way.
 
 
-## Members of the public
+## Non-18F contributors
 
-If you do not work at 18F and are interested in making constructive contributions to this guide, you can do that by emailing us, filing an issue, or submitting a pull request.
+If you do not work at 18F and are interested in making constructive contributions to this guide, you can do that by emailing us, filing an issue, or submitting a pull request. You might also consider forking this guide and customizing it to your organizational needs.
 
 - **Emailing us.** Whether you've got a general question about the Methods, or you'd just like to have a conversation outside of GitHub — whatever the reason, feel free to [email us](mailto:18f-research@gsa.gov).
 - **Filing an issue.** See something amiss? Please glance through the [existing issues](https://github.com/18f/ux-guide/issues) to see if someone has already alerted us to your question or concern *before* [filing a new issue](https://github.com/18F/ux-guide/issues/new)!
