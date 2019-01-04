@@ -2,7 +2,7 @@
 
 This document provides [people who are contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape those contributions. Over the next six weeks we’ll work together to identify goals for your content, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors).)
 
-If you haven’t seen them yet, please review our [guide goals](https://github.com/18F/ux-guide/edit/master/README.md#goals), and [outline](https://github.com/18F/ux-guide/edit/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura or Vishal. 
+If you haven’t seen them yet, please review our [guide goals](https://github.com/18F/ux-guide/blob/master/README.md#goals), and [outline](https://github.com/18F/ux-guide/blob/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura or Vishal. 
 
 
 ## Milestones
