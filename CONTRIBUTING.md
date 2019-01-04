@@ -1,6 +1,6 @@
 # Contributing
 
-This document provides [people who are contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape those contributions. Over the next six weeks we’ll work together to identify goals for your content, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors))
+This document provides [people who are contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape those contributions. Over the next six weeks we’ll work together to identify goals for your content, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors).)
 
 If you haven’t seen them yet, please review our [guide goals](https://github.com/18F/ux-guide/edit/master/README.md#goals), and [outline](https://github.com/18F/ux-guide/edit/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura or Vishal. 
 
@@ -39,7 +39,7 @@ Here are some things to keep in mind while writing:
 
 - The primary audience is 18F staff who are experienced practitioners, so our goal is to capture what’s unique about doing human centered design in our specific context rather than trying to tackle general design-related topics.
 - Use first-person and third-person plural (“I”, “we” and “they”) pronouns, and avoid second person (“you”) altogether as it creates a boundary with the reader.
-- Connect and link to existing 18F content as much as possible. For example, we’re not looking to duplicate the method cards!
+- Connect and link to existing 18F content as much as possible. For example, we’re not looking to duplicate the [Methods](https://methods.18f.gov)!
 - Make good use of headings and bullet points. See the [18F content guide](https://content-guide.18f.gov) and [plainlanguage.gov](https://plainlanguage.gov). 
 
 
