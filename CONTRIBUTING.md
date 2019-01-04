@@ -1,42 +1,46 @@
 # Contributing
 
-This document provides people who have been asked to substantially contribute content to the 18F UX guide — that is, people on 18F's UX Team — with a high-level picture of the editorial process that will shape their contributions. This document also includes some style advice and a rough timeline. (See also: [Guidance for non-18F contributors](#non-18F-contributors))
+This document provides [people who are contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape those contributions. Over the next six weeks we’ll work together to identify goals for your content, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors))
 
-## High-level goals
-
-The editorial process by which our team will manage this Guide is itself designed to be both highly collaborative and highly repeatable. That way, whenever this Guide is deemed outdated or to have sufficiently diverged from what the team knows to be true, we can reliably regroup, rethink, and redraft it.
-
-In the spirit of keeping everyone aligned, all contributions should serve the following high-level goals for our intended readers.
-
-*After reading the 18F UX Guide, 18F staff should be able to:*
-
-- **Identify** and the *values and principles* animating the UX Team
-- **Describe** how the UX Team employs *[18F’s Methods](https://methods.18f.gov)*
-- **Advocate** for the UX team’s *preferred and nonpreferred (not “best” or “worst”) ways of working*
-- **Understand** the *duties and responsibilities* of UX designers in the federal government (for example, identify ethical, legal, and privacy implications of design research)
-- **Access** *resources* to ensure more consistent, high-quality design communication
+If you haven’t seen them yet, please review our [guide goals](https://github.com/18F/ux-guide/edit/master/README.md#goals), and [outline](https://github.com/18F/ux-guide/edit/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura or Vishal. 
 
 
-## Where you come in
+## Milestones
 
-If you're reading this, you and a colleague ("your partner") have been asked by the UX Supervisor to contribute to a specific *section* of the Guide — congratulations! 
+We recognize that you are balancing working on this alongside billable projects, and want to be respectful of your time. In order to keep us moving forward, we’ve put together some initial milestones (that we’ll adjust as needed). 
 
-You're probably wondering what's next. Over the next six-to-eight weeks, we’ll work with you and your partner to describe 5-10 goals for your section, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger UX Guide effort. Easy peasy. 
+- **Goals** by January 9th, 2019
+- **Outlines** by January 18th, 2019
+- **First drafts** by February 1st, 2019
+- **Final drafts** by February 15, 2019
 
-## Deadlines
 
-In order to keep people moving towards shared goals, we're putting some lines in the sand. Here are the deadlines we have in mind for contributors (note that these may change):
+## Goals
 
-1. **Goals** are due **January 9th, 2019**
-1. **Outlines** are due **January 18th, 2019**
-1. **Drafts** are due **February 1st, 2019**
-1. **Final drafts** are due **February 15, 2019**
+Kick things off by scheduling a chat with your partner to decide on 5-10 goals for your content. 
 
-## Need help?
+For example, goals for the “Our approach” section might include (“By reading the ‘our approach’ section of the UX guide, 18F staff should be able to”):
 
-We'll review this in a team-wide huddle and provide opportunities to share with the rest of the team. This is all pretty rough at this point. 
+- Conceptualize design as a series of (research and design) decisions that change and articulate a project’s scope — inputs and outputs that help us reach desired outcomes
+- Understand why design requires humility, and how UX designers facilitate feedback loops
+- Describe how 18F’s approach to UX differs on path analysis vs. experiment and iterate engagements
 
-Also, please know that the guide's editor/facilitator, Andrew Maier, is available to help should you and your partner like an extra set of eyes/ears (and hands if need be). We're happy to provide feedback every step of the way.
+
+## Outlines
+
+Once we’re broadly aligned on content goals, outline the content you’ll write. What will you write to meet your content-related goals? What concepts will you need to introduce, and in what order? 
+
+Break the content into as many articles as you need — where each article is between 500 and 1,500 words (or 1-3 pages). This will ensure that the overall guide is succinct, accessible, and (hopefully) easier to maintain. For example, the “Our approach” section might contain three articles: UX at 18F, Lean UX, and coaching and doing. 
+
+
+## Drafting
+
+Here are some things to keep in mind while writing: 
+
+- The primary audience is 18F staff who are experienced practitioners, so our goal is to capture what’s unique about doing human centered design in our specific context rather than trying to tackle general design-related topics.
+- Use first-person and third-person plural (“I”, “we” and “they”) pronouns, and avoid second person (“you”) altogether as it creates a boundary with the reader.
+- Connect and link to existing 18F content as much as possible. For example, we’re not looking to duplicate the method cards!
+- Make good use of headings and bullet points. See the [18F content guide](https://content-guide.18f.gov) and [plainlanguage.gov](https://plainlanguage.gov). 
 
 
 ## Non-18F contributors
@@ -46,8 +50,6 @@ If you do not work at 18F and are interested in making constructive contribution
 - **Emailing us.** Whether you've got a general question about the guide, or you'd just like to have a conversation outside of GitHub — whatever the reason, feel free to [email us](mailto:18f-research@gsa.gov).
 - **Filing an issue.** See something amiss? Please glance through the [existing issues](https://github.com/18f/ux-guide/issues) to see if someone has already alerted us to your question or concern *before* [filing a new issue](https://github.com/18F/ux-guide/issues/new)!
 - **Submitting a pull request.** Got a better solution in mind? Please glance through [our existing pull requests](https://github.com/18f/ux-guide/pulls) to see if we're already working on a similar idea *before* submitting a pull request.
-
-
 
 ## Code of conduct
 To ensure a welcoming environment for our projects, our staff follows the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md). Contributors should do the same.
