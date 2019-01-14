@@ -24,24 +24,3 @@ This respository is the eventual home of an [18F guide](https://18f.gsa.gov/guid
     1. Checklists
     1. Templates
     1. Case studies
-
-# Goals
-
-*After **reading** the UX guide, 18F staff should be able to:*
-
-- Identify the principles animating the UX team
-- Describe how UX designers employ 18F’s Methods
-- Fulfill the high-level duties and responsibilities of UX designers in the federal government (for example, identify salient ethical, legal, and privacy implications of design decisions and research activities)
-- Advocate for the UX team’s preferred and nonpreferred (not “best” or “worst”) ways of working, and address common blockers (e.g. recruiting for research)
-- Create more consistent, high-quality design documentation
-
-
-*By **participating** in the creation of the UX guide, members of 18F’s UX team will:*
-
-- Grow as a community of practice by sharing values, principles, and passions
-- Align our practices (e.g. implementation of 18F Methods, principles, etc.)
-- Discuss and document what the team already knows (i.e., tacit knowledge). (Note: We’ll do this by pairing newer and more experienced 18F staff to [create content](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md).)
-- Clarify our expectations for new staff
-- Clarify the duties/responsibilities of designers in government
-- Identify reusable templates, case studies, checklists, etc.
-- Determine what design-related material lives where (e.g., Methods vs. this guide)
