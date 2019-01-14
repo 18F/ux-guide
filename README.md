@@ -1,6 +1,6 @@
 # 18F UX Guide
 
-This respository is the eventual home of an [18F guide](https://18f.gsa.gov/guides/) containing the UX team's principles, norms, and resources — essential information for people doing user experience research and design at 18F. This guide is currently under development. You can [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
+This respository is the eventual home of an [18F guide](https://18f.gsa.gov/guides/) containing essential information (for example, the UX team's principles, norms, and resources) for people doing user experience research and design at 18F. This guide is currently under development. You can [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
 
 
 # Table of contents
