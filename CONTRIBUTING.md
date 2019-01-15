@@ -1,8 +1,8 @@
 # Contributing
 
-This document provides [people who are contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape those contributions. Over the next six weeks we’ll work together to identify goals for your content, outline the article(s) you plan to write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors).)
+This document provides [18F staff contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) with a high-level picture of the editorial process that will shape their contributions. Over the next six weeks we’ll identify goals for your content, outline the article(s) you'll write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy. (This document also includes [guidance for non-18F contributors](#non-18F-contributors).)
 
-If you haven’t seen them yet, please review our [guide goals](https://github.com/18F/ux-guide/blob/master/README.md#goals), and [outline](https://github.com/18F/ux-guide/blob/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura or Vishal. 
+If you haven’t seen them yet, please review our [guide's goals](https://github.com/18F/ux-guide/wiki/Goals), and [outline](https://github.com/18F/ux-guide/blob/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura, or Vishal. 
 
 
 ## Milestones
@@ -17,9 +17,9 @@ We recognize that you are balancing working on this alongside billable projects,
 
 ## Goals
 
-Kick things off by scheduling a chat with your partner to decide on 5-10 goals for your content. 
+Kick things off by scheduling a chat with your partner to decide on five goals for your content. 
 
-For example, goals for the “Our approach” section might include (“By reading the ‘our approach’ section of the UX guide, 18F staff should be able to”):
+For example, goals for the “Our approach” section might include (“By reading the ‘our approach’ section of the UX guide, 18F staff will be able to”):
 
 - Conceptualize design as a series of (research and design) decisions that change and articulate a project’s scope — inputs and outputs that help us reach desired outcomes
 - Understand why design requires humility, and how UX designers facilitate feedback loops
