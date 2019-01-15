@@ -1,6 +1,6 @@
 # Contributing
 
-This document provides [18F staff contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) (though this document also includes [guidance for non-18F contributors](#non-18F-contributors).) with a high-level picture of the editorial process that will shape their contributions. Over the next six weeks we’ll identify goals for your content, outline the article(s) you'll write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy.
+This document provides [18F staff contributing to the UX guide](https://docs.google.com/spreadsheets/d/1WJIDIMJK2Zzk8bA8DOmqd6Fbfp-tHSbk0-Cv9WPfNlo) (though this document also includes [guidance for non-18F contributors](#non-18F-contributors)) with a high-level picture of the editorial process that will shape their contributions. Over the next six weeks we’ll identify goals for your content, outline the article(s) you'll write in service of those goals, and draft and publish those article(s) as part of the larger guide effort. Easy peasy.
 
 If you haven’t seen them yet, please review our [guide's goals](https://github.com/18F/ux-guide/wiki/Goals), and [outline](https://github.com/18F/ux-guide/blob/master/README.md#table-of-contents). If you have any questions or concerns, contact us in [#ux-guide](https://gsa-tts.slack.com/archives/CDDLUQ694/) or ping Andrew, Laura, or Vishal. 
 
