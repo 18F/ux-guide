@@ -18,19 +18,18 @@ our-approach:
     href: /our-approach/coaching-and-doing/
 
 research:
-  - text: Research in government
-    href: /research/in-government/
   - text: Planning
     href: /research/planning/
   - text: Conducting & synthesizing aka “Doing”
     href: /research/conducting/
   - text: Sharing/socializing
     href: /research/synthesizing/
+  - text: Research in government
+    href: /research/in-government/
   - text: Legal and privacy
     href: /research/conducting/
   - text: Ethics and bias
     href: /research/conducting/
-
 design:
   - text: Research in government
     href: /research/in-government/
