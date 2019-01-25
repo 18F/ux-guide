@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /research/in-government
+permalink: /research/in-government/
 layout: post
 title: Research in government
 sidenav: research
