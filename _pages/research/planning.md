@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /research/planning/
 layout: post
 title: Plan your research

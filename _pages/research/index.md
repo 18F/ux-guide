@@ -2,26 +2,11 @@
 layout: page
 permalink: /research/
 layout: post
-title: How we do research at 18F
+title: Research
 sidenav: research
 sticky_sidenav: true
 ---
 
-**With each project, we aim to design research that fits the needs and constraints of the partner, product, and team.**
+Design research broadens perspectives and tests assumptions by actively and systematically engaging with the world. It includes both qualitative and quantitative [methods](https://methods.18f.gov) such as interviewing stakeholders, investigating tools and systems, and interacting with members of the public. Design research can include the use of questionnaires, surveys, and analytics.
 
-Some practices have emerged as norms that can be useful starting-points for getting comfortable conducting research on 18F projects. This guide isn't about *the one right way* to do research — think of it as a list of tips, resources, and expectations for what "user research" means at 18F.
-
-User research at 18F is special for a few reasons, including:
-
-- Much of our research is conducted remotely, because we work in distributed teams spread across the U.S.
-- We work within the bounds and guidance of federal laws and regulations, including the [Paperwork Reduction Act (PRA)](https://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm).
-- Because we want our partnerships with agencies to expand the ranks of advocates and practitioners of user research in government, we are always teaching and coaching as we go.
-
-### Other 18F resources:
-
-- [18F Handbook: Research guidelines](https://handbook.18f.gov/research-guidelines/)
-- [18F Method Cards](https://methods.18f.gov/)
-
-### Resources from other teams:
-
-- [GOV.UK Service manual: User research](https://www.gov.uk/service-manual/user-research)
+All 18F teams engage in research. Because we are constantly making decisions, and those decisions benefit when they are informed by user perspectives, we’re committed to doing research every sprint. Rather than seeing the product or service itself as the goal, we see the products or services we contribute to as the byproduct of our continued effort to identify, understand, and address real user needs.
