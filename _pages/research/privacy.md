@@ -50,3 +50,9 @@ The following list is not meant to be exhaustive, but to indicate approaches tha
 - Requesting research participant permission before incorporating PII or attributable information (for example, quotes with attribution) into our reports or presentations. (In general, we are [mindful of contextual integrity when presenting research](https://thesocietypages.org/cyborgology/2017/03/12/context-integrity-and-consent-in-presenting-research/).)
 - Deleting research data whenever we conclude a round of research, and asking that anyone we’ve shared recordings with to do the same
 - Maintaining an annually updated Privacy Impact Assessment for Design Research in close collaboration with our Privacy Office and Office of General Counsel. GSA Staff: see [this presentation](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4) from GSA Privacy Office’s to our Research Guild.
+
+### References
+
+- *Privacy in Context* by Helen Nissenbaum
+- *Little Book of Design Research Ethics* by IDEO
+- The Health, Education, and Welfare (HEW) Advisory Committee’s Code of Fair Information Practices.
