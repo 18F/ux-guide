@@ -4,6 +4,14 @@ layout: post
 title: Ethics
 sidenav: research
 sticky_sidenav: true
+subnav:
+  - text: Respect
+    href: '#respect'
+  - text: Beneficence
+    href: '#beneficence'
+  - text: Honesty
+    href: '#honesty'
+
 ---
 
 The following principles exist to support 18F researchers as we create useful insights. Research affords us opportunities to both interact with people and explore the boundaries of what’s possible. Ethical principles encourage us to reflect on our work and how we decide to go about it. 
