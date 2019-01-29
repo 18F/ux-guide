@@ -26,10 +26,14 @@ research:
     href: /research/synthesizing/
   - text: In government
     href: /research/in-government/
-  - text: Legal and privacy
-    href: /research/legal-and-privacy/
-  - text: Ethics and bias
-    href: /research/ethics-and-bias/
+  - text: Legal
+    href: /research/legal/
+  - text: Privacy
+    href: /research/privacy/
+  - text: Bias
+    href: /research/bias/
+  - text: Ethics
+    href: /research/ethics/
 design:
   - text: Research in government
     href: /research/in-government/
