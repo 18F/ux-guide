@@ -28,14 +28,6 @@ Background information goes here.
 1. Question 1
 2. Question 2
 
-
-## Ethical and bias considerations 
-
-> **Instructions:** Review the [bias](https://docs.google.com/document/d/13iEP9PthLfJ1RzXqC_TVnvSt11ZysKxLTmGinvFCses/edit#) and [ethics](https://docs.google.com/document/d/1BbFd_eFS5bAyMQUT5Lr-2axSsxzjU09kgjCwnhbwwxk/edit#) information in the 18F UX guide. List any ethical concerns the team should review. Consider especially if this research treats people as [ends or means](https://en.wikipedia.org/wiki/Categorical_imperative), and how it might look if this research were to appear in tomorrow’s news.
-
-- Consideration 1
-- Consideration 2
-
 ## Research roles
 
 > **Instructions:** Review the [roles & responsibilities](https://docs.google.com/document/d/1pCq73gG7eL1zmk2WbwEefB7RqkQbN_78KyYsgD5_Y9U/edit#) in the 18F UX Guide.
@@ -68,6 +60,13 @@ Background information goes here.
 
 > **Intructions:** Describe at a high-level who should participate (see [these helpful questions](https://articles.uie.com/usability_testing_three_steps/)) in this study and you’ll recruit them. Prepare [email templates](https://drive.google.com/drive/folders/1XXRBdGGrMMKZ0qnbPXgulCFrCQBf2slP) for corresponding with potential participants. See the [legal](https://docs.google.com/document/d/13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU/edit#) page of the UX Guide for more information. 
 
+
+## Ethical and bias considerations 
+
+> **Instructions:** Review the [bias](https://docs.google.com/document/d/13iEP9PthLfJ1RzXqC_TVnvSt11ZysKxLTmGinvFCses/edit#) and [ethics](https://docs.google.com/document/d/1BbFd_eFS5bAyMQUT5Lr-2axSsxzjU09kgjCwnhbwwxk/edit#) information in the 18F UX guide. List any ethical concerns the team should review. Consider especially if this research treats people as [ends or means](https://en.wikipedia.org/wiki/Categorical_imperative), and how it might look if this research were to appear in tomorrow’s news.
+
+- Consideration 1
+- Consideration 2
 
 ## Expected outcomes
 
