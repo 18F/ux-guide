@@ -28,6 +28,12 @@ Background information goes here.
 1. Question 1
 2. Question 2
 
+
+## Method(s)
+
+> **Instructions:** Choose some [Methods](https://methods.18f.gov)! Ensure the team understands these before the study. 
+
+
 ## Research roles
 
 > **Instructions:** Review the [roles & responsibilities](https://docs.google.com/document/d/1pCq73gG7eL1zmk2WbwEefB7RqkQbN_78KyYsgD5_Y9U/edit#) in the 18F UX Guide.
@@ -50,10 +56,6 @@ Background information goes here.
 | Collaborative synthesis   |  [A reasonable date range] |
 | Summary/outputs   |  [A reasonable date range] |
 
-
-## Method(s)
-
-> **Instructions:** Choose some [Methods](https://methods.18f.gov)! Ensure the team understands these before the study. 
 
 
 ## Participants and recruiting
