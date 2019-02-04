@@ -7,8 +7,6 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
-# Values and Principles
-
 We believe that good design helps government better serve the public. 18F UX designers help agencies in providing more effective services by improving interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
 An essential element of design is collaboration. This document exists to help our cross-functional teams and our agency partners better understand the values and principles that guide our approach.
@@ -23,15 +21,18 @@ We value:
 - The trust this work requires
 - Design know-how in government
 
+
 ## Principles
 
 The following principles guide our team in meeting [18F’s mission](https://18f.gsa.gov/about/#our-mission) of transforming how the U.S. government builds and buys digital services.
+
 
 ### We start with user needs
 
 We always begin with identifying the needs of the people our partners serve. Through first-hand research, we explore how to best meet those needs. We seek to first understand who we are designing for then figure out how deliver effective solutions within our partner’s constraints. By starting with user needs, we can see what needs are outside our current limitations and work on changing those limits.
 
-### We design using an iterative process of learning and discovery informed by data.
+
+### We iterate to learn
 
 We deliver early and often by building something small, learning by validating with real people, and iterate through a build, test, and learn cycle of increasing fidelity.
 
@@ -39,9 +40,6 @@ Quick feedback loops with users and stakeholders keep the cost of change low and
 
 Holding a flexible vision of our product’s future is critical. We inform product and design decisions on what we learn from data and direct conversations with users. We prototype ideas and put them in front of real people, and do frequent rounds of research to give our teams the evidence to make better decisions.
 
-### We finish with user needs
-
-We accept that a goal has been achieved when we validate — via design research — that users can accomplish that goal. We believe a combination of qualitative and quantitative research with real users is necessary to accurately understand this.
 
 ### We promote inclusion
 
@@ -56,14 +54,12 @@ We share our work in progress, not just work when it’s done. Working directly 
 
 Active conversation reduces the need for abstraction and artifacts and improves the quality of the team’s work through constant refinement. Design’s value is made more apparent through this participation.
 
+
 ### We train advocates
 
 Our partners and stakeholders are experts in their field. Designing alongside them allows us a glimpse into their expertise and them into ours. The shared understanding this work builds allows us to recommend next steps and them to advocate for better design practices to their colleagues. This advocacy for human-centered design practices—specific to the people they serve—lasts long after our partnership ends.
 
-### We work in the open
 
-Sharing our work openly builds trust with both our partners and the public while giving our work broader value.
+### We finish with user needs
 
-Opening up the design process to observation and collaboration at the earliest possible stages accelerates our speed, agility, and quality. Sharing work early and often reduces surprises and builds trust and understanding. When designers become comfortable with constantly sharing their work, even while it is in-progress, even when it is still rough and unrefined, it can create an environment where design and discovery is ongoing and aligned with a truly agile process. 
-
-Working openly helps UX work in the spirit of the agile manifesto by reducing documentation and increasing conversation. Making the entire design process visible gives teams the ability to find opportunities to collaborate and self-organize in response.
+We accept that a goal has been achieved when we validate — via design research — that users can accomplish that goal. We believe a combination of qualitative and quantitative research with real users is necessary to accurately understand this.
