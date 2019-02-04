@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /our-approach/ux-at-18f/
+permalink: /our-approach/values-and-principles/
 layout: post
-title: UX at 18F
+title: Values and principles
 sidenav: our-approach
-sticky_sidenav: true
+sticky_sidenav: false
 ---
 
 # Values and Principles
