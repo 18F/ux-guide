@@ -10,12 +10,10 @@ primary:
     href: /resources/
 
 our-approach:
-  - text: UX at 18F
-    href: /our-approach/ux-at-18F/
+  - text: Values and principles
+    href: /our-approach/values-and-principles/
   - text: Lean UX
     href: /our-approach/lean-ux/
-  - text: Coaching and doing
-    href: /our-approach/coaching-and-doing/
 
 research:
   - text: Planning
