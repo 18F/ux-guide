@@ -78,3 +78,10 @@ Background information goes here.
 1. We’ll collect evidence as to which which design better supports users’ workflow.
 1. We’ll add to our design context document, and share it out to the rest of the team.
 1. We’ll refine our user stories with acceptance criteria informed by real feedback.
+
+
+### References
+*Just Enough Research* by Erika Hall; [“Dig in the Right Spot”](https://medium.com/mule-design/dig-in-the-right-spot-6dc7af5a75e8) by Erika Hall; [“Are You Really Prepared for Your Usability Study? The Three Steps for Success”](https://articles.uie.com/usability_testing_three_steps/) by Christine Perfetti
+
+
+
