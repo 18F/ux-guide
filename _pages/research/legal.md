@@ -14,7 +14,7 @@ sticky_sidenav: true
 
 The Antideficiency Act prevents federal agencies from accidentally obligating themselves to pay for products or services. You can mitigate this risk by clarifying with potential participants, throughout your recruiting and informed consent processes, that their participation must be made without expectation of payment or compensation. For example, to account for the Antideficiency Act, 18F’s standard [participant agreement](https://methods.18f.gov/participant-agreement/) includes the following language:
 
-You will not receive payment or compensation for your participation. You agree to perform all duties associated with your participation in this study during the period of <project start date> – <project end date> without expectation of payment or compensation.
+> You will not receive payment or compensation for your participation. You agree to perform all duties associated with your participation in this study during the period of `<project start date>` – `<project end date>` without expectation of payment or compensation.
 
 The Antideficiency Act will also shape your use of [incentives](https://methods.18f.gov/fundamentals/incentives/). Each government agency approaches incentives differently: GSA’s Office of General Counsel (OGC), for example, asks that we not directly pay incentives to research participants; some of our partner agencies, like the Centers for Medicare & Medicaid Services, have [offered incentives in the past](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityInitiativesGenInfo/Downloads/Consumer-Usability-Testing-in-Five-State-based-Marketplaces.pdf). 
 
@@ -40,6 +40,6 @@ Some tweet-length examples:
 
 > **Bad:** Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov! Email 18F-research@gsa.gov to participate in a usability test. Here’s how we’ll use the information we collect: [Link to Privacy Act Statement for Design Research]
 
-(In the above example, “Are you the parent of a 4th grader?” is an information collection.)
+(In the last example, “Are you the parent of a 4th grader?” is an information collection.)
 
 That said, form-based screeners can be useful in cases where a tweet, email, etc. cannot guarantee that the people who sign up to participate in your research will meet your recruitment criteria. GSA staff interested in creating a screener should see this flowchart as a starting point, and be sure to consult with GSA’s PRA desk officer. GSA Staff: GSA has [our own remote recruiting tool](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/); ping #research-tools in Slack for more information.
