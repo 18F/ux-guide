@@ -6,6 +6,8 @@ sidenav: research
 sticky_sidenav: true
 ---
 
+# Privacy
+
 18F protects participant privacy through research practices rooted in building and maintaining trust: people who trust us (for example, to keep their information confidential) are more likely to share comprehensive and accurate accounts of their experience.
 
 [OMB Circular A-130](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf) defines PII as “information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.” PII is contextually dependent. Social Security Numbers, recorded voice, and photos and videos depicting individuals—including interviews or usability tests—are always considered PII. Email addresses, phone numbers, and mailing addresses are sometimes considered PII, and when presented in combination with a first name often become PII. Because every collection of PII increases the risk of future privacy violations, it’s ideal to refrain from collecting PII at all (for example, by analyzing the data collected via [GSA’s Digital Analytics Program](https://digital.gov/dap/)).
