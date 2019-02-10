@@ -29,14 +29,14 @@ In addition to adopting roles, it can be useful to nominate someone as a [resear
 
 On any given project, you should only perform the research activities that you believe will best inform the design decisions you anticipate. Broadly speaking, 18F research falls into three categories:
 
-**Foundational research**
+#### Foundational research
 
 Foundational research is the research you do before you know the problem(s) you’re solving. This is primarily purpose of Path Analysis engagements: to get a baseline understanding of the problem space you’re working in and the people you’re serving. This research often results in a [problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement). 
 
-**Generative research**
+#### Generative research
 
 Generative research helps you better frame the problem(s) you’ll solve, spark new ideas, and reveal opportunities. Generative research helps you ask: What are my users’ goals, behaviors, and pain points? What is the broader context they’re operating in? What elements are important to my problem space?
 
-**Evaluative research**
+#### Evaluative research
 
 Evaluative research tests assumptions, hypotheses, and the efficacy of design solutions (such as prototypes). This research helps you ask: Am I building the right thing? Does it meet user needs? Is it easy to use?
