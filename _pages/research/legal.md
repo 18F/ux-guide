@@ -12,7 +12,7 @@ sticky_sidenav: true
 
 ## The Antideficiency Act
 
-The Antideficiency Act prevents federal agencies from accidentally obligating themselves to pay for products or services. You can mitigate this risk by clarifying with potential participants, throughout your recruiting and informed consent processes, that their participation must be made without expectation of payment or compensation. For example, to account for the Antideficiency Act, 18F’s standard [participant agreement](https://methods.18f.gov/participant-agreement/) includes the following language:
+The Antideficiency Act prevents federal agencies from accidentally obligating themselves to pay for products or services. Mitigate this risk by clarifying with potential participants, throughout your recruiting and informed consent processes, that their participation is made without expectation of payment or compensation. For example, to account for the Antideficiency Act, 18F’s standard [participant agreement](https://methods.18f.gov/participant-agreement/) includes the following language:
 
 > You will not receive payment or compensation for your participation. You agree to perform all duties associated with your participation in this study during the period of `<project start date>` – `<project end date>` without expectation of payment or compensation.
 
