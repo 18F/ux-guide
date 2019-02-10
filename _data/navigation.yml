@@ -16,14 +16,14 @@ our-approach:
     href: /our-approach/lean-ux/
 
 research:
+  - text: Basics
+    href: /research/basics/
   - text: Planning
     href: /research/planning/
   - text: Conducting & synthesizing aka “Doing”
     href: /research/conducting/
   - text: Sharing/socializing
     href: /research/synthesizing/
-  - text: In government
-    href: /research/in-government/
   - text: Legal
     href: /research/legal/
   - text: Privacy
