@@ -7,33 +7,64 @@ sticky_sidenav: true
 subnav:
   - text: Respect
     href: '#respect'
-  - text: Beneficence
-    href: '#beneficence'
+  - text: Responsibility
+    href: '#responsibility'
   - text: Honesty
     href: '#honesty'
 
 ---
 
-The following principles exist to support 18F researchers as we create useful insights. Research affords us opportunities to both interact with people and explore the boundaries of what’s possible. Ethical principles encourage us to reflect on our work and how we decide to go about it. 
+# Ethics
 
-**Disclaimer:** These principles are meant to serve in addition to [our basic ethical obligations as public servants](https://www.justice.gov/ncfs/file/761076/download). If you have questions, contact your supervisor, GSA’s Privacy Office or ethics counsel.
+Research affords us with opportunities to both interact with people and explore what’s possible — exciting stuff! The following ethical principles are here to guide us through some of the tougher decisions that this work can bring about. 
+
+**Disclaimer:** These principles are meant to serve in addition to your [basic ethical obligations as public servants](https://www.justice.gov/ncfs/file/761076/download). If you have questions, contact your supervisor, [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) or [Ethics Legal counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel/ethics-legal-counsel).
 
 
 ## Respect
 
-We respect the cultural norms of the agencies we’re working in. We seek permission from potential research participants as early as possible, and work to minimize any investment on their part before they’ve formally opted-in. We honor people’s opinions and choices. We ensure that anyone who participates in our research does so of their own free will, and that they have enough information to make that decision responsibly. If someone who participates in our research appears uncomfortable, we offer that person the option to skip the subject altogether. We do not correct people during our interviews or usability tests. We ask, *am I treating people as collaborators rather than subjects of the research process?*
+We respect the cultural norms of the agencies we work with, and acknowledge the people who participate in our research as the experts of their own experiences. 
 
-## Beneficence
+#### You should:
 
-We do our best to further the best interests of the people and country we serve. We avoid actions that might cause harm. We collect informed consent, and work to ensure that nothing changes for our potential research participants if they do not participate in our research. During our research, we collect only the information we need, we control access to raw research data, and keep the focus of our research on people’s needs and useful insights rather than on specific individuals. We actively de-identify research records before subjecting them to shared analysis. We consider what it will mean for our research participants before disclosing our research findings — we share our data on a need-to-know basis. We minimize or remove access to design research-data after it is no longer needed.
+- Seek permission from potential research participants as early as possible, and work to minimize any investment on their part before they’ve formally opted-in 
+- As much as possible, meet at times and locations convenient for our research participants
+- Ensure that anyone who participates in your research does so of their own free will, and that they have enough information to make that decision responsibly 
+- Honor people’s opinions and choices. Do not correct people during the course of your research
+- If someone uncomfortable with or prefers not to sign a participant agreement, offer them alternative opportunities for them to participate or the option to not participate at all
+- If someone who participates in our research appears uncomfortable, offer that person the option to skip the subject altogether or to cease their participation
+- Ask, am I treating people as collaborators rather than subjects of the research process?
+
+
+## Responsibility
+
+We have a responsibility to further the best interests of the people and country we collectively serve. We avoid actions that might bring harm to our participants.
+
+#### You should:
+
+- Collect informed consent
+- Never record people without their consent
+- Work to ensure your potential research participants are not impacted negatively if they don’t participate in your research
+- Account for diversity and inclusion in your research recruiting (for example, by specifically recruiting people who use a screen reader to navigate your website)
+- Collect only the information you need
+- Control access to raw design research-related data
+- De-identify research records before subjecting them to shared analysis
+- Consider what it will mean for your research participants before disclosing our research findings — share research data only a need-to-know basis. 
+- Keep the focus of your research on people’s needs and useful insights rather than on specific individuals
+- Minimize or remove access to design research-data after it is no longer needed
+
 
 ## Honesty
 
-Design research should never feel covert or manipulative.  We’re transparent with potential research participants about how we plan to use the data we collect (for example, by sharing a [Privacy Act Notice](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) in our participant recruiting processes). We’re careful not to mislead participants unless such information might unduly influence their behavior. In those cases we get their permission to either not reveal this information or we only delay sharing it — for example, we might explain after a usability test that our research employed a prototype with example data. We provide clear descriptions of our data practices via our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
+Design research should never feel covert or manipulative. We provide clear descriptions of our data practices in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
 
+#### You should:
+
+- Acknowledge that ethics and [bias](https://github.com/18F/ux-guide/blob/master/_pages/research/bias.md) is a part of all research, and actively work to counter it in your [research planning](#)
+- Be careful of the conclusions you draw
+- Be transparent in conversations with your research participants about how you plan to use the data your collect (for example, by sharing a [Privacy Act Notice](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)). 
+- Be careful not to mislead participants; provide as much information as possible while maintaining the integrity of the research. 
 
 ### References
 
-1. The Department of Health and Human Services’ (HHS) Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research
-1. The Little Book of Design Research Ethics by IDEO
-
+These principles draw heavily from IDEO’s *The Little Book of Design Research Ethics.* We also referenced The Department of Health and Human Services’ (HHS) *Belmont Report* in creating this document.
