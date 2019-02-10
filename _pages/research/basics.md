@@ -10,7 +10,7 @@ Design research can feel overwhelming, even to people who’ve done it before! L
 
 ## Research is a team sport
 
-Design research helps you systematically explore possibilities and answer questions. Because a collaborative approach to research increases the team’s overall empathy and efficiency, research is best practiced as a team sport. 
+Design research helps you systematically explore possibilities and answer questions. Because a collaborative approach to research [increases the team’s overall empathy and efficiency](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/), research is best practiced as [a team sport](http://www.myddelton.co.uk/blog/user-research-is-a-team-sport). 
 
 Everyone has a role to play here. The following roles are not mutually exclusive; they’re simply collections of related tasks. Anyone on the team can play multiple roles:
 
@@ -22,7 +22,7 @@ Everyone has a role to play here. The following roles are not mutually exclusive
 - **Observer** — This is the default role for teammates who are new to research. Observers should listen to interviews, observe usability tests, etc. without influencing the research. If it’s a remote test, turn off your microphone to mute the keyboard noises. 
 - **Documenter** — Communicates research findings.
 
-In addition to adopting roles, it can be useful to nominate someone as a [research lead](/research/lead): a person ultimately responsible for planning research, recruiting participants, maintaining quality, etc. 
+In addition to adopting roles, it can be useful to nominate someone as a **[research lead]({site_url}}/research/lead/):** a person ultimately responsible for planning research, recruiting participants, maintaining quality, etc. 
 
 
 ## Research types
@@ -31,7 +31,7 @@ On any given project, you should only perform the research activities that you b
 
 #### Foundational research
 
-Foundational research is the research you do before you know the problem(s) you’re solving. This is primarily purpose of Path Analysis engagements: to get a baseline understanding of the problem space you’re working in and the people you’re serving. This research often results in a [problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement). 
+Foundational research is the research you do before you know the problem(s) you’re solving. This is why 18F conducts [Path Analysis](https://github.com/18F/path-analysis) engagements: to get a baseline understanding of the problem space we’re working in and the people we’re serving. This research often results in a [problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement). 
 
 #### Generative research
 
