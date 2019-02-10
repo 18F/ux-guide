@@ -8,13 +8,16 @@ title: About
 
 # About this guide
 
-18F user experience (UX) designers join cross-functional teams to collaboratively improve user experiences across government. This guide is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of hard-and-fast rules. It’s a starting point for 18F-led UX design: doing it, discussing it, and ensuring its done to a consistent level of quality.
+18F user experience (UX) designers join cross-functional teams to collaboratively improve user experiences across government. This guide 
+is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for 18F-led UX design: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
+
 
 ## What this guide is
 
 Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for designers at our agency, but we hope it’s a useful reference for anyone. We rely on some working assumptions: 18F UX designers [are expected](https://docs.google.com/document/d/1xQGIdKoxmOzwyb6Ma-eRkMmk0ic8ugDIDd_I-h2X1cU/edit#) to possess, among other things, advanced design research skills, the ability to skillfully navigate organizational relationships, and the ability to deliver artifacts that guide development like wireframes and prototypes.
 
-This guide therefore doesn’t dwell on overarching theories of UX, like [the Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf), or specific [design methods](https://methods.18f.gov/. Instead, it includes practical information that may be new to the designers we hire (who may be new to government), and the people we work worh (who may be new to UX design). Readers should also consult our [Handbook](https://handbook.18f.gov/), [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#), [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#), and [Before You Ship guide](https://before-you-ship.18f.gov/).
+This guide therefore doesn’t dwell on overarching theories of UX, like [the Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf), or specific [design methods](https://methods.18f.gov/). Instead, it includes practical information that may be new to the designers we hire (who may be new to government), and the people we work worh (who may be new to UX design). Readers should also consult our [Handbook](https://handbook.18f.gov/), [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#), [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#), and [Before You Ship guide](https://before-you-ship.18f.gov/).
+
 
 ## How to use this guide
 
@@ -28,6 +31,7 @@ This guide is structured into into a few sections. Briefly, they include:
 - **Resources** contains a collection of links to templates, handy presentations, etc.
 
 If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+
 
 ## If you work at another organization
 
