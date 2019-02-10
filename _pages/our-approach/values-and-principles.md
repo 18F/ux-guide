@@ -26,7 +26,7 @@ An essential element of design is collaboration. This document exists to help ou
 
 
 
-## Principles
+## Our principles
 
 The following principles guide our team in meeting [18F’s mission](https://18f.gsa.gov/about/#our-mission) of transforming how the U.S. government builds and buys digital services.
 
