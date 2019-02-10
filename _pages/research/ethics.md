@@ -33,7 +33,7 @@ We respect the cultural norms of the agencies we work with, and acknowledge the 
 - Honor people’s opinions and choices. Do not correct people during the course of your research
 - If someone uncomfortable with or prefers not to sign a participant agreement, offer them alternative opportunities for them to participate or the option to not participate at all
 - If someone who participates in our research appears uncomfortable, offer that person the option to skip the subject altogether or to cease their participation
-- Ask, am I treating people as collaborators rather than subjects of the research process?
+- Ask, *am I treating people as collaborators rather than subjects of the research process?*
 
 
 ## Responsibility
