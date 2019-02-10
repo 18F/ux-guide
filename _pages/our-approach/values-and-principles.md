@@ -7,6 +7,8 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
+# Values and principles
+
 We believe that good design helps government better serve the public. 18F UX designers help agencies in providing more effective services by improving the interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
 
