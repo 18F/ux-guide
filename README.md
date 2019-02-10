@@ -5,10 +5,10 @@
 
 ## Under development
 
-This guide is currently under development. You can [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
+This guide is currently under development. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
 
 
-## Table of contents
+#### Table of contents
 
 1. [About](https://github.com/18F/ux-guide/blob/master/_pages/about.md)
 1. Our approach
