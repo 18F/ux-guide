@@ -6,6 +6,8 @@ sidenav: research
 sticky_sidenav: true
 ---
 
+# Research lead (role description)
+
 While being mindful that [18F practices research as a team sport](/research/basics), research leads should:
 
 - **Set the research agenda.** Determine the team’s research needs (for example, [inform its anticipated design decisions](https://medium.com/mule-design/dig-in-the-right-spot-6dc7af5a75e8) or [validate its riskiest assumptions](https://mvpworkshop.co/validate-riskiest-assumption/)), and propose right-sized studies to address them, highlighting cost and trade-offs. Identify allies who will advocate for research. If stakeholders exhibit resistance, identify the sources of that resistance and develop appropriate responses. 
