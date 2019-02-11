@@ -24,7 +24,7 @@ Everyone has a role to play here. The following roles are not mutually exclusive
 - **Observer** — This is the default role for teammates who are new to research. Observers should listen to interviews, observe usability tests, etc. without influencing the research. If it’s a remote test, turn off your microphone to mute the keyboard noises. 
 - **Documenter** — Communicates research findings.
 
-In addition to adopting roles, it can be useful to nominate someone as a **[research lead]({site_url}}/research/lead/):** a person ultimately responsible for planning research, recruiting participants, maintaining quality, etc. 
+In addition to adopting roles, it can be useful to nominate someone as a **[research lead](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md):** a person ultimately responsible for planning research, recruiting participants, maintaining quality, etc. 
 
 
 ## Research types
