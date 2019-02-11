@@ -6,7 +6,7 @@ title: About
 ---
 
 
-# About this guide
+# About
 
 18F user experience (UX) designers join cross-functional teams to collaboratively improve user experiences across government. This guide 
 is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for 18F-led UX design: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
