@@ -28,3 +28,20 @@ This guide is currently under development. You can review [our goals](https://gi
     1. Prototyping
     1. Collaboration
 1. Resources
+
+
+#### Contributors
+
+- Qituwra Anderson
+- Jeremy Canfield
+- Jennifer Damis
+- Matt Dobson
+- Vishal Iyer
+- John Donmoyer
+- Julia Lindpaintner
+- Corey Mahoney
+- Andrew Maier
+- Ben Peterson
+- Jacklynn Pham
+- Laura Poncé
+- Mark Trammell
