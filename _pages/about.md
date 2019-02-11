@@ -26,7 +26,7 @@ We created this guide for reference on an as-needed basis. It’s here when you�
 This guide is structured into into a few sections. Briefly, they include:
 
 - **Our Approach** contains our team values and principles as well as information about doing government-led UX and our use of Lean UX;
-- **Research** contains information about 18F’s approach to design research, including a set of basics for passing along to with partners;
+- **Research** contains information about 18F’s approach to design research, including a set of basics for passing along to partners;
 - **Design** contains information about communicating with design: sketching, prototyping, etc.;
 - **Resources** contains a collection of links to templates, handy presentations, etc.
 
