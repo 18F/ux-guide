@@ -2,18 +2,21 @@
 
 18F user experience (UX) designers join cross-functional teams to collaboratively improve user experiences across government. This guide is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for 18F-led UX design: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
 
+---
 
 ## Under development
 
 This guide is currently under development. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
 
+---
 
-#### Table of contents
+## Table of contents
 
 1. [About](https://github.com/18F/ux-guide/blob/master/_pages/about.md)
 1. Our approach
     1. [Values and principles](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/values-and-principles.md)
-    1. [UX at 18F]()
+    1. [Lean UX](#)
+    1. [UX in government](#)
 1. Research
     1. [Basics](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md)
     1. Planning
@@ -30,7 +33,7 @@ This guide is currently under development. You can review [our goals](https://gi
 1. Resources
 
 
-#### Contributors
+## Contributors
 
 - Qituwra Anderson
 - Jeremy Canfield
