@@ -34,7 +34,7 @@ Background information goes here.
 
 ## Method(s)
 
-> **Instructions:** Choose some [Methods](https://methods.18f.gov)! Ensure the team understands these before the study. 
+> **Instructions:** Choose some [Methods](https://methods.18f.gov)! Only perform the research activities that you believe will best inform the design decisions you anticipate. Ensure the team understands these methods *before* you do the research.
 
 
 ## Research roles
