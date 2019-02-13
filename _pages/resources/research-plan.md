@@ -4,6 +4,9 @@ permalink: /resources/research-plan/
 layout: post
 title: Research plan
 ---
+
+# Research plan
+
 ## Background
 
 > **Instructions:** Summarize important context, research, case studies, literature reviews, etc. that should shape the team’s inquiry. Provide links, if possible.
@@ -23,7 +26,7 @@ Background information goes here.
 
 **Note:** These are not the same as those posed to participants (“interview questions”). 
 
-> **Instructions:** What do you want to learn to make better evidence-based decisions? Good questions are specific, actionable, and practical; they often concern the user’s experience and needs. See [this exercise](https://www.gov.uk/service-manual/user-research/capturing-research-questions) for collaboratively creating research questions. 
+> **Instructions:** What do you want to learn to make better evidence-based decisions? Good questions are specific, actionable, and practical; they often concern the user’s experience and needs. See [this exercise](https://twg-x-uxr.gitbook.io/plays/research-alignment-workshop) for collaboratively creating research questions.
 
 1. Question 1
 2. Question 2
