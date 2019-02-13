@@ -39,7 +39,7 @@ Background information goes here.
 
 ## Research roles
 
-> **Instructions:** Review the [roles](https://docs.google.com/document/d/1pCq73gG7eL1zmk2WbwEefB7RqkQbN_78KyYsgD5_Y9U/edit#) outlined in the 18F UX Guide.
+> **Instructions:** Review the [roles]https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md#research-is-a-team-sport) outlined in the 18F UX Guide.
 
 - Research lead
 - Moderator
@@ -68,7 +68,7 @@ Background information goes here.
 
 ## Ethical and bias considerations 
 
-> **Instructions:** Review the [bias](https://docs.google.com/document/d/13iEP9PthLfJ1RzXqC_TVnvSt11ZysKxLTmGinvFCses/edit#) and [ethics](https://docs.google.com/document/d/1BbFd_eFS5bAyMQUT5Lr-2axSsxzjU09kgjCwnhbwwxk/edit#) information in the 18F UX guide. List any ethical concerns the team should review. Consider especially if this research treats people as [ends or means](https://en.wikipedia.org/wiki/Categorical_imperative), and how it might look if this research were to appear in tomorrow’s news.
+> **Instructions:** Review the [bias](https://github.com/18F/ux-guide/blob/master/_pages/research/bias.md) and [ethics](https://github.com/18F/ux-guide/blob/master/_pages/research/ethics.md) information in the 18F UX guide. List any ethical concerns the team should review. Consider especially if this research treats people as [ends or means](https://en.wikipedia.org/wiki/Categorical_imperative), and how it might look if this research were to appear in tomorrow’s news.
 
 - Consideration 1
 - Consideration 2
