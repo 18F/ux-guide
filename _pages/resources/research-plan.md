@@ -39,7 +39,7 @@ Background information goes here.
 
 ## Research roles
 
-> **Instructions:** Review the [roles]https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md#research-is-a-team-sport) outlined in the 18F UX Guide.
+> **Instructions:** Review the [roles](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md#research-is-a-team-sport) outlined in the 18F UX Guide.
 
 - Research lead
 - Moderator
