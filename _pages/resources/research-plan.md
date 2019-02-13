@@ -39,7 +39,7 @@ Background information goes here.
 
 ## Research roles
 
-> **Instructions:** Review the [roles & responsibilities](https://docs.google.com/document/d/1pCq73gG7eL1zmk2WbwEefB7RqkQbN_78KyYsgD5_Y9U/edit#) in the 18F UX Guide.
+> **Instructions:** Review the [roles](https://docs.google.com/document/d/1pCq73gG7eL1zmk2WbwEefB7RqkQbN_78KyYsgD5_Y9U/edit#) outlined in the 18F UX Guide.
 
 - Research lead
 - Moderator
