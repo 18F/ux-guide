@@ -36,6 +36,7 @@ This guide is currently under development. You can review [our goals](https://gi
 ## Contributors
 
 - Qituwra Anderson
+- Melissa Braxton
 - Jeremy Canfield
 - Jennifer Damis
 - Matt Dobson
