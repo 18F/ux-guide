@@ -44,6 +44,7 @@ This guide is currently under development. You can review [our goals](https://gi
 - Julia Lindpaintner
 - Corey Mahoney
 - Andrew Maier
+- Anne Petersen
 - Ben Peterson
 - Jacklynn Pham
 - Laura Poncé
