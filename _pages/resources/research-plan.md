@@ -47,7 +47,7 @@ Background information goes here.
 
 ## Timeline
 
-> **Intrusctions:** Give a rough-estimate timeline for project leads and partners to help manage expectations around study execution. Remember to give more time than you think you need to analysis and synthesis (a safe estimate is twice as long as you give to data collection).
+> **Intsructions:** Give a rough-estimate timeline for project leads and partners to help manage expectations around study execution. Remember to give more time than you think you need to analysis and synthesis (a safe estimate is twice as long as you give to data collection).
 
 | Syntax      | Description |
 | ----------- | ----------- |
