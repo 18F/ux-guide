@@ -24,7 +24,7 @@ Background information goes here.
 
 ## Research questions 
 
-**Note:** These are not the same as those posed to participants (“interview questions”). 
+**Note:** These are [not the same](https://medium.com/mule-design/research-questions-are-not-interview-questions-7f90602eb533) as those posed to participants (“interview questions”). 
 
 > **Instructions:** What do you want to learn to make better evidence-based decisions? Good questions are specific, actionable, and practical; they often concern the user’s experience and needs. See [this exercise](https://twg-x-uxr.gitbook.io/plays/research-alignment-workshop) for collaboratively creating research questions.
 
