@@ -42,6 +42,7 @@ This guide is currently under development. You can review [our goals](https://gi
 - Matt Dobson
 - Vishal Iyer
 - John Donmoyer
+- Nikki Lee
 - Julia Lindpaintner
 - Corey Mahoney
 - Andrew Maier
@@ -49,4 +50,5 @@ This guide is currently under development. You can review [our goals](https://gi
 - Ben Peterson
 - Jacklynn Pham
 - Laura Poncé
+- Aditi Rao
 - Mark Trammell
