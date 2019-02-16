@@ -15,6 +15,7 @@ This guide is currently under development. You can review [our goals](https://gi
 1. [About](https://github.com/18F/ux-guide/blob/master/_pages/about.md)
 1. Our approach
     1. [Values and principles](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/values-and-principles.md)
+    1. [Describing design](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/describing-design.md)
     1. [Lean UX](#)
     1. [UX in government](#)
 1. Research
