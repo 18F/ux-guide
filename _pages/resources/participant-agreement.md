@@ -8,7 +8,7 @@ permalink: /participant-agreement/
 
 # Example Design Research Participant Agreement 
 
-English version  | ([Spanish version](/participant-agreement-spanish/))
+English version  | [Spanish version](/participant-agreement-spanish/)
 
 ---
 
@@ -25,16 +25,11 @@ This agreement relates to your participation in a study led by `<organization>` 
 
 By signing this document you agree to reading, understanding, and agreeing to it. You expressly release `<organization>` from and against any and all claims that you have or may have for compensation, invasion of privacy, defamation, or any other cause of action arising out of the production, distribution, display, or publication of the results of the study, so long as the conditions of use described above are met.
 
+|                 |
 |-----------------|
 | Printed name    |
-|-----------------|
-|                 |
-|-----------------|
+| x               |
 | Signature       |
-|-----------------|
-|                 |
-|-----------------|
+| x               |
 | Date            |
-|-----------------|
-|                 |
-|-----------------|
+| x               |
