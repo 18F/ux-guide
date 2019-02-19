@@ -82,7 +82,7 @@ permalink: /interview-checklist/
 - [ ] Thank the participant for their time and reiterate the value of their contributions
 - [ ] Ask the participant if there was anything they think we missed or that they would like to add
 - [ ] Ask if it would be okay to contact them again with any follow up questions
-- [ ] Provide any agreed-upon [incentives](/incentives)
+- [ ] Provide any agreed-upon incentives
 - [ ] Turn off the recorder
 - [ ] If possible, ensure the participant that they will receive a copy of what you’ve found during the research (so they know what happened with the input they gave)
 - [ ] If desired, ask them who else you might talk to (fun fact: this is called snowball sampling)
@@ -92,7 +92,7 @@ Once the interview is complete, **spend 15 minutes** completing a post-interview
 
 ### Make sure to
 - [ ] If you’ve recorded the interview: Move any recordings from your Google Drive to the project folder
-- [ ] Engage the team in a post-interview debrief ([example](/interview-debrief)) to discuss surprises and reflect on what you heard
+- [ ] Engage the team in a post-interview debrief ([example](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief.md)) to discuss surprises and reflect on what you heard
 - [ ] Consider updating the interview guide based on this interview
 - [ ] If you promised the participant any follow-up communications, identify who will send them and when
 - [ ] Optional: Update your study contact list
@@ -102,4 +102,4 @@ Once the interview is complete, **spend 15 minutes** completing a post-interview
 Amy Ashida, Julia Lindpaintner, Andrew Maier, Victor Udoewa
 
 ### References
-Interviewing Users by Steve Portigal; Practical Ethnography by Sam Ladner
+_Interviewing Users_ by Steve Portigal; _Practical Ethnography_ by Sam Ladner
