@@ -5,15 +5,9 @@ layout: page
 permalink: /interview-script/
 ---
 
-<style type="text/css" media="print">
-@page {
-  margin: 1in;
-}
-</style>
+# Example Interview Script
 
-# Example User Interview Script
-
-This document is designed as a useful starting point for leading a user interview. It includes example questions grouped along the key moments often found in an interview: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time.  See [this checklist](/interview-checklist/) for running an interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
+This document includes example questions grouped along an interview's key moments: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your user’s time scarce, consider sharing some questions ahead of time. See [this checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) for running an interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
 
 ## Introduction
 
@@ -60,7 +54,7 @@ What’s one thing you wish were more straightforward about `[topic]`?
 
 ## Demo
 
-_Note: If you’re running a usability test, consider this [example usability test script](/usability-script/) instead._
+_Note: If you’re running a usability test, consider this [example usability test script](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-script.md) instead._
 
 Thanks. Now I’m going to ask you to consider how you might respond to the following scenarios using this website. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
 
