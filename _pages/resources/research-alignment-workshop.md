@@ -60,13 +60,13 @@ Open with a brief discussion about the need for collaboration in the development
 
 At this time, you'll ask the group to get out their post-it notes. Team members will each take a turn acting as the reader, while the rest of the group will act as the listeners. 
 
-The reader: Read the question out loud. Then, repeat it so the group can fully absorb the question.   
+**The reader:** Read the question out loud. Then, repeat it so the group can fully absorb the question.   
 
-The listeners: Discuss the question and its merits, Record offshoot questions.
+**The listeners:** Discuss the question and its merits, Record offshoot questions.
 
-The facilitator: If necessary, probe the reader about the intent of their question. Keep in mind that people's questions may not reflect what they actually want to know. They may be leading or completely misdirected - it's your job to understand the spirit behind the question and work with the reader to rephrase their question, if necessary. 
+**The facilitator:** If necessary, probe the reader about the intent of their question. Keep in mind that people's questions may not reflect what they actually want to know. They may be leading or completely misdirected - it's your job to understand the spirit behind the question and work with the reader to rephrase their question, if necessary. 
 
-Example 
+**Example** 
 
 You're developing a mentorship tool to connect youth with with adult mentors in a field of interest. 
 
