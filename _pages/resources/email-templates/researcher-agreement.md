@@ -19,8 +19,8 @@ Thanks,
 
 ---
 
-`[Researcher name]`
-Researcher, `[Organization]`
-`[Researcher email]`
-`[Researcher phone]`
+`[Researcher name]`  
+Researcher, `[Organization]`  
+`[Researcher email]`  
+`[Researcher phone]`  
 PS: If you do not wish to participate in our next research session, please let us know. If you do not wish to be contacted for *any* future research sessions related to this work, please reply to this email requesting to be removed from our contact list.
