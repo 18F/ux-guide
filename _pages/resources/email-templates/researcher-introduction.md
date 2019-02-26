@@ -1,7 +1,7 @@
 ---
 permalink: /resources/email-templates/researcher-introduction
 layout: post
-title: Email template: Researcher introduces themselves to a participant
+title: Email template - Researcher introduces themselves to a participant
 sidenav: research
 sticky_sidenav: true
 ---

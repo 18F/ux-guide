@@ -1,7 +1,7 @@
 ---
 permalink: /research/assist/
 layout: post
-title: Email template: Researcher sends participant agreement to a participant
+title: Email template - Researcher sends participant agreement to a participant
 sidenav: research
 sticky_sidenav: true
 ---
