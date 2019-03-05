@@ -2,11 +2,8 @@
 layout: page
 permalink: /about/
 layout: post
-title: About
+title: About this guide
 ---
-
-
-# About
 
 18F user experience (UX) designers join cross-functional teams to improve interactions between government agencies and the people they serve. This guide is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for UX design at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
 
