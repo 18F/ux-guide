@@ -15,7 +15,6 @@ subnav:
     href: '#the-environment'
   - text: Good practices
     href: '#good-practices'
-
 ---
 
 Design research can feel overwhelming, even to people who’ve done it before! Let’s agree on some basics before we jump in.
