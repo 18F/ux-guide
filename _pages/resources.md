@@ -10,10 +10,10 @@ title: Resources
 Starting points and templates
 
 #### [Research plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) ([GDoc](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#))
-Useful prompts for planning research, especially when partners have access to collaborative word-processing tools. See the [research planning](/research/planning) article.
+Useful prompts for planning research, especially when partners have access to collaborative word-processing tools. See the [research planning]({{ site.baseurl}}/research/planning) article.
 
 #### [Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) ([GDoc](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo))
-Our agreement for anyone participating in moderated design research. Links to our Privacy Act Statement and Privacy Impact Assessment for Design Research.
+Our agreement for anyone participating in moderated design research. Links to our [Privacy Act Notice](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf).
 
 #### [Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-script.md) ([GDoc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))
 An example guide for moderating in-depth interviews with users. 
