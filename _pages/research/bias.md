@@ -6,40 +6,50 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-All research is subject to bias, whether in our choice of who participates,  which data are collected, or how they’re interpreted. The following list is a starting point for bringing awareness to some of the biases that can shape research. Proactively engaging with them will improve the credibility of the research.
+All research is subject to bias, whether in our choice of who participates,  which data are collected, or how they’re interpreted. The following list is our starting point. Proactively engaging with bias helps us improve the credibility of our research.
 
 ### Research design bias
 
-Research design bias occurs when you either don’t acknowledge bias, or you design research to advance existing beliefs or to justify a predetermined course of action.
+**What it is:** When the team doesn’t acknowledge bias or designs their research to advance existing beliefs. For example, if an agency executive believes that they already understand user needs, that executive might discourage the team from speaking directly to users—why learn what the executive already knows?
 
-Counter research design bias by being mindful of the kinds of bias that can affect design research (which you're kind of already doing by reading this document). Identify the research objectives (which should center around [people’s needs](https://playbook.cio.gov/#play1)) and the inherent limitations of the research.
+
+**How to counter:** Be mindful of the kinds of bias that can affect design research (which you're kind of already doing by reading this document). Clearly identify the team’s research objectives (which should center around [people’s needs](https://playbook.cio.gov/#play1)) and the research’s inherent limitations.
+
 
 ### Sampling bias
 
-Sampling bias occurs when some of the people in your target population are less likely to be included in the study. For example, leaning too heavily on [digital-first participant recruiting processes](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/) risks excluding members of the public who don’t choose to interact with their government online.
+**What it is:** When some members of the target population are less likely to be included in the study. For example, if a team leans too heavily on [digital-first participant recruiting processes](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/), it risks excluding members of the public who don’t interact with government online.
 
-To reduce sampling bias, explicitly discuss recruiting strategies while planning research, and be careful of the conclusions that you draw from any one study.  
+**How to counter:** Clarify the target population, which can involve clarifying the difference between stakeholders (usually public servants) and users (usually the public), and look for ways to encourage diversity in the sample. Ask *Who haven’t we talked to yet (for example, people who access this service via screen reader)?* Discuss recruiting strategies, clarify the limitations of [snowball sampling](https://en.wikipedia.org/wiki/Snowball_sampling), and be careful of the conclusions drawn from any one study.  
 
 ### Interviewer bias
 
-Interviewer bias occurs when the interviewer’s own beliefs or assumptions influence their inquiry. This can be especially apparent at the start of an interview; for example, if the interviewer were to express excitement about a particular aspect of the product or service (“the team is really proud of the new search feature!”).
+**What it is:** When the interviewer’s own beliefs or assumptions influence their inquiry. This can be especially apparent at the start of an interview—for example, if the interviewer expresses excitement about a particular aspect of the product or service (“The team is really proud of the new search feature!”).
 
-Counter interviewer bias by practicing interviewing beforehand, and periodically reflect what you’ve heard during the interview back to interviewees (“just to be sure I heard you correctly, it sounds like you’re saying that...”). Conduct [moderated research critiques](https://18f.gsa.gov/2018/10/23/two-exercises-for-improving-design-research-through-reflective-practice/), [post-interview debriefs](https://methods.18f.gov/interview-debrief/), and [reflective journaling](https://docs.google.com/document/d/1abY0EJCE4zlPZYlDHak8khYxl-PcNKJW52JwxAd4k6o/edit).
+**How to counter:** Be mindful of your ability to [prime](https://en.wikipedia.org/wiki/Priming_(psychology)) participants while building rapport, and in asking [close-ended questions](https://en.wikipedia.org/wiki/Closed-ended_question). Practice interviewing beforehand. Periodically reflect what you’ve heard during the interview back to interviewees (“just to be sure I heard you correctly, it sounds like you’re saying…”) and conduct [post-interview debriefs](https://methods.18f.gov/interview-debrief/). See [this blog post](https://www.juliemyoung.com/blog/2016/12/15/user-interviews-bias-and-how-to-reduce-it) for more information.
 
 ### Social desirability bias
 
-Everyone wants to be liked. Some people tend to respond in ways that paint themselves in the best possible light, regardless of whether or not that bears any resemblance to reality. Counter this by emphasizing with research participants the goals and benefits of the research, and build rapport. Also consider changing the research mode altogether. For example, research by [Gibson](http://eprints.ncrm.ac.uk/1303/1/09-toolkit-email-interviews.pdf) has shown that social desirability bias may be less likely in online interviews, without a webcam, compared to face-to-face.
+**What it is:** The tendency for people to respond in ways that paint themselves in the best possible light, regardless of whether or not that bears any resemblance to reality. 
+
+**How to counter:** Build rapport with participants. Emphasize the goals of the research, and how they’re better met with honest feedback. Distance yourself from any proposed design solutions (“these are just a few ideas the team came up with, but you’re the expert here”). Consider changing the research mode. For example, research by [Gibson](http://eprints.ncrm.ac.uk/1303/1/09-toolkit-email-interviews.pdf) has shown that social desirability bias may be less likely in online interviews, without a webcam, compared to face-to-face.
+
 
 ### Confirmation bias
 
-Confirmation bias occurs when you (and your team) *interpret* research in a way that conforms with your own beliefs or values.
+**What it is:** When you (or your team) interprets research in a way that conforms with your own beliefs or values.
 
-Counter confirmation bias by bringing attention to your team's beliefs and values. Conduct a hopes and fears exercise before the research begins. Once the research is underway, invite stakeholders to observe it in action, and share insightful or incisive data (for example, strong opinions on the product or service in question) as they’re captured (for example, in Slack); continued exposure to research can help teams in separating emotional reactions from their rational interpretations. Engage observers in [post-interview debriefs](https://methods.18f.gov/interview-debrief/). After you’ve gathered data, [collaboratively analyze it before synthesizing it](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/). Be careful not to draw inferences until you’ve reached saturation, and note any plausible alternative interpretations.
+**How to counter:** Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercise](https://www.iamnotmypixels.com/design-sprints-hopes-and-fears/) before the research begins. Invite the team to observe research in action, and hold [post-interview debriefs](https://methods.18f.gov/interview-debrief/). Carefully determine the point at which you’ve reached saturation. [Collaboratively analyze data before synthesizing it](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/), and note any plausible alternative interpretations.
 
-### The Hawthorne effect
+### The observer effect (also known as the Hawthorne effect)
 
-Sometimes the people who participate in our research modify their behavior simply because we’re observing. Focus more on what users do than what they say they do, and be careful to not over-interpret what you hear. Consider using unmoderated forms of research, like monitoring forum posts or web analytics. 
+**What it is:** When the people who participate in research modify their behavior simply because they’re being observed. For example, if the office is unusually quiet while an interviewer is on site conducting interviews.
 
-### References
-1. *Just Enough Research* by Erika Hall
-1. *Applied Qualitative Research Design: A Total Quality Framework Approach* by Margaret R. Roller and Paul J. Lavrakas
+**How to counter:** Ask for introductions from key stakeholders, and be mindful of the ability to prime participants while informing their consent. Build rapport. Pay attention to what people say they do as well as what they actually do (ask participants to teach you their process). Use mixed methods, and unmoderated research modes, like monitoring forum posts or web analytics. Be careful to not over-interpret what you see or hear.
+
+## Avoiding bias
+
+We arrived at the preceding list through our own experience, and through close readings of Erika Hall’s *Just Enough Research* and Margaret R. Roller and Paul J. Lavrakas’s *Applied Qualitative Research Design.* Buster Benson’s [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) and [Cognitive Bias Codex](https://cdn-images-1.medium.com/max/2600/1*71TzKnr7bzXU_l_pU6DCNA.jpeg) provide more fulsome lists. 
+In general, you can avoid bias and arrive at better solutions by intentionally including people throughout the design process. Help your team see [research as a team activity](/research/clarify-the-basics/), and understand why it’s better to talk to a few users throughout the design process than none at all (as Erika Hall says, “The most expensive [usability testing] of all is the kind your customers do for you after launch by way of customer service.”). 
+
+Bias is a starting point for improving the team’s research practice—everyone benefits when we share a commitment to asking better questions.
