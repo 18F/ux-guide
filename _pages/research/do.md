@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /research/conducting/
+permalink: /research/do/
 layout: post
-title: Conduct research sessions
+title: Do
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -15,6 +15,8 @@ subnav:
   - text: Talk to the user
     href: '#make-the-user-comfortable'
 ---
+
+# Do
 
 For each session, you’ll need:
 

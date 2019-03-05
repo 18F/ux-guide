@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /research/synthesizing/
+permalink: /research/analyze-synthesize-share/
 layout: post
-title: Synthesizing
+title: Analyze, synthesize, share
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -15,6 +15,8 @@ subnav:
   - text: Make decisions
     href: '#decide-what-product-decisions-to-make-based-on-the-research'
 ---
+
+# Analyze, synthesize, share
 
 ## Debrief after each research session
 

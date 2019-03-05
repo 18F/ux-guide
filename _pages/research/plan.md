@@ -1,7 +1,7 @@
 ---
-permalink: /research/planning/
+permalink: /research/plan/
 layout: post
-title: Plan your research
+title: Plan
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -14,6 +14,8 @@ subnav:
   - text: Prepare materials
     href: '#prepare-materials'
 ---
+
+# Plan
 
 Research planning is crucial for making the most of users’ time. It often takes 1-2 weeks of dedicated time, and can include many conversations about goals, expectations, and logistics.
 
