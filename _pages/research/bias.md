@@ -50,6 +50,7 @@ All research is subject to bias, whether in our choice of who participates,  whi
 ## Avoiding bias
 
 We arrived at the preceding list through our own experience, and through close readings of Erika Hall’s *Just Enough Research* and Margaret R. Roller and Paul J. Lavrakas’s *Applied Qualitative Research Design.* Buster Benson’s [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) and [Cognitive Bias Codex](https://cdn-images-1.medium.com/max/2600/1*71TzKnr7bzXU_l_pU6DCNA.jpeg) provide more fulsome lists. 
+
 In general, you can avoid bias and arrive at better solutions by intentionally including people throughout the design process. Help your team see [research as a team activity](/research/clarify-the-basics/), and understand why it’s better to talk to a few users throughout the design process than none at all (as Erika Hall says, “The most expensive [usability testing] of all is the kind your customers do for you after launch by way of customer service.”). 
 
 Bias is a starting point for improving the team’s research practice—everyone benefits when we share a commitment to asking better questions.
