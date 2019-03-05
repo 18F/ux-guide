@@ -44,7 +44,7 @@ Products and services impose requirements on the organizations that support them
 
 We don’t have all the answers. And that’s okay. We take an iterative, cyclical, [lean](/our-approach/stay-lean) approach. We try things out. We commit to continuous improvement (which the Japanese call *[kaizen](https://en.wikipedia.org/wiki/Kaizen))* using [critiques](http://scottberkun.com/essays/23-how-to-run-a-design-critique/), [usability tests](https://methods.18f.gov/usability-testing), etc.
 
-![An conceptual image depicting iterative design: the phrase 'iterative design' is surrounded by four labels connected by a circle of clockwise-pointing arrows. Starting at the top, the labels read 'concept', 'try it out', 'gather feedback', 'incorporate feedback'](/images/iterative-design.png "Iterative design")
+![An conceptual image depicting iterative design: the phrase 'iterative design' is surrounded by four labels connected by a circle of clockwise-pointing arrows. Starting at the top, the labels read 'concept', 'try it out', 'gather feedback', 'incorporate feedback'](../images/iterative-design.png "Iterative design")
 
 
 
