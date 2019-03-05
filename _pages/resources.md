@@ -23,9 +23,10 @@ A checklist for planning and conducting in-depth interviews.
 An example of a document/worksheet that might be used by a moderator in guiding their team in a post-interview debrief. 
 
 #### [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))
-Information for writing a new Privacy Act Notice (note that 18F’s Design Research is covered by our Privacy Act Notice for Design Research). See the [research privacy]() article.
+Information for writing a new Privacy Act Notice (note that 18F’s Design Research is covered by our Privacy Act Notice for Design Research). See the [research privacy]({{site.baseurl}}/research/privacy) article.
 
 ### Additional reading
+- [GSA’s Privacy Act Notice for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 - [GSA’s Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf)
 - [Gov.uk Service Manual: User Research](https://www.gov.uk/service-manual/user-research)
 

@@ -27,7 +27,7 @@ Stakeholders are anyone with a legitimate interest in what we’re designing. St
 
 ### Done together, design produces shared understanding
 
-We join cross-functional teams to arrive at more well informed, less [biased](/research/bias/) decisions. Moreover, we rely on two kinds of thinking:
+We join cross-functional teams to arrive at more well informed, less [biased]({{site.baseurl}}/research/bias/) decisions. Moreover, we rely on two kinds of thinking:
 - **Divergent thinking** helps us identify the things we might make decisions about, and explore possible choices
 - **Convergent thinking** helps us narrow our choices, and follow through on our decisions
 
