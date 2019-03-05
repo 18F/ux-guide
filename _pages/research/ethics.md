@@ -14,8 +14,6 @@ subnav:
 
 ---
 
-# Ethics
-
 Research affords us with opportunities to both interact with people and explore what’s possible — exciting stuff! The following ethical principles are here to guide us through some of the tougher decisions that this work can bring about. 
 
 **Disclaimer:** These principles are meant to serve in addition to your [basic ethical obligations as public servants](https://www.justice.gov/ncfs/file/761076/download). If you have questions, contact your supervisor, [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program), or [Ethics Legal counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel/ethics-legal-counsel).

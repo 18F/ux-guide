@@ -6,8 +6,6 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-# Bias
-
 All research is subject to bias, whether in our choice of who participates,  which data are collected, or how they’re interpreted. The following list is a starting point for bringing awareness to some of the biases that can shape research. Proactively engaging with them will improve the credibility of the research.
 
 ### Research design bias

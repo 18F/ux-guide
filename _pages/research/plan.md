@@ -15,8 +15,6 @@ subnav:
     href: '#prepare-materials'
 ---
 
-# Plan
-
 Research planning is crucial for making the most of users’ time. It often takes 1-2 weeks of dedicated time, and can include many conversations about goals, expectations, and logistics.
 
 ## Write a research plan

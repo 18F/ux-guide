@@ -16,7 +16,6 @@ subnav:
     href: '#decide-what-product-decisions-to-make-based-on-the-research'
 ---
 
-# Analyze, synthesize, share
 
 ## Debrief after each research session
 

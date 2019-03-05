@@ -6,8 +6,6 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-# Legal
-
 18F designs our research to account for the Antideficiency Act and the Paperwork Reduction Act of 1995 (PRA), among other laws. This page summarizes what we’ve learned through ongoing conversations with our Privacy Office and Office of General Counsel.
 
 **Disclaimer:** This page is intended for internal use. It is shared (in the spirit of open source) to prompt conversations around design research as it relates to the law. GSA has no regulatory authority over any of the laws discussed in this section. Don’t take our word for it.

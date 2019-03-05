@@ -7,8 +7,6 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
-# Defining design
-
 We see design as a process of intentionally deciding, over and over, how interactions should work for users based on research. But this is just a starting point. The following concepts help clarify what we mean.
 
 

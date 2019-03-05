@@ -16,8 +16,6 @@ subnav:
     href: '#make-the-user-comfortable'
 ---
 
-# Do
-
 For each session, you’ll need:
 
 - Interviewer

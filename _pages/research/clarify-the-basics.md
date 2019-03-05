@@ -6,8 +6,6 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-# Clarify the basics
-
 Design research can feel overwhelming, even to people who’ve done it before! Let’s agree on some basics before we jump in.
 
 ## Research is a team activity
