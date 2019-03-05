@@ -7,8 +7,6 @@ title: Resources
 
 ## Research  
 
-Starting points and templates
-
 #### [Research plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) ([GDoc](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#))
 Useful prompts for planning research, especially when partners have access to collaborative word-processing tools. See the [research planning]({{ site.baseurl}}/research/planning) article.
 
