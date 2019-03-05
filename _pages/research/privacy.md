@@ -4,6 +4,13 @@ layout: post
 title: Privacy
 sidenav: research
 sticky_sidenav: true
+subnav:
+  - text: Guidelines
+    href: '#guidelines'
+  - text: Refrences
+    href: '#references'
+  - text: Additional reading
+    href: '#additional-reading'
 ---
 
 18F’s research practices are grounded in building and maintaining trust; people who trust us (for example, to keep their information confidential) are more likely to share comprehensive and accurate accounts of their experience.
