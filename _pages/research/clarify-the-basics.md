@@ -22,9 +22,9 @@ The following list outlines research-related activities that will be shared acro
 - **Interviewing/moderating** — Facilitating the interview or activity. This person should be able to give their full attention to the participant(s) and should not be responsible for capturing responses.
 - **Note-taking/recording** — Documents what happens during the research (e.g., during a usability test).
 - **Observing** — This is the default role for teammates who are new to research. Observers should listen to interviews, observe usability tests, etc. without influencing the research. If it’s a remote test, turn off your microphone to mute the keyboard noises. 
-- **Documenter** — Communicates research findings.
-
-In addition to adopting roles, it can be useful to nominate someone as a **[research lead](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md):** a person ultimately responsible for planning research, recruiting participants, maintaining quality, etc. 
+- **Debriefing** — CommunDebriefing — Coming to shared understanding as a team for the individual session. This is usually done immediately after the research activity.
+- **Synthesis** — Finding patterns and themes across all research activities. 
+- **Reporting** — Capturing and communicating findings from the research to partners and stakeholders.
 
 
 ## Research types
