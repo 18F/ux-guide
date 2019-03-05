@@ -6,24 +6,26 @@ primary:
     href: /research/
   - text: Design
     href: /design/
-  - text: Resources
-    href: /resources/
 
 our-approach:
   - text: Values and principles
     href: /our-approach/values-and-principles/
-  - text: Lean UX
-    href: /our-approach/lean-ux/
+  - text: Defining design
+    href: /our-approach/defining-design/
+  - text: Stay lean
+    href: /our-approach/stay-lean/
+  - text: Talor the approach
+    href: /our-approach/tailor-the-approach/
 
 research:
-  - text: Basics
-    href: /research/basics/
-  - text: Planning
-    href: /research/planning/
-  - text: Conducting & synthesizing aka “Doing”
-    href: /research/conducting/
-  - text: Sharing/socializing
-    href: /research/synthesizing/
+  - text: Clarify the basics
+    href: /research/clarify-the-basics/
+  - text: Plan
+    href: /research/plan/
+  - text: Do
+    href: /research/do/
+  - text: Analyze, synthesize, share
+    href: /research/analyze-synthesize-share/
   - text: Legal
     href: /research/legal/
   - text: Privacy
@@ -32,17 +34,8 @@ research:
     href: /research/bias/
   - text: Ethics
     href: /research/ethics/
-design:
-  - text: Research in government
-    href: /research/in-government/
-  - text: Planning
-    href: /research/planning/
-  - text: Conducting
-    href: /research/conducting/
-  - text: Synthesizing
-    href: /research/synthesizing/
 
-resources:
+design:
   - text: Research in government
     href: /research/in-government/
   - text: Planning
