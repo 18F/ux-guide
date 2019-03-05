@@ -20,12 +20,12 @@ This guide therefore doesn’t dwell on overarching theories of UX, like [the El
 
 ## How to use this guide
 
-We created this guide for reference on an as-needed basis. It’s here when you want a refresher on [ways to protect research participant privacy](/research/privacy/), or you when you need quick access to [UX-related templates, presentations, etc.](/resources/) You’re welcome to read it start to finish, of course.
+We created this guide for reference on an as-needed basis. It’s here when you want a refresher on [ways to protect research participant privacy]({{ site.baseurl}}/research/privacy/), or you when you need quick access to [UX-related templates, presentations, etc.]({{ site.baseurl}}/resources/) You’re welcome to read it start to finish, of course.
 
 This guide is divided into three sections:
 
-- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles](/our-approach/values-and-principles); working [definitions of design](/our-approach/defining-design); and our commitment to a pragmatic, [lean approach](/our-approach/lean/). It also describes how we [tailor our approach](/our-approach/tailor-the-approach/) to the people we work with. 
-- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes a set of [basics](/research/basics/) (working definitions) as well as information about [planning](/research/plan/), [doing](/research/do), and [analyzing, synthesizing, and sharing](/research/analyze-synthesize-share) research.
+- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles](/{{ site.baseurl}}our-approach/values-and-principles); working [definitions of design]({{ site.baseurl}}/our-approach/defining-design); and our commitment to a pragmatic, [lean approach](/our-approach/lean/). It also describes how we [tailor our approach]({{ site.baseurl}}/our-approach/tailor-the-approach/) to the people we work with. 
+- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes a set of [basics]({{ site.baseurl}}/research/basics/) (working definitions) as well as information about [planning](/research/plan/), [doing]({{ site.baseurl}}/research/do), and [analyzing, synthesizing, and sharing]({{ site.baseurl}}/research/analyze-synthesize-share) research.
 - **Design** describes how we communicate ideas throughout the design process. It contains articles on prototyping and sketching.
 
 

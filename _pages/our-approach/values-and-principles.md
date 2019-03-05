@@ -7,9 +7,6 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
-# Values and principles
-
-
 We believe that good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
 Our approach is fundamentally collaborative. This document exists to help our cross-functional teams and our agency partners better collaborate through a shared understanding of the values and principles that guide 18F UX designers.
