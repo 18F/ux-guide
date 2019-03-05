@@ -4,6 +4,18 @@ layout: post
 title: Clarify the basics
 sidenav: research
 sticky_sidenav: true
+subnav:
+  - text: Research is a team activity
+    href: '#research-is-a-team-activity'
+  - text: Research types
+    href: '#research-types'
+  - text: The process
+    href: '#the-process'
+  - text: The environment
+    href: '#the-environment'
+  - text: Good practices
+    href: '#good-practices'
+
 ---
 
 Design research can feel overwhelming, even to people who’ve done it before! Let’s agree on some basics before we jump in.
@@ -44,9 +56,9 @@ Evaluative research tests assumptions, hypotheses, and the efficacy of design so
 ## The process
 
 Learning is rarely linear, but 18F’s research tends to follow an ordered progression. The following steps are repeated as necessary throughout each 18F engagement:
-1. Plan. Agree on the questions you want answered, the methods you’ll employ, who’s playing what roles, etc. Prepare interview guides, practice, schedule time, and decide how you’ll recruit and collect informed consent
-1. Do. Get the whole team involved, and debrief after each session.
-1. Analyze, synthesize, and share. Take stock of the data you’ve collected, look for patterns, write a summary of what you’ve learned, share it broadly, and delete recordings afterward
+1. **[Plan.]()** Agree on the questions you want answered, the methods you’ll employ, who’s playing what roles, etc. Prepare interview guides, practice, schedule time, and decide how you’ll recruit and collect informed consent
+1. **[Do.]()** Get the whole team involved, and debrief after each session.
+1. **[Analyze, synthesize, and share.]()** Take stock of the data you’ve collected, look for patterns, write a summary of what you’ve learned, share it broadly, and delete recordings afterward
 
 ## The environment
 
