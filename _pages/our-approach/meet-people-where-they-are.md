@@ -21,7 +21,7 @@ We fundamentally meet people where they’re at by viewing them as co-creators o
 
 ## Ability to participate
 
-Partner participation is essential to our [team principle]({{site.baseurl}/our-approach/values-and-principles}) of training design advocates. But just because an agency enters into an agreement with 18F doesn’t mean that their staff is willing and able to participate throughout our engagement. 
+Partner participation is essential to our [team principle]({{site.baseurl}}/our-approach/values-and-principles}) of training design advocates. But just because an agency enters into an agreement with 18F doesn’t mean that their staff is willing and able to participate throughout our engagement. 
 
 At a high level, we encourage participation by:
 - Building trust (for example, with [stakeholder interviews](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/))
@@ -32,7 +32,7 @@ At a high level, we encourage participation by:
 - Using plain language, and sharing understanding whenever possible
 
 
-It’s also safe to assume that people are: 
+We assume that people are: 
 - Well-intentioned
 - Creative
 - Competent

@@ -1,11 +1,31 @@
 ---
-layout: page
+layout: home
 ---
 
-18F user experience (UX) designers join cross-functional teams to improve interactions between government agencies and the people they serve. This guide is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for UX design at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality. Read more [about this guide]({{site.baseurl}}/about/)
+## Introduction
 
-This guide is divided into three sections:
+- [About this guide]({{site.baseurl}}/about/)
+- [License]()
+- [Resources]()
 
-- **Our Approach** describes essential aspects that shape our design practice: our [values and principles]({{ site.baseurl}}/our-approach/values-and-principles); working [definitions of design]({{ site.baseurl}}/our-approach/defining-design); and our commitment to a pragmatic, [lean approach]({{ site.baseurl}}/our-approach/lean/). It also describes how we [meet people where they are]({{ site.baseurl}}/our-approach/meet-people-where-they-are/). 
-- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes a set of [basics]({{ site.baseurl}}/research/basics/) (working definitions) as well as information about [planning](/research/plan/), [doing]({{ site.baseurl}}/research/do), and [analyzing, synthesizing, and sharing]({{ site.baseurl}}/research/analyze-synthesize-share) research.
-- **Design** describes how we communicate ideas throughout the design process. It contains articles on prototyping and sketching.
+## Our Approach
+
+- [Values and principles]({{site.baseurl}}/our-approach/values-and-principles)
+- [Defining design]({{site.baseurl}}/our-approach/defining-design) 
+- [Lean UX]({{site.baseurl}}/our-approach/lean/)
+- [Meet people where they are]({{site.baseurl}}/our-approach/meet-people-where-they-are/)
+
+## Research
+
+- [Clarify the basics]({{site.baseurl}}/research/basics/) 
+- [Plan]({{site.baseurl}}/research/plan/)
+- [Do]({{ site.baseurl}}/research/do)
+- [Analyze, synthesize, and share]({{ site.baseurl}}/research/analyze-synthesize-share)
+- [Legal]({{site.baseurl}}/research/legal/) 
+- [Privacy]({{site.baseurl}}/research/privacy/)
+- [Bias]({{ site.baseurl}}/research/bias)
+- [Ethics]({{ site.baseurl}}/research/ethics)
+
+## Design
+
+Describes how we communicate ideas throughout the design process. It contains articles on prototyping and sketching.
