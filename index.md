@@ -6,7 +6,7 @@ layout: home
 
 - [About this guide]({{site.baseurl}}/about/)
 - [License]()
-- [Resources]()
+- [Resources]({{site.baseurl}}/resources/)
 
 ## Our Approach
 
