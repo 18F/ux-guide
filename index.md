@@ -6,6 +6,6 @@ layout: page
 
 This guide is divided into three sections:
 
-- **Our Approach** describes essential aspects that shape our design practice: our [values and principles]({{ site.baseurl}}/our-approach/values-and-principles); working [definitions of design]({{ site.baseurl}}/our-approach/defining-design); and our commitment to a pragmatic, [lean approach]({{ site.baseurl}}/our-approach/lean/). It also describes how we [tailor our approach]({{ site.baseurl}}/our-approach/tailor-the-approach/) to the people we work with. 
+- **Our Approach** describes essential aspects that shape our design practice: our [values and principles]({{ site.baseurl}}/our-approach/values-and-principles); working [definitions of design]({{ site.baseurl}}/our-approach/defining-design); and our commitment to a pragmatic, [lean approach]({{ site.baseurl}}/our-approach/lean/). It also describes how we [meet people where they are]({{ site.baseurl}}/our-approach/meet-people-where-they-are/). 
 - **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes a set of [basics]({{ site.baseurl}}/research/basics/) (working definitions) as well as information about [planning](/research/plan/), [doing]({{ site.baseurl}}/research/do), and [analyzing, synthesizing, and sharing]({{ site.baseurl}}/research/analyze-synthesize-share) research.
 - **Design** describes how we communicate ideas throughout the design process. It contains articles on prototyping and sketching.
