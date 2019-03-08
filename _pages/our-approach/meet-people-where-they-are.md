@@ -32,10 +32,13 @@ At a high level, we encourage participation by:
 - Using plain language, and sharing understanding whenever possible
 
 
-It’s also safe to assume: 
-- Everyone cares about the mission
-- People are well-intentioned, creative, and competent
-- People are accountable, responsible, and fallible
+It’s also safe to assume that people are: 
+- Well-intentioned
+- Creative
+- Competent
+- Accountable
+- Responsible
+- Fallible
 
 A partner’s ability to participate will inevitably affect our day-to-day work. We are honest and transparent whenever we feel that our partners are not participating as much as we need them to be.
 
