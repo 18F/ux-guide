@@ -99,7 +99,7 @@ While we’re big proponents of lean, political realities might require that we 
 - Are any individuals being held accountable for **outputs** (for example, procuring a new HR system) instead of **outcomes** (for example, making it easier for people to request sick leave)—and how might we shift that accountability metric?
 
 ## Policy
-Government-led design is complex. In some cases, we find that some of decisions we thought were ours to make have already been made for us. In other cases, policy materially shapes the design process. For example, while building the new FEC.gov 18F conducted usability testing to see how our proposed design changes might affect the site’s usability. If the team wanted to change the forms by which campaigns send information to the FEC, however, the team might be legally required to solicit public feedback over a multi-month period.
+Government-led design is complex. In some cases, we find that policy dictates decisions we otherwise thought were ours to make. In other cases, policy shapes important aspects of the design process. For example, while building [the new FEC.gov](https://18f.gsa.gov/2017/05/30/the-new-fec/) we conducted usability testing to see how our proposed design changes might affect the site’s usability. If our team wanted to change the language on the FEC’s forms, however, we might be legally required to solicit public feedback over a multi-month period.
 
 As we go about this work, we need to ask:
 

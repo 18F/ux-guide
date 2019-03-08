@@ -17,7 +17,7 @@ layout: home
 
 ## Research
 
-- [Clarify the basics]({{site.baseurl}}/research/basics/) 
+- [Clarify the basics]({{site.baseurl}}/research/clarify-the-basics/) 
 - [Plan]({{site.baseurl}}/research/plan/)
 - [Do]({{ site.baseurl}}/research/do)
 - [Analyze, synthesize, and share]({{ site.baseurl}}/research/analyze-synthesize-share)
