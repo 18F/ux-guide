@@ -2,6 +2,32 @@
 layout: home
 ---
 
+<style type="text/css">
+  .for-discussion {
+    list-style-type: none;
+  }
+
+  .for-discussion::before {
+    content: "To discuss:"
+  }
+
+  .for-discussion li{
+    display: inline;
+  }
+
+  .for-discussion li::after{
+    content: ",";
+  }
+
+  .for-discussion li:last-of-type::after{
+    content: "";
+  }
+
+  .for-discussion a{
+    color: #555;
+  }
+</style>
+
 ## Introduction
 
 - [About this guide]({{site.baseurl}}/about/)
@@ -17,14 +43,18 @@ layout: home
 
 ## Research
 
-- [Clarify the basics]({{site.baseurl}}/research/clarify-the-basics/) 
-- [Plan]({{site.baseurl}}/research/plan/)
-- [Do]({{ site.baseurl}}/research/do)
-- [Analyze, synthesize, and share]({{ site.baseurl}}/research/analyze-synthesize-share)
-- [Legal]({{site.baseurl}}/research/legal/) 
-- [Privacy]({{site.baseurl}}/research/privacy/)
-- [Bias]({{ site.baseurl}}/research/bias)
-- [Ethics]({{ site.baseurl}}/research/ethics)
+<ul>
+  <li><a href="{{site.baseurl}}/research/clarify-the-basics/">Clarify the basics</a></li>
+  <li><a href="{{site.baseurl}}/research/plan/">Plan</a></li>
+  <li><a href="{{site.baseurl}}/research/do">Do</a></li>
+  <li><a href="{{site.baseurl}}/research/analyze-synthesize-share">Analyze, synthesize, and share</a></li>
+</ul>
+<ul class="for-discussion">
+  <li><a href="{{site.baseurl}}/research/legal/">Legal</a></li>
+  <li><a href="{{site.baseurl}}/research/privacy/">Privacy</a></li>
+  <li><a href="{{site.baseurl}}/research/bias">Bias</a></li>
+  <li><a href="{{site.baseurl}}/research/ethics">Ethics</a></li>
+</ul>
 
 ## Design
 
