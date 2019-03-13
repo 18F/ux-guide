@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /our-approach/stay-lean/
+# permalink: /our-approach/stay-lean/
 layout: post
 title: Stay lean
 sidenav: our-approach

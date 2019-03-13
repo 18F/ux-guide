@@ -1,5 +1,5 @@
 ---
-permalink: /research/privacy/
+# permalink: /research/privacy/
 layout: post
 title: Privacy
 sidenav: research

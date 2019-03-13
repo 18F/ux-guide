@@ -1,5 +1,5 @@
 ---
-permalink: /research/bias/
+# permalink: /research/bias/
 layout: post
 title: Bias
 sidenav: research

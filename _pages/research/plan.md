@@ -1,5 +1,5 @@
 ---
-permalink: /research/plan/
+# permalink: /research/plan/
 layout: post
 title: Plan
 sidenav: research

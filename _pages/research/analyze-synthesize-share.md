@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/analyze-synthesize-share/
+# permalink: /research/analyze-synthesize-share/
 layout: post
 title: Analyze, synthesize, share
 sidenav: research

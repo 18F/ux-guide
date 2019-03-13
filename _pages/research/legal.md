@@ -1,5 +1,5 @@
 ---
-permalink: /research/legal/
+# permalink: /research/legal/
 layout: post
 title: Legal
 sidenav: research

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resources/
+# permalink: /resources/
 layout: post
 title: Resources
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /our-approach/
+# permalink: /our-approach/
 layout: post
 title: Our approach
 sidenav: our-approach

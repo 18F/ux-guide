@@ -1,5 +1,5 @@
 ---
-permalink: /research/clarify-the-basics/
+# permalink: /research/clarify-the-basics/
 layout: post
 title: Clarify the basics
 sidenav: research

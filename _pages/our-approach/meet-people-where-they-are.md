@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /our-approach/meet-people-where-they-are/
+# permalink: /our-approach/meet-people-where-they-are/
 layout: post
 title: Meet people where they are
 sidenav: our-approach

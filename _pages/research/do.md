@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/do/
+# permalink: /research/do/
 layout: post
 title: Do
 sidenav: research

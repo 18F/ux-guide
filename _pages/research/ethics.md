@@ -1,5 +1,5 @@
 ---
-permalink: /research/ethics/
+# permalink: /research/ethics/
 layout: post
 title: Ethics
 sidenav: research
