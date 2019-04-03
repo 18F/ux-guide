@@ -1,11 +1,11 @@
 ---
-title: Example User Interview Script
+title: Interview guide [template]
 description: An example script for use while leading a user interview
 layout: page
 permalink: /interview-script/
 ---
 
-# In-depth interview guide [template]
+# Interview guide [template]
 
 This document includes example questions grouped along key moments often found in our in-depth interviews: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your participant’s time scarce, consider sharing some questions ahead of time. See [this checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) for running an in-depth interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
 
