@@ -9,8 +9,8 @@ Our process for changing the guide is as follows:
 
 You'll file an issue or submit a pull request asking for a change. (Be sure to let us know why you made the request!). Members of the UX Guide team will discuss the proposed change and comment on your issue. We'll either add the issue to our backlog so that we can prioritize the work required to implement your change or leave you a note explaining why we chose not to.
 
-- **Filing an issue.** Please glance through the [existing issues](https://github.com/18f/ux-guide/issues) to see if someone has already raised your issue before filing a new issue using [our feature request or content change template](https://github.com/18F/ux-guide/issues/new?assignees=&labels=&template=feature-request-or-content-change.md&title=).
-- **Submitting a pull request.** Please glance through [our existing pull requests](https://github.com/18f/ux-guide/pulls) to see if we're already working on a similar idea before submitting a new pull request.
+- **Filing an issue.** See something amiss? Please glance through the [existing issues](https://github.com/18f/ux-guide/issues) to see if someone has already raised your issue before filing a new issue using [our feature request or content change template](https://github.com/18F/ux-guide/issues/new?assignees=&labels=&template=feature-request-or-content-change.md&title=).
+- **Submitting a pull request.** Got a better solution in mind? Please glance through [our existing pull requests](https://github.com/18f/ux-guide/pulls) to see if we're already working on a similar idea before submitting a new pull request.
 
 
 ## Code of conduct
