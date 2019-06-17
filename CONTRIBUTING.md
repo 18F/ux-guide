@@ -13,6 +13,23 @@ You'll file an issue or submit a pull request asking for a change. (Be sure to l
 - **Submitting a pull request.** Got a better solution in mind? Please glance through [our existing pull requests](https://github.com/18f/ux-guide/pulls) to see if we're already working on a similar idea before submitting a new pull request.
 
 
+## Review process for issues and pull requests
+
+All issues and pull requests will be reviewed with the [guide goals](https://github.com/18F/ux-guide/wiki/Goals) in mind.
+
+- Read the description of the pull request or issue. Seek to understand the author's perspective.
+- Copy edits: correct and merge
+- Broken links: correct and merge
+- Plain-language: review against [18F content guide](https://content-guide.18f.gov/), update and merge
+- New content: review against the below criteria
+     - Does it contradict any existing 18F research guidelines?
+     - Does it fill a gap in the current guide? (use the framework, `By reading [new] section of the UX guide, 18F staff will be able to`)
+     - Will it be useful/appropriate for our audiences? If in doubt, refer to the [guide goals](https://github.com/18F/ux-guide/wiki/Goals)  
+     - Draft or edit new content as needed
+     - New content needs to be approved by both PMs
+     - Provide comments on the pull request on GitHub, as necessary. If relevant, offer alternative implementations.
+
+
 ## Code of conduct
 To ensure a welcoming environment for our projects, our staff follows the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md). Contributors should do the same.
 
