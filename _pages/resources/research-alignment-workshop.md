@@ -68,7 +68,7 @@ At this time, you'll ask the group to get out their post-it notes. Team members 
 
 **Example** 
 
-You're developing a mentorship tool to connect youth with with adult mentors in a field of interest. 
+You're developing a mentorship tool to connect youth with adult mentors in a field of interest. 
 
 > *Reader:* My question to our young users is, "How often do you meet with adults 1:1, in person?"
 > 
