@@ -1,7 +1,7 @@
 ---
 # permalink: /research/privacy/
 layout: post
-title: Privacy
+title: Privacy (coming soon)
 sidenav: research
 sticky_sidenav: true
 subnav:
