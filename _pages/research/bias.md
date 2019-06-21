@@ -1,7 +1,7 @@
 ---
 # permalink: /research/bias/
 layout: post
-title: Bias
+title: Bias (coming soon)
 sidenav: research
 sticky_sidenav: true
 ---
