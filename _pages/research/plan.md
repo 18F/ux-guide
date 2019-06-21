@@ -1,7 +1,7 @@
 ---
 # permalink: /research/plan/
 layout: post
-title: Plan
+title: Plan (coming soon)
 sidenav: research
 sticky_sidenav: true
 subnav:
