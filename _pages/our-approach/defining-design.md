@@ -2,7 +2,7 @@
 layout: page
 # permalink: /our-approach/defining-design/
 layout: post
-title: Defining design
+title: Defining design (coming soon)
 sidenav: our-approach
 sticky_sidenav: false
 ---
