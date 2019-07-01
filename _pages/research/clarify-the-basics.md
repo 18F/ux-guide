@@ -1,7 +1,7 @@
 ---
 # permalink: /research/clarify-the-basics/
 layout: post
-title: Clarify the basics
+title: Clarify the basics (coming soon)
 sidenav: research
 sticky_sidenav: true
 subnav:
