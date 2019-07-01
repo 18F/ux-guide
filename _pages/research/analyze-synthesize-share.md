@@ -2,7 +2,7 @@
 layout: page
 # permalink: /research/analyze-synthesize-share/
 layout: post
-title: Analyze, synthesize, share
+title: Analyze, synthesize, share (coming soon)
 sidenav: research
 sticky_sidenav: true
 subnav:
