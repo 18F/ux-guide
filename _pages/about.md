@@ -21,13 +21,13 @@ This guide includes information that may be new to the designers we hire (who ma
 
 ## How to use this guide
 
-We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{ site.baseurl}}/research/privacy/), or for quick access to [UX-related templates, presentations, etc.]({{ site.baseurl}}/resources/) You’re also welcome to read it from start to finish, of course.
+We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{site.baseurl}}/research/privacy/), or for quick access to [UX-related templates, presentations, etc.]({{site.baseurl}}/resources/) You’re also welcome to read it from start to finish, of course.
 
 This guide is divided into three sections:
 
-- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{ site.baseurl}}/our-approach/values-and-principles); our [definitions of design]({{ site.baseurl}}/our-approach/defining-design); and our commitment to [staying lean]({{ site.baseurl}}/our-approach/lean/). It also describes how we [meet partners where they're at]({{site.baseurl}}/our-approach/meet-people-where-they-are/). 
-- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{ site.baseurl}}/research/basics/) (working definitions) and how we [plan](/research/plan/), [do]({{ site.baseurl}}/research/do), and [analyze, synthesize, and share]({{ site.baseurl}}/research/analyze-synthesize-share) research.
-- **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]({{ site.baseurl}}/research/basics/) and [use design systems]().
+- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles); our [definitions of design]({{site.baseurl}}/our-approach/defining-design); and our commitment to [staying lean]({{site.baseurl}}/our-approach/lean/). It also describes how we [meet partners where they're at]({{site.baseurl}}/our-approach/meet-people-where-they-are/). 
+- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{site.baseurl}}/research/basics/) (working definitions) and how we [plan](/research/plan/), [do]({{site.baseurl}}/research/do), and [analyze, synthesize, and share]({{site.baseurl}}/research/analyze-synthesize-share) research.
+- **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]({{site.baseurl}}/research/basics/) and [use design systems]().
 
 
 If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
