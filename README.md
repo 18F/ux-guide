@@ -6,7 +6,7 @@
 
 #### Under development
 
-This guide is currently under development. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), or get a general overview below.
+This guide is currently under development. It is a living guide that will continue to be added to and updated over time. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-proxy.app.cloud.gov/site/18f/ux-guide/), [contirbute](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) or get a general overview below.
 
 ---
 
@@ -17,7 +17,7 @@ This guide is currently under development. You can review [our goals](https://gi
     1. [Values and principles](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/values-and-principles.md)
     1. [Defining design](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/defining-design.md)
     1. [Stay lean](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/stay-lean.md)
-    1. [Tailor the approach](https://github.com/18F/ux-guide/blob/master/_pages/tailor-the-approach.md)
+    1. [Meet partners where they are](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/meet-people-where-they-are.md)
 1. Research
     1. [Clarify the basics](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md)
     1. [Plan](https://github.com/18F/ux-guide/blob/master/_pages/research/plan.md)
@@ -34,6 +34,8 @@ This guide is currently under development. You can review [our goals](https://gi
 
 
 ## Contributors
+
+This guide was collaboratively authored by members of 18F’s UX team past and present. While the initial content was pulled together over a few months, the guide builds on institutional knowledge from across 18F over the years. Here are the members of the UX guide working group: 
 
 - Qituwra Anderson
 - Melissa Braxton
@@ -52,3 +54,4 @@ This guide is currently under development. You can review [our goals](https://gi
 - Laura Poncé
 - Aditi Rao
 - Mark Trammell
+

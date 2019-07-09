@@ -30,6 +30,7 @@ This guide is divided into three sections:
 - **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]() and [use design systems]().
 
 
+
 If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
