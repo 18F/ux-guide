@@ -7,40 +7,40 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
-We see design as a process of intentionally deciding, over and over, how interactions should work for users based on research. But this is just a starting point. The following concepts help clarify what we mean.
+We see design as a process of intentionally deciding, over and over, how interactions should work for users, based on research. 
 
 
-### Design is an intentional series of decisions
+### Design is a series of intentional decisions
 
-Every project is shaped by a series of decisions, whether those decisions are about meeting agendas, research plans, or what constitutes a minimum-viable product or service. Design is also meta: we can design the process by which decisions are made.
-
-
-### Design happens in context
-
-What’s appropriate? It depends. We use design research to better understand the problems we might solve, and [the systems those problems connect to](https://quotesondesign.com/eliel-saarinen/). We actively validate the appropriateness of our solutions.
+Every project is shaped by a series of decisions, whether those decisions are about meeting agendas, research plans, or what constitutes a minimum-viable product. Taking a design approach means identifying opportunities for decision-making, and being intentional about making decisions. 
 
 
-### User-centered design is for actual humans
+### Design depends on context
 
-Stakeholders are anyone with a legitimate interest in what we’re designing. Stakeholders include our agency partners and the people they serve—that is, their users. While all design processes must balance stakeholder needs, our process is user-centered: in addition to regularly talking with our agency partners, we proactively engage with users to understand their needs (How well do things work for them now?) and determine how well our decisions have met those needs.
+What’s appropriate? It depends. We use [design research](https://docs.google.com/document/d/1qMWXCRsKXp6lKLyNED5wkctCHqyNfH7azk4_t_hBcKE/edit#heading=h.81k6z1cdkw6x) to better understand the problems we might solve, and the systems those problems connect to. We actively validate the success of our solutions through design research.
 
 
-### Done together, design produces shared understanding
+### User-centered design is for people
 
-We join cross-functional teams to arrive at more well informed, less [biased]({{site.baseurl}}/research/bias/) decisions. Moreover, we rely on two kinds of thinking:
-- **Divergent thinking** helps us identify the things we might make decisions about, and explore possible choices
+We proactively engage with users to understand their needs and determine how well our decisions have met those needs. Since some of our work involves creating solutions that are used by government employees, our users are not always members of the public.
+
+Stakeholders are anyone with a legitimate interest in what we’re designing. Stakeholders include our agency partners and the people they serve—that is, their users. We regularly talk with our agency partners, and while all design processes must take stakeholder needs into consideration, our process ultimately puts users, rather than stakeholders, at the center—that is, as our primary concern. 
+
+When design is practiced together, it creates shared understanding. We bring together cross-functional teams to arrive at more well-informed, less [biased]({{site.baseurl}}/research/bias/) decisions. Moreover, we rely on two kinds of thinking:
+- **Divergent thinking** helps us to identify opportunities for decision making, and to explore possible choices
 - **Convergent thinking** helps us narrow our choices, and follow through on our decisions
 
-Intentionally transitioning between divergence and convergence helps us create shared understanding—not just explicit knowledge (like a list of all possible choices), but [tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge) (like an intuition about which choices are feasible).
+Intentionally transitioning between divergence and convergence helps make the decision-making process visible and participatory for team members. 
 
-### Design shapes organizations, and vice versa
 
-Products and services impose requirements on the organizations that support them, and vice versa. We can’t prudently design an agency’s homepage to include images on every news post, for example, if we haven’t yet determined if that agency can feasibly source images for each of its news posts.
+### Design shapes organizations, and vice-versa
+
+Products and services impose requirements on the organizations that support them, and vice-versa. We shouldn't design an agency’s homepage to include images on every news post, for example,  if we haven’t yet made certain that agency can reasonably source images for each of its news posts. To best support the endeavor as a whole, we want to proactively acknowledge when our design recommendations will require organizational shifts or new resources.
 
 
 ### Design is never done
 
-We don’t have all the answers. And that’s okay. We take an iterative, cyclical, [lean]({{site.baseurl}}/our-approach/stay-lean) approach. We try things out. We commit to continuous improvement (which the Japanese call *[kaizen](https://en.wikipedia.org/wiki/Kaizen))* using [critiques](http://scottberkun.com/essays/23-how-to-run-a-design-critique/), [usability tests](https://methods.18f.gov/usability-testing), etc.
+We don’t have all the answers. And that’s okay. We take an iterative, cyclical, [lean]({{site.baseurl}}/our-approach/stay-lean) approach. We try things out. We commit to continuous improvement using critiques, [wireframes](https://methods.18f.gov/make/wireframing/), [protoypes](https://methods.18f.gov/make/prototyping/), [usability tests](https://methods.18f.gov/usability-testing), etc.
 
 ![An conceptual image depicting iterative design: the phrase 'iterative design' is surrounded by four labels connected by a circle of clockwise-pointing arrows. Starting at the top, the labels read 'concept', 'try it out', 'gather feedback', 'incorporate feedback']({{site.baseurl}}/images/iterative-design.png "Iterative design")
 
