@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: b95c0b9bc46d6e0cfbbfaa5e3971ea11cdeb5bf5
+  revision: 56c36c575376b8fc2a480f724aede91648808329
   branch: update-uswds-2.0
   specs:
-    uswds-jekyll (4.2.0)
+    uswds-jekyll (5.0.0)
       jekyll (~> 4.0)
 
 GEM
@@ -57,7 +57,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.11.1)
+    rouge (3.12.0)
     safe_yaml (1.0.5)
     sassc (2.2.1)
       ffi (~> 1.9)
