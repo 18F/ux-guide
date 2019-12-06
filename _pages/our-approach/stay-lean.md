@@ -7,71 +7,89 @@ sidenav: our-approach
 sticky_sidenav: false
 ---
 
-Lean UX is a collaborative, outcome-focused product development and project management philosophy and process. It requires cross disciplinary teams to build, test and refine products throughout multiple iterations.  These teams focus on outcomes (the changes in user behavior you want to see) not outputs (for example, features, functionality, colors).  
-
-## Lean Product Principles
-
-- **Outcomes, not outputs.** Focus on outcomes — the changes in user behavior you want to see — rather than specific features.
-- **Learn and respond.** Think of your project as a series of experiments you're conducting in close collaboration with your users. Each experiment informs the next, so that you’re always building on the things that bring you closer to your desired outcomes and removing or adjusting things that are not helping you reach your goals.
-- **Cross-disciplinary teams.** Teams should be cross-disciplinary, closely integrated, and include the partner product owner as an active design participant.
-- **Build shared understanding.** “Strive toward shared understanding at all times. Shared understanding is the collective knowledge of the team that builds up over time as they work together It is a rich understanding of our partners, their products, and users.” (Lean UX, Jeff Gothelf) This will give you more diverse perspectives and inputs, help reveal potential problems much earlier, and ensure everyone on the team understands the intended goals, which translates into informed discussions and decisions at every level.
-- **Make assumptions explicit.** Make your assumptions explicit, and test the riskiest or most critical assumptions as early as possible.
-- **Keep experiments light.** So that you can move quickly and don't build too much investment in a particular solution.
-- **Prioritization is your friend.** Ruthless and ongoing prioritization is essential to keep your efforts lean and focused.
-- **Always think problem first.** It’s critical to uncover what problem(s) are plaguing the user(s) in order to explore and experiment with solutions throughout our process. Work with the stakeholders to define and prioritize specific  problem(s) that the project will attempt to resolve. 
+18F UX designers take a collaborative, outcome-focused approach to our work. We manage risk through continuous learning. Each new iteration builds on the user-validated research of the previous iteration. 
+Incrementally identifying and challenging assumptions helps keep the cost of change low. The Lean UX process, which is described below, incorporates ongoing research into each phase of work and fits nicely into the rhythms of agile product management and development processes (scrum, kanban, extreme programming, etc.).
 
 
-## Lean UX Methods
+## Lean UX at 18F
 
-These design methods can help guide your research with both stakeholders and possible end users:
+18F engagements generally transition between two phases: [Path Analysis](https://18f.gsa.gov/how-we-work/) (PA), during which the problem is framed, and Experiment & Iterate, when solutions are explored. The first stage of any effort is to do research and identify the highest-impact opportunity areas.
 
-Contextual inquiry
-Bodystorming
-Stakeholder and user interviews
-Journey mapping
-Cognitive walkthroughs
-KJ method
-Heuristic analysis
+Lean UX becomes particularly relevant during the [Experiment & Iterate](https://18f.gsa.gov/how-we-work/) (E&I) phase of 18F engagements when we iteratively test hypotheses and assumptions. The result of this series of experiments is a product designed to take into account user needs.  
 
-Your goal is three-fold:
+The Lean UX process iterates through these steps:
 
-1. Identify and more deeply understand the challenge facing the organization and its stakeholders;
-1. Identify the people you believe could be most helped by your solution; and,
-1. Explore the problem, context, behaviors, and motivations of the people (your intended users).
+### Research
 
-For example:
+At each step we do just enough research to validate our hypotheses, and plan another experiment.
 
-**The challenge:** the United States has high unemployment rate and the growth in jobs is for highly skilled workers. We need more citizens who can meet that demand, and we have evidence that college educated workers are more employed and more employable.
-**The people:** High school graduates and adults without a degree
-**The problem:** Prospective college students lack information about the potential economic outcomes of a college degree, and also lack information that would lead them to be able to select which college is right for them.
+### Framing problems
 
-Lean product design may change how you do UX research. Some UX practitioners are used to writing big reports at the conclusion of a single research phase. Here, iteration and learning over repeated experiments is valued over breadth of research. Document the results of your hypothesis test clearly and concisely so you can share them quickly with your team, learn from them, and devise another experiment.
+We start with user needs framed as problem statements. A problem statement describes ways that you will know (or measure) when you have solved the problem.
 
-For example, the College Scorecard project developed paper prototypes to validate early ideas about a mobile website to help prospective college students make decisions.
+Problem statements can be expressed in this format:
+
+>We have observed that [product/service/organization] isn’t meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our product/service/team/organization is more successful based on [these measurable criteria]?
 
 
-## Problem Statement
+### Identifying Assumptions
 
-Gather your research and use it to create a problem statement. Describe ways that you will know (or measure) when you have solved the problem.
+An iterative approach requires that we make assumptions based on the information available to us in any given moment. 
 
-Your turn: Write your project’s statement in the following format:
+Those assumptions may include: 
+- Who our users are
+  - Their role in various social systems
+  - Their demographic information
+  - Their mental models
+  - Their abilities (especially relative to their environment)
+- Our users’ context of use
+  - The practices they undertake
+  - The information they use and share
+  - The people with whom they interact
+  - The services available to them
+  - The devices they use
+  - The channels they communicate through
+- What features we think will be most important
+- Our mission, vision, business model, etc.
 
-We have observed that [product/service/organization] isn’t meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our product/service/team/organization is more successful based on [these measurable criteria]?
+Assumptions are a necessary part of the process; bias is unavoidable. But it is important to identify and validate (or invalidate) our assumptions through ongoing experimentation and research. 
+Any proposed solution is an assumption until it’s validated through research with users. Before deciding what to test (building hypotheses), it’s important to consider all of our team’s potential assumptions — especially about our users.
 
-If you have trouble writing a narrow problem statement, brainstorm all the project’s possible goals, needs, and measurable criteria first. Then work as a group to select the most important ones and build your problem statement from there. This process may reveal multiple problem statements. Your team will need to work to figure out which problem to pursue, and how to scope the statement so there are some constraints around what the team is taking on.
+Once assumptions have been identified, we have to prioritize which are most important to test first. When prioritizing we should consider which of our assumptions create the biggest risks. 
 
-The first stage of any project is to do research to discover problems that need solving.
+### Creating hypotheses
 
-These design methods can help guide your research with both stakeholders and possible end users:
+Hypotheses make our assumptions explicit, and experiments help us test our hypotheses. A hypothesis should succinctly state expected outcomes and measures of success. These hypotheses help us begin to answer how we might solve the problems we’ve identified. This framework can help make our design hypotheses explicit:
 
-- Contextual inquiry
-- Stakeholder and user interviews
-- Journey mapping
-- Cognitive walkthroughs
-- KJ method
-- Heuristic Analysis
+>We believe that [doing/building/creating this] for [this user/persona] will result in [this outcome]. We’ll know we’re right when we see [this signal / metric]. 
+
+### Designing experiments
+
+We validate or invalidate our hypotheses through experimentation. These experiments check our assumptions with feedback from our users, and can take the form of prototypes, wireframes, drafts of messaging, or other research probes. 
+
+### Iterate
+
+The application of these experiments brings us back to the research phase and feeds into another iteration of testing and learning. Lean UX can be used to identify and test the riskiest assumptions in each iteration. This process of ongoing learning allows our teams to be truly agile and responsive to our emerging understanding of the problems we are solving for our users. The ability to continually test and learn and adjust our approach increases our teams’ efficiency and effectiveness while managing risk for our partners.
 
 
-## Identify Assumptions
-Your goal is to identify the challenges both groups face and the relationship between the two groups. Focus on the problems stakeholders have, not on potential solutions.
-Lean product design may change how you do UX research. Some UX practitioners are used to writing big reports at the conclusion of a single research phase. Here, iteration and learning over repeated experiments is valued over breadth of research. Document the results of your hypothesis test clearly and concisely so you can share them quickly with your team, learn from them, and devise another experiment.
+## Lean UX Principles
+
+In addition to our team principles, the following principles from Lean UX are especially important in our work:
+
+**Problem first.** Prudent experimentation requires that we first identify the problem(s) we’re solving. We work with stakeholders to define and prioritize specific problem(s) that the project will attempt to resolve. 
+
+**Outcomes over outputs.** We focus on outcomes — for example, the changes in behavior we want to see — rather than specific features.
+
+**Keep experiments light.** Light experiments help us move quickly. Lean UX avoids wasting money and/or time on a solution that has not yet been proven to solve the problem at hand. This way we can reduce risk and find the most appropriate solution for our needs.
+
+**Learn and respond.** Our Experiment & Iterate (E&I) engagements are essentially a series of small experiments conducted in close collaboration with users. Each experiment informs the next, so that we’re always building on the things that bring us closer to desired outcomes and removing or adjusting things that are not helping us reach our goals.
+
+**Build shared understanding.** Jeff Gothelf, author of Lean UX, says: “Strive toward shared understanding at all times. Shared understanding is the collective knowledge of the team that builds up over time as they work together. It is a rich understanding of our partners, their products, and users.” Shared understanding supports informed discussions and decisions at every level. It reflects diverse perspectives and inputs, helps reveal potential problems earlier, and ensures everyone on the team is working toward the same goals.
+
+**Make assumptions explicit.** We write down and discuss the assumptions we have about users and the problems they face as part of our research planning process, and [test the riskiest or most critical assumptions](https://mvpworkshop.co/validate-riskiest-assumption/) as early as possible.
+
+Prioritization. Ruthless and ongoing prioritization is essential to our focus.
+
+## Acknowledgements
+
+This article is primarily based on our experiences practicing Lean UX at 18F, For more information, see [research references](https://docs.google.com/document/d/1jMgdC0_U5FIof4XeTlDThz3OjAHw4ICXb5Qlci_x1ps/edit#bookmark=id.yukzvrp5ecf4) (GSA only).
