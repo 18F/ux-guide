@@ -44,29 +44,5 @@ Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on
 
 ## References
 
-This guide draws on information from the following resources. This list does not represent an endorsement of these resources, or their respective authors, by 18F or the General Services Administration.
-
-* Practical Design Discovery by Dan Brown
-* How to Make Sense of Any Mess by Abby Covert
-* IDEO’s Little Book of Design Research Ethics
-* Just Enough Research by Erika Hall
-* [Research Questions Are Not Interview Questions](https://medium.com/mule-design/research-questions-are-not-interview-questions-7f90602eb533) by Erika Hall
-* [Dig in the Right Spot](https://medium.com/mule-design/dig-in-the-right-spot-6dc7af5a75e8) by Erika Hall
-* [The 9 Rules of Design Research](https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b) by Erika Hall
-* Practical Ethnography by Sam Ladner
-* [Are You Really Prepared for Your Usability Study?](https://articles.uie.com/usability_testing_three_steps/) by Christine Perfetti
-* Interviewing Users by Steve Portigal
-* [The researcher’s journey: leveling up as a user researcher](https://medium.com/@stonecrops/the-researchers-journey-leveling-up-as-a-user-researcher-a85cd35b53f5) by Dave Hora
-* [Seeing the Elephant: Defragmenting User Research](https://alistapart.com/article/seeing-the-elephant-defragmenting-user-research) by Lou Rosenfeld
-* Convivial Toolbox: Generative Research for The Front End of Design by Elizabeth Sanders and Pieter Jan Stappers
-* [Avoiding bias in the oh-so-human world of user testing](https://blog.optimalworkshop.com/avoiding-bias-in-the-oh-so-human-world-of-user-testing) by Ashlea McKay
-* U.S. Office of Personnel Management  (The Lab@OPM) [Human-centered design Discovery Stage Operations Guide](https://github.com/labopm/HCD-Guides/blob/master/HCD_Ops_Guide_v11.3_pages.pdf)
-* U.S. Department of Health and Human Services. The Belmont Report.
-* U.S. Department of Health, Education & Welfare. Records, Computers, and the Rights of Citizens.
-* U.S. Department of Homeland Security. The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research.
-* [Context Integrity and Consent in Presenting Research](https://thesocietypages.org/cyborgology/2017/03/12/context-integrity-and-consent-in-presenting-research/) by PJ Patella-Rey
-* [What is your Riskiest Assumption?](https://mvpworkshop.co/validate-riskiest-assumption/) by Neda D Stevanović
-* [The User research section of the Gov.uk Service Manual](https://www.gov.uk/service-manual/user-research)
-    * [Getting informed consent for user research](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) | Gov.uk 
-    * [Finding participants for user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants) | Gov.uk 
+This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access an internal list of [references](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y).
 
