@@ -7,4 +7,4 @@ sidenav: our-approach
 sticky_sidenav: true
 ---
 
-Although our approach can be summed up in a single word — collaborative — there are many other things about which 18F UX designers agree. This section describes our team's shared values and principles; our working definitions of design; and our commitment to a pragmatic, lean approach. It also describes how we tailor our approach to the people we work with.
+**Our Approach** describes essential aspects that shape our design practice: [our team values and principles](https://drive.google.com/a/gsa.gov/open?id=1pR9Q-UmkIQ3wgHjL9LPv5MvIw5QLeqFTnCuWcFA1_Js), our [definitions of design](https://docs.google.com/document/d/1WVDQFLEiNFzCuWH9D6hMLTQXaBJWZ-aElXl5qqOjdHg/edit#), and our commitment to [staying lean](https://drive.google.com/a/gsa.gov/open?id=1k2uHVuc4IPTSKT_g43DLwe68IDNKenVuAeD6OoX_t20). It describes how we [meet partners where they’re at](https://drive.google.com/a/gsa.gov/open?id=1gumobaBPpfFc46Xcbu8fA86-lPCyPjUZDkgieqorRsA).
