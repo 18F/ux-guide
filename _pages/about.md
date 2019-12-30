@@ -16,7 +16,7 @@ Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), 
 * the ability to skillfully navigate organizational relationships
 * the ability to deliver artifacts that guide development, like wireframes and prototypes
 
-This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to UX design). For a more high-level take on UX, review [the Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf), or see [18F's methods](https://methods.18f.gov/).  18F staff should also consult our [Handbook](https://handbook.18f.gov/), [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#), [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#), and [Before You Ship guide](https://before-you-ship.18f.gov/).
+This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to UX design). For a more high-level take on UX see [18F's methods](https://methods.18f.gov/).  18F staff should also consult our [Handbook](https://handbook.18f.gov/), [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#), [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#), and [Before You Ship guide](https://before-you-ship.18f.gov/).
 
 
 ## How to use this guide
@@ -38,7 +38,7 @@ If you have any suggestions or want to get involved, read [our contributing page
 
 As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
-This guide is written for internal use. It’s shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our agency partners.
+This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our agency partners.
 
 Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways best suit you. Also, if you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
 
