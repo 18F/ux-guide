@@ -1,10 +1,10 @@
 ---
 layout: page
-# permalink: /our-approach/stay-lean/
+permalink: /our-approach/stay-lean/
 layout: post
 title: Stay lean 
 sidenav: our-approach
-sticky_sidenav: false
+sticky_sidenav: true
 ---
 
 18F UX designers take a collaborative, outcome-focused approach to our work. We manage risk through continuous learning. Each new iteration builds on the user-validated research of the previous iteration. 
