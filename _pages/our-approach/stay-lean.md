@@ -92,4 +92,4 @@ Prioritization. Ruthless and ongoing prioritization is essential to our focus.
 
 ## Acknowledgements
 
-This article is primarily based on our experiences practicing Lean UX at 18F, For more information, see [research references](https://docs.google.com/document/d/1jMgdC0_U5FIof4XeTlDThz3OjAHw4ICXb5Qlci_x1ps/edit#bookmark=id.yukzvrp5ecf4) (GSA only).
+This article is primarily based on our experiences practicing Lean UX at 18F, For more information, see [references](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit) (GSA only).
