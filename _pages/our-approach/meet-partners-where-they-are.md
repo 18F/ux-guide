@@ -1,10 +1,10 @@
 ---
 layout: page
-# permalink: /our-approach/meet-people-where-they-are/
+permalink: /our-approach/meet-people-where-they-are/
 layout: post
 title: Meet partners where they are
 sidenav: our-approach
-sticky_sidenav: false
+sticky_sidenav: true
 ---
 
 Meeting partners where they are helps encourage a more participatory, and therefore sustainable, design process. 
