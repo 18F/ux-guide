@@ -1,10 +1,10 @@
 ---
 layout: page
-# permalink: /our-approach/defining-design/
+permalink: /our-approach/defining-design/
 layout: post
-title: Defining design (coming soon)
+title: Defining design 
 sidenav: our-approach
-sticky_sidenav: false
+sticky_sidenav: true
 ---
 
 We see design as a process of intentionally deciding, over and over, how interactions should work for users, based on research. 
