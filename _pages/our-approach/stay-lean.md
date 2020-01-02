@@ -2,7 +2,7 @@
 layout: page
 # permalink: /our-approach/stay-lean/
 layout: post
-title: Stay lean (coming soon)
+title: Stay lean 
 sidenav: our-approach
 sticky_sidenav: false
 ---
