@@ -1,6 +1,6 @@
 ---
 layout: page
-# permalink: /our-approach/defining-design/
+permalink: /our-approach/defining-design/
 layout: post
 title: Defining design (coming soon)
 sidenav: our-approach
