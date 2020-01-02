@@ -2,9 +2,9 @@
 layout: page
 permalink: /our-approach/values-and-principles/
 layout: post
-title: Values and principles (coming soon)
+title: Values and principles 
 sidenav: our-approach
-sticky_sidenav: false
+sticky_sidenav: true
 ---
 
 We believe that good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
