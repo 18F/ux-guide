@@ -2,7 +2,7 @@
 layout: page
 # permalink: /our-approach/values-and-principles/
 layout: post
-title: Values and principles (coming soon)
+title: Values and principles
 sidenav: our-approach
 sticky_sidenav: false
 ---
