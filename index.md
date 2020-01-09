@@ -57,8 +57,5 @@ layout: home
 </ul>
 
 ## Design
-
-<ul>
-  <li><a href="{{site.baseurl}}/design/build-a-prototype/">Build a prototype</a></li>
-  <li><a href="{{site.baseurl}}/design/use-a-design-system">Use a design system</a></li>
-</ul>
+ - [Build a prototype]({{site.baseurl}}/design/build-a-prototype/)
+ - [Use a design system]({{site.baseurl}}/design/use-a-design-system)
