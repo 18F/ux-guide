@@ -57,5 +57,5 @@ layout: home
 </ul>
 
 ## Design
-
-Describes how we communicate ideas throughout the design process. It contains articles on prototyping and sketching.
+ - [Build a prototype]({{site.baseurl}}/design/build-a-prototype/)
+ - [Use a design system]({{site.baseurl}}/design/use-a-design-system)
