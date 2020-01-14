@@ -28,20 +28,20 @@ layout: home
   }
 </style>
 
-## Introduction
+## [Introduction]
 
 - [About this guide]({{site.baseurl}}/about/)
 - [License]()
 - [Resources]({{site.baseurl}}/resources/)
 
-## Our Approach
+## [Our Approach]({{site.baseurl}}/our-approach/index)
 
 - [Values and principles]({{site.baseurl}}/our-approach/values-and-principles)
 - [Defining design]({{site.baseurl}}/our-approach/defining-design) 
 - [Lean UX]({{site.baseurl}}/our-approach/lean/)
 - [Meet people where they are]({{site.baseurl}}/our-approach/meet-people-where-they-are/)
 
-## Research
+## [Research]({{site.baseurl}}/research/index/)
 
 <ul>
   <li><a href="{{site.baseurl}}/research/clarify-the-basics/">Clarify the basics</a></li>
@@ -56,6 +56,6 @@ layout: home
   <li><a href="{{site.baseurl}}/research/ethics">Ethics</a></li>
 </ul>
 
-## Design
+## [Design]({{site.baseurl}}/design/index/)
  - [Build a prototype]({{site.baseurl}}/design/build-a-prototype/)
  - [Use a design system]({{site.baseurl}}/design/use-a-design-system)
