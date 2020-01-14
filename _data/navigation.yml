@@ -24,8 +24,8 @@ research:
     href: /research/plan/
   - text: Do
     href: /research/do/
-  - text: Analyze, synthesize, share
-    href: /research/analyze-synthesize-share/
+  - text: Make research actionable
+    href: /research/make-research-actionable/
   - text: Legal
     href: /research/legal/
   - text: Privacy
@@ -36,11 +36,7 @@ research:
     href: /research/ethics/
 
 design:
-  - text: Research in government
-    href: /research/in-government/
-  - text: Planning
-    href: /research/planning/
-  - text: Conducting
-    href: /research/conducting/
-  - text: Synthesizing
-    href: /research/synthesizing/
+  - text: Build a prototype
+    href: /design/build-a-prototype/
+  - text: Use a design system
+    href: /design/use-a-design-system/
