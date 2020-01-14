@@ -7,6 +7,6 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-Design research broadens perspectives and tests assumptions by actively and systematically engaging with the world. It includes both qualitative and quantitative [methods](https://methods.18f.gov) such as interviewing stakeholders, investigating tools and systems, and interacting with members of the public. Design research can include the use of questionnaires, surveys, and analytics.
+Design research explores possibilities, tests assumptions, and reduces risk by actively and systematically engaging with the world. It includes qualitative and quantitative methods, investigating tools and systems, and interacting with members of the public.
 
-All 18F teams engage in research. Because we are constantly making decisions, and those decisions benefit when they are informed by user perspectives, we’re committed to doing research every sprint. Rather than seeing the product or service itself as the goal, we see the products or services we contribute to as the byproduct of our continued effort to identify, understand, and address real user needs.
+All 18F teams do design research. Design involves continuous decision-making, and those decisions are made better when they’re informed by end user perspectives. As a result, we’re committed to continuous research. Rather than seeing designed products or services themselves as the goal, we view the products or services we’re designing as the result of our continued effort to identify, understand, and address user needs.
