@@ -6,4 +6,4 @@ sidenav: design
 sticky_sidenav: true
 ---
 
-This section of our UX Guide is almost ready! Check back soon. :)
+This page of our UX Guide is almost ready! Check back soon. :)
