@@ -19,7 +19,7 @@ This guide is currently under development. It is a living guide that will contin
     1. [Stay lean](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/stay-lean.md)
     1. [Meet partners where they are](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/meet-people-where-they-are.md)
 1. Research
-    1. [Clarify the basics](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md)
+    1. [Clarify the basics](https://github.com/18F/ux-guide/blob/master/_pages/research/clarify-the-basics.md)
     1. [Plan](https://github.com/18F/ux-guide/blob/master/_pages/research/plan.md)
     1. [Do](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md)
     1. [Analyze, synthesize, share](https://github.com/18F/ux-guide/blob/master/_pages/research/analyze-synthesize-share.md)
@@ -28,8 +28,8 @@ This guide is currently under development. It is a living guide that will contin
     1. [Bias](https://github.com/18F/ux-guide/blob/master/_pages/research/bias.md)
     1. [Ethics](https://github.com/18F/ux-guide/blob/master/_pages/research/ethics.md)
 1. Design 
-    1. Prototyping
-    1. Collaboration
+    1. [Build a prototype](https://github.com/18F/ux-guide/blob/master/_pages/design/build-a-prototype.md)
+    1. [Use a design system](https://github.com/18F/ux-guide/blob/master/_pages/design/use-a-design-system.md)
 1. Resources
 
 
