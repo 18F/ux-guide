@@ -26,7 +26,7 @@ All issues and pull requests will be reviewed with the [guide goals](https://git
      - Does it fill a gap in the current guide? (use the framework, `By reading [new] section of the UX guide, 18F staff will be able to`)
      - Will it be useful/appropriate for our audiences? If in doubt, refer to the [guide goals](https://github.com/18F/ux-guide/wiki/Goals)  
      - Draft or edit new content as needed
-     - New content needs to be approved by both PMs
+     - New content needs to be approved by both PMs and TTs Outreach
      - Provide comments on the pull request on GitHub, as necessary. If relevant, offer alternative implementations.
 
 
