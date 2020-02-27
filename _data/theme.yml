@@ -19,8 +19,8 @@ colors:
 #
 # # Header colors
   header:
-    header-bg: 'White'
-    header-title: '#1C304A'
+    header-bg: 'white'
+    # header-title: '#1C304A'
 #     header-link: 'DarkSlateGray'
 #     header-link-hover: 'Indigo'
 #
