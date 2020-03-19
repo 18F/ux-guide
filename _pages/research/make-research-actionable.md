@@ -31,7 +31,7 @@ At 18F this generally involves:
 
 4. Developing a shared understanding as a group
 
-Making meaning always happens in relation to the research questions and/or problem statements identified during [research planning](({{site.baseurl}}/research/plan). Some questions you might ask:
+Making meaning always happens in relation to the research questions and/or problem statements identified during [research planning]({{site.baseurl}}/research/plan). Some questions you might ask:
 
 - What notable experiences did participants share? What were outliers?
 
@@ -54,7 +54,7 @@ Finding patterns in research is a great time to involve partners and team member
 
 - Harness the perspectives of different listeners (which can help correct for [bias]({{site.baseurl}}/research/bias)
 
-When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of your [ethical obligation](({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees. 
+When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees. 
 
 ### De-identifying data
 
