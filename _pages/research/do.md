@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/do/
 layout: post
-title: Do (coming soon)
+title: Do 
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -104,7 +104,7 @@ Time moves fast in workshops, so be clear about what you want to accomplish and 
 
 ### Preparing a wireframe or prototype
 
-Identify in your [research plan]({{site.baseurl}}/research/bias) if your sessions will require the creation or use of [wireframes](https://methods.18f.gov/make/wireframing/) or [prototypes](({{site.baseurl}}/design/prototype)). This helps manage the team’s expectations, and gives the people creating those artifacts time to prepare them. 
+Identify in your [research plan]({{site.baseurl}}/research/plan) if your sessions will require the creation or use of [wireframes](https://methods.18f.gov/make/wireframing/) or [prototypes]({{site.baseurl}}/design/build-a-prototype). This helps manage the team’s expectations, and gives the people creating those artifacts time to prepare them. 
 
 In evaluative research such as [usability testing](https://methods.18f.gov/validate/usability-testing/), prototypes often suggest how users might complete specific tasks. In this case: 
 
@@ -116,7 +116,7 @@ In evaluative research such as [usability testing](https://methods.18f.gov/valid
 
 Prototypes create dependencies in your research. When doing research involving prototypes, you will need to: 
 
-- Confirm that the prototype works from the research venue (see [“doing a practice session”](({{site.baseurl}}/research/do)) 
+- Confirm that the prototype works from the research venue (see [“doing a practice session”]({{site.baseurl}}/research/do/)) 
 
 - Ensure your participants can access the prototype. Ask potential participants to confirm their firewall restrictions, screen resolutions, and browser preference in advance of the session (see [“corresponding with participants”]())
 
@@ -205,7 +205,7 @@ The third and final step is identifying interested people and determine if they 
 
 #### Incentives
 
-18F lacks the legal authority to offer incentives; see [Legal](({{site.baseurl}}/research/legal)) for more information. Instead, think creatively about how you might appeal to potential research participants in lieu of a monetary incentive. For instance, you might consider framing their participation as an opportunity to see something in development, or to read about the research findings  before it’s shared with a wider audience (if possible). We often appeal to people’s desire to contribute to the common good by helping to improve government services. 
+18F lacks the legal authority to offer incentives; see [Legal]({{site.baseurl}}/research/legal) for more information. Instead, think creatively about how you might appeal to potential research participants in lieu of a monetary incentive. For instance, you might consider framing their participation as an opportunity to see something in development, or to read about the research findings  before it’s shared with a wider audience (if possible). We often appeal to people’s desire to contribute to the common good by helping to improve government services. 
 
 ### Getting informed consent
 
@@ -215,9 +215,9 @@ Getting informed consent ensures that:
 
 - Participants understand what they’re signing up for, making your sessions more effective
 
-- The research is ethically sound (see [Ethics]({{site.baseurl}}/research/ethics)
+- The research is ethically sound (see [Ethics]({{site.baseurl}}/research/ethics))
 
-- The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy)
+- The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy))
 
 - The research complies with The Antideficiency Act (see [Legal]({{site.baseurl}}/research/legal))
 
