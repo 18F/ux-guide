@@ -25,9 +25,9 @@ We created this guide for our reference. It’s here for a refresher on [ways to
 
 This guide is divided into three sections:
 
-- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/). 
-- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{site.baseurl}}/research/basics/) (working definitions) and how we [plan](/research/plan/), [do]({{site.baseurl}}/research/do), and [analyze, synthesize, and share]({{site.baseurl}}/research/analyze-synthesize-share) research.
-- **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]() and [use design systems]().
+- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/stay-lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/). 
+- **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{site.baseurl}}/research/clarify-the-basics/) (working definitions) and how we [plan]({{site.baseurl}}/research/plan/), [do]({{site.baseurl}}/research/do), and [analyze, synthesize, and share]({{site.baseurl}}/research/make-research-actionable) research.
+- **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]({{site.baseurl}}/design/build-a-prototype) and [use design systems]({{site.baseurl}}/design/use-a-design-system).
 
 
 
