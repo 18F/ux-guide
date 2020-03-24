@@ -47,9 +47,7 @@ layout: home
   <li><a href="{{site.baseurl}}/research/clarify-the-basics/">Clarify the basics</a></li>
   <li><a href="{{site.baseurl}}/research/plan/">Plan</a></li>
   <li><a href="{{site.baseurl}}/research/do">Do</a></li>
-  <li><a href="{{site.baseurl}}/research/analyze-synthesize-share">Analyze, synthesize, and share</a></li>
-</ul>
-<ul class="for-discussion">
+  <li><a href="{{site.baseurl}}/research/make-research-actionable">Make research actionable</a></li>
   <li><a href="{{site.baseurl}}/research/legal/">Legal</a></li>
   <li><a href="{{site.baseurl}}/research/privacy/">Privacy</a></li>
   <li><a href="{{site.baseurl}}/research/bias">Bias</a></li>
