@@ -22,7 +22,7 @@ This guide is currently under development. It is a living guide that will contin
     1. [Clarify the basics](https://github.com/18F/ux-guide/blob/master/_pages/research/clarify-the-basics.md)
     1. [Plan](https://github.com/18F/ux-guide/blob/master/_pages/research/plan.md)
     1. [Do](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md)
-    1. [Analyze, synthesize, share](https://github.com/18F/ux-guide/blob/master/_pages/research/analyze-synthesize-share.md)
+    1. [Make research actionable](https://github.com/18F/ux-guide/blob/master/_pages/research/make-research-actionable.md)
     1. [Legal](https://github.com/18F/ux-guide/blob/master/_pages/research/legal.md)
     1. [Privacy](https://github.com/18F/ux-guide/blob/master/_pages/research/privacy.md)
     1. [Bias](https://github.com/18F/ux-guide/blob/master/_pages/research/bias.md)
