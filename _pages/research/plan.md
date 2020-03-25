@@ -1,7 +1,7 @@
 ---
 permalink: /research/plan/
 layout: post
-title: Plan (coming soon)
+title: Plan 
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -15,7 +15,6 @@ subnav:
     href: '#Additional-reading'
 ---
 
-# Plan
 Planning ensures that everyone’s time is respected throughout the research process, and helps the team adapt its approach in response to the real world.
 
 ## Writing a research plan
@@ -81,7 +80,7 @@ Choose one or more methods appropriate for meeting your goals and answering your
 
 Good research is collaborative. People who help accomplish the research are more likely to agree with its outputs. 
 
-When planning your research, clarify with your partners [the typical activities involved in 18F’s research](https://github.com/18F/ux-guide/blob/master/_pages/research/clarify-the-basics.md), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together and training advocates.](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/values-and-principles.md)
+When planning your research, clarify with your partners [the typical activities involved in 18F’s research](https://github.com/18F/ux-guide/blob/master/_pages/research/clarify-the-basics.md), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates)
 
 ### Timeline
 
