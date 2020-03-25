@@ -1,7 +1,7 @@
 ---
 permalink: /research/clarify-the-basics/
 layout: post
-title: Clarify the basics (coming soon)
+title: Clarify the basics
 sidenav: research
 sticky_sidenav: true
 subnav:
@@ -19,7 +19,6 @@ subnav:
     href: '#good-practices'
 ---
 
-# Clarify the basics
 Design research can feel overwhelming, even to people who’ve done it before! Clarify the basics with your team before you dive in.
 
 # What it is
