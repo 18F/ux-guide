@@ -58,11 +58,11 @@ Evaluative research is the research you do to test assumptions, hypotheses, and 
 # The process
 The following steps are repeated as necessary throughout each 18F engagement:
 
-1. [Plan](). Agree on the questions you want answered, the methods you’ll employ, how the team will contribute, etc. Decide who should participate.
+1. [Plan]({{site.baseurl}}/research/plan). Agree on the questions you want answered, the methods you’ll employ, how the team will contribute, etc. Decide who should participate.
 
-2. [Do](). Design and practice the research sessions. Correspond and engage with participants. Debrief after each session.
+2. [Do]({{site.baseurl}}/research/do). Design and practice the research sessions. Correspond and engage with participants. Debrief after each session.
 
-3. [Analyze, synthesize, and share](). Review the data you’ve collected, look for patterns, write a summary of what you’ve learned, share it broadly, and delete recordings afterward.
+3. [Make research actionable]({{site.baseurl}}/research/make-research-actionable). Review the data you’ve collected, look for patterns, write a summary of what you’ve learned, share it broadly, and delete recordings afterward.
 
 # The environment
 
@@ -93,5 +93,5 @@ We prefer in-person research when we want to better understand the environment i
 
   Note: Because some of our work involves creating solutions that are used by government employees, our users are not always the public. Avoid relying on stakeholders to speak on behalf of users, or expecting users to be aware of your stakeholders’ organizational constraints.
 - **Make time for “research operations.”** Continuous research requires ongoing attention to planning, participant recruiting, informing consent, managing data, and more, in addition to time spent on research itself.
-- **Review government-specific considerations.** Government-led research must account for [legal](), [bias](), [ethical](), and [privacy]() considerations. Read these documents and engage your team in conversations about how you’ll account for them.
+- **Review government-specific considerations.** Government-led research must account for [legal]({{site.baseurl}}/research/legal), [bias]({{site.baseurl}}/research/bias), [ethical]({{site.baseurl}}/research/ethics), and [privacy]({{site.baseurl}}/research/privacy) considerations. Read these documents and engage your team in conversations about how you’ll account for them.
 
