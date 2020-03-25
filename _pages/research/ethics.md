@@ -28,7 +28,7 @@ that they are experts on their own experiences.
 
 - Meeting at times and locations convenient for your research participants
 
-- Collecting [informed consent]({{site.baseurl}}/research/do); that is, ensure that anyone who participates in your research does so of their own free will, and that they have enough information to make the decision to participate responsibly 
+- Collecting [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent); that is, ensure that anyone who participates in your research does so of their own free will, and that they have enough information to make the decision to participate responsibly 
 
 - If someone is uncomfortable with or prefers not to sign a participant agreement, offering them alternative opportunities to participate, or the option to not participate at all
 
@@ -47,7 +47,7 @@ We have a responsibility to further the best interests of the people and the cou
 
 - Considering potential risks to participants in your research planning. Ensure that your research questions are ethical and come up with research plans that will bring no harm to participants
 
-- Collecting [informed consent]({{site.baseurl}}/research/do)
+- Collecting [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent)
 
 - Never recording people without their consent
 
