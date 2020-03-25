@@ -14,7 +14,6 @@ subnav:
     href: '#Sharing'
 ---
 
-# Make research actionable
 Design research is most valuable when it leads to shared understanding.  Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
 
 
