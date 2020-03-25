@@ -16,8 +16,6 @@ subnav:
     href: '#make-the-user-comfortable'
 ---
 
-# Do 
-
 [Planning]({{site.baseurl}}/research/plan) research helps you identify the team’s goals, methods, etc. for its research. Doing research involves engaging with previously agreed upon knowledge, participants, and data.
 This article covers tasks agreed to and implied during research planning such as:
 
@@ -53,7 +51,7 @@ Research sessions enable you to directly engage people in facilitated conversati
 
 ### Describe participant context
 
-Before designing your sessions, consider the context(s) of your [target groups]({{site.baseurl}}/research/plan). You may be able to rely on your team, including your agency partners, or you may need to ask participants themselves during recruitment. Consider especially:
+Before designing your sessions, consider the context(s) of your [target groups]({{site.baseurl}}/research/plan/#participants-and-recruitment). You may be able to rely on your team, including your agency partners, or you may need to ask participants themselves during recruitment. Consider especially:
 
 - Location(s) and norms
 
@@ -88,7 +86,7 @@ Design your sessions to encourage as much team involvement as possible without b
 
 For sessions where you’ll interact with participants one-at-a-time, such as in-depth interviews and usability tests, clarify which team members will moderate, take notes, and observe:
 
-- **Moderators** facilitate the session. Don’t let just anyone moderate; be honest about whether or not moderation will be difficult for someone. For example, the product owner may find it difficult to moderate without introducing [interviewer bias]({{site.baseurl}}/research/bias)
+- **Moderators** facilitate the session. Don’t let just anyone moderate; be honest about whether or not moderation will be difficult for someone. For example, the product owner may find it difficult to moderate without introducing [interviewer bias]({{site.baseurl}}/research/bias/#interviewer-bias)
 
 - **Notetakers** document, usually word-for-word, what happens during the session. If you’re fortunate enough to have multiple notetakers, you might ask each notetaker to make notes about specific aspects of the session. For example, one notetaker might capture verbatim notes of what the participant says while another might capture what the participant does while interacting with a prototype.
 
@@ -116,9 +114,9 @@ In evaluative research such as [usability testing](https://methods.18f.gov/valid
 
 Prototypes create dependencies in your research. When doing research involving prototypes, you will need to: 
 
-- Confirm that the prototype works from the research venue (see [“doing a practice session”]({{site.baseurl}}/research/do/)) 
+- Confirm that the prototype works from the research venue (see [“doing a practice session”](#doing-a-practice-session)) 
 
-- Ensure your participants can access the prototype. Ask potential participants to confirm their firewall restrictions, screen resolutions, and browser preference in advance of the session (see [“corresponding with participants”]())
+- Ensure your participants can access the prototype. Ask potential participants to confirm their firewall restrictions, screen resolutions, and browser preference in advance of the session (see [“corresponding with participants”](#corresponding-with-participants))
 
 ### Preparing an interview guide
 
@@ -195,11 +193,11 @@ Make a list of places where participants are likely to be, both on- and offline.
 
 Next, go to those locations and get people interested in the research. This often involves the creation of an intercept (“research call-to-action”). For example, if you’re doing pop-up research in a GSA building, you might print your intercept on a poster; if you’re doing remote research, you might [place a pop-up directly on the website itself](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/). 
 
-Note that while it can be tempting to include additional form fields on your intercept to help with screening, this can introduce a delay due to The Paperwork Reduction Act of 1995 (PRA). See Legal for more information. All you really need to collect from people is their contact information, which isn’t subject to PRA (per this memo) if it’s collected on its own. A tweet-length intercept might read:
+Note that while it can be tempting to include additional form fields on your intercept to help with screening, this can introduce a delay due to The Paperwork Reduction Act of 1995 (PRA). See [Legal]({{site.baseurl}}/research/legal) for more information. All you really need to collect from people is their contact information, which isn’t subject to PRA (per [this memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)) if it’s collected on its own. A tweet-length intercept might read:
 
     “Help us improve the design of OPM.gov! Sign up to participate in a remote feedback session by emailing participate-18F@gsa.gov. Learn more about how we’ll protect your information at https://www.gsa.gov/reference/gsa-privacy-program/Privacy-act-statement-for-design-research”
 
-You can find out more about what makes a good tweet-length intercept [here in our Legal article]({{site.baseurl}}/research/legal).
+You can find out more about what makes a good tweet-length intercept [here in our Legal article]({{site.baseurl}}/research/legal/#intercepts).
 
 The third and final step is identifying interested people and determine if they meet your recruitment criteria. Once you’ve got a list of interested people and their contact information, you can easily screen them by having brief, unstructured conversations with them. Once you’ve determined that someone is qualified to participate in the session, you’ll need to get their informed consent.
 
@@ -333,7 +331,7 @@ Because our partner organizations often have national audiences and our teams ar
 
 - If the participant consents to sharing their screen, remind them to close, minimize or hide any windows or information they do not want to share. 
 
-Note: Remote-only research can exclude some people with visual or hearing impairments. Try to use a variety of approaches to make sure your [research is inclusive]({{site.baseurl}}/research/bias). 
+Note: Remote-only research can exclude some people with visual or hearing impairments. Try to use a variety of approaches to make sure your [research is inclusive]({{site.baseurl}}/research/bias/#sampling-bias). 
 
 ### Tips for in-person research
 
