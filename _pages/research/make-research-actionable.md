@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/make-research-actionable/
 layout: post
-title: make-research-actionable
+title: Make research actionable
 sidenav: research
 sticky_sidenav: true
 subnav:
