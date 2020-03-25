@@ -108,6 +108,6 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 ## Avoiding bias
 
-In general, you can avoid bias and arrive at better solutions by intentionally including people throughout the design process. Help your team see [research as a team activity]({{site.baseurl}}/research/clarify-the-basics), and understand why it’s better to talk to a few users throughout the design process than none at all (as Erika Hall says, “The most expensive [usability testing] of all is the kind your customers do for you after launch by way of customer service.”). 
+In general, you can avoid bias and arrive at better solutions by intentionally including people throughout the design process. Help your team see [research as a team activity]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and understand why it’s better to talk to a few users throughout the design process than none at all (as Erika Hall says, “The most expensive [usability testing] of all is the kind your customers do for you after launch by way of customer service.”). 
 
 Bias is a starting point for improving the team’s research practice—everyone benefits when we share a commitment to asking better questions.
