@@ -48,11 +48,11 @@ Design research is fundamentally about reducing risk and informing decisions. Wh
 
 Research can also have subgoals. For example, some agencies choose to work with 18F to learn more about our approach. Explicitly stating these kinds of subgoals helps provide an honest account of the coaching work that the team will undertake alongside the research itself.
 
-Everyone on the team should agree on the research goals. A useful starting point for this conversation is clarifying [research types]().
+Everyone on the team should agree on the research goals. A useful starting point for this conversation is clarifying [research types]({{site.baseurl}}/our-approach/clarify-the-basics).
 
 ### Research questions
 
-What do you want to learn to make better evidence-based decisions? Research questions should be relevant, actionable, and practical. They should also be [ethical](https://github.com/18F/ux-guide/blob/master/_pages/research/ethics.md); consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
+What do you want to learn to make better evidence-based decisions? Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics); consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
 
 - **Bad question:** How do we get unemployed adults interested in our website?
 (This question is bad because it isn’t directly focused on users and their goals; it also assumes that a website is the right solution for unemployed adults.)
@@ -84,13 +84,13 @@ When planning your research, clarify with your partners [the typical activities 
 
 ### Timeline
 
-Your timeline should provide a useful estimate of how your research process will unfold. Remind everyone that the timeline is just an estimate, and that the actual timeline will depend on a few things outside of your control, like your [partners’ ability to participate](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/meet-people-where-they-are.md), your participants’ availability (if applicable), etc. 
+Your timeline should provide a useful estimate of how your research process will unfold. Remind everyone that the timeline is just an estimate, and that the actual timeline will depend on a few things outside of your control, like your [partners’ ability to participate]({{site.baseurl}}/our-approach/meet-people-where-they-are/#ability-to-participate), your participants’ availability (if applicable), etc. 
 
 Plan more time than you think you need, and consider especially:
 
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
-- How you plan to involve the team in any level-setting exercises (such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
-- How you plan to handle any participant-related logistics (such as [inviting participation](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md), [getting informed consent](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md), and [scheduling](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md))
+- How you plan to involve the team in any [level-setting exercises](#level-setting-excercises) (such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
+- How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
 
 - If your research involves workshops and/or fieldwork
   Who needs to be where and when
@@ -152,9 +152,9 @@ Regardless of how you arrive at them, review your recruitment criteria with your
 
 ## Ethical considerations
 
-Research affords your team powerful opportunities to both interact with people and explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research](), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
+Research affords your team powerful opportunities to both interact with people and explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
 
-Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]() we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government. 
+Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government. 
 
 ## Outputs and outcomes
 
@@ -163,13 +163,13 @@ Before you get started, discuss with your team (including your agency partners) 
 - **Outputs** are the documents, diagrams, etc. you will make to share the research with a broad audience. Will you produce a report, useful insights, validated design hypotheses, or something else? 
 - **Outcomes** are the changes you expect to see through doing the research. Outcomes should tie back to the goals and subgoals listed earlier. How will doing the research impact the product being developed, the people involved, etc.? How will you know?
 
-We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid overspecifying your outputs, because you have no way of knowing what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research]().
+We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid overspecifying your outputs, because you have no way of knowing what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research](#documenting-research).
 
 ## Involving partners in research planning
 
-Hold a meeting to bring the team — including your agency partners — together to agree on the research plan. Tailor the agenda to your project’s history and your partner’s [design maturity](). For example, if your partner doesn’t yet have personas, you might create provisional personas before the planning meeting; if your partner hasn’t ever planned research before, you might draft a plan for them to respond to. Be ready to educate your partners on the methods you chose and why you chose them, provide example outputs from prior research, etc.
+Hold a meeting to bring the team — including your agency partners — together to agree on the research plan. Tailor the agenda to your project’s history and your partner’s [design maturity]({{site.baseurl}}/our-approach/meet-people-where-they-are/#design-maturity). For example, if your partner doesn’t yet have personas, you might create provisional personas before the planning meeting; if your partner hasn’t ever planned research before, you might draft a plan for them to respond to. Be ready to educate your partners on the methods you chose and why you chose them, provide example outputs from prior research, etc.
 
-Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting exercises such as:
+Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with [level-setting excercises](#level-setting-exercises) such as:
 
 - Hopes and fears exercise
 - Research-alignment exercise
@@ -203,14 +203,14 @@ An example agenda for a research planning meeting might include:
 
 A roster is a spreadsheet to collect participants’ names, titles, contact information, and to track whether they’ve been contacted, interviewed, thanked, etc. A roster should note if specific people have opted out of the research.
 
-Create a folder to contain your roster, interview guides, session recordings and notes, etc. This folder should also be accessible only to the core team, as it will likely contain personally identifiable information (PII); see [Privacy](). A good way to share interview notes without jeopardizing PII is to assign each participant a codename or participant number and refer to those in calendar invitations and notes documents. Destroy this roster at the end of the engagement. 
+Create a folder to contain your roster, interview guides, session recordings and notes, etc. This folder should also be accessible only to the core team, as it will likely contain personally identifiable information (PII); see [Privacy]({{site.baseurl}}/privacy). A good way to share interview notes without jeopardizing PII is to assign each participant a codename or participant number and refer to those in calendar invitations and notes documents. Destroy this roster at the end of the engagement. 
 
 ### Documenting the sessions
 
 Session documentation can take many forms. We often conduct research that may cover sensitive topics or information. Consider the following as you decide how you will document your sessions: 
 
-- What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis](), etc.? 
-- What type of documentation will your participants be most comfortable with (see [Privacy]())? 
+- What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.? 
+- What type of documentation will your participants be most comfortable with (see [Privacy]({{site.baseurl}}/privacy))? 
 - Did you ask your participants for consent for this form of documentation? 
 
 ### Documentation methods
