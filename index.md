@@ -38,7 +38,7 @@ layout: home
 
 - [Values and principles]({{site.baseurl}}/our-approach/values-and-principles)
 - [Defining design]({{site.baseurl}}/our-approach/defining-design) 
-- [Lean UX]({{site.baseurl}}/our-approach/lean/)
+- [Stay lean]({{site.baseurl}}/our-approach/stay-lean/)
 - [Meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/)
 
 ## [Research]({{site.baseurl}}/research/)
