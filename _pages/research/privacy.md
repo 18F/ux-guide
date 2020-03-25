@@ -46,7 +46,7 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 
 - Store design research administrative data (for example, contact information collected during research participant recruiting) separate from study data (for example, recorded video of a usability test); share research-related records on a need-to-know basis
 
-- Collect the [informed consent](({{site.baseurl}}/research/do) of anyone who participates in moderated research; we generally do this with a [participant agreement](https://methods.18f.gov/participant-agreement/) 
+- Collect the [informed consent](({{site.baseurl}}/research/do/#getting-informed-consent) of anyone who participates in moderated research; we generally do this with a [participant agreement](https://methods.18f.gov/participant-agreement/) 
 
 - When scheduling research sessions via Google calendar, set the event visibility to “Private” (since invitations include the participant’s name and email address)
 
