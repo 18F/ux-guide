@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 layout: post
-title: Research (coming soon) 
+title: Research
 sidenav: research
 sticky_sidenav: true
 ---
