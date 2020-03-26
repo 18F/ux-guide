@@ -31,8 +31,8 @@ layout: home
 ## Introduction
 
 - [About this guide]({{site.baseurl}}/about/)
-- [License]()
-- [Resources]({{site.baseurl}}/resources/)
+- [License](https://github.com/18F/ux-guide/blob/master/LICENSE.md)
+- [Resources](https://github.com/18F/ux-guide/tree/master/_pages/resources)
 
 ## [Our Approach]({{site.baseurl}}/our-approach/)
 
