@@ -2,3 +2,25 @@
 .usa-layout-docs__main {
   width: auto;
 }
+
+// Set max-width to contain long H1 text
+.usa-prose > h1 {
+  max-width: 17em;
+}
+
+// Set max-width to contain long H2 text
+.usa-prose > h2 {
+  max-width: 19.5em;
+}
+
+// Set max-width to contain long H3 text
+.usa-prose > h3 {
+  max-width: 30em;
+}
+
+// Set max-width to contain long H4-H6 text
+.usa-prose > h4, 
+.usa-prose > h5,
+.usa-prose > h6 {
+  max-width: 40em;
+}
