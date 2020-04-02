@@ -35,6 +35,11 @@
   line-height: 1.5;
 }
 
+// Set max-width to contain long table data text
+.usa-prose > table td {
+  max-width: 30em;
+}
+
 // Set property values for code block
 pre {
   white-space: pre-wrap;
