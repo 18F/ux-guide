@@ -34,3 +34,9 @@
 .usa-prose > h6 {
   line-height: 1.5;
 }
+
+// Set property values for code block
+pre {
+  white-space: pre-wrap;
+  max-width: 30em;
+}
