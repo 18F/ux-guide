@@ -32,6 +32,15 @@ This guide is currently under development. It is a living guide that will contin
     1. [Use a design system](https://github.com/18F/ux-guide/blob/master/_pages/design/use-a-design-system.md)
 1. Resources
 
+## Development
+The UX Guide uses [USWDS-Jekyll](https://github.com/18F/uswds-jekyll).
+
+To test it locally:
+
+1. Clone this repo
+2. In the local clone of this repo, run `jekyll serve`
+
+---
 
 ## Contributors
 
