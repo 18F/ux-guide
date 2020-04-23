@@ -44,6 +44,10 @@ h1, h2, h3, h4, h5, h6,
   h1,h2,h3,h4,h5,h6 {
     color: $color-dark;
   }
+
+  p {
+    color: $color-base;
+  }
 }
 
 // Links
@@ -81,7 +85,7 @@ a:hover {
 // usa-sidenav
 
 .usa-sidenav a {
-  color: $color-black;
+  color: $color-base;
 }
 
 .usa-sidenav > .usa-sidenav__item {
