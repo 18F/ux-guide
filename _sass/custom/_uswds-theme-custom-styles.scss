@@ -3,45 +3,108 @@
   width: auto;
 }
 
-// Set max-width to contain long H1 text
-.usa-prose > h1 {
-  max-width: 17em;
-}
 
-// Set max-width to contain long H2 text
-.usa-prose > h2 {
-  max-width: 19.5em;
-}
+//// 18F styles
 
-// Set max-width to contain long H3 text
-.usa-prose > h3 {
-  max-width: 30em;
-}
+// Color
+$color-light:        #b3efff; // $color-light / $color-secondary-light
+$color-bright:       #00cfff; // $color-bright / $color-secondary
+$color-medium:       #046b99; // $color-medium / $theme-color-primary
+$color-dark:         #1C304A; // $color-dark / $theme-color-primary-dark
+$color-base:         #1F2E4A;
+$color-black:        #000000;
+$color-inverse:      #ffffff;
 
-// Set max-width to contain long H4-H6 text
-.usa-prose > h4, 
-.usa-prose > h5,
-.usa-prose > h6 {
-  max-width: 40em;
-}
+$color-bright-hover: #00A7CE;
+$color-medium-hover: #00547A;
 
-// Set line-height to specify distance between lines of text
+$color-gray-lightest: #f1f1f1; // Adding bc used in our $border-light in this file.
+$color-gray-hover:    #fafafa;
+$color-gray-divider:  #bbbbbb;
+
+$color-gray-border:   #5b616b;
+
+
+// Typography
+h1, h2, h3, h4, h5, h6,
+.usa-header,
+.usa-prose,
 .usa-prose > h1,
 .usa-prose > h2,
 .usa-prose > h3,
 .usa-prose > h4,
 .usa-prose > h5,
-.usa-prose > h6 {
-  line-height: 1.5;
+.usa-prose > h6,
+.usa-nav .usa-accordion,
+.usa-sidenav {
+  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
-// Set max-width to contain long table data text
-.usa-prose > table td {
-  max-width: 30em;
+.usa-prose{
+  h1,h2,h3,h4,h5,h6 {
+    color: $color-dark;
+  }
+
+  p {
+    color: $color-base;
+  }
 }
 
-// Set property values for code block
-pre {
-  white-space: pre-wrap;
-  max-width: 30em;
+// Links
+a {
+  color: $color-medium;
+}
+
+a:hover {
+  color: $color-medium-hover;
+}
+
+// header
+.usa-nav .usa-current::after,
+.usa-header--extended .usa-current:hover::after,
+.usa-nav__primary>.usa-nav__primary-item > .usa-current:hover::after {
+  background-color: $color-bright;
+  height: 0.25rem;
+}
+
+.usa-nav__primary>.usa-nav__primary-item > .usa-current,
+.usa-nav__primary>.usa-nav__primary-item > a:hover {
+  color: $color-black;
+}
+
+.usa-nav__primary>.usa-nav__primary-item > a:hover {
+  background-color: $color-gray-lightest;
+}
+
+.usa-nav__primary>.usa-nav__primary-item > a:hover::after {
+  height: 0;
+}
+
+
+
+// usa-sidenav
+
+.usa-sidenav a {
+  color: $color-base;
+}
+
+.usa-sidenav > .usa-sidenav__item {
+  padding-left: 0;
+}
+
+.usa-sidenav .usa-current {
+  color: $color-dark;
+}
+
+.usa-sidenav .usa-current::after {
+  background-color: $color-bright;
+  border-radius: 0;
+  width: 0.45rem;
+  top: 0;
+  bottom: 0;
+}
+
+.usa-sidenav a:hover {
+  color: inherit;
+  background-color: $color-gray-lightest;
 }
