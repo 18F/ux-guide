@@ -3,7 +3,6 @@
   width: auto;
 }
 
-
 //// 18F styles
 
 // Color
@@ -23,7 +22,6 @@ $color-gray-hover:    #fafafa;
 $color-gray-divider:  #bbbbbb;
 
 $color-gray-border:   #5b616b;
-
 
 // Typography
 h1, h2, h3, h4, h5, h6,
@@ -59,7 +57,7 @@ a:hover {
   color: $color-medium-hover;
 }
 
-// header
+// Header
 .usa-nav .usa-current::after,
 .usa-header--extended .usa-current:hover::after,
 .usa-nav__primary>.usa-nav__primary-item > .usa-current:hover::after {
@@ -79,8 +77,6 @@ a:hover {
 .usa-nav__primary>.usa-nav__primary-item > a:hover::after {
   height: 0;
 }
-
-
 
 // usa-sidenav
 
@@ -108,3 +104,48 @@ a:hover {
   color: inherit;
   background-color: $color-gray-lightest;
 }
+
+//// Customization
+
+// Set max-width to contain long H1 text
+.usa-prose > h1 {
+  max-width: 17em;
+}
+
+// Set max-width to contain long H2 text
+.usa-prose > h2 {
+  max-width: 19.5em;
+}
+
+// Set max-width to contain long H3 text
+.usa-prose > h3 {
+  max-width: 30em;
+}
+
+// Set max-width to contain long H4-H6 text
+.usa-prose > h4, 
+.usa-prose > h5,
+.usa-prose > h6 {
+  max-width: 40em;
+}
+
+// Set max-width to contain long table data text
+.usa-prose > table td {
+  max-width: 25em;
+}
+
+// Set line-height to specify distance between lines of text
+.usa-prose > h1,
+.usa-prose > h2,
+.usa-prose > h3,
+.usa-prose > h4,
+.usa-prose > h5,
+.usa-prose > h6 {
+  line-height: 1.5;
+}
+
+// Set property values for code block
+pre {
+  white-space: pre-wrap;
+  max-width: 30em;
+} 
