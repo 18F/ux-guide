@@ -129,6 +129,11 @@ a:hover {
   max-width: 40em;
 }
 
+// Set max-width to contain long table data text
+.usa-prose > table td {
+  max-width: 25em;
+}
+
 // Set line-height to specify distance between lines of text
 .usa-prose > h1,
 .usa-prose > h2,
