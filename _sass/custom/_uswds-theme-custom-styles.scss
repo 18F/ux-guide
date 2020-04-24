@@ -105,7 +105,7 @@ a:hover {
   background-color: $color-gray-lightest;
 }
 
-//// Set max-width
+//// Customization
 
 // Set max-width to contain long H1 text
 .usa-prose > h1 {
@@ -127,4 +127,14 @@ a:hover {
 .usa-prose > h5,
 .usa-prose > h6 {
   max-width: 40em;
+}
+
+// Set line-height to specify distance between lines of text
+.usa-prose > h1,
+.usa-prose > h2,
+.usa-prose > h3,
+.usa-prose > h4,
+.usa-prose > h5,
+.usa-prose > h6 {
+  line-height: 1.5;
 }
