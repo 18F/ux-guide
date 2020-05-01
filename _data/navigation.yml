@@ -1,5 +1,7 @@
 # _data/navigation.yml
 primary:
+  - text: About this guide
+    href: /
   - text: Our approach
     href: /our-approach/
   - text: Research
