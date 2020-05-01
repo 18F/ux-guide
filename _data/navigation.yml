@@ -9,7 +9,7 @@ primary:
   - text: Design
     href: /design/
 
-about:
+overview:
   - text: About this guide
     href: /
   - text: License

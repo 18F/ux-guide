@@ -3,7 +3,7 @@ layout: page
 permalink: /resources/
 layout: post
 title: Resources
-sidenav: about
+sidenav: overview
 sticky_sidenav: true
 ---
 
