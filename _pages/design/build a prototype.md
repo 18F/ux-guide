@@ -1,7 +1,7 @@
 ---
 permalink: /design/build-a-prototype/
 layout: post
-title: Build a prototype (coming soon)
+title: Build a prototype
 sidenav: design
 sticky_sidenav: true
 ---
