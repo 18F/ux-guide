@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /our-approach/values-and-principles/
 layout: post
 title: Values and principles
+permalink: /our-approach/values-and-principles/
 sidenav: our-approach
 sticky_sidenav: true
 ---

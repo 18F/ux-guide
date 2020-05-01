@@ -1,7 +1,7 @@
 ---
-permalink: /design/build-a-prototype/
 layout: post
 title: Build a prototype
+permalink: /design/build-a-prototype/
 sidenav: design
 sticky_sidenav: true
 ---

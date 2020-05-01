@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /research/make-research-actionable/
 layout: post
 title: Make research actionable
+permalink: /research/make-research-actionable/
 sidenav: research
 sticky_sidenav: true
 subnav:

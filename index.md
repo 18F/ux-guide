@@ -1,8 +1,7 @@
 ---
-layout: home
-permalink: /
-layout: page
+layout: post
 title: About this guide
+permalink: /
 sidenav: overview
 sticky_sidenav: true
 ---

@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /research/do/
 layout: post
-title: Do 
+title: Do
+permalink: /research/do/ 
 sidenav: research
 sticky_sidenav: true
 subnav:

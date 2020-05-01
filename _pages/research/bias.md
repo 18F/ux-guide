@@ -1,7 +1,7 @@
 ---
-permalink: /research/bias/
 layout: post
-title: Bias 
+title: Bias
+permalink: /research/bias/ 
 sidenav: research
 sticky_sidenav: true
 ---

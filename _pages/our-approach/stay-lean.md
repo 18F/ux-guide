@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /our-approach/stay-lean/
 layout: post
 title: Stay lean 
+permalink: /our-approach/stay-lean/
 sidenav: our-approach
 sticky_sidenav: true
 ---
@@ -29,7 +28,7 @@ We start with user needs framed as problem statements. A problem statement descr
 
 Problem statements can be expressed in this format:
 
->We have observed that [product/service/organization] isn’t meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our product/service/team/organization is more successful based on [these measurable criteria]?
+> We have observed that [product/service/organization] isn’t meeting [these goals/needs], which is causing [this adverse effect]. How might we improve so that our product/service/team/organization is more successful based on [these measurable criteria]?
 
 
 ### Identifying Assumptions
