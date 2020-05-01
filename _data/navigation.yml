@@ -1,6 +1,6 @@
 # _data/navigation.yml
 primary:
-  - text: About this guide
+  - text: Overview
     href: /
   - text: Our approach
     href: /our-approach/
@@ -8,6 +8,14 @@ primary:
     href: /research/
   - text: Design
     href: /design/
+
+about:
+  - text: About this guide
+    href: /
+  - text: License
+    href: /license/
+  - text: Resources
+    href: /resources/
 
 our-approach:
   - text: Values and principles
