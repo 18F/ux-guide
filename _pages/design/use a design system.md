@@ -1,7 +1,7 @@
 ---
 permalink: /design/use-a-design-system/
 layout: post
-title: Use a design system (coming soon)
+title: Use a design system
 sidenav: design
 sticky_sidenav: true
 ---
