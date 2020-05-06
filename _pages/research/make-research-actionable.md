@@ -6,11 +6,19 @@ sidenav: research
 sticky_sidenav: true
 subnav:
   - text: From data to insights
-    href: '#From-data-to-insights'
+    href: '#from-data-to-insights'
+  - text: De-identifying data
+    href: '#de-identifying data'
   - text: Insights into action
-    href: '#Insights-into-action'
+    href: '#insights-into-action'
   - text: Sharing
-    href: '#Sharing'
+    href: '#sharing'
+  - text: Publishing on Github
+    href: '#publishing-on-github'
+  - text: Handing off research responsibly
+    href: '#handing-off-research-responsibly'
+  - text: Additional reading
+    href: '#additional-reading'
 ---
 
 Design research is most valuable when it leads to shared understanding.  Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
