@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Design (coming soon) 
+title: Design 
 permalink: /design/
 layout: post
 sidenav: design
 sticky_sidenav: true
 ---
 
-This section of our UX guide is almost ready! Check back soon. :)
