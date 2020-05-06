@@ -4,6 +4,15 @@ title: About this guide
 permalink: /
 sidenav: overview
 sticky_sidenav: true
+subnav:
+  - text: What this guide is
+    href: '#what-this-guide-is'
+  - text: How to use this guide
+    href: '#how-to-use-this-guide'
+  - text: Reusing this guide
+    href: '#reusing-this-guide-in-other-organizations'
+  - text: References
+    href: '#references'
 ---
 
 18F user experience (UX) designers join cross-functional teams to improve interactions between government agencies and the people they serve. The 18F UX Guide helps us get this job done. It’s a starting point for UX design at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
