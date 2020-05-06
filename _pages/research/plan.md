@@ -1,7 +1,7 @@
 ---
-permalink: /research/plan/
 layout: post
 title: Plan 
+permalink: /research/plan/
 sidenav: research
 sticky_sidenav: true
 subnav:

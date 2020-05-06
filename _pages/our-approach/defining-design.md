@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /our-approach/defining-design/
 layout: post
-title: Defining design 
+title: Defining design
+permalink: /our-approach/defining-design/ 
 sidenav: our-approach
 sticky_sidenav: true
 ---

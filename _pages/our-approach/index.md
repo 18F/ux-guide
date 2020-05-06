@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /our-approach/
 layout: post
 title: Our approach
+permalink: /our-approach/
 sidenav: our-approach
 sticky_sidenav: true
 ---

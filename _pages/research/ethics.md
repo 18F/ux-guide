@@ -1,7 +1,7 @@
 ---
-permalink: /research/ethics/
 layout: post
-title: Ethics 
+title: Ethics
+permalink: /research/ethics/ 
 sidenav: research
 sticky_sidenav: true
 subnav:

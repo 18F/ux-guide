@@ -1,6 +1,9 @@
 ---
+layout: post
 title: License
-permalink: /license
+permalink: /license/
+sidenav: overview
+sticky_sidenav: true
 ---
 
 As a work of the federal government, this project is in the public domain within the United States.
