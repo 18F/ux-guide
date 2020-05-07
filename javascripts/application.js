@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
-    defaultMessage: "This link is private to TTS (Technology Transformation Services).",
+    defaultMessage: "This link is private to GSA.",
     ignoreUrls: [
       'gsa-tts.slack.com',
       'anywhere.gsa.gov',
