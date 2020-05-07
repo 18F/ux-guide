@@ -32,6 +32,10 @@ theme: uswds-jekyll
 plugins:
   - jekyll-feed
 
+scripts:
+  - javascripts/private-eye.js
+  - javascripts/application.js
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
