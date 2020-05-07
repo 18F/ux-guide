@@ -18,18 +18,18 @@ A workshop template for publicizing team questions and prioritizing research the
 
 ### [Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) ([GDoc](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo))
 
-Our agreement for anyone participating in moderated design research. 
+Our agreement for anyone participating in moderated design research.
 
 Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause (see ([Legal](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU), and links to [GSA’s Privacy Act Statement](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia). You should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel.
 
 ### [Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-script.md) ([GDoc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))
-An example guide for moderating in-depth interviews with users. 
+An example guide for moderating in-depth interviews with users.
 
 ### [Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) ([GDoc](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit))
 A checklist for planning and conducting in-depth interviews.
 
 ### [Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief.md) ([GDoc](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit))
-An example guide for teams leading a post-interview debrief. 
+An example guide for teams leading a post-interview debrief.
 
 ### [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))
 18F’s Design Research is covered by our [Privacy Act Notice for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
@@ -72,10 +72,10 @@ Whenever you’re in need of a particular skill — help polishing a presentatio
 - [List of prior path analyses](https://github.com/18F/path-analysis/blob/master/projects.md)
 - [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)
 - [Six weird tips for protecting PII](https://drive.google.com/a/gsa.gov/open?id=1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg)
-- [Usability test quality heuristics (GSA only)](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)
-- [Artifacts from design-led projects (GSA only)](https://drive.google.com/drive/folders/1NZG-bxIeFiOw0sAn32a4APJc_TipCrQp)
+- [Usability test quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)
+- [Artifacts from design-led projects](https://drive.google.com/drive/folders/1NZG-bxIeFiOw0sAn32a4APJc_TipCrQp)
 - [Checklist of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
-- [Quickstart: Intercept (pop-up) research in GSA buildings (GSA only)](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz)
+- [Quickstart: Intercept (pop-up) research in GSA buildings](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz)
 
 ### Guides
 
