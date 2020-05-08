@@ -87,11 +87,6 @@
 
         if (anchorHref.indexOf(hrefValue.toLowerCase()) !== -1) {
           anchor.className += ' private-link';
-
-          // Only replace the anchor's title if it is empty
-          if (!anchor.title) {
-            anchor.title = titleValue;
-          }
         }
       });
     });
