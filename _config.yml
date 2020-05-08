@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 
 scripts:
+  - assets/uswds/js/uswds.min.js
   - javascripts/private-eye.js
   - javascripts/application.js
 
