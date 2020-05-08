@@ -53,10 +53,7 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 
 You can also participate in local communities of practice in by joining:
 - [Content guild (#g-content)](https://gsa-tts.slack.com/messages/g-content)
-- [Analytics guild (#g-analytics)](https://gsa-tts.slack.com/messages/g-analytics/)
-- [Frontend guild (#g-frontend)](https://gsa-tts.slack.com/messages/g-frontend)
 - [Accessibility guild (#g-accessibility)](https://gsa-tts.slack.com/messages/g-accessibility/)
-- [Agile guild (#g-agile)](https://gsa-tts.slack.com/messages/g-agile/)
 - [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Labs
