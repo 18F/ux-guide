@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6,
     color: $color-dark;
   }
 
-  p {
+  p, li {
     color: $color-base;
   }
 }
@@ -123,7 +123,7 @@ a:hover {
 }
 
 // Set max-width to contain long H4-H6 text
-.usa-prose > h4, 
+.usa-prose > h4,
 .usa-prose > h5,
 .usa-prose > h6 {
   max-width: 40em;
@@ -148,4 +148,4 @@ a:hover {
 pre {
   white-space: pre-wrap;
   max-width: 30em;
-} 
+}
