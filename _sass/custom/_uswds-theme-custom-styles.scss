@@ -149,3 +149,17 @@ pre {
   white-space: pre-wrap;
   max-width: 30em;
 }
+
+// Show Slack icon before Slack Links
+a[href^="https://gsa-tts.slack.com"]::before {
+  content: "";
+  $size: 30px;
+  width: $size;
+  height: $size;
+  display: inline-block;
+  vertical-align: middle;
+  margin: -3px -4px 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url("/images/Slack_Mark.svg");
+}
