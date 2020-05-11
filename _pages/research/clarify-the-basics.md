@@ -46,17 +46,17 @@ Because a collaborative approach [increases the team’s overall empathy and eff
 On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into three categories:
 
 
-## Foundational research
+### Foundational research
    
 Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://github.com/18F/path-analysis) engagements and results in, among other things, a [problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
 
 
-## Generative research
+### Generative research
 
 Generative research helps you better frame the problem(s) you’re solving, spark new ideas, and reveal opportunities. Generative research helps you ask: What are our users’ goals, behaviors, and pain points? What is their context? How might we address the problems we’ve identified? What does success look like?
 
 
-## Evaluative research
+### Evaluative research
 
 Evaluative research is the research you do to test assumptions, hypotheses, and the ease of use of design solutions, such as prototypes. Evaluative research helps you ask: Am I building the right thing—or if this research is done regularly, am I building the thing right? Does it meet user needs?
 
