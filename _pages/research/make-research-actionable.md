@@ -7,8 +7,6 @@ sticky_sidenav: true
 subnav:
   - text: From data to insights
     href: '#from-data-to-insights'
-  - text: De-identifying data
-    href: '#de-identifying data'
   - text: Insights into action
     href: '#insights-into-action'
   - text: Sharing
