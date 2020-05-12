@@ -32,7 +32,7 @@ An example guide for teams leading a post-interview debrief.
 [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))  
 18F’s Design Research is covered by our [Privacy Act Notice for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
-[Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.gedd277167_0_280) (GSA only)  
+[Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.gedd277167_0_280)
 A starting point for sharing what you learned during a path analysis or discovery sprint. (18F staff: See these report templates: [template 1](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit), [template 2](https://docs.google.com/document/d/1mohw86sAoNrwZ6MnIMlX8420IkFWV2kPkB4a_XwbCm8/edit))
 
 ## Email templates
@@ -57,7 +57,7 @@ You can also participate in local communities of practice in by joining:
 - [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Labs
-Whenever you’re in need of a particular skill — help polishing a presentation; content design; or a front-end development — 18F’s internal labs can provide support. The development, writing, and design labs are virtual centers, staffed by 18F colleagues from various teams to provide personalized help within each discipline. Any 18F project is eligible for help (with preference towards billable work as it aids in our goal towards cost recoverability). For more information, visit the [Writing lab](https://handbook.18f.gov/writing-lab/#portfolio-of-services), [Design lab](https://github.com/18F/design-lab), and [Dev lab](https://gsa-tts.slack.com/messages/CDE5DU7QC/) (on Slack).
+Whenever you’re in need of a particular skill — help polishing a presentation; content design; or a front-end development — 18F’s internal labs can provide support. The development, writing, and design labs are virtual centers, staffed by 18F colleagues from various teams to provide personalized help within each discipline. Any 18F project is eligible for help (with preference towards billable work as it aids in our goal towards cost recoverability). For more information, visit the [Writing lab](https://handbook.18f.gov/writing-lab/#portfolio-of-services), [Design lab](https://github.com/18F/design-lab), and [Dev Slack channel](https://gsa-tts.slack.com/messages/C02CD5VUQ/).
 
 ### Tools
 - [Federalist](https://federalist.18f.gov/)
@@ -88,7 +88,7 @@ Whenever you’re in need of a particular skill — help polishing a presentatio
 - [Agile](https://agile.18f.gov/)
 - [Before you ship](https://before-you-ship.18f.gov/)
 
-## Presentations (GSA only)
+## Presentations
 
 - [What is design?](https://drive.google.com/open?id=1dFVWZQzSGMUEj8oDQ_i3Ja0B4z1TFzuPGnYoO4sBAK4)
 - [Introduction to design](https://docs.google.com/presentation/d/10umIwSBuOoEBiNkAQr0ptC91yusdLmfeuAUrqrHDxYk/edit#slide=id.g3cf5b659b1_0_60)

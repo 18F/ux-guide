@@ -107,7 +107,7 @@ In evaluative research such as [usability testing](https://methods.18f.gov/valid
 
 1. **Clarify the tasks your sessions will investigate.** Tasks are often included in artifacts such as personas or user stories. If your team doesn’t yet have those artifacts, ask them to identify “the most essential things that people need to do” relative to your research area of focus. Then pick the top two or three tasks the prototype will need to depict.
 
-2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session. [Here’s a boilerplate usability test guide](https://methods.18f.gov/usability-test-script/) (GSA staff: here’s [a Google Docs version](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#heading=h.cb9ci3qbjc56)).
+2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session. [Here’s a boilerplate usability test guide](https://methods.18f.gov/usability-test-script/) ([Google Docs version](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#heading=h.cb9ci3qbjc56)).
 
 3. **Discuss with your team how and when you’ll share the prototype** (for example, sharing a link to an online prototype or sending a document).
 
@@ -137,7 +137,7 @@ Most 18F interview guides include these sections:
 - Concluding thanks, questions, and opportunities to follow up
 - Ask who else you should meet with (if appropriate)
 
-For starting points, see this [example interview guide](https://methods.18f.gov/interview-script/) (GSA Staff: [See this Google Doc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
+For starting points, see this [example interview guide](https://methods.18f.gov/interview-script/) ([Google Doc version of interview guide](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
 
 When interviewing stakeholders, ask about their work as it relates to your research area of focus. Ask about business processes in which they play a role, the information and tools they use, the things they produce or make, and the decisions they’re responsible for. Ask about the people they work with on a regular basis and any challenges they face.
 
@@ -174,7 +174,7 @@ Make a list of places where participants are likely to be, both on- and offline.
 
 - Relevant community organizations
 - Government-run events
-- Government buildings (GSA staff, see [Doing pop-up research in GSA buildings](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz))
+- Government buildings ([Doing pop-up research in GSA buildings](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz))
 - Personal and professional networks, social media, mailing lists, etc.
 - The new or existing website
 
@@ -203,7 +203,7 @@ Getting informed consent ensures that:
 - The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy))
 - The research complies with The Antideficiency Act (see [Legal]({{site.baseurl}}/research/legal))
 
-Copy and customize [this example design research participant agreement](https://methods.18f.gov/participant-agreement/) (GSA staff: you can use [this Google Docs Template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) or [this Google form](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit)) to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
+Copy and customize [this example design research participant agreement](https://methods.18f.gov/participant-agreement/) ([Google Docs version of template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) or [Google form version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit)) to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
 
 Correspond with participants ahead of time to explain things that might otherwise get lost in the agreement-signing process. In the event that a participant has not signed an agreement ahead of the interview, obtain their verbal consent. In order to give their informed consent, participants need to understand:
 
@@ -224,8 +224,8 @@ You must also let participants know:
 
 There are two email templates available to help with participant correspondence:
 
-1. [Template for introducing yourself](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md)<br />(GSA Staff: here’s a [Google Docs version of email introducing yourself](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg))
-2. [Template for passing along a participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md)<br />(GSA staff: here's a [Google Docs version of email to accompany participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit)).
+1. [Template for introducing yourself](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md)<br />([Google Docs version of email introducing yourself](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg))
+2. [Template for passing along a participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md)<br /> ([Google Docs version of email to accompany participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit)).
 
 Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable.
 
@@ -245,11 +245,11 @@ Research participants are doing us a favor, so you should do everything you can 
 
 Also remember to:
 
-- Make sure calendar invites are clear, both to participants and to your team. For PII protection, it can sometimes make sense to use separate team-facing and participant-facing invites and set appointments to “private” visibility. (For GSA staff: [Google Suite instructions for how to do change privacy settings](https://support.google.com/calendar/answer/34580?co=GENIE.Platform%3DDesktop&hl=en)).
+- Make sure calendar invites are clear, both to participants and to your team. For PII protection, it can sometimes make sense to use separate team-facing and participant-facing invites and set appointments to “private” visibility. [Google Suite instructions for how to do change privacy settings](https://support.google.com/calendar/answer/34580?co=GENIE.Platform%3DDesktop&hl=en).
 
 - Schedule a little more time than you think you’ll need — it can take a few minutes to get everyone on the line, or you may have to work through technical issues. An extra 15 minutes can keep it from feeling rushed.
 
-- Your calendar’s appointment feature may help you cut down on the email correspondence when scheduling sessions with multiple participants. (For GSA: [Google calendar instructions on appointment slots](https://support.google.com/calendar/answer/190998?hl=en)). If you use this feature, note that you can’t set the appointments to be private beforehand; you’ll need to change the privacy after participants have signed up for a slot.
+- Your calendar’s appointment feature may help you cut down on the email correspondence when scheduling sessions with multiple participants. Google calendar instructions on appointment slots](https://support.google.com/calendar/answer/190998?hl=en). If you use this feature, note that you can’t set the appointments to be private beforehand; you’ll need to change the privacy after participants have signed up for a slot.
 
 - Confirm with participants that they’ll be able to use conferencing, video, or screen sharing tools and test the setup ahead of your session; create a backup plan if they can’t.
 
@@ -260,7 +260,7 @@ Also remember to:
 
 - If you conduct research sessions via Google Meet and initiate a screen recording, the video will be saved to the Google Drive of the person who created the meeting. A link to the video will be added to the calendar event after the meeting.
 
-Your agency partners can often assist in the scheduling process, particularly when setting up sessions with stakeholders. Don’t hesitate to ask them for help! You can provide them with a tailored version of this [email where stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). (For GSA: [Google docs version of email where stakeholder introduces researcher](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).
+Your agency partners can often assist in the scheduling process, particularly when setting up sessions with stakeholders. Don’t hesitate to ask them for help! You can provide them with a tailored version of this [email where stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). ([Google docs version of email](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).
 
 ## Moderating research sessions
 
@@ -273,7 +273,7 @@ Before each session, you should double-check:
 - Your primary documentation method
 - That you have a backup documentation method (such as a notepad and a pen)
 
-Moderating a research session can be nuanced, but we encourage all team members to be involved. Make sure participants are comfortable and that facilitators, notetakers, and other team members are prepared. We created [a checklist of best practices for interviews](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). (For GSA staff: [Google docs version of the checklist](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit).) The checklist includes:
+Moderating a research session can be nuanced, but we encourage all team members to be involved. Make sure participants are comfortable and that facilitators, notetakers, and other team members are prepared. We created [a checklist of best practices for interviews](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). ([Google docs version of the checklist](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)). The checklist includes:
 
 - Keep an eye on the time. Decide beforehand which questions or activities you must cover and which ones you can cut if you run out of time.
 
@@ -285,7 +285,7 @@ Moderating a research session can be nuanced, but we encourage all team members 
 
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
-While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating these can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability testing quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit#heading=h.y2rdboc1uj3o) (GSA only at the moment). If you’re interested in developing more guides, the research guild is a great place to find collaborators.
+While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating these can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability testing quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit#heading=h.y2rdboc1uj3o). If you’re interested in developing more guides, the research guild is a great place to find collaborators.
 
 ### Tips for remote research
 

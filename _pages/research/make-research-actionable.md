@@ -74,7 +74,7 @@ Outside of writing a summary, you should choose your methods based on the desire
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
 
-Any approved tool can be used. For GSA staff: We’ve listed some of our [approved, commonly used tools](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit).
+Any approved tool can be used. We’ve listed some of our [approved, commonly used tools](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit).
 
 
 ## Insights into action
@@ -88,7 +88,7 @@ Turning insights into action helps us answer and communicate:
 
 Artifacts that we use to do this include:
 
-- [Presentations template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21) (link for GSA staff only)
+- [Presentations template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)
 - [Design Hypotheses](https://methods.18f.gov/decide/design-hypothesis/)
 - [Design Principles](https://methods.18f.gov/decide/design-principles/)
 - [Personas](https://methods.18f.gov/decide/personas/)
@@ -135,7 +135,7 @@ Sharing research is all about storytelling. When packaging research, think about
 
 The most common way we socialize our research is through presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-- Utilize the 18F branded templates to save time and help maintain consistency. For GSA staff, here is [a research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21) to start with for research presentations.
+- Utilize the 18F branded templates to save time and help maintain consistency. ([Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)) to start with for research presentations.
 
 - Work with the [Writing](https://gsa-tts.slack.com/app_redirect?channel=writing-lab) and [Design Labs](https://gsa-tts.slack.com/app_redirect?channel=design-lab) if you are uncertain how to articulate or visualize an idea.
 The presentation should have enough text in it that someone who wasn’t in the room can read through it and understand the project.
@@ -166,7 +166,7 @@ Research handoffs occur when wrapping up a round of research or an engagement, w
 
 - What will the next research team who picks this up this need to know?
 
-- Are the notes, recordings, and findings properly organized? Hint (for GSA staff): here is [a list of things to catalog](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit).
+- Are the notes, recordings, and findings properly organized? ([List of things to catalog](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit)).
 
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
 

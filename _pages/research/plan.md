@@ -31,7 +31,7 @@ A research plan (sometimes also called a research protocol), describes the desig
 - Ethics considerations
 - Outputs and outcomes
 
-18F maintains [a research plan template on GitHub](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) (GSA staff: here’s [a Google Docs version](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
+18F maintains [a research plan template on GitHub](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) ([Google Docs version](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
 
 - Openly commit to learning more about the problem(s) at hand
 - Agree on which information is most useful for informing future decisions
@@ -59,7 +59,7 @@ What do you want to learn to make better evidence-based decisions? Research ques
 
 - **Good question:** How do unemployed adults navigate their job search in their first six months of unemployment? (This question is good because it seeks to gain a fuller picture of unemployed adults within the context of a specific activity in a specified period of time.)
 
-Consider holding a [research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) (GSA Staff, see [this Google doc version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf) or [this research alignment presentation](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)) to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
+Consider holding a [research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) ([Google doc version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf) and [research alignment presentation](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)) to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
 
 ### Methods
 Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected from a single source and create a more complete understanding.
