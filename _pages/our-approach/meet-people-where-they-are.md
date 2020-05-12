@@ -4,6 +4,19 @@ title: Meet partners where they are
 permalink: /our-approach/meet-partners-where-they-are/
 sidenav: our-approach
 sticky_sidenav: true
+subnav:
+  - text: Ability to participate
+    href: '#ability-to-participate'
+  - text: Design maturity
+    href: '#design-maturity'
+  - text: Remote friendliness
+    href: '#remote-friendliness'
+  - text: Access to collaboration tools
+    href: '#access-to-collaboration-tools'
+  - text: Security and privacy norms
+    href: '#security-and-privacy-norms'
+  - text: Policy
+    href: '#policy'
 ---
 
 Meeting partners where they are encourages a more participatory, and therefore sustainable, design process.
@@ -75,7 +88,6 @@ Engaging partners in conversations about how they might level-up in their practi
 People who are new to design will need to appreciate its direct benefits (like improved usability and customer adoption) before its indirect benefits (such as helping the team identify the most important problems for them to solve). We aim to give our partners something tangible, and let them experience the show before pulling back the curtain.
 
 
-
 ## Remote friendliness
 
 18F is a distributed team for many reasons. For example, being distributed allows us to hire people who would not traditionally join government or move to DC. It also allows us to include a broader cross-sampling of people when conducting design research. Being remote-first requires we maintain [a number of remote-friendly practices](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/).
@@ -92,7 +104,6 @@ Depending on the answers to the above questions we might:
 - Modify activities to facilitate  remote or in-person participation, depending on what the project calls for  (for example, arranging digital sticky notes on a digital whiteboard rather than using paper sticky notes).
 
 
-
 ## Access to collaboration tools
 
 18F has fairly unique access (within the US federal government, at least) to web-based collaboration software, including chat, whiteboards, wireframing, and prototyping tools. Our agency partners may not have access to these tools, or may be prohibited from using them the way we do. For example, they may be able to video chat, but may be unable to share their screen.
@@ -100,7 +111,6 @@ Depending on the answers to the above questions we might:
 We coordinate with partners to identify which combination of tools will work best for our collaboration, often using a mix of communication tools already in use by the partner agency and new tools to which 18F can share access.
 
 Our collaborations are frequently anchored by at least one or two in-person sessions, where we may use analog tools such as sticky notes, pencil, and paper, or conduct in-person research such as observation that can later be documented in a digital form.
-
 
 
 ## Security and privacy norms
@@ -119,8 +129,8 @@ We discuss privacy norms and relevant information practices to ensure mutual und
 - [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) Desk Officer
 
 
-
 ## Policy
+
 Practicing user-centered design in government is complex. In some cases, we can find that policy dictates decisions we otherwise thought were ours to make about how a product or service functions or how we carry out the user-centered design process. For example, as we helped build [the new FEC.gov](https://18f.gsa.gov/2017/05/30/the-new-fec/) 18F conducted usability testing to see how our proposed designs might affect the site’s usability. If we were to suggest changes to the forms that campaigns use to file with the FEC, the FEC might be legally required to solicit public feedback in the Federal Register over a multi-month period.
 
 As we collaboratively design with partners, we should ask:

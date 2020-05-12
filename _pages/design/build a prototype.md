@@ -4,6 +4,15 @@ title: Build a prototype
 permalink: /design/build-a-prototype/
 sidenav: design
 sticky_sidenav: true
+subnav:
+- text: Communicating with prototypes
+  href: '#communicating-with-prototypes'
+- text: Building prototypes with Federalist
+  href: '#building-prototypes-with-federalist'
+- text: Getting started with Federalist
+  href: '#getting-started-with-federalist'
+- text: Authorized prototyping tools
+  href: '#authorized-prototyping-tools'
 ---
 
 Prototypes are useful to inform a new concept, identify how to refactor an existing product feature, service, or process, and help uncover current development unknowns.
@@ -54,6 +63,7 @@ Federalist also provides a number of [templates](https://federalist.18f.gov/page
 
 ## Getting started with Federalist
 When you’re ready to get started with Federalist, you’ll want to jump into the [#federalist-support room on Slack](https://chat.18f.gov/) and ask the team to add your Github account to Federalist.
+
 Once they’ve added your account, you can [sign in](https://federalistapp.18f.gov/) by authorizing access to your Github account and checking out the [Using Federalist guide](https://federalist.18f.gov/pages/using-federalist/).
 
 

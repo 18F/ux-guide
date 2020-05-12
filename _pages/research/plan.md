@@ -7,15 +7,22 @@ sticky_sidenav: true
 subnav:
   - text: Writing a research plan
     href: '#writing-a-research-plan'
+  - text: Participants and recruiting
+    href: '#participants-and-recruiting'
+  - text: Ethical considerations
+    href: '#ethical-considerations'
+  - text: Outputs and outcomes
+    href: '#outputs-and-outcomes'
   - text: Involving partners in research planning
-    href: '#Involving-partners-in-research-planning'
+    href: '#involving-partners-in-research-planning'
   - text: Documenting research
-    href: '#Documenting-research'
+    href: '#documenting-research'
   - text: Additional reading
-    href: '#Additional-reading'
+    href: '#additional-reading'
 ---
 
 Planning ensures that everyone’s time is respected throughout the research process, and helps the team adapt its approach in response to the real world.
+
 
 ## Writing a research plan
 
@@ -62,6 +69,7 @@ What do you want to learn to make better evidence-based decisions? Research ques
 Consider holding a [research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) ([Google doc version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf) and [research alignment presentation](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)) to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
 
 ### Methods
+
 Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected from a single source and create a more complete understanding.
 [18F’s Methods](https://methods.18f.gov/) provide an overview of our preferred research and design methods. Use these as a starting point, not as a list of constraints.
 
@@ -114,6 +122,7 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 | Communicating the results | 2 days|
 | Sharing | 1 day |
 
+
 ## Participants and recruiting
 
 Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying target groups and defining your recruitment criteria relative to your research question.
@@ -149,11 +158,13 @@ If you’re doing usability testing, consider the following questions as well:
 
 Regardless of how you arrive at them, review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
+
 ## Ethical considerations
 
 Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
 
 Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
+
 
 ## Outputs and outcomes
 
@@ -163,6 +174,7 @@ Before you get started, discuss with your team (including your agency partners) 
 - **Outcomes** are the changes you expect to see through doing the research. Outcomes should tie back to the goals and subgoals listed earlier. How will doing the research impact the product being developed, the people involved, etc.? How will you know?
 
 We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid overspecifying your outputs, because you have no way of knowing what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research](#documenting-research).
+
 
 ## Involving partners in research planning
 
@@ -195,6 +207,7 @@ An example agenda for a research planning meeting might include:
 | Review (or co-create) session materials (such as interview guides, wireframes, or prototypes) | 1:30 |
 | Discuss desired outputs and outcomes | 2:30 |
 | Establish roles| 3:00pm |
+
 
 ## Documenting research
 
@@ -234,4 +247,5 @@ Regardless of the method you choose, it’s good to keep in mind the overall rea
 - We create a starting point for analysis and synthesis.
 
 ## Additional reading
+
 - [Examples of past research plans from past 18F projects](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)

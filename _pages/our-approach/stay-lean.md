@@ -4,6 +4,13 @@ title: Stay lean
 permalink: /our-approach/stay-lean/
 sidenav: our-approach
 sticky_sidenav: true
+subnav:
+  - text: Lean UX at 18F
+    href: '#lean-ux-at-18f'
+  - text: Lean UX Principles
+    href: '#lean-ux-principles'
+  - text: Acknowledgements
+    href: '#acknowledgements'
 ---
 
 18F UX designers take a collaborative, outcome-focused approach to our work. We manage risk through continuous learning. Each new iteration builds on the user-validated research of the previous iteration.
@@ -88,6 +95,7 @@ In addition to our team principles, the following principles from Lean UX are es
 **Make assumptions explicit.** We write down and discuss the assumptions we have about users and the problems they face as part of our research planning process, and [test the riskiest or most critical assumptions](https://mvpworkshop.co/validate-riskiest-assumption/) as early as possible.
 
 **Prioritize.** Ruthless and ongoing prioritization is essential to our focus.
+
 
 ## Acknowledgements
 

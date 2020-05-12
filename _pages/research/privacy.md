@@ -5,6 +5,8 @@ permalink: /research/privacy/
 sidenav: research
 sticky_sidenav: true
 subnav:
+  - text: Personally Identifiable Information (PII)
+    href: '#personally-identifiable-information-pii'
   - text: Guidelines
     href: '#guidelines'
   - text: Additional reading
@@ -14,6 +16,7 @@ subnav:
 18F’s research practices are grounded in building and maintaining trust.  When participants trust us they are more likely to share full and accurate accounts of their experiences. A large part of maintaining participant trust involves protecting participant privacy.
 
 ***Disclaimer:*** *This page is intended for internal use. It is shared in the spirit of open source, to prompt conversations around design research as it relates to privacy. GSA has no regulatory authority over any of the laws discussed in this section, so don’t just take our word for it.*
+
 
 ## Personally Identifiable Information (PII)
 
@@ -31,6 +34,7 @@ Each piece of collected or stored PII increases the risk of privacy violations. 
 - Protect agency-held PII against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to the participant.
 
 18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf). The [TTS Research Guild](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
+
 
 ## Guidelines
 
