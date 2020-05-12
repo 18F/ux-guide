@@ -4,6 +4,13 @@ title: Legal
 permalink: /research/legal/
 sidenav: research
 sticky_sidenav: true
+subnav:
+- text: The Antideficiency Act
+  href: '#the-antideficiency-act'
+- text: The Paperwork Reduction Act of 1995
+  href: '#the-paperwork-reduction-act-of-1995'
+- text: Additional questions
+  href: '#additional-questions'
 ---
 
 18F designs our research to account for [The Antideficiency Act](https://www.gao.gov/legal/lawresources/antideficiency.html) and [The Paperwork Reduction Act of 1995 (PRA)](https://www.govinfo.gov/content/pkg/PLAW-104publ13/html/PLAW-104publ13.html), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
@@ -24,13 +31,11 @@ As a general matter, agency funds are not available to provide [incentives](http
 
 [The Paperwork Reduction Act](https://www.govinfo.gov/content/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) (PRA) is a law governing how federal agencies collect information from the American public. We want to be good stewards of the public’s time, and not overwhelm them with unnecessary or duplicative requests for information. We also want to make sure the data we collect is accurate, helpful, and a good fit for its proposed use. In general, the PRA applies whenever you are requesting the same information from ten or more people over a 12-month period. [Office of Information and Regulatory Affairs](https://www.whitehouse.gov/omb/information-regulatory-affairs/) (OIRA) within the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) reviews and approves Government collections of information from the public under the PRA.
 
-
 ### Research methods and modes
 
 In their [Flexibilities under the Paperwork Reduction Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/pra_flexibilities_memo_7_22_16_finalI.pdf) memo, OIRA says that (emphasis added) “OMB does not generally consider facts or opinions obtained through **direct observation** by an employee or agent of the sponsoring agency or through **non-standardized oral communications** in connection with such direct observations to be information under the PRA.” 
 
 18F UX designers generally comply with PRA by showing preference for qualitative research methods (such as semi-structured interviews and usability tests) and research modes that involve direct observation. Moreover, [we often find that we reach saturation](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) before speaking with ten or more people (though note that for structured information collections, a response of any kind counts towards the ten; even “no, thank you”). We work with our partner agency’s PRA desk officer whenever we want to collect structured information from ten or more people.
-
 
 ### Intercepts
 

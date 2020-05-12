@@ -11,12 +11,12 @@ subnav:
     href: '#responsibility'
   - text: Honesty
     href: '#honesty'
-
 ---
 
 Research provides us with powerful opportunities. The following ethical principles help guide us through some of the choices that this work can present. 
 
 ***Disclaimer:*** *These principles are meant to serve in addition to your basic ethical obligations as public servants. They are for internal use only, and shared in the spirit of open source. If you have questions, contact your supervisor, GSA’s Privacy Office, or Ethics Legal counsel.*
+
 
 ## Respect
 
@@ -55,7 +55,7 @@ We have a responsibility to further the best interests of the people and the cou
 
 - Accounting for diversity and inclusion in your recruiting (for example, by specifically recruiting people who use a screen reader to navigate your website)
 
-- [Protecting participant privacy](({{site.baseurl}}/research/privacy) 
+- [Protecting participant privacy]({{site.baseurl}}/research/privacy) 
 
 
 ## Honesty
@@ -63,6 +63,7 @@ We have a responsibility to further the best interests of the people and the cou
 Design research should never be covert or manipulative. We provide clear descriptions of our data practices in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
 
 ### Demonstrate this principle by:
+
 - Acknowledge that all research is subject to [bias]({{site.baseurl}}/research/bias), and actively work to counter it 
 
 - Be honest about what you can and cannot conclude based on your research. Do not overstate your findings.

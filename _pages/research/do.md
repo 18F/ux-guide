@@ -5,14 +5,20 @@ permalink: /research/do/
 sidenav: research
 sticky_sidenav: true
 subnav:
-  - text: Supporting documents
-    href: '#set-up-supporting-documents'
-  - text: Make a record
-    href: '#make-a-consistent-usable-record-of-the-session'
-  - text: Prep logistics
-    href: '#prepare-logistics-to-respect-users-time'
-  - text: Talk to the user
-    href: '#make-the-user-comfortable'
+  - text: Reviewing what’s already known
+    href: '#reviewing-whats-already-known'
+  - text: Designing your research sessions
+    href: '#designing-your-research-sessions'
+  - text: Doing a practice session
+    href: '#doing-a-practice-session'
+  - text: Corresponding with participants
+    href: '#corresponding-with-participants'
+  - text: Moderating research sessions
+    href: '#moderating-research-sessions'
+  - text: Debriefing
+    href: '#debriefing'
+  - text: Additional reading
+    href: '#additional-reading'
 ---
 
 [Planning]({{site.baseurl}}/research/plan) research helps you identify the team’s goals, methods, etc. for its research. Doing research involves engaging with previously agreed upon knowledge, participants, and data.
@@ -29,6 +35,7 @@ This article covers tasks agreed to and implied during research planning such as
 - Facilitating research sessions
 
 - Debriefing
+
 
 ## Reviewing what’s already known
 
@@ -360,6 +367,7 @@ Another style of note taking we commonly use is **interaction notes:** when we w
   
 Content audits frequently use **spreadsheet notes:** these are used to track insights and quality of existing content. 
 
+
 ## Debriefing
 
 Debriefing is a useful way to discuss and capture what everyone took away from a session. It is important to debrief shortly after each session, while the details are still fresh in everyone’s minds. Keep in mind, debriefing is not synthesis — unless you're doing continuous synthesis, it's good to keep it descriptive only and move assessment until later in the research process.
@@ -377,6 +385,7 @@ Here are a few high-level things to capture in a debrief:
 - Are there any new people we should talk to? 
 
 You may want to use this [example interview debrief worksheet](https://methods.18f.gov/interview-debrief/); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting. 
+
 
 ## Additional reading
 - [Tips for capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)

@@ -4,6 +4,21 @@ title: Bias
 permalink: /research/bias/ 
 sidenav: research
 sticky_sidenav: true
+subnav:
+  - text: Research design bias
+    href: '#research-design-bias'
+  - text: Sampling bias
+    href: '#sampling-bias'
+  - text: Interviewer bias
+    href: '#interviewer-bias'
+  - text: Social desirability bias
+    href: '#social-desirability-bias'
+  - text: Confirmation bias
+    href: '#confirmation-bias'
+  - text: The observer effect
+    href: '#the-observer-effect-the-hawthorne-effect'
+  - text: Avoiding bias
+    href: '#avoiding-bias'
 ---
 
 All research is subject to bias, whether in our choice of who participates,  which pieces of information are collected, or how they’re interpreted. Proactively engaging with bias helps us improve the credibility of our research. The following list is our starting point. 

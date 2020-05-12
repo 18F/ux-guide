@@ -4,11 +4,16 @@ title: Use a design system
 permalink: /design/use-a-design-system/
 sidenav: design
 sticky_sidenav: true
+subnav:
+  - text: The U.S. Web Design System
+    href: '#the-us-web-design-system'
 ---
 
 A design system can help your team prototype faster, scale, manage front-end design debt, and apply consistency across your applications. As a project grows, designers and engineers often find themselves managing dozens of variations of the same button, for example, across hundreds of lines of code. This can create duplication that slows down the build process, requiring extra work to ensure consistent styles across all the appropriate states, and adds more things to check as you’re making sure every screen of your application is accessible to all.
 
+
 ## The U.S. Web Design System
+
 [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/) created by TTS. The website standards say agencies should use the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov). 
 
 Many teams at 18F begin by [installing](https://designsystem.digital.gov/documentation/developers/) the USWDS package and adding additional components and styles to fit the needs of their application. 

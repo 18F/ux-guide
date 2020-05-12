@@ -4,6 +4,19 @@ title: Resources
 permalink: /resources/
 sidenav: overview
 sticky_sidenav: true
+subnav:
+  - text: Research
+    href: '#research'
+  - text: Email templates
+    href: '#email-templates'
+  - text: Design
+    href: '#design'
+  - text: General
+    href: '#general'
+  - text: Presentations (GSA only)
+    href: '#presentations-gsa-only'
+  - text: Additional reading
+    href: '#additional-reading'
 ---
 
 We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
