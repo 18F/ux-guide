@@ -1,6 +1,8 @@
 # 18F UX Guide Product Owner 
 
-The 18F UX Guide Product Owner is expected to spend an average of two hours a week working towards the following objectives (in collaboration with the UX supervisor, as appropriate):
+The product owner's primary responsibilities are to ensure that that the guide continues to evolve in alignment with the needs of it's users, prioritize guide related work, and make sure that it gets done. 
+
+In addition, the 18F UX Guide Product Owner is expected to spend an average of one-two hours a week working towards the following objectives (in collaboration with the UX supervisor, as appropriate):
 
 
 ## Objective A: Ensure the guide reflects the team’s current practices
