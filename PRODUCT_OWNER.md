@@ -1,6 +1,6 @@
 # 18F UX Guide Product Owner 
 
-The product owner's primary responsibilities are to ensure that that the guide continues to evolve in alignment with the needs of it's users, prioritize guide related work, and make sure that it gets done. 
+The product owner's primary responsibilities are to (1) ensure that that the guide continues to evolve in alignment with the needs of it's users and (2) scope and prioritize guide-related work and make sure that it gets done. 
 
 In addition, the 18F UX Guide Product Owner is expected to spend an average of one-two hours a week working towards the following objectives (in collaboration with the UX supervisor, as appropriate):
 
