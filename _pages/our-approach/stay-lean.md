@@ -92,7 +92,7 @@ In addition to our team principles, the following principles from Lean UX are es
 
 **Build shared understanding.** Jeff Gothelf, author of Lean UX, says: “Strive toward shared understanding at all times. Shared understanding is the collective knowledge of the team that builds up over time as they work together. It is a rich understanding of our partners, their products, and users.” Shared understanding supports informed discussions and decisions at every level. It reflects diverse perspectives and inputs, helps reveal potential problems earlier, and ensures everyone on the team is working toward the same goals.
 
-**Make assumptions explicit.** We write down and discuss the assumptions we have about users and the problems they face as part of our research planning process, and [test the riskiest or most critical assumptions](https://mvpworkshop.co/validate-riskiest-assumption/) as early as possible.
+**Make assumptions explicit.** We write down and discuss the assumptions we have about users and the problems they face as part of our research planning process, and test the riskiest or most critical assumptions as early as possible.
 
 **Prioritize.** Ruthless and ongoing prioritization is essential to our focus.
 
