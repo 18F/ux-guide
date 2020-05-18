@@ -18,6 +18,8 @@ subnav:
   - text: Policy
     href: '#policy'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 Meeting partners where they are helps encourage a more participatory, and therefore sustainable, design process.
 
@@ -36,6 +38,7 @@ We view our partners as co-creators of our design process. We are especially min
 Partner participation is essential to our [UX team's principle]({{site.baseurl}}/our-approach/values-and-principles) of training design advocates. But just because an agency enters into an agreement with 18F doesn’t mean we take their ongoing participation as a given—we actively work to engage our partners at every step of the way.
 
 At a high level, we encourage participation by:
+
 - Building trust
 - Respecting people’s time and expertise
 - Respecting our partner agency’s culture (beliefs, norms, etc.)
@@ -61,6 +64,8 @@ A partner’s ability to participate inevitably affects our day-to-day work. We 
 ## Design maturity
 
 Some agencies explicitly choose to work with 18F so that they can build something that’s more user-centered (their goal) while also maturing their agency’s user-centered design practice (their subgoal). These engagements will begin by contemplating questions related to design maturity such as:
+
+{:.list-item--margin-bottom-extra}
 - What is our partner agency’s design awareness and ability?
 - Who in their agency is already doing design? Does that person have a full-time design role or is design the side job of an engineer, program manager, etc.
 - How often does our partner team prototype new ideas?
@@ -76,6 +81,7 @@ At the beginning of each week, for the first six weeks of the engagement, we sen
 
 Engaging partners in conversations about how they might level-up in their practice requires some willingness on their part. In cases where our partners don’t want, or don’t have the capacity, to learn more about user-centered design, we need to ask ourselves:
 
+{:.list-item--margin-bottom-extra}
 - How early in the process does it make sense to invite the partner in (when we’re sketching ideas, planning research, etc.)?
 - How might we better incorporate our partner’s perspective into the creative process (via stakeholder interviews, design studios, etc.), so that they see design’s ability to facilitate constructive dialog?
 - How could we more directly communicate design’s ability to meet their goals (such as demonstrating how proactive usability testing helps them reduce risk)?
@@ -88,6 +94,8 @@ In general, people who are new to design will need to appreciate its direct bene
 18F is a distributed team for many reasons. For example, being distributed allows us to hire people who would not traditionally join government or move to DC, and it allows us to include a broader cross-sampling of people when conducting design research. Being remote-first requires that we maintain [a number of remote-friendly practices](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/).
 
 That said, the majority of agencies we partner with are not distributed teams. At the beginning of every engagement, it’s helpful to ask:
+
+{:.list-item--margin-bottom-extra}
 - What are our partner's normal working hours?
 - What’s the highest fidelity way for everyone to communicate? We prefer video, which allows us to communicate more expressively, and to give non-verbal cues like a thumbs-up signal.
 - What accommodations will we need to hold meetings, design studios, usability tests, synthesis exercises, etc. so that our remote colleagues can fully participate?
@@ -95,6 +103,7 @@ That said, the majority of agencies we partner with are not distributed teams. A
 
 Depending on the answers to the above questions we might:
 
+{:.list-item--margin-bottom-extra}
 - Create a fully-remote team to reinforce solid distributed work practices or consider staffing the project with at least one person  who is local (for example, 18F staff who can commute to our partner’s offices).
 - Modify activities to facilitate  remote or in-person participation, depending on what the project calls for  (for example, arranging digital sticky notes on a digital whiteboard rather than using real sticky notes).
 
@@ -113,6 +122,8 @@ Our collaborations are frequently anchored by at least one or two in-person sess
 A big part of develoingp government digital services is managing risk. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 
 As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as authorizing official and system owner), and by following our [Before You Ship guide](https://before-you-ship.18f.gov/ato/). It can also be helpful to ask about:
+
+{:.list-item--margin-bottom-extra}
 - Authentication (it’s okay to have short-term and long-term solutions)
 - Our partner agency’s existing policies around account management
 - Our partner’s use of [FedRAMPed](https://marketplace.fedramp.gov/) products (as they relate to the product or service we’ve helped create)
@@ -130,6 +141,7 @@ Practicing user-centered design in government is complex. In some cases, we can 
 
 As we collaboratively design with partners, we should ask:
 
+{:.list-item--margin-bottom-extra}
 - Which policies will shape our design? (see [this list of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/))
 - Which policies will shape our design process? (are we considering a research design that will require approval from our partner’s Paperwork Reduction Act Desk Officer?)
 - Whose permission will be required if we need a policy exception?

@@ -20,6 +20,8 @@ subnav:
   - text: Avoiding bias
     href: '#avoiding-bias'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 All research is subject to bias, whether in our choice of who participates,  which pieces of information are collected, or how they’re interpreted. Proactively engaging with bias helps us improve the credibility of our research. The following list is our starting point.
 
@@ -42,14 +44,11 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 **How to counter:**
 
+{:.list-item--margin-bottom-extra}
 - Discuss research participant recruitment strategies
-
 - Clarify the target population, which can involve clarifying the difference between stakeholders (usually public servants) and users (usually the public)
-
 - Look for ways to encourage diversity or representativeness in the sample by asking, “Who haven’t we talked to yet?” For example, people who access this service via screen reader or people who have limited access to technology are groups to consider
-
 - Document the plausible shortcomings of your participant recruitment strategy
-
 - Be careful of the conclusions drawn from any one study
 
 
@@ -59,14 +58,11 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 **How to counter:**
 
+{:.list-item--margin-bottom-extra}
 - Be mindful of your ability to prime participants
-
 - Refrain from asking close-ended questions
-
 - Practice interviewing beforehand
-
 - Periodically echo what you’ve heard during the interview back to interviewees (“Just to be sure I heard you correctly, you said…”)
-
 - Conduct [post-interview debriefs](https://methods.18f.gov/interview-debrief/)
 
 
@@ -75,12 +71,11 @@ All research is subject to bias, whether in our choice of who participates,  whi
 **What it is:** The tendency for people to respond in ways that paint themselves in the best possible light, regardless of whether or not that bears any resemblance to reality.
 
 **How to counter:**
+
+{:.list-item--margin-bottom-extra}
 - Build rapport with participants
-
 - Emphasize the goals of the research, and how they’re better met with honest feedback
-
 - Distance yourself from any proposed design solutions (“these are just a few ideas the team came up with, but you’re the expert here,” “I didn’t design this, so if you don’t like it, you won’t hurt my feelings”)
-
 - Consider changing the research mode. For example, some research has shown that social desirability bias may be less likely when interviews are conducted over email compared to face-to-face
 
 
@@ -89,16 +84,13 @@ All research is subject to bias, whether in our choice of who participates,  whi
 **What it is:** When you (or your team) interpret research in a way that conforms with your own beliefs or values.
 
 **How to counter:**
+
+{:.list-item--margin-bottom-extra}
 - Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/) before the research begins
-
 - Emphasize diversity when recruiting research participants
-
 - Invite the team to observe research in action, and hold [post-interview debriefs](https://methods.18f.gov/interview-debrief/)
-
 - [Collaboratively analyze data before synthesizing it](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/), and note any plausible alternative interpretations
-
 - Consider different perspectives that challenge your beliefs
-
 - Use a variety of research methods when collecting data to triangulate your findings
 
 
@@ -108,16 +100,12 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 **How to counter:**
 
+{:.list-item--margin-bottom-extra}
 - Build rapport
-
 - Ask for introductions from key stakeholders, and be mindful of the ability to prime participants while informing their consent
-
 - Blend in, and respect participants’ social and cultural norms
-
 - Pay attention to what people say they do as well as what they actually do (you might ask participants to teach you their process)
-
 - Use mixed methods, and unmoderated research modes, like monitoring forum posts or web analytics (while being mindful of [privacy]({{site.baseurl}}/research/privacy))
-
 - Be careful to not over-interpret what you see or hear
 
 

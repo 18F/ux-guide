@@ -4,13 +4,15 @@ permalink: /about/
 layout: post
 title: About this guide
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 18F user experience (UX) designers join cross-functional teams to improve interactions between government agencies and the people they serve. The 18F UX Guide helps us get this job done. It’s a starting point for UX design at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
 
 
 ## What this guide is
 
-Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things: 
+Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
 
 * design research skills
 * the ability to skillfully navigate organizational relationships
@@ -25,7 +27,8 @@ We created this guide for our reference. It’s here for a refresher on [ways to
 
 This guide is divided into three sections:
 
-- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/stay-lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/). 
+{:.list-item--margin-bottom-extra}
+- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/stay-lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/).
 - **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{site.baseurl}}/research/clarify-the-basics/) (working definitions) and how we [plan]({{site.baseurl}}/research/plan/), [do]({{site.baseurl}}/research/do), and [analyze, synthesize, and share]({{site.baseurl}}/research/make-research-actionable) research.
 - **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]({{site.baseurl}}/design/build-a-prototype) and [use design systems]({{site.baseurl}}/design/use-a-design-system).
 
@@ -45,4 +48,3 @@ Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on
 ## References
 
 This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access an internal list of [references](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y).
-

@@ -18,6 +18,8 @@ subnav:
   - text: Good practices
     href: '#good-practices'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 Design research can feel overwhelming, even to people who’ve done it before! Clarify the basics with your team before you dive in.
 
@@ -31,6 +33,7 @@ All 18F teams do design research. [Design involves continuous decision making]({
 ## A team activity
 Because a collaborative approach [increases the team’s overall empathy and efficiency](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/), research is best done as a team activity. This means the entire team, including your agency partners, shares responsibility for:
 
+{:.list-item--margin-bottom-extra}
 - **Research design** — Formulating a research plan, including research questions and interview guides
 - **Screening/recruiting** — Determining who we want to learn from, and inviting them to participate
 - **Coordinating/scheduling** — Managing research logistics (times, places, tools, people)
@@ -70,10 +73,9 @@ Evaluative research is the research you do to test assumptions, hypotheses, and 
 
 The following steps are repeated as necessary throughout each 18F engagement:
 
+{:.list-item--margin-bottom-extra}
 1. [Plan]({{site.baseurl}}/research/plan). Agree on the questions you want answered, the methods you’ll employ, how the team will contribute, etc. Decide who should participate.
-
 2. [Do]({{site.baseurl}}/research/do). Design and practice the research sessions. Correspond and engage with participants. Debrief after each session.
-
 3. [Make research actionable]({{site.baseurl}}/research/make-research-actionable). Review the data you’ve collected, look for patterns, write a summary of what you’ve learned, share it broadly, and delete recordings afterward.
 
 
@@ -83,10 +85,9 @@ The following steps are repeated as necessary throughout each 18F engagement:
 
 As a distributed team, 18F defaults to remote-friendly ways of working. This gives everyone on our team—including our partners—a chance to participate, and lets us hear from people regardless of their location. We’ve written before about [how to manage a research project](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/) and [conduct moderated usability tests remotely](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/), but our basic advice is:
 
+{:.list-item--margin-bottom-extra}
 - **Try to conduct remote research via video conference.** Find out what conferencing platforms your partners and participants can access.
-
 - **Use tools to emulate in-person collaboration.** We use virtual whiteboards (like Mural) and collaborative word-processing applications (like Google Docs).
-
 - **Schedule regular co-working time.** Use this time to work together on research plans, draft interview guides, or synthesize findings. Setting this up as a recurring event helps sustain the research effort.
 
 ### In person
@@ -98,6 +99,7 @@ We prefer in-person research when we want to better understand the environment i
 
 ## Good practices
 
+{:.list-item--margin-bottom-extra}
 - **[Choose a research lead.](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md)** A research lead is the team member ultimately responsible for setting the research agenda, explaining the team’s methods, tracking the team’s progress, and ensuring research quality. (While the research lead is normally 18F staff at the start, we work with our partners to identify someone on their side before the engagement ends.)
 - **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in [getting them on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
 - **Determine research questions as well as interview questions.** (They’re different.)

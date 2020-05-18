@@ -18,6 +18,8 @@ subnav:
   - text: Additional reading
     href: '#additional-reading'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 Design research is most valuable when it leads to shared understanding.  Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
 
@@ -27,35 +29,28 @@ Articulating insights can involve different activities, but it’s primarily a t
 
 At 18F this generally involves:
 
+{:.list-item--margin-bottom-extra}
 1. Highlighting key quotes in transcripts (based on your research goals) and from other research such as quantitative analysis and secondary research
-
 2. Gathering quotes and other data into a shared document/space
-
 3. [Affinity diagramming](https://methods.18f.gov/decide/affinity-mapping/) to identify emergent themes, patterns, and insights
-
 4. Developing a shared understanding as a group
 
 Making meaning always happens in relation to the research questions and/or problem statements identified during [research planning]({{site.baseurl}}/research/plan). Some questions you might ask:
 
+{:.list-item--margin-bottom-extra}
 - What notable experiences did participants share? What were outliers?
-
 - What is the root cause of those experiences?
-
 - What is the context of their use of the product or service?
-
 - What is their mindset and/or emotional state while using the product or service?
-
 - What is their mental model of using the product or service?
-
 - Were there any differences between what users said and what they actually did?
 
 ### Involving the team
 Finding patterns in research is a great time to involve partners and team members, especially people who were not involved in conducting the research. A collaborative approach helps to:
 
+{:.list-item--margin-bottom-extra}
 - Make research visible
-
 - Build consensus within the team
-
 - Harness the perspectives of different listeners (which can help correct for [bias]({{site.baseurl}}/research/bias)
 
 When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
@@ -70,12 +65,10 @@ Making meaning out of research can involve any number of different [methods](htt
 
 Outside of writing a summary, you should choose your methods based on the desired outputs and outcomes of your research. For example:
 
+{:.list-item--margin-bottom-extra}
 - To build empathy for users and inform future design strategy, you might create a [mental model](https://methods.18f.gov/decide/mental-modeling/) diagram, by combing through transcripts looking for reasonings, reactions, and guiding principles
-
 - To create reusable archetypes for grounding user stories and scenarios, you might create a [persona](https://methods.18f.gov/decide/personas/), by reviewing transcripts for goals, behaviors, and pain points
-
 - To find themes in your data via a bottom-up process, try [affinity diagramming](https://methods.18f.gov/decide/affinity-mapping/). Record ideas, quotes, or observations from your research on sticky notes (one idea per sticky note), place them on a wall or whiteboard, and then move the sticky notes into related groups. If working virtually, you can use digital whiteboarding tools such as Mural. Once you have the groupings, you can label them according to a theme or pattern.
-
 - To make the complexities of a work process or service visible, you might use [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/) and [journey mapping](https://methods.18f.gov/decide/journey-mapping/): these show connections between stakeholders or across organizational silos. Once you’ve visualized the process or journey, you can analyze for key interactions, pain points, and dependencies.
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
@@ -127,12 +120,10 @@ We always try to make sure we are on the same page as the partner in protecting 
 
 Our research often gets shared far beyond the project team. Depending on the project, stakeholders that care about our research could include:
 
+{:.list-item--margin-bottom-extra}
 - The broader 18F organization (chapters, guilds, business development, etc.)
-
 - Managers and employees above and across our partner’s organization (managers, engineers, press offices, steering committees, legislative bodies, etc.)
-
 - Other government agencies
-
 - Members of the public (vendors, press, curious citizens)
 
 Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively.
@@ -141,11 +132,10 @@ Sharing research is all about storytelling. When packaging research, think about
 
 The most common way we socialize our research is through presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
+{:.list-item--margin-bottom-extra}
 - Utilize the 18F branded templates to save time and help maintain consistency. ([Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)) to start with for research presentations.
-
 - Work with the [Writing](https://gsa-tts.slack.com/app_redirect?channel=writing-lab) and [Design Labs](https://gsa-tts.slack.com/app_redirect?channel=design-lab) if you are uncertain how to articulate or visualize an idea.
 The presentation should have enough text in it that someone who wasn’t in the room can read through it and understand the project.
-
 - Feel free to include references or links to further reading at the end of your presentation deck.  
 
 If you’re curious or need inspiration it can be helpful to browse our [past path analysis reports/presentations](https://github.com/18F/path-analysis/blob/master/projects.md). Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional synthesis examples.
@@ -168,14 +158,11 @@ This is part of 18F’s approach to [modern software acquisition](https://18f.gs
 
 Research handoffs occur when wrapping up a round of research or an engagement, when vendors onboard, or when staffing arrangements change. Managing handoffs thoughtfully can help future researchers get up and running faster. At this point, ask:
 
+{:.list-item--margin-bottom-extra}
 - Who will lead the research moving forward?
-
 - What will the next research team who picks this up this need to know?
-
 - Are the notes, recordings, and findings properly organized? ([List of things to catalog](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit)).
-
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
-
 - Who should have access to what data? How will we get it to them?
 
 In addition to the above considerations, providing an introduction or tour of the work is a helpful way to transfer knowledge to new team members or vendors. Consider writing a [ReadMe](https://github.com/ONRR/doi-extractives-data/blob/dev/README.md) document which new team members can read and refer to for project background, context, history, and quick links to important files or resources.  

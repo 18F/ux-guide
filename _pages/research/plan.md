@@ -20,6 +20,8 @@ subnav:
   - text: Additional reading
     href: '#additional-reading'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 Planning ensures that everyone’s time is respected throughout the research process, and helps the team adapt its approach in response to the real world.
 
@@ -61,9 +63,9 @@ Everyone on the team should agree on the research goals. A useful starting point
 
 What do you want to learn to make better evidence-based decisions? Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics); consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
 
+{:.list-item--margin-bottom-extra}
 - **Bad question:** How do we get unemployed adults interested in our website?
 (This question is bad because it isn’t directly focused on users and their goals; it also assumes that a website is the right solution for unemployed adults.)
-
 - **Good question:** How do unemployed adults navigate their job search in their first six months of unemployment? (This question is good because it seeks to gain a fuller picture of unemployed adults within the context of a specific activity in a specified period of time.)
 
 Consider holding a [research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) ([Google doc version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf) and [research alignment presentation](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)) to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
@@ -96,6 +98,7 @@ Your timeline should provide a useful estimate of how your research process will
 
 Plan more time than you think you need, and consider especially:
 
+{:.list-item--margin-bottom-extra}
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
 - How you plan to involve the team in any level-setting exercises, such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
 - How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
@@ -170,6 +173,7 @@ Next, engage your team in a conversation about bias. Bias is always present in r
 
 Before you get started, discuss with your team (including your agency partners) the desired outputs and outcomes of the research.
 
+{:.list-item--margin-bottom-extra}
 - **Outputs** are the documents, diagrams, etc. you will make to share the research with a broad audience. Will you produce a report, useful insights, validated design hypotheses, or something else?
 - **Outcomes** are the changes you expect to see through doing the research. Outcomes should tie back to the goals and subgoals listed earlier. How will doing the research impact the product being developed, the people involved, etc.? How will you know?
 
@@ -221,18 +225,18 @@ Create a folder to contain your roster, interview guides, session recordings and
 
 Session documentation can take many forms. We often conduct research that may cover sensitive topics or information. Consider the following as you decide how you will document your sessions:
 
+{:.list-item--margin-bottom-extra}
 - What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.?
 - What type of documentation will your participants be most comfortable with (see [Privacy]({{site.baseurl}}/research/privacy))?
 - Did you ask your participants for [consent](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) for this form of documentation?
 
 ### Documentation methods
 
-- **Verbatim notes** - This is the most common type of note-taking by 18F researchers. Write down everything the participant says, to the extent possible, during each session. The goal is to capture as much as possible during the precious time we have with our participants, and avoid introducing cognitive biases that come into play when we are selective about what we write.
-
-  Taking verbatim notes also curbs the natural tendency to want to understand and analyze what is being said. If you’re having trouble writing everything down, focus on capturing what the interviewee says, since you or the interviewer can always go back and clarify what questions the interviewer asked.
-- **Interaction notes** - Write down all of the actions people take and the reactions they have. For example, capturing a note such as “scrolled to top of page, re-read instructions, scrolled back down to input field and typed in name” would be sufficient. If conducting usability testing, consider flagging bugs or usability issues.  
-
-  Note: If there are two notetakers available for a session, consider having one person take verbatim notes, and the other take interaction notes. In this case, it’s best to work in separate documents, as working too close to each other in the same file can be distracting.
+{:.list-item--margin-bottom-extra}
+- **Verbatim notes** - This is the most common type of note-taking by 18F researchers. Write down everything the participant says, to the extent possible, during each session. The goal is to capture as much as possible during the precious time we have with our participants, and avoid introducing cognitive biases that come into play when we are selective about what we write.<br /><br />
+Taking verbatim notes also curbs the natural tendency to want to understand and analyze what is being said. If you’re having trouble writing everything down, focus on capturing what the interviewee says, since you or the interviewer can always go back and clarify what questions the interviewer asked.
+- **Interaction notes** - Write down all of the actions people take and the reactions they have. For example, capturing a note such as “scrolled to top of page, re-read instructions, scrolled back down to input field and typed in name” would be sufficient. If conducting usability testing, consider flagging bugs or usability issues.<br /><br />
+Note: If there are two notetakers available for a session, consider having one person take verbatim notes, and the other take interaction notes. In this case, it’s best to work in separate documents, as working too close to each other in the same file can be distracting.
 - **Spreadsheet notes** - These are most commonly used for content audits to track insights and quality of existing content.
 - **Sticky notes (digital or physical)** - Frequently used in workshop and collaborative settings. We use Mural for remote workshops and collaboration. Physical stickies will need to be documented via photos or transposed to Mural.
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.

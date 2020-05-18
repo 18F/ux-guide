@@ -12,6 +12,8 @@ subnav:
 - text: Additional questions
   href: '#additional-questions'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 18F designs our research to account for [The Antideficiency Act](https://www.gao.gov/legal/lawresources/antideficiency.html) and [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
 
@@ -45,11 +47,10 @@ Our intercepts also generally do not ask people to disclose information about th
 
 Some tweet-length examples:
 
-  - **Good:** We’d love to hear your feedback on www.gsa.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
-
-  - **Good:** Hey @username, we’d love to hear your feedback on www.gsa.gov. Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
-
-  - **Bad:** Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+{:.list-item--margin-bottom-extra}
+- **Good:** We’d love to hear your feedback on www.gsa.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+- **Good:** Hey @username, we’d love to hear your feedback on www.gsa.gov. Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+- **Bad:** Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
 
 
 ## Additional questions

@@ -20,22 +20,18 @@ subnav:
   - text: Additional reading
     href: '#additional-reading'
 ---
+[//]: make it possible to put a class on a ul tag
+{::options parse_block_html="true" /}
 
 [Planning]({{site.baseurl}}/research/plan) research helps you identify the team’s goals, methods, etc. for its research. Doing research involves engaging with previously agreed upon knowledge, participants, and data.
 This article covers tasks agreed to and implied during research planning such as:
 
 - Reviewing what’s already known
-
 - Designing your research sessions
-
 - Running a pilot
-
 - Corresponding with participants
-
 - Facilitating research sessions
-
 - Debriefing
-
 
 ## Reviewing what’s already known
 
@@ -44,10 +40,9 @@ A knowledge inventory session helps capture what your team, including your agenc
 
 Finally, ask your agency partners for any trusted sources, or proprietary information they’ve collected about your area of focus. You might also review:
 
+{:.list-item--margin-bottom-extra}
 - **Academic and statistical research** — Specialized academic search engines can help you find peer-reviewed publications and articles on your area of focus
-
 - **Internal benchmarking** — If your research applies to existing programs, internal benchmarking can help you better understand which metrics matter to stakeholders
-
 - **External benchmarking** — Identify any non-profits, journalists, etc. talking about or benchmarking programs related to your area of focus
 
 
@@ -60,9 +55,7 @@ Research sessions enable you to directly engage people in facilitated conversati
 Before designing your sessions, consider the context(s) of your [target groups]({{site.baseurl}}/research/plan/#participants-and-recruiting). You may be able to rely on your team, including your agency partners, or you may need to ask participants themselves during recruitment. Consider especially:
 
 - Location(s) and norms
-
 - Roles in and (expected) understanding of existing business processes
-
 - Past participation in government-led outreach or educational efforts
 
 For example, if your participants normally work in a [sensitive compartmentalized information facility (SCIF)](https://csrc.nist.gov/glossary/term/Sensitive_Compartmented_Information_Facility) it’s logistically easier to not require the use of screen sharing technology.
@@ -74,17 +67,13 @@ Choose session location(s) and times that are most convenient for your participa
 When choosing session times for lab-based and remote research:
 
 - Plan for no more than five one-hour sessions a day
-
 - Allow at least 15 minutes between sessions
-
 - Allow time for people to eat lunch
 
 For on-site research at your participants’ work or home:
 
 - Plan for no more than four one-hour sessions a day
-
 - Allow at least 30 minutes between sessions, plus traveling time between them
-
 - Allow yourself a break for lunch
 
 ### Clarify team roles
@@ -92,10 +81,9 @@ Design your sessions to encourage as much team involvement as possible without b
 
 For sessions where you’ll interact with participants one-at-a-time, such as in-depth interviews and usability tests, clarify which team members will moderate, take notes, and observe:
 
+{:.list-item--margin-bottom-extra}
 - **Moderators** facilitate the session. Don’t let just anyone moderate; be honest about whether or not moderation will be difficult for someone. For example, the product owner may find it difficult to moderate without introducing [interviewer bias]({{site.baseurl}}/research/bias/#interviewer-bias)
-
 - **Notetakers** document, usually word-for-word, what happens during the session. If you’re fortunate enough to have multiple notetakers, you might ask each notetaker to make notes about specific aspects of the session. For example, one notetaker might capture verbatim notes of what the participant says while another might capture what the participant does while interacting with a prototype.
-
 - **Observers** pay attention during the session, and ask questions when given time by the moderator
 
 Make time to meet with any team members who were not involved with designing the sessions but will help with research in order to explain the objectives of the research and review the structure of the sessions, session materials, etc. This helps observers contribute to the comfort level of the session and to correctly interpret interactions between moderators and participants. Consider passing along this one-pager about [assisting in research](https://github.com/18F/ux-guide/blob/master/_pages/resources/assisting-in-research.md) to people who are brand new to research.
@@ -112,16 +100,15 @@ Identify in your [research plan]({{site.baseurl}}/research/plan) if your session
 
 In evaluative research such as [usability testing](https://methods.18f.gov/validate/usability-testing/), prototypes often suggest how users might complete specific tasks. In this case:
 
+{:.list-item--margin-bottom-extra}
 1. **Clarify the tasks your sessions will investigate.** Tasks are often included in artifacts such as personas or user stories. If your team doesn’t yet have those artifacts, ask them to identify “the most essential things that people need to do” relative to your research area of focus. Then pick the top two or three tasks the prototype will need to depict.
-
 2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session. [Here’s a boilerplate usability test guide](https://methods.18f.gov/usability-test-script/) ([Google Docs version](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#heading=h.cb9ci3qbjc56)).
-
 3. **Discuss with your team how and when you’ll share the prototype** (for example, sharing a link to an online prototype or sending a document).
 
 Prototypes create dependencies in your research. When doing research involving prototypes, you will need to:
 
+{:.list-item--margin-bottom-extra}
 - Confirm that the prototype works from the research venue (see [“doing a practice session”](#doing-a-practice-session))
-
 - Ensure your participants can access the prototype. Ask potential participants to confirm their firewall restrictions, screen resolutions, and browser preference in advance of the session (see [“corresponding with participants”](#corresponding-with-participants))
 
 ### Preparing an interview guide
@@ -130,15 +117,14 @@ An interview guide keeps sessions consistent, allows multiple people to moderate
 
 Most 18F interview guides include these sections:
 
+{:.list-item--margin-bottom-extra}
 - Introductory preamble
     - Remind participants that you are not testing them, and that there are no wrong answers
     - Remind participants that their participation does not entitle them to compensation, and they can decide at any point that they no longer want to participate
-
 - Consent for note-taking or recording
     - Tell participants how you’ll use the notes
     - Tell participants whether you’ll attribute any quotes, and if so, how (by name or by role, for example)
     - Confirm that participants have signed a consent form; get verbal consent to proceed
-
 - Priority questions
 - Potential follow-up questions
 - Concluding thanks, questions, and opportunities to follow up
@@ -244,6 +230,7 @@ Aim to help participants arrive at your sessions well prepared, but with an open
 
 Research participants are doing us a favor, so you should do everything you can to ensure that they have a good experience during their session. Before scheduling them for a session, make sure that you inform participants:
 
+{:.list-item--margin-bottom-extra}
 - How to get to the session itself (if it’s in-person)
 - If they need to prepare anything ahead of time
 - How they will access any session materials (for example, a link to a prototype)
@@ -252,19 +239,15 @@ Research participants are doing us a favor, so you should do everything you can 
 
 Also remember to:
 
+{:.list-item--margin-bottom-extra}
 - Make sure calendar invites are clear, both to participants and to your team. For PII protection, it can sometimes make sense to use separate team-facing and participant-facing invites and set appointments to “private” visibility. [Google Suite instructions for how to do change privacy settings](https://support.google.com/calendar/answer/34580?co=GENIE.Platform%3DDesktop&hl=en).
-
 - Schedule a little more time than you think you’ll need — it can take a few minutes to get everyone on the line, or you may have to work through technical issues. An extra 15 minutes can keep it from feeling rushed.
-
 - Your calendar’s appointment feature may help you cut down on the email correspondence when scheduling sessions with multiple participants. Google calendar instructions on appointment slots](https://support.google.com/calendar/answer/190998?hl=en). If you use this feature, note that you can’t set the appointments to be private beforehand; you’ll need to change the privacy after participants have signed up for a slot.
-
 - Confirm with participants that they’ll be able to use conferencing, video, or screen sharing tools and test the setup ahead of your session; create a backup plan if they can’t.
-
 - Consider including a “tech check” list of tasks directly in the meeting invite asking participants to:
     - Try connecting to the remote meeting
     - Make sure that their video and sound works
     - Download and install any necessary software (eg. Zoom if you are using Zoom for your sessions)
-
 - If you conduct research sessions via Google Meet and initiate a screen recording, the video will be saved to the Google Drive of the person who created the meeting. A link to the video will be added to the calendar event after the meeting.
 
 Your agency partners can often assist in the scheduling process, particularly when setting up sessions with stakeholders. Don’t hesitate to ask them for help! You can provide them with a tailored version of this [email where stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). ([Google docs version of email](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).
@@ -282,14 +265,11 @@ Before each session, you should double-check:
 
 Moderating a research session can be nuanced, but we encourage all team members to be involved. Make sure participants are comfortable and that facilitators, notetakers, and other team members are prepared. We created [a checklist of best practices for interviews](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). ([Google docs version of the checklist](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)). The checklist includes:
 
+{:.list-item--margin-bottom-extra}
 - Keep an eye on the time. Decide beforehand which questions or activities you must cover and which ones you can cut if you run out of time.
-
 - Be curious. Ask clarifying questions about the stories behind answers.
-
 - Adapt your script as needed to make the participant comfortable and to be respectful of their time.
-
 - Allow time for notetakers or observers to ask follow-up questions. Leave time for the interviewee to ask questions of the team as well.
-
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
 While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating these can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability testing quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit#heading=h.y2rdboc1uj3o). If you’re interested in developing more guides, the research guild is a great place to find collaborators.
@@ -298,18 +278,13 @@ While UX Designers heavily utilize interviews, we also use a variety of other me
 
 Because our partner organizations often have national audiences and our teams are distributed, a large portion of the research we conduct is remote. Technology challenges can be frustrating for both the participant and the facilitator. Here are a few things to keep in mind when facilitating remote research:
 
+{:.list-item--margin-bottom-extra}
 - Make sure you’re familiar with the tools ahead of time. Test your call-in line, screen sharing tools, or video conference before your first session. If possible, have your participant(s) test that they’re able to join the video conference tool before the session as well.
-
 - In the morning on the day of the interview, share with each scheduled participant any links or files they’ll need to participate, and reiterate any logistics their participation will require, such as screen sharing.
-
 - Allow for buffer time for people to dial in and get comfortable.
-
 - Introduce everyone on the call and their roles, e.g. lead interviewer, notetaker, observer, etc. This makes it less intimidating for the participant and less surprising if new voices speak up to ask questions.
-
 - Have notetakers and observers introduce themselves and then mute their audio so the interviewee knows who is on the line, but isn’t overwhelmed.
-
 - If you are asking participants to share their screen, double-check to make sure they still are able to and are okay with it.
-
 - If the participant consents to sharing their screen, remind them to close, minimize or hide any windows or information they do not want to share.
 
 Note: Remote-only research can exclude some people with visual or hearing impairments. Try to use a variety of approaches to make sure your [research is inclusive]({{site.baseurl}}/research/bias/#sampling-bias).
@@ -318,14 +293,11 @@ Note: Remote-only research can exclude some people with visual or hearing impair
 
 In-person research happens most often when we go on-site with an agency partner or meet participants in the field. At on-sites we often conduct workshops, but they are a great time to conduct interviews as well. Regardless of the method, here a few things to keep in mind when facilitating in-person research:
 
+{:.list-item--margin-bottom-extra}
 - Try to get as much information about the room(s) you will be in and arrive early. Security at partner buildings can take time.
-
 - Make sure the room is accessible for all of your participants.
-
 - Take note of how the environment affects your participants. This may mean limiting the number of team members in the session.  
-
 - Spend less effort on note taking and more effort on connecting with participants. Utilize photography and voice/video recording with permission. If it makes sense, try to involve participants and/or partners in capturing information.
-
 - Make sure to document your thoughts as a team shortly after the session to fill in any gaps in your notes (see debriefing, below).
 
 ### Taking notes
@@ -350,13 +322,9 @@ Debriefing is a useful way to discuss and capture what everyone took away from a
 Here are a few high-level things to capture in a debrief:
 
 - How did this session answer our research questions?
-
 - What were the main themes of this session?
-
 - Which questions or activities did the participant(s) have a lot (or very little) to say about?  
-
 - What new questions do we have?
-
 - Are there any new people we should talk to?
 
 You may want to use this [example interview debrief worksheet](https://methods.18f.gov/interview-debrief/); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
