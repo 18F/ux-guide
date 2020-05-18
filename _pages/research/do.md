@@ -165,7 +165,7 @@ It’s best to conduct a practice session a few days before your sessions with p
 
 ## Corresponding with participants
 
-Once you’ve designed your sessions, meet with your team to discuss and decide how participants will learn about, sign up for, and contribute to those sessions.
+Once you’ve designed your sessions, meet with your team to discuss, decide, and agree how participants will learn about, sign up for, and contribute to those sessions.
 
 ### Inviting participation
 
@@ -316,7 +316,7 @@ Note: Remote-only research can exclude some people with visual or hearing impair
 
 ### Tips for in-person research
 
-In-person research happens most often when we go on-site with an agency partner or meet participants in the field. At on-sites we often conduct workshops. They are a great time to conduct interviews as well. Regardless of the method, here a few things to keep in mind when facilitating in-person research:
+In-person research happens most often when we go on-site with an agency partner or meet participants in the field. At on-sites we often conduct workshops, but they are a great time to conduct interviews as well. Regardless of the method, here a few things to keep in mind when facilitating in-person research:
 
 - Try to get as much information about the room(s) you will be in and arrive early. Security at partner buildings can take time.
 

@@ -54,9 +54,9 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 
 - When scheduling research sessions via Google calendar, set the event visibility to “Private” (since invitations include the participant’s name and email address)
 
-- Before using a website to collect data, read its terms of service and privacy policy. For example, monitoring forum traffic is a great way to learn about users, but our use of these systems must comply with applicable privacy policies.
+- Read each website’s terms of service and privacy policy before collecting data through it (for example, monitoring forum traffic is a great way to learn about users, but our use of these systems must comply with applicable privacy policies)
 
-- Use pseudonyms or participant codes (for example, “Participant 1”) when naming your recordings, transcribing audio files, and writing reports
+- Use pseudonyms or participant codes (for example, “Participant 1”) when naming your recordings, transcribing audio files, or writing reports
 
 
 - De-identify research data before subjecting it to shared analysis, synthesis and sharing

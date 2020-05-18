@@ -32,10 +32,10 @@ All 18F teams do design research. [Design involves continuous decision making]({
 Because a collaborative approach [increases the team’s overall empathy and efficiency](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/), research is best done as a team activity. This means the entire team, including your agency partners, shares responsibility for:
 
 - **Research design** — Formulating a research plan, including research questions and interview guides
-- **Screening and recruiting** — Determining who we want to learn from, and inviting them to participate
-- **Coordinating and scheduling** — Managing research logistics (times, places, tools, people)
-- **Interviewing and moderating** — Facilitating the interview or activity. The person who takes this on should be able to give their full attention to the participant(s) and should not be responsible for capturing responses
-- **Note-taking and recording** — Documenting what happens during the research (for example, during a usability test)
+- **Screening/recruiting** — Determining who we want to learn from, and inviting them to participate
+- **Coordinating/scheduling** — Managing research logistics (times, places, tools, people)
+- **Interviewing/moderating** — Facilitating the interview or activity. The person who takes this on should be able to give their full attention to the participant(s) and should not be responsible for capturing responses
+- **Note-taking/recording** — Documenting what happens during the research (for example, during a usability test)
 - **Observing** — This is the default role for teammates who are new to research. Observers listen to interviews, observe usability tests, etc.
 - **Debriefing** — Discussing individual sessions (usually immediately after each) to reach a shared understanding
 - **Synthesis** —  Finding patterns and themes across all research activities

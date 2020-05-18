@@ -21,7 +21,7 @@ subnav:
     href: '#avoiding-bias'
 ---
 
-All research is subject to bias, whether in our choice of who participates,  which pieces of information are collected, or how they’re interpreted. Proactively engaging with bias helps us improve the credibility of our research. The following list of biases is our starting point.
+All research is subject to bias, whether in our choice of who participates,  which pieces of information are collected, or how they’re interpreted. Proactively engaging with bias helps us improve the credibility of our research. The following list is our starting point.
 
 
 ## Research design bias
@@ -77,7 +77,7 @@ All research is subject to bias, whether in our choice of who participates,  whi
 **How to counter:**
 - Build rapport with participants
 
-- Emphasize the goals of the research, and how honest feedback is the best way to meet those goals
+- Emphasize the goals of the research, and how they’re better met with honest feedback
 
 - Distance yourself from any proposed design solutions (“these are just a few ideas the team came up with, but you’re the expert here,” “I didn’t design this, so if you don’t like it, you won’t hurt my feelings”)
 
@@ -118,7 +118,7 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 - Use mixed methods, and unmoderated research modes, like monitoring forum posts or web analytics (while being mindful of [privacy]({{site.baseurl}}/research/privacy))
 
-- Be careful to avoid over-interpreting what you see or hear
+- Be careful to not over-interpret what you see or hear
 
 
 ## Avoiding bias
