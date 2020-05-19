@@ -23,7 +23,7 @@ Our approach is fundamentally collaborative. This document exists to help our cr
 - Showing progress in weeks instead of months, months instead of years
 - Designing iteratively and learning continuously
 - Growing the design competency of government
-- Measuring our impact 
+- Measuring our impact
 
 
 ## Our principles
@@ -32,7 +32,7 @@ The following principles guide our team in meeting [18F’s mission](https://18f
 
 ### We start with user needs
 
-We always begin with identifying our partners’ needs and the needs of the people they serve. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs. We seek first to understand who we are designing for, then figure out how to deliver effective solutions. By starting with user needs, we can work within our partner’s constraints while also working to change those constraints.
+We always begin with identifying our partners’ needs and the needs of the people they serve. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs. We seek first to understand who we are designing for, then figure out how to deliver effective solutions. By starting with user needs, we can work within our partners' constraints while also working to change those constraints.
 
 ### We use an iterative process of learning and discovery informed by data
 
@@ -44,9 +44,9 @@ In government, good design serves everyone within an agency's mandate. To do thi
 
 ### We design together
 
-We collaborate across disciplines to create a shared understanding of the problems we’re solving and the solutions we’re proposing. 
+We collaborate across disciplines to create a shared understanding of the problems we’re solving and the solutions we’re proposing.
 
-Working together fosters a sense of trust and shared ownership within the team. Open conversation about works-in-progress promotes real agility. 
+Working together fosters a sense of trust and shared ownership within the team. Open conversation about works-in-progress promotes real agility.
 
 ### We train advocates
 
@@ -54,4 +54,4 @@ Our partners are experts in their field. Collaborating closely allows us a glimp
 
 ### We finish with user needs
 
-We hold ourselves and our teams accountable to users. We accept that a goal has been achieved when we confirm — via [design research](/research/) — that users can accomplish their goals with minimal frustration. 
+We hold ourselves and our teams accountable to users. We accept that a goal has been achieved when we confirm — via [design research](/research/) — that users can accomplish their goals with minimal frustration.
