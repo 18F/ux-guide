@@ -6,22 +6,22 @@ sidenav: overview
 sticky_sidenav: true
 subnav:
   - text: Research
-    href: '#research'
+    href: "#research"
   - text: Email templates
-    href: '#email-templates'
+    href: "#email-templates"
   - text: Design
-    href: '#design'
+    href: "#design"
   - text: General
-    href: '#general'
+    href: "#general"
   - text: Presentations (GSA only)
-    href: '#presentations-gsa-only'
+    href: "#presentations-gsa-only"
   - text: Additional reading
-    href: '#additional-reading'
+    href: "#additional-reading"
 ---
 
 We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
 
-## Research  
+## Research
 
 [Research plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) ([GDoc](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#))  
 Prompts for planning research. Pairs well with our [research planning]({{site.baseurl}}/research/planning) article.
@@ -31,7 +31,9 @@ A workshop template for publicizing team questions and prioritizing research the
 
 [Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) ([GDoc](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo))  
 Our agreement for anyone participating in moderated design research.  
-Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause (see ([Legal](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU), and links to [GSA’s Privacy Act Statement](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia). You should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel.
+Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause.
+
+Please note that you should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel. See also: ([Legal](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU), and links to [GSA’s Privacy Act Statement](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia).
 
 [Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-script.md) ([GDoc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))  
 An example guide for moderating in-depth interviews with users.
@@ -62,17 +64,21 @@ An email asking participants to review and sign a participant agreement before t
 ## Design
 
 ### Collaboration
+
 Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.18f.gov/acqstack/), [Strategy](https://handbook.18f.gov/strategy/), [Product Management](https://handbook.18f.gov/product/) and [Engineering](https://handbook.18f.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.18f.gov/) for more information.
 
 You can also participate in local communities of practice in by joining:
+
 - [Content guild (#g-content)](https://gsa-tts.slack.com/messages/g-content)
 - [Accessibility guild (#g-accessibility)](https://gsa-tts.slack.com/messages/g-accessibility/)
 - [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Labs
+
 Whenever you’re in need of a particular skill — help polishing a presentation; content design; or a front-end development — 18F’s internal labs can provide support. The development, writing, and design labs are virtual centers, staffed by 18F colleagues from various teams to provide personalized help within each discipline. Any 18F project is eligible for help (with preference towards billable work as it aids in our goal towards cost recoverability). For more information, visit the [Writing lab](https://handbook.18f.gov/writing-lab/#portfolio-of-services), [Design lab](https://github.com/18F/design-lab), and [Dev Slack channel](https://gsa-tts.slack.com/messages/C02CD5VUQ/).
 
 ### Tools
+
 - [Federalist](https://federalist.18f.gov/)
 - [Cloud.gov](https://cloud.gov/)
 
