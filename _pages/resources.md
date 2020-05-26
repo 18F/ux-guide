@@ -33,13 +33,13 @@ A workshop template for publicizing team questions and prioritizing research the
 Our agreement for anyone participating in moderated design research.  
 Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause (see ([Legal](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU), and links to [GSA’s Privacy Act Statement](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia). You should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel.
 
-[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-script.md) ([GDoc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))  
+[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md) ([GDoc](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))  
 An example guide for moderating in-depth interviews with users.
 
 [Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) ([GDoc](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit))  
 A checklist for planning and conducting in-depth interviews.
 
-[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief.md) ([GDoc](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit))  
+[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md) ([GDoc](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit))  
 An example guide for teams leading a post-interview debrief.
 
 [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))  
@@ -62,7 +62,7 @@ An email asking participants to review and sign a participant agreement before t
 ## Design
 
 ### Collaboration
-Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.18f.gov/acqstack/), [Strategy](https://handbook.18f.gov/strategy/), [Product Management](https://handbook.18f.gov/product/) and [Engineering](https://handbook.18f.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.18f.gov/) for more information.
+Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.18f.gov/acqstack/), [Product Management](https://handbook.18f.gov/product/) and [Engineering](https://handbook.18f.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.18f.gov/) for more information.
 
 You can also participate in local communities of practice in by joining:
 - [Content guild (#g-content)](https://gsa-tts.slack.com/messages/g-content)
@@ -111,6 +111,8 @@ Whenever you’re in need of a particular skill — help polishing a presentatio
 ## Additional reading
 
 - [GSA + the Lab@OPM’s Human-Centered Design Discovery Stage Field Guide ](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf)
+- [Lab@OPM's HCD Discovery Concept Guide](https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/)
+- [Lab@OPM's HCD Discovery Operations Guide](https://the-lab-at-opm.github.io/HCD-Discovery-Operations-Guide/)
 - [NYC Civic Service Design: Tools and Tactics](https://www1.nyc.gov/assets/servicedesign/)
 - [Gov.uk Service Manual: User Research](https://www.gov.uk/service-manual/user-research)
 - [18F UX Guide References](https://docs.google.com/document/d/1IYt7kcHMtVAKQdWPUZQB-u9qOvoUx6u3IR9UzF6EwO8/edit#heading=h.xr0ztr7noxa6)
