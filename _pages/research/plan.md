@@ -6,25 +6,25 @@ sidenav: research
 sticky_sidenav: true
 subnav:
   - text: Writing a research plan
-    href: '#writing-a-research-plan'
+    href: "#writing-a-research-plan"
   - text: Participants and recruiting
-    href: '#participants-and-recruiting'
+    href: "#participants-and-recruiting"
   - text: Ethical considerations
-    href: '#ethical-considerations'
+    href: "#ethical-considerations"
   - text: Outputs and outcomes
-    href: '#outputs-and-outcomes'
+    href: "#outputs-and-outcomes"
   - text: Involving partners in research planning
-    href: '#involving-partners-in-research-planning'
+    href: "#involving-partners-in-research-planning"
   - text: Documenting research
-    href: '#documenting-research'
+    href: "#documenting-research"
   - text: Additional reading
-    href: '#additional-reading'
+    href: "#additional-reading"
 ---
+
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
 Planning ensures that everyone’s time is respected throughout the research process, and helps the team adapt its approach in response to the real world.
-
 
 ## Writing a research plan
 
@@ -64,8 +64,9 @@ Everyone on the team should agree on the research goals. A useful starting point
 What do you want to learn to make better evidence-based decisions? Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics); consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
 
 {:.list-item--margin-bottom-extra}
+
 - **Bad question:** How do we get unemployed adults interested in our website?
-(This question is bad because it isn’t directly focused on users and their goals; it also assumes that a website is the right solution for unemployed adults.)
+  (This question is bad because it isn’t directly focused on users and their goals; it also assumes that a website is the right solution for unemployed adults.)
 - **Good question:** How do unemployed adults navigate their job search in their first six months of unemployment? (This question is good because it seeks to gain a fuller picture of unemployed adults within the context of a specific activity in a specified period of time.)
 
 Consider holding a [research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) ([Google doc version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf) and [research alignment presentation](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)) to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
@@ -74,7 +75,6 @@ Consider holding a [research alignment workshop](https://github.com/18F/ux-guide
 
 Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected from a single source and create a more complete understanding.
 [18F’s Methods](https://methods.18f.gov/) provide an overview of our preferred research and design methods. Use these as a starting point, not as a list of constraints.
-
 
 - [Stakeholder and user interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
 - [Contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/)
@@ -99,32 +99,32 @@ Your timeline should provide a useful estimate of how your research process will
 Plan more time than you think you need, and consider especially:
 
 {:.list-item--margin-bottom-extra}
+
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
 - How you plan to involve the team in any level-setting exercises, such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
 - How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
 - If your research involves workshops and/or fieldwork:
-    - Who needs to be where and when?
-    - What do they need to do?
-    - When must they be done?
-    - Where do they go from there?
+  - Who needs to be where and when?
+  - What do they need to do?
+  - When must they be done?
+  - Where do they go from there?
 - How you plan to involve the team in analysis, synthesis, and sharing  
   A safe estimate for research analysis is about twice as long as the research itself
 
 Here’s a sample timeline for a contextual inquiry (on site) followed by eight 1-1 interviews (remote) with stakeholders:
 
-| Research activity | Estimated time to complete |
-|------------------ | -------------------------- |
-|Initial meeting | 1 day|
-| Research design (research planning)| 1 day|
-| Contextual inquiry | 1 day|
-| Session design | 0.5 day|
-| Recruiting and scheduling | 1 week|
-| In-depth interviews (remote) | 1 week|
-| Initial analysis | 4 days |
-| Collaborative analysis | 2 days|
-| Communicating the results | 2 days|
-| Sharing | 1 day |
-
+| Research activity                   | Estimated time to complete |
+| ----------------------------------- | -------------------------- |
+| Initial meeting                     | 1 day                      |
+| Research design (research planning) | 1 day                      |
+| Contextual inquiry                  | 1 day                      |
+| Session design                      | 0.5 day                    |
+| Recruiting and scheduling           | 1 week                     |
+| In-depth interviews (remote)        | 1 week                     |
+| Initial analysis                    | 4 days                     |
+| Collaborative analysis              | 2 days                     |
+| Communicating the results           | 2 days                     |
+| Sharing                             | 1 day                      |
 
 ## Participants and recruiting
 
@@ -155,12 +155,12 @@ Example criteria might include:
 - Particular ways of accessing your service (for example, people who rely on a screen reader, use speech recognition software, or who only access the internet at a library or day center)
 
 If you’re doing usability testing, consider the following questions as well:
+
 - What are the specific behaviors we’re looking for from participants?
 - What level of tool knowledge do participants need?
 - What level of domain knowledge do participants need?
 
 Regardless of how you arrive at them, review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
-
 
 ## Ethical considerations
 
@@ -168,17 +168,16 @@ Research affords your team powerful opportunities to both interact with people a
 
 Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
-
 ## Outputs and outcomes
 
 Before you get started, discuss with your team (including your agency partners) the desired outputs and outcomes of the research.
 
 {:.list-item--margin-bottom-extra}
+
 - **Outputs** are the documents, diagrams, etc. you will make to share the research with a broad audience. Will you produce a report, useful insights, validated design hypotheses, or something else?
 - **Outcomes** are the changes you expect to see through doing the research. Outcomes should tie back to the goals and subgoals listed earlier. How will doing the research impact the product being developed, the people involved, etc.? How will you know?
 
 We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid overspecifying your outputs, because you have no way of knowing what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research](#documenting-research).
-
 
 ## Involving partners in research planning
 
@@ -199,19 +198,18 @@ Next, review and confirm elements listed in the research plan. It’s especially
 
 An example agenda for a research planning meeting might include:
 
-| Activity | Time |
-| -------- | ---- |
-| Introductions | 9:00am |
-| Hopes and fears | 9:30|
-| Knowledge inventory | 10:00 |
-| Discuss research goals | 10:30 |
-| Review (or co-create) research plan | 11:00 |
-| Discuss participants and recruiting | 12:00pm |
-| Lunch | 12:30 |
-| Review (or co-create) session materials (such as interview guides, wireframes, or prototypes) | 1:30 |
-| Discuss desired outputs and outcomes | 2:30 |
-| Establish roles| 3:00pm |
-
+| Activity                                                                                      | Time    |
+| --------------------------------------------------------------------------------------------- | ------- |
+| Introductions                                                                                 | 9:00am  |
+| Hopes and fears                                                                               | 9:30    |
+| Knowledge inventory                                                                           | 10:00   |
+| Discuss research goals                                                                        | 10:30   |
+| Review (or co-create) research plan                                                           | 11:00   |
+| Discuss participants and recruiting                                                           | 12:00pm |
+| Lunch                                                                                         | 12:30   |
+| Review (or co-create) session materials (such as interview guides, wireframes, or prototypes) | 1:30    |
+| Discuss desired outputs and outcomes                                                          | 2:30    |
+| Establish roles                                                                               | 3:00pm  |
 
 ## Documenting research
 
@@ -226,6 +224,7 @@ Create a folder to contain your roster, interview guides, session recordings and
 Session documentation can take many forms. We often conduct research that may cover sensitive topics or information. Consider the following as you decide how you will document your sessions:
 
 {:.list-item--margin-bottom-extra}
+
 - What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.?
 - What type of documentation will your participants be most comfortable with (see [Privacy]({{site.baseurl}}/research/privacy))?
 - Did you ask your participants for [consent](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) for this form of documentation?
@@ -233,16 +232,17 @@ Session documentation can take many forms. We often conduct research that may co
 ### Documentation methods
 
 {:.list-item--margin-bottom-extra}
+
 - **Verbatim notes** - This is the most common type of note-taking by 18F researchers. Write down everything the participant says, to the extent possible, during each session. The goal is to capture as much as possible during the precious time we have with our participants, and avoid introducing cognitive biases that come into play when we are selective about what we write.<br /><br />
-Taking verbatim notes also curbs the natural tendency to want to understand and analyze what is being said. If you’re having trouble writing everything down, focus on capturing what the interviewee says, since you or the interviewer can always go back and clarify what questions the interviewer asked.
+  Taking verbatim notes also curbs the natural tendency to want to understand and analyze what is being said. If you’re having trouble writing everything down, focus on capturing what the interviewee says, since you or the interviewer can always go back and clarify what questions the interviewer asked.
 - **Interaction notes** - Write down all of the actions people take and the reactions they have. For example, capturing a note such as “scrolled to top of page, re-read instructions, scrolled back down to input field and typed in name” would be sufficient. If conducting usability testing, consider flagging bugs or usability issues.<br /><br />
-Note: If there are two notetakers available for a session, consider having one person take verbatim notes, and the other take interaction notes. In this case, it’s best to work in separate documents, as working too close to each other in the same file can be distracting.
+  Note: If there are two notetakers available for a session, consider having one person take verbatim notes, and the other take interaction notes. In this case, it’s best to work in separate documents, as working too close to each other in the same file can be distracting.
 - **Spreadsheet notes** - These are most commonly used for content audits to track insights and quality of existing content.
 - **Sticky notes (digital or physical)** - Frequently used in workshop and collaborative settings. We use Mural for remote workshops and collaboration. Physical stickies will need to be documented via photos or transposed to Mural.
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.
 - **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings.
 - **Voice recording** - You can also make an audio recording in lieu of video, which can be helpful if you need to review portions of a session. You can record interviews using the voice memo app on your work phone.
-- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000) [Purchase Request](https://handbook.18f.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
+- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under \$10,000) [Purchase Request](https://handbook.18f.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
 
 Regardless of the method you choose, it’s good to keep in mind the overall reasons why you should document research as you proceed. We document research so that:
 
@@ -253,3 +253,4 @@ Regardless of the method you choose, it’s good to keep in mind the overall rea
 ## Additional reading
 
 - [Examples of past research plans from past 18F projects](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
+- To visualize this process, please see [the Lab at OPM's](https://github.com/the-lab-at-opm) work on [Framing](https://the-lab-at-opm.github.io/HCD-Discovery-Operations-Guide/frame/) and [Planning](https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/plan/) the research phase, both from that group's HCD Discovery Phase Guide Series.
