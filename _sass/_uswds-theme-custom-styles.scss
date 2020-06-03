@@ -141,3 +141,9 @@ a[href^="https://gsa-tts.slack.com"]::before {
 .usa-prose>ol.list-item--margin-bottom-extra>li {
   @include u-margin-bottom(2.5);
 }
+
+@include at-media("desktop") {
+  .usa-header--extended .usa-logo {
+    max-width: none;
+  }
+}
