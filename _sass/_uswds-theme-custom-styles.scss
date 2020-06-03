@@ -150,4 +150,12 @@ a[href^="https://gsa-tts.slack.com"]::before {
   .usa-nav__primary>.usa-nav__primary-item {
     @include u-font("ui", "xs");
   }
+
+  .usa-header--extended .usa-nav__primary-item>.usa-current::after {
+    background-color: $color-bright;
+  }
+
+  .usa-header--extended .usa-nav__primary-item>.usa-nav__link:not(.usa-current):hover::after {
+    display: none;
+  }
 }
