@@ -146,4 +146,8 @@ a[href^="https://gsa-tts.slack.com"]::before {
   .usa-header--extended .usa-logo {
     max-width: none;
   }
+
+  .usa-nav__primary>.usa-nav__primary-item {
+    @include u-font("ui", "xs");
+  }
 }
