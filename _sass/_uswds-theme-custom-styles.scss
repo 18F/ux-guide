@@ -1,10 +1,3 @@
-.usa-layout-docs__sidenav {
-  width: units("mobile");
-}
-.usa-layout-docs__main {
-  width: auto;
-}
-
 //// 18F styles
 
 // Color
@@ -168,4 +161,14 @@ a[href^="https://gsa-tts.slack.com"]::before {
 
 .usa-header .usa-logo a {
   display: inline-block;
+}
+
+@include at-media("desktop") {
+  .usa-layout-docs__sidenav {
+    @include grid-col(3);
+  }
+
+  .usa-layout-docs__main {
+    @include u-flex("fill");
+  }
 }
