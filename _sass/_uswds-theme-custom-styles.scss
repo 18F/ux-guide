@@ -6,22 +6,22 @@
 //// 18F styles
 
 // Color
-$color-light:        #b3efff; // $color-light / $color-secondary-light
-$color-bright:       #00cfff; // $color-bright / $color-secondary
-$color-medium:       #046b99; // $color-medium / $theme-color-primary
-$color-dark:         #1C304A; // $color-dark / $theme-color-primary-dark
-$color-base:         #1F2E4A;
-$color-black:        #000000;
-$color-inverse:      #ffffff;
+$color-light:        color("secondary-light");
+$color-bright:       color("secondary");
+$color-medium:       color("primary");
+$color-dark:         color("primary-dark");
+$color-base:         color("primary-darker");
+$color-black:        color("black");
+$color-inverse:      color("white");
 
-$color-bright-hover: #00A7CE;
-$color-medium-hover: #00547A;
+$color-bright-hover: color("accent-cool-dark");
+$color-medium-hover: color("blue-60");
 
-$color-gray-lightest: #f1f1f1; // Adding bc used in our $border-light in this file.
-$color-gray-hover:    #fafafa;
-$color-gray-divider:  #bbbbbb;
+$color-gray-lightest: color("base-lightest"); // Adding bc used in our $border-light in this file.
+$color-gray-hover:    color("gray-2");
+$color-gray-divider:  color("gray-20");
 
-$color-gray-border:   #5b616b;
+$color-gray-border:   color("base-dark");
 
 // Typography
 h1, h2, h3, h4, h5, h6,
