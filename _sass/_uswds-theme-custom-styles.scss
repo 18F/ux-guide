@@ -6,8 +6,8 @@
 //// 18F styles
 
 // Color
-$color-light:        color("secondary-light");
-$color-bright:       color("secondary");
+$color-light:        color("cyan-10v"); // was #b3efff
+$color-bright:       color("cyan-30v"); // was #00cfff
 $color-medium:       color("primary");
 $color-dark:         color("primary-dark");
 $color-base:         color("primary-darker");
@@ -24,20 +24,6 @@ $color-gray-divider:  color("gray-20");
 $color-gray-border:   color("base-dark");
 
 // Typography
-h1, h2, h3, h4, h5, h6,
-.usa-header,
-.usa-prose,
-.usa-prose > h1,
-.usa-prose > h2,
-.usa-prose > h3,
-.usa-prose > h4,
-.usa-prose > h5,
-.usa-prose > h6,
-.usa-nav .usa-accordion,
-.usa-sidenav {
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-}
-
 .usa-prose{
   h1,h2,h3,h4,h5,h6 {
     color: $color-dark;
