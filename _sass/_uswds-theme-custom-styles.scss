@@ -139,7 +139,7 @@ a[href^="https://gsa-tts.slack.com"]::before {
 }
 .usa-prose>ul.list-item--margin-bottom-extra>li,
 .usa-prose>ol.list-item--margin-bottom-extra>li {
-  @include u-margin-bottom(2.5);
+  @include u-margin-bottom(1.5);
 }
 
 @include at-media("desktop") {
