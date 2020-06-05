@@ -1,43 +1,24 @@
-.usa-layout-docs__sidenav,
-.usa-layout-docs__main {
-  width: auto;
-}
-
 //// 18F styles
 
 // Color
-$color-light:        #b3efff; // $color-light / $color-secondary-light
-$color-bright:       #00cfff; // $color-bright / $color-secondary
-$color-medium:       #046b99; // $color-medium / $theme-color-primary
-$color-dark:         #1C304A; // $color-dark / $theme-color-primary-dark
-$color-base:         #1F2E4A;
-$color-black:        #000000;
-$color-inverse:      #ffffff;
+$color-light:        color("cyan-10v"); // was #b3efff
+$color-bright:       color("cyan-30v"); // was #00cfff
+$color-medium:       color("primary");
+$color-dark:         color("primary-dark"); // was #1C304A
+$color-base:         color("primary-dark"); // was #1F2E4A
+$color-black:        color("black");
+$color-inverse:      color("white");
 
-$color-bright-hover: #00A7CE;
-$color-medium-hover: #00547A;
+$color-bright-hover: color("accent-cool-dark");
+$color-medium-hover: color("blue-60");
 
-$color-gray-lightest: #f1f1f1; // Adding bc used in our $border-light in this file.
-$color-gray-hover:    #fafafa;
-$color-gray-divider:  #bbbbbb;
+$color-gray-lightest: color("base-lightest"); // Adding bc used in our $border-light in this file.
+$color-gray-hover:    color("gray-2");
+$color-gray-divider:  color("gray-20");
 
-$color-gray-border:   #5b616b;
+$color-gray-border:   color("base-dark");
 
 // Typography
-h1, h2, h3, h4, h5, h6,
-.usa-header,
-.usa-prose,
-.usa-prose > h1,
-.usa-prose > h2,
-.usa-prose > h3,
-.usa-prose > h4,
-.usa-prose > h5,
-.usa-prose > h6,
-.usa-nav .usa-accordion,
-.usa-sidenav {
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-}
-
 .usa-prose{
   h1,h2,h3,h4,h5,h6 {
     color: $color-dark;
@@ -50,13 +31,13 @@ h1, h2, h3, h4, h5, h6,
 .usa-list li,
 .usa-prose>ul li,
 .usa-prose>ol li {
-  margin-bottom: .35em;
+  margin-bottom: units(0.5);
 }
 .usa-prose>ul li>ul,
 .usa-prose>ul li>ol,
 .usa-prose>ol li>ul,
 .usa-prose>ol li>ol {
-  margin-top: .75em;
+  margin-top: units(1.5);
 }
 
 // Links
@@ -73,7 +54,7 @@ a:hover {
 .usa-header--extended .usa-current:hover::after,
 .usa-nav__primary>.usa-nav__primary-item > .usa-current:hover::after {
   background-color: $color-bright;
-  height: 0.25rem;
+  height: units(0.5);
 }
 
 .usa-nav__primary>.usa-nav__primary-item > .usa-current,
@@ -106,7 +87,7 @@ a:hover {
 .usa-sidenav .usa-current::after {
   background-color: $color-bright;
   border-radius: 0;
-  width: 0.45rem;
+  width: units(1);
   top: 0;
   bottom: 0;
 }
@@ -118,36 +99,9 @@ a:hover {
 
 //// Customization
 
-// Set max-width to contain long H1 text
-.usa-prose > h1 {
-  max-width: 17em;
-}
-
-// Set max-width to contain long H2 text
-.usa-prose > h2 {
-  max-width: 19.5em;
-}
-
-// Set max-width to contain long H3 text
-.usa-prose > h3 {
-  max-width: 30em;
-}
-
-// Set max-width to contain long H4-H6 text
-.usa-prose > h4,
-.usa-prose > h5,
-.usa-prose > h6 {
-  max-width: 40em;
-}
-
-// Set max-width to contain long table data text
-.usa-prose > table td {
-  max-width: 25em;
-}
-
-// Set max-width to contain blockquote text
-blockquote {
-  max-width: 30em;
+// Set max-width on container to contain lines
+.usa-layout-docs__main {
+  max-width: units("tablet");
 }
 
 // Set line-height to specify distance between lines of text
@@ -157,29 +111,64 @@ blockquote {
 .usa-prose > h4,
 .usa-prose > h5,
 .usa-prose > h6 {
-  line-height: 1.5;
+  @include u-line-height("heading", 3);
 }
 
 // Set property values for code block
 pre {
   white-space: pre-wrap;
-  max-width: 30em;
 }
 
 // Show Slack icon before Slack Links
 a[href^="https://gsa-tts.slack.com"]::before {
   content: "";
-  $size: 30px;
+  $size: units(4);
   width: $size;
   height: $size;
   display: inline-block;
   vertical-align: middle;
-  margin: -3px -4px 0;
+  margin: units(-2px) units(-0.5) 0;
   background-size: 100%;
   background-repeat: no-repeat;
   background-image: url("/images/Slack_Mark.svg");
 }
 .usa-prose>ul.list-item--margin-bottom-extra>li,
 .usa-prose>ol.list-item--margin-bottom-extra>li {
-  @include u-margin-bottom(2.5);
+  @include u-margin-bottom(1.5);
+}
+
+@include at-media("desktop") {
+  .usa-header--extended .usa-logo {
+    max-width: none;
+  }
+
+  .usa-nav__primary>.usa-nav__primary-item {
+    @include u-font("ui", "xs");
+  }
+
+  .usa-header--extended .usa-nav__primary-item>.usa-current::after {
+    background-color: $color-bright;
+  }
+
+  .usa-header--extended .usa-nav__primary-item>.usa-nav__link:not(.usa-current):hover::after {
+    display: none;
+  }
+}
+
+.usa-layout-docs__sidenav {
+  overflow: visible;
+}
+
+.usa-header .usa-logo a {
+  display: inline-block;
+}
+
+@include at-media("desktop") {
+  .usa-layout-docs__sidenav {
+    @include grid-col(3);
+  }
+
+  .usa-layout-docs__main {
+    @include u-flex("fill");
+  }
 }
