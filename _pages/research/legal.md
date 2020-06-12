@@ -15,18 +15,15 @@ subnav:
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-18F designs our research to account for [The Antideficiency Act](https://www.gao.gov/legal/lawresources/antideficiency.html) and [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
+18F designs our research to account for the [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
 
 *Disclaimer: This article is intended for internal use. It’s shared in the spirit of open source, to prompt conversations around design research as it relates to the law. GSA has no regulatory authority over any of the laws discussed in this article, so don’t just take our word for it.*
+ 
 
+## Compensating Research Participants 
 
-## The Antideficiency Act
-
-[This act](https://www.gao.gov/legal/lawresources/antideficiency.html) prohibits federal agencies from obligating or expending federal funds in advance or in excess of an appropriation of funding. In addition, the Antideficiency Act prohibits Federal agencies from accepting voluntary services from private individuals, in order to minimize accidental obligations incurred through that voluntary work. Agencies are allowed to accept gratuitous services, where the party disclaims all expectation of receiving payment or compensation from the agency. 18F mitigates this risk by clarifying with research participants that they choose to participate without expectation of payment or compensation. This is why, for example, we include the following language in our [design research participant agreement:](https://methods.18f.gov/participant-agreement/)
-
-  ***You will not receive payment or compensation for your participation.*** You agree to perform all duties associated with your participation in this study during the period of <project start date> – <project end date> without expectation of payment or compensation.
-
-As a general matter, agency funds are not available to provide [incentives](https://methods.18f.gov/fundamentals/incentives/) for individuals to participate in design research studies. Each government agency approaches incentives differently and may have unique statutory authority to offer incentives to participants. GSA’s Office of General Counsel asks that we not directly pay incentives to research participants; however some of the agencies that we partner with, like the Centers for Medicare & Medicaid Services, have the unique authority to [offer incentives](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityInitiativesGenInfo/Downloads/Consumer-Usability-Testing-in-Five-State-based-Marketplaces.pdf).
+For information on compensating research participants, refer to the guidance under "Incentives", which is located under ["Corresponding with Participants"](https://ux-guide.18f.gov/research/do/#corresponding-with-participants)
+in the “Do” section of the UX guide. There are two versions of our [design research participant agreement](https://methods.18f.gov/participant-agreement/) to accomodate projects who will use volunteer participants in their research and projects who will compensate users alike. The agreement can be accessed in both English and Spanish. 
 
 
 ## The Paperwork Reduction Act of 1995
