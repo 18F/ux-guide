@@ -20,7 +20,7 @@ description: >-
   resources, norms, and practices for doing user
   experience research and design work at 18F.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ux-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -31,6 +31,7 @@ markdown: kramdown
 theme: uswds-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Google Analytics & DAP tracking code for handbook
 google_analytics_ua: UA-48605964-19
