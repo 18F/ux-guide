@@ -74,9 +74,20 @@ You can also participate in local communities of practice in by joining:
 - [Accessibility guild (#g-accessibility)](https://gsa-tts.slack.com/messages/g-accessibility/)
 - [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
 
-### Labs
+### Microrequests
 
-Whenever you’re in need of a particular skill — help polishing a presentation; content design; or a front-end development — 18F’s internal labs can provide support. The development, writing, and design labs are virtual centers, staffed by 18F colleagues from various teams to provide personalized help within each discipline. Any 18F project is eligible for help (with preference towards billable work as it aids in our goal towards cost recoverability). For more information, visit the [Writing lab](https://handbook.18f.gov/writing-lab/#portfolio-of-services), [Design lab](https://github.com/18F/design-lab), and [Dev Slack channel](https://gsa-tts.slack.com/messages/C02CD5VUQ/).
+Whenever you’re in need of a particular skill — help polishing a presentation; content design; or front-end development — 18F’s microquest staffing team can provide support. [The microrequests channel](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG) is the space where you can request assistance from 18F colleagues to get personalized help on projects. Each discipline should be represented at any time in the channel. The only limitation is that microrequest tasks must require fewer than 8 hours of work for the person providing the assistance. Any 18F project is eligible for help, with preference towards billable work as it aids in our goal towards cost recoverability. For more information, visit the [Microrequests Section in the TTS Handbook](https://handbook.tts.gsa.gov/microrequests/) and the [Microrequests Slack channel.](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG)
+
+### Presenting the work
+The most common way we socialize our research is through presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
+
+* Utilize the 18F branded templates to save time and help maintain consistency. [Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21) to start with for research presentations.
+* Work with [the microrequests staffing team](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG) if you are uncertain how to articulate or visualize an idea. The presentation should have enough text in it that someone who wasn’t in the room can read through it and understand the project.
+* Feel free to include references or links to further reading at the end of your presentation deck.
+If you’re curious or need inspiration it can be helpful to browse our past [path analysis reports/presentations.](https://github.com/18F/project-artifacts/blob/master/projects.md)
+
+Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional synthesis examples.
+
 
 ### Tools
 
