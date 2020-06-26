@@ -181,9 +181,18 @@ You can find out more about what makes a good tweet-length intercept [here in ou
 
 The third and final step is identifying interested people and determine if they meet your recruitment criteria. Once you’ve got a list of interested people and their contact information, you can easily screen them by having brief, unstructured conversations with them. Once you’ve determined that someone is qualified to participate in the session, you’ll need to get their informed consent.
 
-#### Incentives
+### Incentives
 
-18F lacks the legal authority to offer incentives; see [Legal]({{site.baseurl}}/research/legal) for more information. Instead, think creatively about how you might appeal to potential research participants in lieu of a monetary incentive. For instance, you might consider framing their participation as an opportunity to see something in development, or to read about the research findings  before it’s shared with a wider audience (if possible). We often appeal to people’s desire to contribute to the common good by helping to improve government services.
+We now have the ability to compensate user testing participants so long as they are public participants, not government employees. This major advancement for research and human-centered design makes it possible for us to get input from more representative groups of people in order to better deliver products and services. Our ability to compensate users for testing depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria: 
+
+1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant 
+   (i.e., amount paid to   the user) 
+2. Compensating user testing participants must directly advance the client’s statutory mission and objectives
+
+The process of paying participants for research is similar to paying for a contractor or vendor. TTS will continue to iterate on this approach in partnership with OGC. We are currently [collecting value statements](https://docs.google.com/forms/d/e/1FAIpQLSf4k7MQuQjD71O6GsK6-c_3ByWMtUskhYEt6hcrq2qYEqSZNw/viewform) that might be useful in demonstrating eligibility for the “benefit to government” portion of the criteria. 
+
+More detailed information can be found in the [Compensating research participants document.](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)
+In order to add compensation for participants to your in-flight engagement or new IAA, you can use the above resource, which includes the [User Testing Authorization, Attachment 2 - CoE - {{Agency}} document.](https://docs.google.com/document/d/16t7vczeoN_fpTCrrQ2Kvjdb9r_fMywebeDKshRcSfqM/edit#)  
 
 ### Getting informed consent
 
