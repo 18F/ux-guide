@@ -157,15 +157,21 @@ a[href^="https://gsa-tts.slack.com"]::before {
 
 .usa-layout-docs__sidenav {
   overflow: visible;
+  order: 0;
+  margin-bottom: units(3);
+  padding-top: 0;
+  position: relative;
 }
 
 .usa-header .usa-logo a {
   display: inline-block;
 }
 
+
 @include at-media("desktop") {
   .usa-layout-docs__sidenav {
     @include grid-col(3);
+    position: sticky;
   }
 
   .usa-layout-docs__main {
