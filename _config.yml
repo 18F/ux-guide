@@ -37,6 +37,9 @@ plugins:
 google_analytics_ua: UA-48605964-19
 dap_agency: GSA
 
+# Add search site handle to enable search
+search_site_handle: uxguide
+
 scripts:
   - assets/uswds/js/uswds.min.js
   - javascripts/private-eye.js
