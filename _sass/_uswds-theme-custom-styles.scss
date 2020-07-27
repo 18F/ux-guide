@@ -1,3 +1,4 @@
+
 //// 18F styles
 
 // Color
@@ -182,3 +183,7 @@ a[href^="https://gsa-tts.slack.com"]::before {
     @include u-flex("fill");
   }
 }
+
+
+//Footer (usa-anchor styles)
+@import '_usa_anchor';
