@@ -1,3 +1,4 @@
+
 //// 18F styles
 
 // Color
@@ -17,6 +18,7 @@ $color-gray-hover:    color("gray-2");
 $color-gray-divider:  color("gray-20");
 
 $color-gray-border:   color("base-dark");
+
 
 // Typography
 .usa-prose{
@@ -182,3 +184,15 @@ a[href^="https://gsa-tts.slack.com"]::before {
     @include u-flex("fill");
   }
 }
+
+
+////Footer (usa-anchor styles)
+
+//fixing footer anchor to bottom
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+@import '_usa_anchor';
