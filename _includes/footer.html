@@ -9,23 +9,19 @@
             <div class="org-copy">
               <a href="{{ anchor.agency_url }}" title="{{ anchor.agency }}">
                 <img src="{{site.baseurl}}/images/{{ anchor.agency_logo }}" class="org-img" alt="{{ anchor.agency }} Logo" %}</img></a>
-                <a href="{{ anchor.org_secondary_url }}" title="{{ anchor.org_secondary }}">
-                  <img src="{{site.baseurl}}/images/{{ anchor.org_secondary_logo }}" class="org-img" alt="{{ anchor.org_secondary }} Logo" %}</img></a>
+                <a href="{{ anchor.org_secondary_url }}" title="{{ anchor.org_secondary }}"><img src="{{site.baseurl}}/images/{{ anchor.org_secondary_logo }}" class="org-img" alt="{{ anchor.org_secondary }} Logo" %}</img></a>
               <p><a href="{{site.baseurl}}}" title="{{ anchor.site_name }}">{{ anchor.site_name -}}</a> is a product of {{ anchor.agency_acronym }}&#8217;s <a href="{{ anchor.org_primary_url }}" title="{{ anchor.org_primary }}">{{ anchor.org_primary }}</a>{%if anchor.org_primary %}, and is managed by <a href="{{ anchor.org_secondary_url }}" title="{{ anchor.org_secondary }}">{{ anchor.org_secondary }}</a>{%endif%}.</p>
             </div>
-
             <button class="btn-learn-more usa-button usa-button--outline usa-button--inverse usa-accordion__button" aria-hidden="false" aria-expanded="false" aria-controls="org-details">
               <span>Learn&nbsp;more</span>
             </button>
           </div>
         </div>
       </div>
-
       <div class="org-expanded" id="org-details" hidden>
         <div class="grid-row tablet:grid-gap-2">
           <div class="grid-col-12 tablet:grid-col-6">
             <div class="org-copy">
-
               {% if anchor.org_primary_bio %}
                 <p>{{ anchor.org_primary_bio }} <a class="more" href="{{ anchor.org_primary_url }}" title="Learn more about {{ anchor.org_primary }}">Read more</a></p>
               {%endif %}
@@ -34,11 +30,9 @@
               {% endif %}
             </div>
           </div>
-
           <div class="grid-col-12 tablet-lg:grid-col-5 tablet-lg:grid-offset-1">
             <div class="org-links">
               <p><i class="fas fa-envelope"></i> For questions about this website, email <a href="mailto:{{ anchor.site_email }}">{{ anchor.site_email }}</a>.</p>
-
               <p>Additional information about the {{ anchor.agency }} ({{ anchor.agency_acronym }}) can be found at <a href="{{ anchor.agency_about_url }}" title="More about the {{ anchor.agency_acronym }}">{{ anchor.agency_about_url }}</a></p>
               <ul>
                 <li><a href="{{ anchor.fraud_waste_abuse_url }}" title="Report fraud, waste, or abuse to the Office of the Inspector General">Report fraud, waste, or abuse to the Office of the Inspector General</a></li>
@@ -54,7 +48,6 @@
     </div>
   </div>
 </div>
-
 <div class="component-anchor-support">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row tablet-lg:grid-gap-2">
