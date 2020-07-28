@@ -1,5 +1,12 @@
 // Anchor component - - - - - - - - - - - - - - -
 // Using the USWDS Design Tokens
+.anchor{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex: 1;
+}
+
 
 .component-anchor{
   background-color: $color-dark;

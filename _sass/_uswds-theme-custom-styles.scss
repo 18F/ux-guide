@@ -19,6 +19,7 @@ $color-gray-divider:  color("gray-20");
 
 $color-gray-border:   color("base-dark");
 
+
 // Typography
 .usa-prose{
   h1,h2,h3,h4,h5,h6 {
@@ -185,5 +186,13 @@ a[href^="https://gsa-tts.slack.com"]::before {
 }
 
 
-//Footer (usa-anchor styles)
+////Footer (usa-anchor styles)
+
+//fixing footer anchor to bottom
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 @import '_usa_anchor';
