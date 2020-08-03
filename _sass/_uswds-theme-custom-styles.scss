@@ -173,7 +173,6 @@ a[href^="https://gsa-tts.slack.com"]::before {
   display: inline-block;
 }
 
-
 @include at-media("desktop") {
   .usa-layout-docs__sidenav {
     @include grid-col(3);
@@ -186,9 +185,9 @@ a[href^="https://gsa-tts.slack.com"]::before {
 }
 
 
-////Footer (usa-anchor styles)
+//// Footer (usa-anchor styles)
 
-//fixing footer anchor to bottom
+// Fixing footer anchor to bottom
 body {
   display: flex;
   flex-direction: column;
