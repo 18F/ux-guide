@@ -119,7 +119,7 @@ Our collaborations are frequently anchored by at least one or two in-person sess
 
 ## Security and privacy norms
 
-A big part of develoingp government digital services is managing risk. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
+A big part of developing government digital services is managing risk. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 
 As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as authorizing official and system owner), and by following our [Before You Ship guide](https://before-you-ship.18f.gov/ato/). It can also be helpful to ask about:
 
