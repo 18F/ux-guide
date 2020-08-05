@@ -34,7 +34,7 @@ Each piece of collected or stored PII increases the risk of privacy violations. 
 - Present [Privacy Act Notices](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) whenever they collect PII (in order to allow for informed consent)
 - Protect agency-held PII against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to the participant.
 
-18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf). The [TTS Research Guild](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
+18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf). The [TTS Research Guild](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
 
 
 ## Guidelines
