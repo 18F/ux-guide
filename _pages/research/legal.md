@@ -5,8 +5,8 @@ permalink: /research/legal/
 sidenav: research
 sticky_sidenav: true
 subnav:
-- text: The Antideficiency Act
-  href: '#the-antideficiency-act'
+- text: Compensating Research Participants
+  href: '#compensating-research-participants'
 - text: The Paperwork Reduction Act of 1995
   href: '#the-paperwork-reduction-act-of-1995'
 - text: Additional questions
