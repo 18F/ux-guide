@@ -71,7 +71,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-sitemap
   tzinfo-data
-  uswds-jekyll
+  uswds-jekyll (= 5.0)
 
 BUNDLED WITH
    1.17.3
