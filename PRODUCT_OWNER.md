@@ -20,7 +20,7 @@ In addition, the 18F UX Guide Product Owner is expected to spend an average of o
 
 
 ## Objective C: Ensure the guide works as part of GSA’s content ecosystem
-- Work with outreach to ensure content and site get all necesary approvals
+- Work with outreach to ensure content and site get all necessary approvals
 - Ensure site is on brand 
 - Meet with the product owner for 18F’s Methods as needed to ensure mutually supportive content
 - Work with the co-leads of the TTS Research Guild to facilitate annual updates to GSA’s Privacy Impact Assessment for Design Research
