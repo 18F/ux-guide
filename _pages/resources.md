@@ -47,7 +47,7 @@ An example guide for teams leading a post-interview debrief.
 [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))  
 18F’s Design Research is covered by our [Privacy Act Notice for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
-[Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
+[Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
 A starting point for sharing what you learned during a path analysis or discovery sprint. (18F staff: See these report templates: [template 1](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit), [template 2](https://docs.google.com/document/d/1mohw86sAoNrwZ6MnIMlX8420IkFWV2kPkB4a_XwbCm8/edit))
 
 ## Email templates
