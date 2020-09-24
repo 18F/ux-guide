@@ -87,9 +87,9 @@ Turning insights into action helps us answer and communicate:
 
 Artifacts that we use to do this include:
 
-- [Presentations template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)
-- [Design Hypotheses](https://methods.18f.gov/decide/design-hypothesis/)
-- [Design Principles](https://methods.18f.gov/decide/design-principles/)
+- [Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
+- [Design hypotheses](https://methods.18f.gov/decide/design-hypothesis/)
+- [Design principles](https://methods.18f.gov/decide/design-principles/)
 - [Personas](https://methods.18f.gov/decide/personas/)
 - [Mental models](https://methods.18f.gov/decide/mental-modeling/)
 - [User scenarios](https://methods.18f.gov/decide/user-scenarios/)
@@ -130,15 +130,13 @@ Sharing research is all about storytelling. When packaging research, think about
 
 ### Presenting the work
 
-The most common way we socialize our research is through presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
+We most commonly share our research findings via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-{:.list-item--margin-bottom-extra}
-- Utilize the 18F branded templates to save time and help maintain consistency. ([Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)) to start with for research presentations.
-- Work with the [Writing](https://gsa-tts.slack.com/app_redirect?channel=writing-lab) and [Design Labs](https://gsa-tts.slack.com/app_redirect?channel=design-lab) if you are uncertain how to articulate or visualize an idea.
-The presentation should have enough text in it that someone who wasn’t in the room can read through it and understand the project.
-- Feel free to include references or links to further reading at the end of your presentation deck.  
-
-If you’re curious or need inspiration it can be helpful to browse our [past path analysis reports/presentations](https://github.com/18F/path-analysis/blob/master/projects.md). Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional synthesis examples.
+* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time. You may want to use this [Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238) as a starting point.
+* The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397) for additional pointers and guidance. 
+* Check out the [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) for reusable content and templates; browse [project artifacts from previous 18F engagements](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples. 
+* Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
+* Feel free to include references or links to further reading at the end of your presentation.
 
 ### Lightweight sharing
 
