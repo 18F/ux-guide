@@ -47,7 +47,7 @@ An example guide for teams leading a post-interview debrief.
 [Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([GDoc](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))  
 18F’s Design Research is covered by our [Privacy Act Notice for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
-[Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.gedd277167_0_280)
+[Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
 A starting point for sharing what you learned during a path analysis or discovery sprint. (18F staff: See these report templates: [template 1](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit), [template 2](https://docs.google.com/document/d/1mohw86sAoNrwZ6MnIMlX8420IkFWV2kPkB4a_XwbCm8/edit))
 
 ## Email templates
@@ -76,17 +76,20 @@ You can also participate in local communities of practice in by joining:
 
 ### Microrequests
 
-Whenever you’re in need of a particular skill — help polishing a presentation; content design; or front-end development — 18F’s microquest staffing team can provide support. [The microrequests channel](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG) is the space where you can request assistance from 18F colleagues to get personalized help on projects. Each discipline should be represented at any time in the channel. The only limitation is that microrequest tasks must require fewer than 8 hours of work for the person providing the assistance. Any 18F project is eligible for help, with preference towards billable work as it aids in our goal towards cost recoverability. For more information, visit the [Microrequests Section in the TTS Handbook](https://handbook.tts.gsa.gov/microrequests/) and the [Microrequests Slack channel.](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG)
+If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests](https://gsa-tts.slack.com/app_redirect?channel=microrequests) channel. Each discipline is represented at any time in the channel. 
+
+Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted](https://gsa-tts.slack.com/app_redirect?channel=helpwanted) channel. 
+
+For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/microrequests/) page in the [TTS Handbook](https://handbook.tts.gsa.gov/).
 
 ### Presenting the work
-The most common way we socialize our research is through presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
+We most commonly share our work via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-* Utilize the 18F branded templates to save time and help maintain consistency. [Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21) to start with for research presentations.
-* Work with [the microrequests staffing team](https://app.slack.com/client/T025AQGAN/CNFHBCXDW/user_groups/S0148T6HBNG) if you are uncertain how to articulate or visualize an idea. The presentation should have enough text in it that someone who wasn’t in the room can read through it and understand the project.
-* Feel free to include references or links to further reading at the end of your presentation deck.
-If you’re curious or need inspiration it can be helpful to browse our past [path analysis reports/presentations.](https://github.com/18F/project-artifacts/blob/master/projects.md)
-
-Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional synthesis examples.
+* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time. 
+* The presentation should tell a compelling story, be easy to read, but include enough content so others can read it and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397) for additional pointers and guidance. 
+* Check out the [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) for reusable content and templates; browse [project artifacts from previous 18F engagements](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples. 
+* Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
+* Feel free to include references or links to further reading at the end of your presentation.
 
 
 ### Tools
@@ -96,7 +99,7 @@ Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional s
 
 ## General
 
-- [18F Handbook](https://handbook.18f.gov/)
+- [18F Handbook](https://handbook.tts.gsa.gov/)
 - [18F Methods](https://methods.18f.gov/)
 - [USDS Playbook](https://playbook.cio.gov/)
 - [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#)
@@ -113,7 +116,7 @@ Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional s
 
 - [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#)
 - [Content](https://content-guide.18f.gov/)
-- [Frontend](https://frontend.18f.gov/)
+- [Front-end](https://frontend.18f.gov/)
 - [Analytics](https://github.com/18F/analytics-standards/)
 - [Accessibility](https://accessibility.18f.gov/)
 - [Agile](https://agile.18f.gov/)
@@ -121,10 +124,11 @@ Our [design wiki](https://github.com/18F/Design-Wiki/wiki) contains additional s
 
 ## Presentations
 
+- [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397)
 - [What is design?](https://drive.google.com/open?id=1dFVWZQzSGMUEj8oDQ_i3Ja0B4z1TFzuPGnYoO4sBAK4)
-- [Introduction to design](https://docs.google.com/presentation/d/10umIwSBuOoEBiNkAQr0ptC91yusdLmfeuAUrqrHDxYk/edit#slide=id.g3cf5b659b1_0_60)
+- [Introduction to design](https://docs.google.com/presentation/d/10umIwSBuOoEBiNkAQr0ptC91yusdLmfeuAUrqrHDxYk/edit#slide=id.g4b64d72243_0_0)
 - [Writing research questions](https://drive.google.com/open?id=16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE)
-- [Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g118c086a31_0_21)
+- [Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
 
 ## Additional reading
 
