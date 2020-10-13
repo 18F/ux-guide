@@ -139,7 +139,7 @@ Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/
 Consider especially:
 
 - People who have disabilities or use assistive technologies
-- People who have limited digital skills or poor literacy
+- People who have limited digital skills or low literacy
 - People who may need help using the service in question
 
 ### Defining recruitment criteria
@@ -164,7 +164,7 @@ Regardless of how you arrive at them, review your recruitment criteria with your
 
 ## Ethical considerations
 
-Research affords your team powerful opportunities to both interact with people and explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
+Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
 
 Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
