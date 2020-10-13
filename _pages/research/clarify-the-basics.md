@@ -35,10 +35,10 @@ Because a collaborative approach [increases the team’s overall empathy and eff
 
 {:.list-item--margin-bottom-extra}
 - **Research design** — Formulating a research plan, including research questions and interview guides
-- **Screening/recruiting** — Determining who we want to learn from, and inviting them to participate
-- **Coordinating/scheduling** — Managing research logistics (times, places, tools, people)
-- **Interviewing/moderating** — Facilitating the interview or activity. The person who takes this on should be able to give their full attention to the participant(s) and should not be responsible for capturing responses
-- **Note-taking/recording** — Documenting what happens during the research (for example, during a usability test)
+- **Screening and recruiting** — Determining who we want to learn from, and inviting them to participate
+- **Coordinating and scheduling** — Managing research logistics (times, places, tools, people)
+- **Interviewing and moderating** — Facilitating the interview or activity. The person who takes this on should be able to give their full attention to the participant(s) and should not be responsible for capturing responses
+- **Notetaking and recording** — Documenting what happens during the research (for example, during a usability test)
 - **Observing** — This is the default role for teammates who are new to research. Observers listen to interviews, observe usability tests, etc.
 - **Debriefing** — Discussing individual sessions (usually immediately after each) to reach a shared understanding
 - **Synthesis** —  Finding patterns and themes across all research activities
