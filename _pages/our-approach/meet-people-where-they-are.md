@@ -86,7 +86,7 @@ Engaging partners in conversations about how they might level-up in their practi
 - How might we better incorporate our partner’s perspective into the creative process (via stakeholder interviews, design studios, etc.), so that they see design’s ability to facilitate constructive dialog?
 - How could we more directly communicate design’s ability to meet their goals (such as demonstrating how proactive usability testing helps them reduce risk)?
 
-In general, people who are new to design will need to appreciate its direct benefits (like improved usability and customer adoption) before its indirect benefits (such as helping the team identify the most important problems for them to solve). Because of this, we aim to give your partners something tangible, and. Let them experience the show before pulling back the curtain.
+For people who are new to design, it can be easier to adopt strategies that do not require change in individual or team participation and that are easily measured, such as strategies that result in improved usability and customer adoption. Once people observe evidence-based successes, we can bring them further into the design process.
 
 
 ## Remote friendliness
