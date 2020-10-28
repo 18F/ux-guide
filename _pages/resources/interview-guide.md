@@ -13,13 +13,13 @@ This document includes example questions grouped along key moments often found i
 
 Hello, my name’s `[moderator]`, and I’m going to walk you through today’s session. As I mentioned over email, my office is currently working with `[partner]` to `[broad purpose; for example, inform a redesign of agency.gov]`. Joining us on the call are `[observers, and their affiliation]`.
 
-I’d like to begin by thanking you for making time to speak with us. Your feedback is valuable, and will help us determine if our website functions as intended. Just to confirm, we’d like keep this interview to `[duration; for example, 30 minutes]`. Does that still work for you?
+I’d like to begin by thanking you for making time to speak with us. Your feedback is valuable, and will help us determine if our website functions as intended. Just to confirm, we’d like to keep this interview to `[duration; for example, 30 minutes]`. Does that still work for you?
 
 Great. If you need a break or to stop at any time, please let me know.
 
-During this session, I’ll start by asking you a few questions around your work. Later on, I’ll ask you to share your screen and accomplish a few tasks using the website we’re evaluating.
+During this session, I’ll start by asking you a few questions around your work. Later on, I’ll ask you to share your screen and accomplish a few tasks using the ` [prototype: for example, a website or draft content]` we’re evaluating.
 
-Please be aware that there are no wrong answers. In fact, this is probably the one place today where you don’t have to worry about making mistakes! As you go about using the website, I’ll ask you to think aloud as much as possible: to describe what you’re looking at and what you’re trying to do. This will be a big help.
+Please be aware that there are no wrong answers. In fact, this is probably the one place today where you don’t have to worry about making mistakes! As you go about using the `[prototype]`, I’ll ask you to think aloud as much as possible: to describe what you’re looking at and what you’re trying to do. This will be a big help.
 
 Also, please don’t worry that you’re going to hurt our feelings. We’re doing this to improve the site, so we need to hear your honest reactions.
 
@@ -54,7 +54,7 @@ What’s one thing you wish were more straightforward about `[topic]`?
 
 ## Demo
 
-_Note: If you’re running a usability test, consider this [example usability test script](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-script.md) instead._
+_Note: If you’re running a usability test, consider this [example usability test script](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-guide.md) instead._
 
 Thanks. Now I’m going to ask you to consider how you might respond to the following scenarios using this website. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
 
