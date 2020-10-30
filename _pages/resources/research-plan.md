@@ -9,35 +9,36 @@ title: Research plan
 
 ## Background
 
-> Background information goes here.
+> Describe factors that the research will need to account for, including any shared beliefs or forces motivating the research itself. Summarize any past research or information that shape the research context. 
 
 
 ## Goals
 
-> Use reality-oriented words like “describe”, “evaluate”, or “identify,” and avoid intangible ones like “understand” or “explore.”
+> When writing your [research goals](https://ux-guide.18f.gov/research/plan/#goals), use reality-oriented words like “describe”, “evaluate”, or “identify,” and avoid intangible ones like “understand” or “explore.” Consider how this research will help reduce risk and inform decisions.
 
 
 ## Research questions 
 
-> What do you want to learn to make better evidence-based decisions? Good questions are specific, actionable, and practical; they usually center around the user’s experience and needs.
+> What do you want to learn to make better evidence-based decisions? [Good research questions](https://ux-guide.18f.gov/research/plan/#research-questions) are specific, actionable, and practical; they usually center around the user’s experience and needs. 
 
 
 ## Method(s)
 
-> **Instructions:** Choose some [Methods](https://methods.18f.gov)! Only perform the research activities that you believe will best inform the design decisions you anticipate. Ensure the team understands these methods *before* you do the research.
+> **Instructions:** Choose some [methods](https://ux-guide.18f.gov/research/plan/#methods) that are appropirate for meeting the goals and answering research questions.
 
 
 ## Research roles
 
-> **Instructions:** Review the [roles](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md#research-is-a-team-sport) outlined in the 18F UX Guide.
+> **Instructions:** Consider how research can be [a team activity](https://ux-guide.18f.gov/research/clarify-the-basics/#a-team-activity) and decide who will hold specific [research roles](https://ux-guide.18f.gov/research/do/#clarify-team-roles). 
 
 - Research lead
 - Moderator
 - Observer(s)
 
+
 ## Timeline
 
-> **Intsructions:** Give a rough-estimate timeline for project leads and partners to help manage expectations around study execution. Remember to give more time than you think you need to analysis and synthesis (a safe estimate is twice as long as you give to data collection).
+> **Intsructions:** Document the estimated [timeline](https://ux-guide.18f.gov/research/plan/#timeline) for completing this research. Plan more time than you think you need.
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -52,10 +53,12 @@ title: Research plan
 
 
 ## Participants and recruiting
+> Describe at a high-level [who should participate in this study](https://ux-guide.18f.gov/research/plan/#participants-and-recruiting), and how you’ll recruit them. Consider how the team will communicate with participants, for example [by email](https://ux-guide.18f.gov/resources/#email-templates) and how the team will get [informed consent](https://ux-guide.18f.gov/research/do/#getting-informed-consent) from participants. See the [legal section](https://ux-guide.18f.gov/research/legal/) of the UX Guide for more information. 
 
 ## Ethics considerations 
+> Document the [ethical principles or concerns](https://ux-guide.18f.gov/research/plan/#ethical-considerations) that influence this research approach. Discuss as a team what [biases](https://ux-guide.18f.gov/research/bias/) exist. 
 
 
 ## Expected outcomes
 
-> Write a pre-mortem: How will the team’s design context change after this study? What design decisions will this study inform? What documentation will be updated? What artifacts will be made/updated?
+> Document what [outputs and outcomes](https://ux-guide.18f.gov/research/plan/#outputs-and-outcomes) the team expects from this research.
