@@ -31,7 +31,7 @@ At each step we do just enough research to validate our hypotheses, and plan ano
 
 ### Framing problems
 
-We start with user needs framed as problem statements. A problem statement describes ways that you will know (or measure) when you have solved the problem.
+We start with user needs framed as problem statements. A problem statement describes ways you will know (or measure) when you have solved the problem.
 
 Problem statements can be expressed in this format:
 
@@ -67,7 +67,7 @@ Once assumptions have been identified, we have to prioritize which are most impo
 
 Hypotheses make our assumptions explicit, and experiments help us test our hypotheses. A hypothesis should succinctly state expected outcomes and measures of success. These hypotheses help us begin to answer how we might solve the problems we’ve identified. This framework can help make our design hypotheses explicit:
 
->We believe that [doing / building / creating this] for [this user / persona] will result in [this outcome]. We’ll know we’re right when we see [this signal / metric].
+>We believe that [doing / building / creating this] for this [user / persona] will result in [this outcome]. We’ll know we’re right when we see this [signal / metric].
 
 ### Designing experiments
 
