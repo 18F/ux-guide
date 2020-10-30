@@ -23,7 +23,7 @@ subnav:
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-All research is subject to bias, whether in our choice of who participates,  which pieces of information are collected, or how they’re interpreted. Proactively engaging with bias helps us improve the credibility of our research. The following list is our starting point.
+All research is subject to bias, whether in our choice of who participates, which pieces of information we collect, or how we interpret what we've collected. Proactively engaging with bias helps us improve the credibility of our research. The following list of biases is our starting point.
 
 
 ## Research design bias
@@ -74,7 +74,7 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 {:.list-item--margin-bottom-extra}
 - Build rapport with participants
-- Emphasize the goals of the research, and how they’re better met with honest feedback
+- Emphasize the goals of the research, and how honest feedback is the best way to meet those goals
 - Distance yourself from any proposed design solutions (“these are just a few ideas the team came up with, but you’re the expert here,” “I didn’t design this, so if you don’t like it, you won’t hurt my feelings”)
 - Consider changing the research mode. For example, some research has shown that social desirability bias may be less likely when interviews are conducted over email compared to face-to-face
 
@@ -96,17 +96,17 @@ All research is subject to bias, whether in our choice of who participates,  whi
 
 ## The observer effect (the Hawthorne effect)
 
-**What it is:** When the people who participate in research modify their behavior simply because they’re being observed. For example, if the office is unusually quiet while an interviewer is on site conducting interviews.
+**What it is:** When the people who participate in research modify their behavior simply because they’re being observed. An example is when an office becomes unusually quiet while an interviewer conducts on-site interviews.
 
 **How to counter:**
 
 {:.list-item--margin-bottom-extra}
 - Build rapport
 - Ask for introductions from key stakeholders, and be mindful of the ability to prime participants while informing their consent
-- Blend in, and respect participants’ social and cultural norms
-- Pay attention to what people say they do as well as what they actually do (you might ask participants to teach you their process)
-- Use mixed methods, and unmoderated research modes, like monitoring forum posts or web analytics (while being mindful of [privacy]({{site.baseurl}}/research/privacy))
-- Be careful to not over-interpret what you see or hear
+- Blend in by noticing and following participants’ social and cultural norms
+- Pay attention to what people say they do, as well as what they actually do (you might ask participants to teach you their process)
+- Use mixed methods as well as unmoderated research modes, like monitoring forum posts or web analytics (while being mindful of [privacy]({{site.baseurl}}/research/privacy))
+- Be careful to avoid over-interpreting what you see or hear
 
 
 ## Avoiding bias
