@@ -11,7 +11,7 @@ subnav:
   href: '#our-principles'
 ---
 
-We believe that good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
+We believe good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
 Our approach is fundamentally collaborative. This document exists to help our cross-functional teams and our agency partners better collaborate through a shared understanding of the values and principles that guide 18F UX designers.
 
@@ -36,11 +36,11 @@ We always begin with identifying our partners’ needs and the needs of the peop
 
 ### We use an iterative process of learning and discovery informed by data
 
-A flexible vision is critical. We use data and direct conversations with users to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams the evidence to make better decisions. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean little mistakes don’t become big failures.
+A flexible vision is critical. We use data and direct conversations with users to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams evidence to make better decisions. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean that little mistakes don’t become big failures.
 
 ### We promote inclusion
 
-In government, good design serves everyone within an agency's mandate. To do this, we promote diversity and inclusion throughout our research and design process by accounting for everyone our decisions affect. Having a team with varied life experience—particularly around issues of accessibility and technology usage—helps us create more accessible, usable products and services.
+In government, good design serves everyone within an agency's mandate. To do this, we promote diversity and inclusion throughout our research and design processes by accounting for everyone our decisions affect. Having a team with varied life experience — particularly around issues of accessibility and technology usage — helps us create more accessible, usable products and services.
 
 ### We design together
 
