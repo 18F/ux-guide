@@ -102,7 +102,7 @@ In evaluative research such as [usability testing](https://methods.18f.gov/valid
 
 {:.list-item--margin-bottom-extra}
 1. **Clarify the tasks your sessions will investigate.** Tasks are often included in artifacts such as personas or user stories. If your team doesn’t yet have those artifacts, ask them to identify “the most essential things that people need to do” relative to your research area of focus. Then pick the top two or three tasks the prototype will need to depict.
-2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session. [Here’s a boilerplate usability test guide](https://methods.18f.gov/usability-test-script/) ([Google Docs version](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#heading=h.cb9ci3qbjc56)).
+2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session. [Here’s a boilerplate usability test guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-guide.md) ([Google Docs version](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#heading=h.cb9ci3qbjc56)).
 3. **Discuss with your team how and when you’ll share the prototype** (for example, sharing a link to an online prototype or sending a document).
 
 Prototypes create dependencies in your research. When doing research involving prototypes, you will need to:
@@ -183,13 +183,13 @@ The third and final step is identifying interested people and determine if they 
 
 ### Incentives
 
-We now have the ability to compensate user testing participants so long as they are public participants, not government employees. This major advancement for research and human-centered design makes it possible for us to get input from more representative groups of people in order to better deliver products and services. Our ability to compensate users for testing depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria: 
+We now have the ability to compensate user testing participants so long as they are public participants, not government employees. This major advancement for research and human-centered design makes it possible for us to get input from more representative groups of people in order to better deliver products and services. Our ability to compensate users for testing depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria:
 
-1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant 
-   (i.e., amount paid to   the user) 
+1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant
+   (i.e., amount paid to   the user)
 2. Compensating user testing participants must directly advance the client’s statutory mission and objectives
 
-The process of paying participants for research is similar to paying for a contractor or vendor. TTS will continue to iterate on this approach in partnership with OGC. We are currently [collecting value statements](https://docs.google.com/forms/d/e/1FAIpQLSf4k7MQuQjD71O6GsK6-c_3ByWMtUskhYEt6hcrq2qYEqSZNw/viewform) that might be useful in demonstrating eligibility for the “benefit to government” portion of the criteria. 
+The process of paying participants for research is similar to paying for a contractor or vendor. TTS will continue to iterate on this approach in partnership with OGC. We are currently [collecting value statements](https://docs.google.com/forms/d/e/1FAIpQLSf4k7MQuQjD71O6GsK6-c_3ByWMtUskhYEt6hcrq2qYEqSZNw/viewform) that might be useful in demonstrating eligibility for the “benefit to government” portion of the criteria.
 
 More detailed information can be found in the [Compensating research participants document.](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)
 In order to add compensation for participants to your in-flight engagement or new IAA, you can use the above resource, which includes the [User Testing Authorization, Attachment 2 - CoE - {{Agency}} document.](https://docs.google.com/document/d/16t7vczeoN_fpTCrrQ2Kvjdb9r_fMywebeDKshRcSfqM/edit#)  
@@ -205,7 +205,7 @@ Getting informed consent ensures that:
 - The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy))
 - The research complies with The Antideficiency Act (see [Legal]({{site.baseurl}}/research/legal))
 
-Copy and customize [this example design research participant agreement](https://methods.18f.gov/participant-agreement/) ([Google Docs version of template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) or [Google form version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit)) to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
+Copy and customize [this example design research participant agreement](https://methods.18f.gov/participant-agreement/) ([Google Docs version of template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) ([Spanish version of design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md)) or [Google form version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit)) to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
 
 Correspond with participants ahead of time to explain things that might otherwise get lost in the agreement-signing process. In the event that a participant has not signed an agreement ahead of the interview, obtain their verbal consent. In order to give their informed consent, participants need to understand:
 
@@ -336,7 +336,7 @@ Here are a few high-level things to capture in a debrief:
 - What new questions do we have?
 - Are there any new people we should talk to?
 
-You may want to use this [example interview debrief worksheet](https://methods.18f.gov/interview-debrief/); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
+You may want to use this [example interview debrief worksheet](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
 
 
 ## Additional reading

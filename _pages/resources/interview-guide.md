@@ -1,8 +1,9 @@
 ---
 title: Interview guide [template]
 description: An example script for use while leading a user interview
-layout: page
+layout: redirect
 permalink: /interview-script/
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md
 ---
 
 # Interview guide [template]

@@ -1,8 +1,9 @@
 ---
 title: Usability Test Guide [Template]
 description: An example script for use while moderating a usability testing
-layout: page
+layout: redirect
 permalink: /usability-test-script/
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-guide.md
 ---
 
 # Usability Test Guide [Template]

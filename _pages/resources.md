@@ -30,9 +30,10 @@ Prompts for planning research. Pairs well with our [research planning]({{site.ba
 A workshop template for publicizing team questions and prioritizing research themes, setting you up to create a research plan that drives maximum value for your team.
 
 [Usability test quality heuristics](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md) ([Gdoc](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit))  
-A list of indicators to help you and your team determine if your usability test will produce useful results. 
+A list of indicators to help you and your team determine if your usability test will produce useful results.
 
 [Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) ([GDoc](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo))  
+[Design research participant agreement in Spanish](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md)
 Our agreement for anyone participating in moderated design research.  
 Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause.
 
@@ -79,18 +80,18 @@ You can also participate in local communities of practice in by joining:
 
 ### Microrequests
 
-If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests](https://gsa-tts.slack.com/app_redirect?channel=microrequests) channel. Each discipline is represented at any time in the channel. 
+If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests](https://gsa-tts.slack.com/app_redirect?channel=microrequests) channel. Each discipline is represented at any time in the channel.
 
-Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted](https://gsa-tts.slack.com/app_redirect?channel=helpwanted) channel. 
+Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted](https://gsa-tts.slack.com/app_redirect?channel=helpwanted) channel.
 
 For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/microrequests/) page in the [TTS Handbook](https://handbook.tts.gsa.gov/).
 
 ### Presenting the work
 We most commonly share our work via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time. 
-* The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397) for additional pointers and guidance. 
-* Check out the [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) for reusable content and templates; browse [previous 18F Path Analysis project artifacts](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples. 
+* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time.
+* The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397) for additional pointers and guidance.
+* Check out the [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) for reusable content and templates; browse [previous 18F Path Analysis project artifacts](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples.
 * Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
 * Feel free to include references or links to further reading at the end of your presentation.
 

@@ -1,9 +1,10 @@
 ---
-permalink: /resources/privacy-act-notice.md
-layout: post
+permalink: /resources/privacy-act-notice/
+layout: redirect
 title: Privacy Act Notice
 sidenav: research
 sticky_sidenav: true
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md
 ---
 
 # Privacy Act Notice
@@ -19,8 +20,8 @@ Please state:
 
 Example Privacy Act Statement for GSA Real Estate Exchange
 
->GSA is asking for your email address in order to contact you about your experience with this website. You are not required to provide your email address. Nothing about how you can use this site will change if you do not provide your email address. 
+>GSA is asking for your email address in order to contact you about your experience with this website. You are not required to provide your email address. Nothing about how you can use this site will change if you do not provide your email address.
 >
->This collection of information is authorized by the E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501). GSA may use this information pursuant to its published Privacy Act system of records notice, GSA SORN PBS-5. 
+>This collection of information is authorized by the E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501). GSA may use this information pursuant to its published Privacy Act system of records notice, GSA SORN PBS-5.
 >
 >Thank you for helping us improve this government website.
