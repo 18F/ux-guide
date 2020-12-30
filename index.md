@@ -22,7 +22,7 @@ subnav:
 
 ## What this guide is
 
-Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
+Like [our content guide](https://content-guide.18f.gov/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
 
 * design research skills
 * the ability to skillfully navigate organizational relationships
