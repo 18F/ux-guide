@@ -1,9 +1,10 @@
 ---
 permalink: /resources/email-templates/researcher-sends-agreement
-layout: post
+layout: redirect
 title: Email template - Researcher sends agreement to a participant
 sidenav: research
 sticky_sidenav: true
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md
 ---
 
 Hey `[Participant name]`,  

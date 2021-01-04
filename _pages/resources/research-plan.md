@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /resources/research-plan/
-layout: post
 title: Research plan
+permalink: /resources/research-plan/
+layout: redirect
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md
 ---
 
 # Research plan
@@ -56,7 +56,7 @@ title: Research plan
 > Describe at a high-level [who should participate in this study](https://ux-guide.18f.gov/research/plan/#participants-and-recruiting), and how you’ll recruit them. Consider how the team will communicate with participants, for example [by email](https://ux-guide.18f.gov/resources/#email-templates) and how the team will get [informed consent](https://ux-guide.18f.gov/research/do/#getting-informed-consent) from participants. See the [legal section](https://ux-guide.18f.gov/research/legal/) of the UX Guide for more information.
 
 ## Ethics considerations
-> Document the [ethical principles or concerns](https://ux-guide.18f.gov/research/plan/#ethical-considerations) that influence this research approach. Discuss as a team the [biases](https://ux-guide.18f.gov/research/bias/) that could influence the work. 
+> Document the [ethical principles or concerns](https://ux-guide.18f.gov/research/plan/#ethical-considerations) that influence this research approach. Discuss as a team the [biases](https://ux-guide.18f.gov/research/bias/) that could influence the work.
 
 
 ## Expected outcomes

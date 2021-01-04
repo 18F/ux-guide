@@ -1,8 +1,9 @@
 ---
 title: Rolling issues log
 description: An issue-tracking template for use while conducting usability testing
-layout: page
+layout: redirect
 permalink: /rolling-issues-log/
+redirect: https://methods.18f.gov/rolling-issues-log/
 ---
 
 <style type="text/css" media="print">

@@ -1,9 +1,10 @@
 ---
 permalink: /resources/email-templates/researcher-introduces-themselves
-layout: post
+layout: redirect
 title: Email template - Researcher introduces themselves to a participant
 sidenav: research
 sticky_sidenav: true
+redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md
 ---
 
 Hey `[Participant name]`,  
