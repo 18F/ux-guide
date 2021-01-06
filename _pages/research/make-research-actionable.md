@@ -73,7 +73,7 @@ Outside of writing a summary, you should choose your methods based on the desire
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
 
-Any approved tool can be used. We’ve listed some of our [approved, commonly used tools](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit).
+Any approved tool can be used. We’ve listed some of our [approved, commonly used tools (18F/GSA internal use only](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit)).
 
 
 ## Insights into action
@@ -87,7 +87,7 @@ Turning insights into action helps us answer and communicate:
 
 Artifacts that we use to do this include:
 
-- [Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
+- [Research findings presentation template (18F/GSA internal use only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238))
 - [Design hypotheses](https://methods.18f.gov/decide/design-hypothesis/)
 - [Design principles](https://methods.18f.gov/decide/design-principles/)
 - [Personas](https://methods.18f.gov/decide/personas/)
