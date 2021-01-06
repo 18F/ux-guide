@@ -28,7 +28,14 @@ Like [our content guide](https://content-guide.18f.gov/), the 18F UX guide is wr
 * the ability to skillfully navigate organizational relationships
 * the ability to deliver artifacts that guide development, like wireframes and prototypes
 
-This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to UX design). For a more high-level take on UX see [18F's methods](https://methods.18f.gov/).  18F staff should also consult our [Handbook](https://handbook.18f.gov/), [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#), [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#), and [Before You Ship guide](https://before-you-ship.18f.gov/).
+This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to UX design). For details of specific UX activities and how to conduct them, see [18F's methods](https://methods.18f.gov/).
+
+18F staff should consult additional guidance:
+
+* [Handbook on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
+* [New Hire README (for 18F/GSA internal use only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
+* [Project Start Guide (for 18F/GSA internal use only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
+* [Before You Ship guide](https://before-you-ship.18f.gov/)
 
 
 ## How to use this guide

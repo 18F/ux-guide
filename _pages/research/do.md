@@ -207,7 +207,7 @@ Getting informed consent ensures that:
 
 Copy and customize one of the participant agreements below to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
 
-- [Example design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) 
+- [Example design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md)
 <br /> ([18F/GSA internal version](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit))
 - [Spanish version of participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md)
 <br />  ([18F/GSA internal version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit))
@@ -341,7 +341,7 @@ Here are a few high-level things to capture in a debrief:
 - What new questions do we have?
 - Are there any new people we should talk to?
 
-You may want to use this [example interview debrief worksheet](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
+You may want to use this [example interview debrief worksheet](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md) ([18F/GSA internal use only](https://docs.google.com/document/d/1axCpR-pqdDIDRAAktlpbDEe1LbDCTZB7WxH6S4owIrU/edit?usp=sharing)); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
 
 
 ## Additional reading
