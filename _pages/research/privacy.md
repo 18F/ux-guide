@@ -64,6 +64,6 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 
 {:.list-item--margin-bottom-extra}
 - [OMB’s Circular A-130, The Fair Information Practice Principles](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
-- [the GSA Privacy Office's presentation to the TTS Research Guild (for 18F/GSA internal use only:](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4)) 
-- [6 tips for protecting PII in design research (for 18F/GSA internal use only:](https://drive.google.com/a/gsa.gov/open?id=1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg))
+- [the GSA Privacy Office's presentation to the TTS Research Guild (18F/GSA internal use only](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4)) 
+- [6 tips for protecting PII in design research (18F/GSA internal use only](https://drive.google.com/a/gsa.gov/open?id=1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg))
 

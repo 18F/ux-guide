@@ -99,4 +99,4 @@ In addition to our team principles, the following principles from Lean UX are es
 
 ## Acknowledgements
 
-This article is primarily based on our experiences practicing Lean UX at 18F, For more information, see [references (18F/GSA internal use only)](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit).
+This article is primarily based on our experiences practicing Lean UX at 18F, For more information, see [references (18F/GSA internal use only](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit)).

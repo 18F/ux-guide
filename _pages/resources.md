@@ -23,32 +23,32 @@ We’ve collected the following templates, presentations, checklists, etc. as st
 
 ## Research
 
-[Research plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md) ([18F/GSA internal version](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#))  
+[Research plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md). ([18F/GSA internal version](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#)).  
 Prompts for planning research. Pairs well with our [research planning]({{site.baseurl}}/research/planning) article.
 
-[Research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md) ([18F/GSA internal version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#))  
+[Research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md). ([18F/GSA internal version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#)).  
 A workshop template for publicizing team questions and prioritizing research themes, setting you up to create a research plan that drives maximum value for your team.
 
-[Usability test quality heuristics](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md) ([18F/GSA internal version](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit))  
+[Usability test quality heuristics](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md). ([18F/GSA internal version](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)).  
 A list of indicators to help you and your team determine if your usability test will produce useful results.
 
-[Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) ([18F/GSA internal version](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo))  
-[Design research participant agreement in Spanish](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md)
+[Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md). ([18F/GSA internal version](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo)).  
+[Design research participant agreement in Spanish](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md).
 Our agreement for anyone participating in moderated design research.  
 Note: This document is a template; you can customize it however you like so long as your agreement includes an Antideficiency Act clause.
 
 Please note that you should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel. See also: [Legal (18F/GSA internal use only](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU)), and links to [GSA’s Privacy Act Statement](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research) and [Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia).
 
-[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md) ([18F/GSA internal version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#))  
+[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md). ([18F/GSA internal version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).  
 An example guide for moderating in-depth interviews with users.
 
-[Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) ([18F/GSA internal version](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit))  
+[Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). ([18F/GSA internal version](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)).  
 A checklist for planning and conducting in-depth interviews.
 
-[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md) ([18F/GSA internal version](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit))  
+[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md). ([18F/GSA internal version](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit)).  
 An example guide for teams leading a post-interview debrief.
 
-[Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md) ([18F/GSA internal version](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#))  
+[Privacy Act Notice](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md). ([18F/GSA internal version](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#)).  
 18F’s Design Research is covered by our [Privacy Act Notice for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
 [Research findings presentation template (18F/GSA internal use only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238))
@@ -56,13 +56,13 @@ A starting point for sharing what you learned during a path analysis or discover
 
 ## Email templates
 
-[Stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md) ([18F/GSA internal version](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit))  
+[Stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). ([18F/GSA internal version](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).  
 An email for stakeholders to introduce and legitimize 18F design researchers to their staff.
 
-[Researcher introduces themselves to a participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md) ([18F/GSA internal version](https://docs.google.com/document/d/1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg/edit#))  
+[Researcher introduces themselves to a participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md). ([18F/GSA internal version](https://docs.google.com/document/d/1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg/edit#)).  
 An email for introducing yourself to potential participants (for example, people who responded to your invitation to participate in the research) and finding a good time for them to participate in a moderated research session.
 
-[Researcher sends agreement to participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md) ([18F/GSA internal version](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit#))  
+[Researcher sends agreement to participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md). ([18F/GSA internal version](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit#)).  
 An email asking participants to review and sign a participant agreement before they participate in moderated research.
 
 ## Design
@@ -80,9 +80,9 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 
 ### Microrequests
 
-If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests (18F/GSA internal use only)](https://gsa-tts.slack.com/app_redirect?channel=microrequests) channel. Each discipline is represented at any time in the channel.
+If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests (18F/GSA internal use only](https://gsa-tts.slack.com/app_redirect?channel=microrequests)) channel. Each discipline is represented at any time in the channel.
 
-Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted (18F/GSA internal use only)](https://gsa-tts.slack.com/app_redirect?channel=helpwanted) channel.
+Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted (18F/GSA internal use only](https://gsa-tts.slack.com/app_redirect?channel=helpwanted)) channel.
 
 For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/microrequests/) page in the [TTS Handbook](https://handbook.tts.gsa.gov/).
 
@@ -107,7 +107,7 @@ We most commonly share our work via presentations. These presentations can vary 
 - [18F Methods](https://methods.18f.gov/)
 - [USDS Playbook](https://playbook.cio.gov/)
 - [New Hire README (18F/GSA internal use only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
-- [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#)
+- [Project Start Guide (18F/GSA internal use only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
 - [List of prior path analyses](https://github.com/18F/path-analysis/blob/master/projects.md)
 - [Project resources folder (18F/GSA internal use only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361))
 - [Six weird tips for protecting PII (18F/GSA internal use only](https://drive.google.com/a/gsa.gov/open?id=1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg))
