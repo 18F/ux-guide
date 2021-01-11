@@ -73,7 +73,7 @@ Outside of writing a summary, you should choose your methods based on the desire
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
 
-Any approved tool can be used. We’ve listed some of our [approved, commonly used tools](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit).
+Any approved tool can be used. We’ve listed some of our [approved, commonly used tools (18F/GSA access only](https://docs.google.com/document/d/1re2dDFboR80IbNZire0H3eaZ11YgLeMy5urtD6Ecn8I/edit)).
 
 
 ## Insights into action
@@ -87,7 +87,7 @@ Turning insights into action helps us answer and communicate:
 
 Artifacts that we use to do this include:
 
-- [Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
+- [Research findings presentation template (18F/GSA access only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238))
 - [Design hypotheses](https://methods.18f.gov/decide/design-hypothesis/)
 - [Design principles](https://methods.18f.gov/decide/design-principles/)
 - [Personas](https://methods.18f.gov/decide/personas/)
@@ -132,9 +132,9 @@ Sharing research is all about storytelling. When packaging research, think about
 
 We most commonly share our research findings via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time. You may want to use this [Research findings presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238) as a starting point.
-* The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397) for additional pointers and guidance. 
-* Check out the [Project resources folder](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) for reusable content and templates; browse [project artifacts from previous 18F engagements](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples. 
+* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time. You may want to use this [Research findings presentation template (18F/GSA access only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)) as a starting point.
+* The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck (18F/GSA access only](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397)) for additional pointers and guidance.
+* Check out the [Project resources folder (18F/GSA access only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)) for reusable content and templates; browse [project artifacts from previous 18F engagements](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples.
 * Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
 * Feel free to include references or links to further reading at the end of your presentation.
 
@@ -159,7 +159,7 @@ Research handoffs occur when wrapping up a round of research or an engagement, w
 {:.list-item--margin-bottom-extra}
 - Who will lead the research moving forward?
 - What will the next research team who picks this up this need to know?
-- Are the notes, recordings, and findings properly organized? ([List of things to catalog](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit)).
+- Are the notes, recordings, and findings properly organized? ([List of things to catalog (18F/GSA access only](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit)).
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
 - Who should have access to what data? How will we get it to them?
 
