@@ -22,7 +22,7 @@ subnav:
 
 ## Compensating Research Participants 
 
-For information on compensating research participants, refer to the guidance under "Incentives", which is located under ["Corresponding with Participants"](https://ux-guide.18f.gov/research/do/#corresponding-with-participants)
+For information on compensating research participants, refer to the guidance under "Compensating Research Participants", which is located under ["Corresponding with Participants"](https://ux-guide.18f.gov/research/do/#corresponding-with-participants)
 in the “Do” section of the UX guide. There are two versions of our [design research participant agreement](https://methods.18f.gov/participant-agreement/) to accomodate projects who will use volunteer participants in their research and projects who will compensate users alike. The agreement can be accessed in both English and Spanish. 
 
 

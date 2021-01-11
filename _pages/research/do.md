@@ -122,7 +122,7 @@ Most 18F interview guides include these sections:
 {:.list-item--margin-bottom-extra}
 - Introductory preamble
     - Remind participants that you are not testing them, and that there are no wrong answers
-    - Remind participants that their participation does not entitle them to compensation, and they can decide at any point that they no longer want to participate
+    - Remind participants that their participation does not entitle them to compensation (unless compensation was offered during recruitment), and they can decide at any point that they no longer want to participate
 - Consent for note-taking or recording
     - Tell participants how you’ll use the notes
     - Tell participants whether you’ll attribute any quotes, and if so, how (by name or by role, for example)
@@ -183,18 +183,24 @@ You can find out more about what makes a good tweet-length intercept [here in ou
 
 The third and final step is identifying interested people and determine if they meet your recruitment criteria. Once you’ve got a list of interested people and their contact information, you can easily screen them by having brief, unstructured conversations with them. Once you’ve determined that someone is qualified to participate in the session, you’ll need to get their informed consent.
 
-### Incentives
+### Compensating Research Participants 
 
-We now have the ability to compensate user testing participants so long as they are public participants, not government employees. This major advancement for research and human-centered design makes it possible for us to get input from more representative groups of people in order to better deliver products and services. Our ability to compensate users for testing depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria:
+We now have the ability to compensate user research participants so long as they are public participants, not government employees. Conducting user research directly advances our partners mission and makes it possible for us to deliver better products and services by getting input from people who are representative of our users including stress cases to help us understand usability limitations of our designs. [508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to persons with disabilities. The best way to make sure that our products and services are accessible is to design for these users from the start and to test for usability with actual users of your product or service who are disabled. To learn more about inclusive design visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/) or the TTS Accessibility guild #g-accessibility (18F/GSA access only).
+
+Compensation may be financial but may include other offers of value to research participants, which may be financial such as continued input on a design if we work with a community over time. With all research participants we should whenever possible offer to share with them the outcomes of the research that they participated in.  
+
+When determining compensation for research participation consider the time participating in your research will take a person as well as any travel time, transportation costs and if participation will create a disruption to their day like having to take time off from work or needing to get a babysitter in order to participate. Compensating the public for participating in research also demonstrates that we value their lived experiences, expertise, and acknowledges the potential toll that participating in certain research could create by asking a someone to imagine or recall a painful personal experience, or the ramifications and stress of a previous failure to successfully interact or complete a transaction with government services may have created for them. 
+
+Our ability to compensate users for participation in design research depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria:
 
 1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant
-   (i.e., amount paid to   the user)
-2. Compensating user testing participants must directly advance the client’s statutory mission and objectives
+   (i.e., amount paid to the user)
+2. Compensating user research participants must directly advance the client’s statutory mission and objectives
 
-The process of paying participants for research is similar to paying for a contractor or vendor. TTS will continue to iterate on this approach in partnership with OGC. We are currently [collecting value statements (18F/GSA access only](https://docs.google.com/forms/d/e/1FAIpQLSf4k7MQuQjD71O6GsK6-c_3ByWMtUskhYEt6hcrq2qYEqSZNw/viewform)) that might be useful in demonstrating eligibility for the “benefit to government” portion of the criteria.
+The process of paying participants for research is similar to paying for a contractor or vendor. In order to add compensation for participants to your in-flight engagement or new IAA, you can use the above resource, which includes the [18F User Research Authorization - Part B, Attachment 2 (18F/GSA access only](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit)).  
 
-More detailed information can be found in the [Compensating research participants document (18F/GSA access only](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)).
-In order to add compensation for participants to your in-flight engagement or new IAA, you can use the above resource, which includes the [18F User Research Authorization, Attachment 2 (18F/GSA access only](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit)).  
+Initial OGC guidance is to work with a recruiting agency, however this is not ideal: we'll be more successful at achieving diverse and representative participation if we work with trusted community organizations, including from tribal nations. TTS will continue to iterate on this approach in partnership with OGC. More detailed information can be found in the [Compensating research participants document (18F/GSA access only](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)).
+
 
 ### Getting informed consent
 
