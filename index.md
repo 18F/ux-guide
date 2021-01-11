@@ -32,7 +32,7 @@ This guide includes information that may be new to the designers we hire (who ma
 
 18F staff should consult additional guidance:
 
-* [Handbook on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
+* [TTS Handbook page on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
 * [New Hire README (18F/GSA access only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
 * [Project Start Guide (18F/GSA access only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
 * [Before You Ship guide](https://before-you-ship.18f.gov/)

@@ -128,12 +128,13 @@ We most commonly share our work via presentations. These presentations can vary 
 ### Guides
 
 - [Project Start Guide (18F/GSA access only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
-- [Content](https://content-guide.18f.gov/)
-- [Front-end](https://frontend.18f.gov/)
-- [Analytics](https://github.com/18F/analytics-standards/)
-- [Accessibility](https://accessibility.18f.gov/)
-- [Agile](https://agile.18f.gov/)
-- [Before you ship](https://before-you-ship.18f.gov/)
+- [18F Content Guide](https://content-guide.18f.gov/)
+- [TTS Engineering Guide Front-end practices](https://frontend.18f.gov/)
+- [18F Analytics standards](https://github.com/18F/analytics-standards/)
+- [18F Accessibility Guide](https://accessibility.18f.gov/)
+- [Agile Principles and 18F Practices](https://agile.18f.gov/)
+- [Before You Ship: TTS guide to launching software](https://before-you-ship.18f.gov/)
+- [18F De-risking Government Technology](https://derisking-guide.18f.gov/)
 
 ## Presentations
 
