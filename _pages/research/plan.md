@@ -166,9 +166,9 @@ Regardless of how you arrive at them, review your recruitment criteria with your
 
 ### Compensating research participants
 
-GSA can compensate user research participants so long as they are public participants, not government employees. <strong>We must do research with people who will actually use our services</strong>, in addition to stakeholders. Many government services support people through stressful situations. Input from people with lived experience and diverse perspectives reveals usability limitations of our designs.
+GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. Many government services support people through stressful situations. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives.
 
-[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/) or the TTS Accessibility guild #g-accessibility (18F/GSA access only).
+[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 #### Why do we offer compensation?
 
