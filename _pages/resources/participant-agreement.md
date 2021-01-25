@@ -8,7 +8,7 @@ redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/participa
 
 # Example Design Research Participant Agreement
 
-English version | [Google Docs version](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit)
+English version | [Google Docs version](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) | [Spanish version](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md)
 
 ---
 

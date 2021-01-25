@@ -22,7 +22,7 @@ subnav:
 
 ## Compensating research participants and participant agreements
 
-See the Guide's "Plan" page section: "[Compensating research participants]({{site.baseurl}}/research/plan/#compensating-research-participants)" for legal requirements. Ask participants for signed or verbal confirmation of [informed consent](site.baseurl}}/research/do/#getting-informed-consent): see the [design research participant agreement](https://methods.18f.gov/participant-agreement/). The agreement can be accessed in both English and Spanish. If you will be compensating participants, replace the section on compensation with details of the amount and method of payment, and indicate that they will be compensated regardless of how much of the session they complete.
+See the Guide's "Plan" page section: "[Compensating research participants]({{site.baseurl}}/research/plan/#compensating-research-participants)" for legal requirements. Ask participants for signed or verbal confirmation of [informed consent](site.baseurl}}/research/do/#getting-informed-consent): see the [design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md). The agreement can be accessed in both English and Spanish. If you will be compensating participants, replace the section on compensation with details of the amount and method of payment, and indicate that they will be compensated regardless of how much of the session they complete.
 
 
 ## The Paperwork Reduction Act of 1995

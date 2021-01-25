@@ -187,11 +187,11 @@ The third and final step is identifying interested people and determine if they 
 
 ### Getting informed consent
 
-Everyone who participates in 18F research must do so willingly and with an informed understanding of what their participation means. It’s your responsibility to inform the people who participate in your research and get a record of them giving their express consent.
+18F must ensure that people participate in our research willingly and understand how the research will be conducted and that they have control over their participation.
 
 Getting informed consent ensures that:
 
-- Participants understand what they’re signing up for, making your sessions more effective
+- Participants understand what they’re signing up for, making our sessions more effective
 - The research is ethically sound (see [Ethics]({{site.baseurl}}/research/ethics))
 - The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy))
 - The research complies with The Antideficiency Act (see [Legal]({{site.baseurl}}/research/legal))
@@ -211,7 +211,7 @@ Correspond with participants ahead of time to explain things that might otherwis
 - What data you’ll collect, and how long it will be kept
 - What will happen during the research, including any reasonably foreseeable risks or discomforts to the participant
 - How you will use the results of the research, and who you’ll share them with
-- That they may discontinue participation at any time without penalty
+- That they may decline to answer any question and can stop participating at any time, without penalty
 - What their rights are and how they can complain
 
 You must also let participants know:
