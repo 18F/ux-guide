@@ -164,6 +164,35 @@ If you’re doing usability testing, consider the following questions as well:
 
 Regardless of how you arrive at them, review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
+### Compensating research participants
+
+GSA can compensate user research participants so long as they are public participants, not government employees. <strong>We must do research with people who will actually use our services</strong>, in addition to stakeholders. Many government services support people through stressful situations. Input from people with lived experience and diverse perspectives reveals usability limitations of our designs.
+
+[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/) or the TTS Accessibility guild #g-accessibility (18F/GSA access only).
+
+#### Why do we offer compensation?
+
+We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
+
+In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
+
+- Opportunity to provide feedback on design over time
+- Resources for additional information on the topic
+- Offer to find out answers to questions they may have
+- Whenever possible, share the outcomes of the research
+
+#### Financial compensation
+
+To compensate people for participation in design research, we must obtain authorization from the agency partner with the appropriate level of authority, and we must meet the following criteria:
+
+1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant
+   (i.e., amount paid to the user)
+2. Compensating user research participants must directly advance the client’s statutory mission and objectives
+
+The process of paying participants for research is similar to paying for a contractor or vendor. In order to add compensation for participants to your in-flight engagement or new IAA, you can use the [18F User Research Authorization - Part B, Attachment 2 (18F/GSA access only](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit)).  
+
+Initial OGC guidance is to work with a recruiting agency to make payments to participants. In many cases, we'll be more successful at achieving diverse and representative participation if we work with trusted community organizations, including from tribal nations. TTS will continue to iterate on this approach in partnership with OGC. More detailed information can be found in the doc: [Compensating research participants document (18F/GSA access only](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)).
+
 
 ## Ethical considerations
 

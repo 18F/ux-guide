@@ -37,13 +37,13 @@ A list of indicators to help you and your team determine if your usability test 
 ### Privacy and informed consent
 18F’s Design Research is covered by [GSA's Privacy Act Statement for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
-[Privacy Act Notice Example](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md). ([18F/GSA internal version](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#)).  
+[Privacy Act Notice Example](https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md). ([18F/GSA access only](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#)).  
 Example of a statement to include in your participant agreement.  
 Please note: you should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel.  
 - [Legal notes from GSA OGC (18F/GSA access only](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU))
 - [GSA Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia)
 
-[Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md). ([18F/GSA internal version](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo)).  
+[Design research participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md). ([18F/GSA access only](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo)).  
 [Design research participant agreement in Spanish](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md).  
 Example agreement for people participating in moderated design research.  
 Note: You can customize this template, but it must include a Privacy Act statement. If the interview is with a Federal employee, or otherwise will not include compensation, the agreement must also include an Anti-deficiency Act clause.
@@ -51,13 +51,13 @@ Note: You can customize this template, but it must include a Privacy Act stateme
 Looking for PRA (Paperwork Reduction Act) information? See the [UX Guide Legal page]({{site.baseurl}}/research/legal).
 
 ### Interviews
-[Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). ([18F/GSA internal version](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)).  
+[Interview checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). ([18F/GSA access only](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)).  
 A checklist for planning and conducting in-depth interviews.
 
-[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md). ([18F/GSA internal version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).  
+[Interview guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md). ([18F/GSA access only](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).  
 An example guide for moderating in-depth interviews with users.
 
-[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md). ([18F/GSA internal version](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit)).  
+[Interview debrief guide](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief-guide.md). ([18F/GSA access only](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit)).  
 An example guide for teams leading a post-interview debrief.
 
 ### Findings presentation
@@ -66,13 +66,13 @@ A starting point for sharing what you learned during a path analysis or discover
 
 ## Email templates
 
-[Stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). ([18F/GSA internal version](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).  
+[Stakeholder introduces researcher](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md). ([18F/GSA access only](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).  
 An email for stakeholders to introduce and legitimize 18F design researchers to their staff.
 
-[Researcher introduces themselves to a participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md). ([18F/GSA internal version](https://docs.google.com/document/d/1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg/edit#)).  
+[Researcher introduces themselves to a participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-introduces-themselves.md). ([18F/GSA access only](https://docs.google.com/document/d/1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg/edit#)).  
 An email for introducing yourself to potential participants (for example, people who responded to your invitation to participate in the research) and finding a good time for them to participate in a moderated research session.
 
-[Researcher sends agreement to participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md). ([18F/GSA internal version](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit#)).  
+[Researcher sends agreement to participant](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md). ([18F/GSA access only](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit#)).  
 An email asking participants to review and sign a participant agreement before they participate in moderated research.
 
 ## Design

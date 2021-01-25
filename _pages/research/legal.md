@@ -5,7 +5,7 @@ permalink: /research/legal/
 sidenav: research
 sticky_sidenav: true
 subnav:
-- text: Compensating Research Participants
+- text: Compensating research participants
   href: '#compensating-research-participants'
 - text: The Paperwork Reduction Act of 1995
   href: '#the-paperwork-reduction-act-of-1995'
@@ -18,12 +18,11 @@ subnav:
 18F designs our research to account for the [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
 
 *Disclaimer: This article is intended for internal use. It’s shared in the spirit of open source, to prompt conversations around design research as it relates to the law. GSA has no regulatory authority over any of the laws discussed in this article, so don’t just take our word for it.*
- 
 
-## Compensating Research Participants 
 
-For information on compensating research participants, refer to the guidance under "Compensating Research Participants", which is located under ["Corresponding with Participants"](https://ux-guide.18f.gov/research/do/#corresponding-with-participants)
-in the “Do” section of the UX guide. There are two versions of our [design research participant agreement](https://methods.18f.gov/participant-agreement/) to accomodate projects who will use volunteer participants in their research and projects who will compensate users alike. The agreement can be accessed in both English and Spanish. 
+## Compensating research participants and participant agreements
+
+See the Guide's "Plan" page section: "[Compensating research participants]({{site.baseurl}}/research/plan/#compensating-research-participants)" for legal requirements. Ask participants for signed or verbal confirmation of [informed consent](site.baseurl}}/research/do/#getting-informed-consent): see the [design research participant agreement](https://methods.18f.gov/participant-agreement/). The agreement can be accessed in both English and Spanish. If you will be compensating participants, replace the section on compensation with details of the amount and method of payment, and indicate that they will be compensated regardless of how much of the session they complete.
 
 
 ## The Paperwork Reduction Act of 1995
