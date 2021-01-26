@@ -38,7 +38,7 @@ In their [Flexibilities under the Paperwork Reduction Act](https://obamawhitehou
 
 ### Intercepts
 
-18F designs our intercepts with the PRA in mind.[This OIRA memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) states that “Feedback requests: [...] an agency does not trigger the PRA’s requirements when it posts its email address or uses an application for brainstorming or idea generating on its website to enable the public to submit feedback”. Our intercepts don’t require PRA approval so long as they only ask for people’s contact information, such as their name, email address, mailing address, and phone number.
+18F designs our intercepts with the PRA in mind. [This OIRA memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) states that “Feedback requests: [...] an agency does not trigger the PRA’s requirements when it posts its email address or uses an application for brainstorming or idea generating on its website to enable the public to submit feedback”. Our intercepts don’t require PRA approval so long as they only ask for people’s contact information, such as their name, email address, mailing address, and phone number.
 
 Our intercepts also generally do not ask people to disclose information about themselves as a consequence of their responding. For example, we wouldn’t say “Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov,” because this is effectively a structured information collection (since anyone who responds is effectively saying “Yes, I’m the parent of a 4th grader”). To be on the safe side, our intercepts generally target either *everyone* or a *specific individual.*
 
