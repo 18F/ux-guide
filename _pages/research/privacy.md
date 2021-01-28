@@ -48,7 +48,7 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 - Build rapport with research participants in advance of the research session — for example, [by emailing participants](https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/researcher-sends-agreement.md) to see if they have any questions about the research, or briefly meeting with participants before the session begins to go over any logistical requirements
 - Whenever you collect PII, store it digitally on [GSA’s approved systems for PII](https://www.gsa.gov/reference/gsa-privacy-program/systems-of-records-privacy-act/system-of-records-notices-sorns-privacy-act) actively remove access to PII from anyone not on your project team; and always place paper documents with PII in locked file cabinets
 - Store design research administrative data (for example, contact information collected during research participant recruiting) separate from study data (for example, recorded video of a usability test); share research-related records on a need-to-know basis
-- Collect the [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent) of anyone who participates in moderated research; we generally do this with a [participant agreement](https://methods.18f.gov/participant-agreement/)
+- Collect the [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent) of anyone who participates in moderated research; we generally do this with a [participant agreement](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md)
 - When scheduling research sessions via Google calendar, set the event visibility to “Private” (since invitations include the participant’s name and email address)
 - Before using a website to collect data, read its Terms of service and Privacy policy. For example, monitoring forum traffic is a great way to learn about users, but our use of these systems must comply with applicable privacy policies.
 - Use pseudonyms or participant codes (for example, “Participant 1”) when naming recordings, transcribing audio files, and writing reports
@@ -64,5 +64,5 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 
 {:.list-item--margin-bottom-extra}
 - [OMB’s Circular A-130, The Fair Information Practice Principles](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
-- [GSA Privacy Office's presentation to the TTS Research Guild (18F/GSA access only](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4)) 
+- [GSA Privacy Office's presentation to the TTS Research Guild (18F/GSA access only](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4))
 - [6 tips for protecting PII in design research (18F/GSA access only](https://drive.google.com/a/gsa.gov/open?id=1MM6tNlFc-Iwgw_cCUw_0KS8oQMS-FEN7sYftPQLmLAg))

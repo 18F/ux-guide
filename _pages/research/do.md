@@ -120,13 +120,14 @@ An interview guide keeps sessions consistent, allows multiple people to moderate
 Most 18F interview guides include these sections:
 
 {:.list-item--margin-bottom-extra}
-- Introductory preamble
-    - Remind participants that you are not testing them, and that there are no wrong answers
-    - Remind participants that their participation does not entitle them to compensation, and they can decide at any point that they no longer want to participate
-- Consent for note-taking or recording
-    - Tell participants how you’ll use the notes
-    - Tell participants whether you’ll attribute any quotes, and if so, how (by name or by role, for example)
-    - Confirm that participants have signed a consent form; get verbal consent to proceed
+- Introductory preamble covers:
+    - You are not testing them, and that there are no wrong answers
+    - Explain whether their participation qualifies them for [compensation]({{site.baseurl}}/research/plan/#compensating-research-participants) (and if so discuss how/when they will receive it)
+    - They are in control of their participation: they can tell you if they'd prefer not to answer a question, they can take a break any time, and they can decide at any point that they no longer want to participate. If they have been offered compensation, explain that they will receive compensation even if they don't answer a question or end their participation early.
+- Consent for note-taking or recording explains:
+    - How you’ll use the notes, who will have access to the notes, and for how long the notes will be kept
+    - Whether you’ll attribute any quotes, and if so, how (by name or by role, for example)
+    - Confirm that participants have read or signed a consent form; get verbal consent to proceed. (At GSA, verbal consent is sufficient.)
 - Priority questions
 - Potential follow-up questions
 - Concluding thanks, questions, and opportunities to follow up
@@ -183,26 +184,14 @@ You can find out more about what makes a good tweet-length intercept [here in ou
 
 The third and final step is identifying interested people and determine if they meet your recruitment criteria. Once you’ve got a list of interested people and their contact information, you can easily screen them by having brief, unstructured conversations with them. Once you’ve determined that someone is qualified to participate in the session, you’ll need to get their informed consent.
 
-### Incentives
-
-We now have the ability to compensate user testing participants so long as they are public participants, not government employees. This major advancement for research and human-centered design makes it possible for us to get input from more representative groups of people in order to better deliver products and services. Our ability to compensate users for testing depends on both obtaining authorization from the agency partner with the appropriate level of authority and meeting the following criteria:
-
-1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant
-   (i.e., amount paid to   the user)
-2. Compensating user testing participants must directly advance the client’s statutory mission and objectives
-
-The process of paying participants for research is similar to paying for a contractor or vendor. TTS will continue to iterate on this approach in partnership with OGC. We are currently [collecting value statements (18F/GSA access only](https://docs.google.com/forms/d/e/1FAIpQLSf4k7MQuQjD71O6GsK6-c_3ByWMtUskhYEt6hcrq2qYEqSZNw/viewform)) that might be useful in demonstrating eligibility for the “benefit to government” portion of the criteria.
-
-More detailed information can be found in the [Compensating research participants document (18F/GSA access only](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)).
-In order to add compensation for participants to your in-flight engagement or new IAA, you can use the above resource, which includes the [18F User Research Authorization, Attachment 2 (18F/GSA access only](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit)).  
 
 ### Getting informed consent
 
-Everyone who participates in 18F research must do so willingly and with an informed understanding of what their participation means. It’s your responsibility to inform the people who participate in your research and get a record of them giving their express consent.
+18F must ensure that people participate in our research willingly and understand how the research will be conducted and that they have control over their participation.
 
 Getting informed consent ensures that:
 
-- Participants understand what they’re signing up for, making your sessions more effective
+- Participants understand what they’re signing up for, making our sessions more effective
 - The research is ethically sound (see [Ethics]({{site.baseurl}}/research/ethics))
 - The research complies with The Privacy Act of 1974 (see [Privacy]({{site.baseurl}}/research/privacy))
 - The research complies with The Antideficiency Act (see [Legal]({{site.baseurl}}/research/legal))
@@ -222,7 +211,7 @@ Correspond with participants ahead of time to explain things that might otherwis
 - What data you’ll collect, and how long it will be kept
 - What will happen during the research, including any reasonably foreseeable risks or discomforts to the participant
 - How you will use the results of the research, and who you’ll share them with
-- That they may discontinue participation at any time without penalty
+- That they may decline to answer any question and can stop participating at any time, without penalty
 - What their rights are and how they can complain
 
 You must also let participants know:
