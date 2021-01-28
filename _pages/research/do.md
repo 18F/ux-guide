@@ -123,7 +123,7 @@ Most 18F interview guides include these sections:
 - Introductory preamble covers:
     - You are not testing them, and that there are no wrong answers
     - Explain whether their participation qualifies them for [compensation]({{site.baseurl}}/research/plan/#compensating-research-participants) (and if so discuss how/when they will receive it)
-    - They are in control of their participation: they can tell you if they'd prefer not to answer a question, they can take a break any time, and they can decide at any point that they no longer want to participate
+    - They are in control of their participation: they can tell you if they'd prefer not to answer a question, they can take a break any time, and they can decide at any point that they no longer want to participate. If they have been offered compensation, explain that they will receive compensation even if they don't answer a question or end their participation early.
 - Consent for note-taking or recording explains:
     - How you’ll use the notes, who will have access to the notes, and for how long the notes will be kept
     - Whether you’ll attribute any quotes, and if so, how (by name or by role, for example)
