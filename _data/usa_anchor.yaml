@@ -4,8 +4,8 @@
 anchor_data:
   - site_name: 18F UX Guide
     site_email: 18F@gsa.gov
-    site_url: https://ux-guide.18f.gsa.gov
-    site_about: https://ux-guide.18f.gsa.gov
+    site_url: https://ux-guide.18f.gov
+    site_about: https://ux-guide.18f.gov
     agency: U.S. General Services Administration
     agency_acronym: GSA
     agency_logo: gsa-logo-blue.svg
