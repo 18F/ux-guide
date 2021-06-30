@@ -1,7 +1,7 @@
 # Anchor component data
 # See usa_anchor.html for the template
 
-anchor_data:
+identifier_data:
   - site_name: 18F UX Guide
     site_email: 18F@gsa.gov
     site_url: https://ux-guide.18f.gov
