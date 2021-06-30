@@ -18,6 +18,10 @@ usa_banner: true
 # https://designsystem.digital.gov/components/headers/
 type: extended
 
+logo:
+  src: /images/18f-logo-black.svg
+  alt: 18f
+
 # this is a key into _data/navigation.yml
 primary:
   links: primary
