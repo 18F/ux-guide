@@ -44,7 +44,7 @@ To test it locally:
 
 ## Contributors
 
-This guide was collaboratively authored by members of 18F’s UX team past and present. While the initial content was pulled together over a few months, the guide builds on institutional knowledge from across 18F over the years. Here are the members of the UX guide working group: 
+This guide was collaboratively authored by members of 18F’s UX team past and present. While the initial content was pulled together over a few months, the guide builds on institutional knowledge from across 18F over the years. The following are the original members of the UX guide working group: 
 
 - Qituwra Anderson
 - Melissa Braxton
