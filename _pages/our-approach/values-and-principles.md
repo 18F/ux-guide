@@ -18,7 +18,7 @@ Our approach is fundamentally collaborative. This document exists to help our cr
 
 ## We value
 
-- The needs of the people we all serve
+- The needs of the people we serve
 - Building trust between government and the public
 - Collaboration and community
 - Growing the design competency of government
@@ -41,7 +41,7 @@ In more depth:
 
 ### We start with the diverse needs of real people
 
-We always begin by identifying the needs of the people we all serve, in context. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs with those people and communities. We start by seeking to understand, then collaboratively figure out how to deliver effective solutions. 
+We always begin by identifying the needs of the people we serve, in context. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs with those people and communities. We start by seeking to understand, then collaboratively figure out how to deliver effective solutions. 
 
 We work to primarily support those who need it most. By centering real people's needs, with them, we can work within constraints while also testing ways to change those constraints.
 
