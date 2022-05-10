@@ -16,41 +16,43 @@ Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), 
 
 * design research skills
 * the ability to skillfully navigate organizational relationships
+* the communication and facilitation skills to explain research clearly and run co-design and workshop sessions
+* consulting and coaching skills, especially supporting those new to research, design, and/or modern development practices
 * the ability to deliver artifacts that guide development, like wireframes and prototypes
 
-This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to UX design). For details of specific UX activities and how to conduct them, see [18F's methods](https://methods.18f.gov/).
+This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to design). For details of specific UX activities and how to conduct them, see [18F's methods](https://methods.18f.gov/).
 
-18F staff should consult additional guidance:
+18F staff should consult the following additional guidance:
 
-* [TTS Handbook page on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
+* [our Handbook page on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
 * [New Hire README (18F/GSA access only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
 * [Project Start Guide (18F/GSA access only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
-* [Before You Ship guide](https://before-you-ship.18f.gov/)
+* [The Launching software section of the TTS Handbook](https://handbook.tts.gsa.gov/#launching-software)
 
 
 ## How to use this guide
 
-We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{site.baseurl}}/research/privacy/), or for quick access to [UX-related templates, presentations, etc.]({{site.baseurl}}/resources/) You’re also welcome to read it from start to finish, of course.
+We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{site.baseurl}}/research/privacy/), or for quick access to [UX-related templates, presentations, etc.]({{site.baseurl}}/resources/) You’re also welcome to read it from start to finish if you like.
 
 This guide is divided into three sections:
 
 {:.list-item--margin-bottom-extra}
-- **Our Approach** describes essential aspects that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/stay-lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/).
+- **Our Approach** describes essential components that shape our design practice: our [team values and principles]({{site.baseurl}}/our-approach/values-and-principles), our [definitions of design]({{site.baseurl}}/our-approach/defining-design), and our commitment to [staying lean]({{site.baseurl}}/our-approach/stay-lean/). It also describes how we [meet partners where they are]({{site.baseurl}}/our-approach/meet-partners-where-they-are/).
 - **Research** describes the process by which we systematically frame problems, explore options, and evaluate solutions. It includes articles on research [basics]({{site.baseurl}}/research/clarify-the-basics/) (working definitions) and how we [plan]({{site.baseurl}}/research/plan/), [do]({{site.baseurl}}/research/do), and [analyze, synthesize, and share]({{site.baseurl}}/research/make-research-actionable) research.
 - **Design** describes how we communicate and clarify what we’re building throughout the design process. It includes articles on how we [build prototypes]({{site.baseurl}}/design/build-a-prototype) and [use design systems]({{site.baseurl}}/design/use-a-design-system).
 
 
 
-If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
 ## Reusing this guide in other organizations
 
 As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
-This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our agency partners.
+This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our partners within GSA and throughout other agencies.
 
-Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways best suit you. Also, if you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
+Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways are best for you. If you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
 
 ## References
 
