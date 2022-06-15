@@ -1,4 +1,19 @@
 {% assign identifier = site.data.usa_identifier.identifier_data[0] %}
+<footer class="usa-footer site-footer" role="contentinfo">
+<div class="usa-footer__secondary-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="usa-footer__contact-links mobile-lg:grid-col-12">
+        <div class="usa-footer grid-row grid-gap-1">
+          <div class="grid-col-auto">
+            Have questions or would like to contact us? Email us at <a class="usa-link" href="mailto:{{ identifier.org_secondary_email }}">{{ identifier.org_secondary_email }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="usa-identifier">
   <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
     <div class="usa-identifier__container">
@@ -45,6 +60,11 @@
             View No FEAR Act data
           </a>
         </li>
+        <li class="usa-identifier__required-links-item">
+          <a class="usa-identifier__required-link usa-link" href="{{ identifier.privacy_policy_url }}" title="View privacy policy">
+            Privacy policy
+          </a>
+        </li>
       </ul>
     </div>
   </nav>
@@ -55,3 +75,4 @@
     </div>
   </section>
 </div>
+</footer>
