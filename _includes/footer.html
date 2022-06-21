@@ -1,17 +1,22 @@
-{% assign identifier = site.data.usa_identifier.identifier_data[0] %}
-<footer class="usa-footer site-footer" role="contentinfo">
-	<div class="usa-footer__secondary-section">
-		<div class="grid-container">
-			<div class="grid-row grid-gap">
-				<div class="usa-footer__contact-links mobile-lg:grid-col-12">
-					<div class="usa-footer grid-row grid-gap-1">
-						<div class="grid-col-auto">
-							Have questions or would like to contact us? Email us at <a class="usa-link" href="mailto:{{ identifier.org_secondary_email }}">{{ identifier.org_secondary_email }}</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+{% assign identifier = site.data.usa_identifier %}
+<footer class="usa-footer" role="contentinfo">
+<div class="usa-footer__secondary-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="usa-footer__contact-links mobile-lg:grid-col-12">
+        <div class="usa-footer grid-row">
+          <div class="grid-col-auto">
+            This project is maintained by <a class="usa-link" href="{{ identifier.org_secondary_url }}">{{identifier.org_secondary}}</a>
+          </div>
+        </div>
+        <div class="usa-footer grid-row">
+          <div class="grid-col-auto">
+            Have questions or would like to contact us? Email us at <a class="usa-link" href="mailto:{{ identifier.site_email }}">{{ identifier.site_email }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 	{% include components/usa_identifier.html %}
 </footer>
