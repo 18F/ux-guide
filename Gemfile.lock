@@ -3,12 +3,15 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    autoprefixer-rails (9.8.6.5)
+      execjs
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    execjs (2.8.1)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -29,6 +32,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
     jekyll-feed (0.15.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -43,11 +48,14 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    libv8-node (15.14.0.1)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_racer (0.4.0)
+      libv8-node (~> 15.14.0.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.5)
@@ -62,8 +70,10 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
-    uswds-jekyll (5.0.0)
+    uswds-jekyll (5.4.0)
       jekyll (>= 4.0, < 5)
+      jekyll-autoprefixer
+      mini_racer
 
 PLATFORMS
   ruby
@@ -74,7 +84,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   tzinfo-data
-  uswds-jekyll (~> 5.0)
+  uswds-jekyll (~> 5.3)
 
 BUNDLED WITH
    2.1.4
