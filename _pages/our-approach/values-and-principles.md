@@ -13,45 +13,54 @@ subnav:
 
 We believe good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
-Our approach is fundamentally collaborative. This document exists to help our cross-functional teams and our agency partners better collaborate through a shared understanding of the values and principles that guide 18F UX designers.
+Our approach is fundamentally collaborative. This document exists to help our cross-functional and often cross-agency teams collaborate better through a shared understanding of the values and principles that guide us.
 
 
 ## We value
 
-- Our partners’ needs and the needs of the people they serve
-- Building trust between 18F, our partners, and the public
-- Showing progress in weeks instead of months, months instead of years
-- Designing iteratively and learning continuously
+- The needs of the people we serve
+- Building trust between government and the public
+- Collaboration and community
 - Growing the design competency of government
+- Designing iteratively and learning continuously
+- Showing progress in weeks instead of months, months instead of years
 - Measuring our impact
 
 
 ## Our principles
 
-The following principles guide our team in meeting [18F’s mission](https://18f.gsa.gov/about/#our-mission) of transforming how the U.S. government builds and buys digital services.
+The following principles guide our team in meeting [18F’s mission](https://18f.gsa.gov/about/#our-mission) of government consistently delivering digital services that instill trust and securely fulfill the public's needs quickly and at reasonable cost.
 
-### We start with user needs
+- We start with the diverse needs of real people
+- We design together
+- We use an iterative process of learning and discovery informed by data
+- We coach advocates
+- We finish with the diverse needs of real people
 
-We always begin with identifying our partners’ needs and the needs of the people they serve. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs. We seek first to understand who we are designing for, then figure out how to deliver effective solutions. By starting with user needs, we can work within our partners' constraints while also working to change those constraints.
+In more depth:
 
-### We use an iterative process of learning and discovery informed by data
+### We start with the diverse needs of real people
 
-A flexible vision is critical. We use data and direct conversations with users to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams evidence to make better decisions. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean that little mistakes don’t become big failures.
+We always begin by identifying the needs of the people we serve, in context. Through a variety of [research methods](https://methods.18f.gov/), we explore how to best meet those needs with those people and communities. We start by seeking to understand, then collaboratively figure out how to deliver effective solutions. 
 
-### We promote inclusion
-
-In government, good design serves everyone within an agency's mandate. To do this, we promote diversity and inclusion throughout our research and design processes by accounting for everyone our decisions affect. Having a team with varied life experience — particularly around issues of accessibility and technology usage — helps us create more accessible, usable products and services.
+We work to primarily support those who need it most. By centering real people's needs, with them, we can work within constraints while also testing ways to change those constraints.
 
 ### We design together
 
-We collaborate across disciplines to create a shared understanding of the problems we’re solving and the solutions we’re proposing.
+We collaborate across disciplines and with the public to create a shared understanding of the problems we’re solving and the solutions we’re proposing.
 
-Working together fosters a sense of trust and shared ownership within the team. Open conversation about works-in-progress promotes real agility.
+Having a team with varied life experience — particularly around issues of accessibility and technology usage — helps us create more accessible, usable products and services. Working together fosters a sense of trust and shared ownership, and helps us anticipate and solve problems earlier.
 
-### We train advocates
+### We use an iterative process of learning and discovery informed by data
 
-Our partners are experts in their field. Collaborating closely allows us a glimpse into their expertise and them into ours. The shared understanding this work builds allows us to recommend next steps and them to advocate for better design practices to their colleagues. This advocacy for user-centered design lasts long after our partnership ends.
+A flexible vision is critical. We use data and direct conversations with and involvement of relevant members of the public to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams the context to make better decisions. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean that little mistakes don’t become big failures.
 
-### We finish with user needs
+### We coach advocates
 
-We hold ourselves and our teams accountable to users. We accept that a goal has been achieved when we confirm — via [design research](/research/) — that users can accomplish their goals with minimal frustration.
+To better serve the public, we share practices that we've proven work. We publish living documentation of our [methods](https://methods.18f.gov/) and [approaches](/our-approach/) so others across government and beyond can benefit. 
+
+We work on cross-agency teams with civil servants who are experts in their field. Collaborating closely allows us a glimpse into their expertise and them into ours. This shared understanding allows us to recommend next steps and them to advocate for better design practices or policy changes to their colleagues. This advocacy helps other parts of government adopt human-centered design approaches.
+
+### We finish with the diverse needs of real people
+
+We hold ourselves and our teams accountable to the public. We accept that a goal has been achieved when we confirm — via [design research](/research/) — that people with real needs can accomplish their goals with minimal frustration.
