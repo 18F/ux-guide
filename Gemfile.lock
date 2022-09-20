@@ -84,7 +84,7 @@ DEPENDENCIES
   jekyll-redirect-from (>= 0.16.0)
   jekyll-sitemap (>= 1.4.0)
   tzinfo-data
-  uswds-jekyll (~> 5.0, >= 5.0.0)
+  uswds-jekyll (~> 5.3)
 
 BUNDLED WITH
    2.1.4
