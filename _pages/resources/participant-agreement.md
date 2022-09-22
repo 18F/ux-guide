@@ -20,7 +20,7 @@ English version:
 This agreement relates to your participation in a U.S. General Services Administration (GSA) design research project. The project will take place between `<project start date>` and `<project end date>`. Our session with you is scheduled for `<session duration>`. The project’s purpose is to better understand `<area of inquiry>`. We ask that you read, sign, and return this agreement so you know your rights and what to expect from us. 
 
 **Please email or call us if you have any questions, concerns, or technical issues with signing.**
-Contact info: `<Name>` `<Email address>` `<Phone number>`
+Contact info: `<researcher name>` `<researcher email>` `<researcher phone>`
 
 **You’re not required to take part in this research project. You can end your participation or skip a question at any time.** While we’d love to hear your perspective, your participation is completely voluntary. If at any point you no longer wish to take part or want to skip a question, please let us know. 
 
@@ -35,7 +35,7 @@ Please check below if you approve recording this session. At any time during the
 
 **We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
 
-**You can withdraw your consent or change your mind about what you have shared with us.** You can do this during the session, at the end of the session, or up to <number days> after the session by contacting `<Name>` `<Email address>` `<Phone number>`.
+**You can withdraw your consent or change your mind about what you have shared with us.** You can do this during the session, at the end of the session, or up to <number days> after the session by contacting `<researcher name>` `<researcher email>` `<researcher phone>`.
 
 **We appreciate you taking part in this session.** Your perspective will help shape products and services for the American public. Thank you very much for your time and feedback!
 
