@@ -14,7 +14,7 @@ subnav:
   - text: General
     href: "#general"
   - text: Presentations (GSA only)
-    href: "#presentations-gsa-only"
+    href: "#presentations"
   - text: Additional reading
     href: "#additional-reading"
 ---
