@@ -319,6 +319,46 @@ Note: If there are two notetakers available for a session, consider having one p
 
 Content audits frequently use **spreadsheet notes:** these are used to track insights and quality of existing content.
 
+### Observer Guidelines
+
+Participating in research as an observer can be invaluable for understanding user needs and product requirements, whether you’re a product manager, engineer, or stakeholder. Before you take part, review the guidelines for how to participate in research as an observer.
+
+#### Joining the call as an observer
+
+- Try to show up a few minutes before the interview is scheduled to begin, so you don’t distract the participant(s)
+- If using Zoom, you may change your display name to be just your first or preferred name
+- If you aren’t admitted directly:
+ - Wait in the Zoom waiting room while the moderator begins the session
+ - If there are issues, the moderator should be in contact with you in a previously agreed upon communication channel (e.g., Slack, Teams)
+- If the moderator’s prompts you, unmute your camera and microphone and briefly introduce yourself with:
+  - Your first or preferred name, and optionally, your pronouns
+  - Your role within GSA or partner agency
+  - Or use the pattern that those before you have set, if different
+- When that’s done:
+  - Mute your microphone
+  - Turn off your camera
+  - Confine all messaging to the backchannel identified by the moderator for the session
+  - Don’t message within the video conference app unless prompted by the moderator
+  - Don’t expect the moderator to interact with you; many moderators will close distractions like chat or email while conducting a session
+  - The moderator might give you time during the session to ask questions, in which case, you are welcome to ask follow-up questions to participants
+
+#### How to be a good research observer
+
+As an observer, you will play an important role in the research process. You should:
+
+- Review the interview guide ahead of the call, if it was shared with you
+- Create a safe, neutral, and distraction-free atmosphere for the moderator and participant
+- Pay close attention to what happens during the session. Feel free to jot down notes for yourself in your own document (so as not to distract the notetaker).
+- Join a debrief session and discuss what you observed
+  - Prepare your top 3 takeaways, which are the top three items we should not forget, or surprises in each session
+  - Write these down during your debrief, or share them in your team’s backchannel if you’re unable to attend the debrief
+
+At this time, do not jump to solutions or interpret user behavior too much. Keep your observations focused on what the user said and did. Try to stay focused on the present session and understanding the participant’s reality.
+- Example Observation (Good): “The participant typed ‘science fiction’ in the search box.”
+- Example Inference (Bad): “The participant doesn’t like to use the navigation.”
+- Example Opinion (Worse): “The navigation is not noticeable.”
+
+Thank you for observing! Your team appreciates your participation.
 
 ## Debriefing
 
