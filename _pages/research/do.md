@@ -326,9 +326,9 @@ Participating in research as an observer can be invaluable for understanding use
 #### Joining the call as an observer
 
 - Try to show up a few minutes before the interview is scheduled to begin, so you don’t distract the participant(s)
-- If using Zoom, you may change your display name to be just your first or preferred name
+- If your video call platform allows it, you may change your display name to be just your first or preferred name
 - If you aren’t admitted directly:
- - Wait in the Zoom waiting room while the moderator begins the session
+ - Wait in the platform's waiting room while the moderator begins the session
  - If there are issues, the moderator should be in contact with you in a previously agreed upon communication channel (e.g., Slack, Teams)
 - If the moderator’s prompts you, unmute your camera and microphone and briefly introduce yourself with:
   - Your first or preferred name, and optionally, your pronouns
