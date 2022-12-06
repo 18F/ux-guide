@@ -1,17 +1,15 @@
 ---
+layout: post
 title: Usability Test Quality Heuristics
 description: A list of indicators to help you and your team determine if your usability test will produce useful results.
-layout: redirect
 permalink: /usability-test-quality-heuristics/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md
 ---
-
-# Usability test quality heuristics
 
 The following indicators can help determine if a usability test will produce useful results.  
 This is not an exhaustive list, but it should be helpful in planning and assessing usability tests. Additions are welcome!
 
 ### Study design
+
 | Indicator | Good sign | Bad sign |
 |--|--|--|
 | Study purpose | Researcher clearly articulates the purpose of the usability test (for example, as a specific question to answer, an area of inquiry, etc.). | Researcher does not specify a purpose for the test, or the purpose specified is very broad, like “testing the app” or “finding problems.” |
@@ -19,6 +17,7 @@ This is not an exhaustive list, but it should be helpful in planning and assessi
 | Sampling bias | Participants are a diverse set of people who actually use the application (or do the task the application is supposed to support). | Participants are experts (vs. average users), friends, family, or close colleagues of the product team.|
 
 ### Moderator style
+
 | Indicator | Good sign | Bad sign |
 |--|--|--|
 | Question style | Researcher asks follow up questions that are open-ended and non-leading. | Questions are leading or subtly suggest potential solutions or hypotheses. |
@@ -27,12 +26,14 @@ This is not an exhaustive list, but it should be helpful in planning and assessi
 | Priming | Moderator asks participants to complete tasks without indicating how that might be done. For example, “How would you view the status of your application?” | Researcher guides participants in completing tasks. For example, “Which of the links in the header would you click to login?” |
 
 ### Team participation
+
 | Indicator | Good sign | Bad sign |
 |--|--|--|
 | Number of teammates | The team designates a single moderator for the test, and at least one member of the product team observes the usability test. | A single person from the product team participates in and leads the test. |
 | Observer role | Observers do not moderate. They are generally quiet, and ask open-ended questions after the test has concluded. | Observers interrupt the participant, or attempt to sell or explain the product. Observers debate the participant’s actions in their presence. |
 
 ### Sensemaking
+
 | Indicator | Good sign | Bad sign |
 |--|--|--|
 | Notetaking | Tests are recorded or notes are taken for sharing with absent stakeholders. | Tests are not recorded, or test results are not documented. |
