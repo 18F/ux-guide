@@ -35,10 +35,24 @@ This guide is currently under development. It is a living guide that will contin
 ## Development
 The UX Guide uses [USWDS-Jekyll](https://github.com/18F/uswds-jekyll).
 
-To test it locally:
 
-1. Clone this repo
-2. In the local clone of this repo, run `jekyll serve`
+### Build
+
+To build locally using Docker (recommended):
+
+1. Install [Docker for Mac](https://docs.docker.com/desktop/install/mac-install/)
+1. Clone this repository
+1. From this repository's root directory, run `docker-compose up --build`
+1. Open http://localhost:4000
+
+Or, build locally without Docker:
+
+1. Clone this repository
+1. Install [Jekyll](http://jekyllrb.com/) and the necessary dependencies by running `bundle install`
+1. Run the web server: `bundle exec jekyll serve`
+1. Open http://localhost:4000
+
+
 
 ---
 
