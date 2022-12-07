@@ -31,7 +31,7 @@ Prompts for planning research. Pairs well with our [research planning]({{site.ba
 [Research alignment workshop](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md). ([18F/GSA access only](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#)).  
 A workshop template for publicizing team questions and prioritizing research themes, setting you up to create a research plan that drives maximum value for your team.
 
-[Usability test quality heuristics](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md). ([18F/GSA access only](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)).  
+[Usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics). ([18F/GSA access only](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)).  
 A list of indicators to help you and your team determine if your usability test will produce useful results.
 
 ### Privacy and informed consent
