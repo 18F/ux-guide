@@ -278,7 +278,7 @@ Moderating a research session can be nuanced, but we encourage all team members 
 - Allow time for notetakers or observers to ask follow-up questions. Leave time for the interviewee to ask questions of the team as well.
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
-While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-quality-heuristics.md) ([18F/GSA access only](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research, 18F/GSA access only](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
+While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics/) ([18F/GSA access only](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research, 18F/GSA access only](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
 
 ### Tips for remote research
 
