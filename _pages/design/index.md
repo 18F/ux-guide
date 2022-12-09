@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Design 
+description: "About prototypes and how they inform the work of 18F, as well as resources on web publishing platforms and design systems to help you get started."
 permalink: /design/
 layout: post
 sidenav: design

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Legal
+description: "18F designs our research to account for The Antideficiency Act and The Paperwork Reduction Act of 1995 (PRA), among other laws."
 permalink: /research/legal/
 sidenav: research
 sticky_sidenav: true

@@ -2,6 +2,7 @@
 permalink: /research/alignment-workshop/
 layout: redirect
 title: Research alignment workshop
+description: "Use this workshop to help you collect meaningful information about your users and problem space so that we can make better product decisions together."
 sidenav: research
 sticky_sidenav: true
 redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md

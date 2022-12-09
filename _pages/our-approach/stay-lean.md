@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stay lean
+description: "18F user experience (UX) designers take a collaborative, incremental, and outcome-focused approach to our work."
 permalink: /our-approach/stay-lean/
 sidenav: our-approach
 sticky_sidenav: true

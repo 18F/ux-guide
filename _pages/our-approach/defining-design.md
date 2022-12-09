@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Defining design
+description: "18F user experience (UX) designers see design as a process of intentionally deciding, over and over, how interactions should work for users, based on research."
 permalink: /our-approach/defining-design/
 sidenav: our-approach
 sticky_sidenav: true

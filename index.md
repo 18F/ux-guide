@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About this guide
+description: "How 18F user experience (UX) designers improve interactions between our government and the public"
 permalink: /
 sidenav: overview
 sticky_sidenav: true

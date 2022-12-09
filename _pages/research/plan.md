@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plan
+description: "Planning helps 18F teams adapt our approaches to the real world and ensures everyone's time is respected throughout the research process."
 permalink: /research/plan/
 sidenav: research
 sticky_sidenav: true

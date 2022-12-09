@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use a design system
+description: "A design system can help your team prototype faster, scale, manage front-end design debt, and apply consistency across your applications."
 permalink: /design/use-a-design-system/
 sidenav: design
 sticky_sidenav: true

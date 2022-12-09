@@ -3,6 +3,7 @@ layout: page
 permalink: /about/
 layout: post
 title: About this guide
+description: "How 18F user experience (UX) designers improve interactions between our government and the public"
 ---
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}

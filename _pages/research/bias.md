@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bias
+description: "These are 18F's starting points for proactively engaging with bias in the user research process."
 permalink: /research/bias/
 sidenav: research
 sticky_sidenav: true

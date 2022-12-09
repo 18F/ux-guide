@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Privacy
+description: "18F’s research practices are grounded in building and maintaining trust with research participants, a large part of which is protecting their privacy."
 permalink: /research/privacy/
 sidenav: research
 sticky_sidenav: true

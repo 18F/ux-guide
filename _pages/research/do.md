@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do
+description: "After planning, doing research involves engaging with previously agreed upon knowledge, participants, and data."
 permalink: /research/do/
 sidenav: research
 sticky_sidenav: true

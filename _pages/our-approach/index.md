@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Our approach
+description: "Read about 18F's essential approach to our design practice."
 permalink: /our-approach/
 sidenav: our-approach
 sticky_sidenav: true

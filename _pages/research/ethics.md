@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ethics
+description: "The following ethical principles help guide 18F user experience (UX) designers through some of the choices that this work can present."
 permalink: /research/ethics/
 sidenav: research
 sticky_sidenav: true
