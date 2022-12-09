@@ -1,14 +1,11 @@
 ---
 permalink: /research/lead/
-layout: redirect
-title: Research lead
+layout: post
+title: Research lead (role description)
 description: "What a research lead's roles and responsibilities are at 18F."
 sidenav: research
 sticky_sidenav: true
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md
 ---
-
-# Research lead (role description)
 
 While being mindful that [18F practices research as a team sport](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md), research leads should:
 

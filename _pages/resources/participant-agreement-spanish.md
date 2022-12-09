@@ -1,15 +1,11 @@
 ---
-title: Example Design Research Participant Agreement — Spanish
+title: Ejemplo del acuerdo para participantes en un estudio de diseño
 description: An example design research participant agreement in Spanish
-layout: redirect
+layout: post
 permalink: /participant-agreement-spanish/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md
 ---
 
-# Ejemplo del acuerdo para participantes en un estudio de diseño
-### Spanish version
-
-### _([English version](/participant-agreement/))_
+[English version](/participant-agreement/)
 
 ---
 

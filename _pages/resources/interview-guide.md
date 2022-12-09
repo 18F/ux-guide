@@ -1,12 +1,9 @@
 ---
 title: Interview guide [template]
 description: An example script for use while leading a user interview
-layout: redirect
+layout: post
 permalink: /interview-script/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-guide.md
 ---
-
-# Interview guide [template]
 
 This document includes example questions grouped along key moments often found in our in-depth interviews: introductions, warm-up, topic-specific questions, demos, etc. Edit these questions as you see fit. If your questions are specific or your participant’s time scarce, consider sharing some questions ahead of time. See [this checklist](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md) for running an in-depth interview. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)
 
@@ -55,7 +52,7 @@ What’s one thing you wish were more straightforward about `[topic]`?
 
 ## Demo
 
-_Note: If you’re running a usability test, consider this [example usability test script](https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-guide.md) instead._
+_Note: If you’re running a usability test, consider this [example usability test script]({{ site.baseurl }}/usability-test-script) instead._
 
 Thanks. Now I’m going to ask you to consider how you might respond to the following scenarios using this website. I’m going to read each scenario out loud, and I’ll also share the text of the scenario via chat.
 

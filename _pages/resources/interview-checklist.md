@@ -1,12 +1,9 @@
 ---
 title: Interview checklist
 description: Helpful reminders for moderating interviews
-layout: redirect
+layout: post
 permalink: /interview-checklist/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md
 ---
-
-# Interview checklist
 
 [Interviews](https://methods.18f.gov/stakeholder-and-user-interviews/) often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)
 

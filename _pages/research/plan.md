@@ -41,7 +41,7 @@ A research plan (sometimes also called a research protocol), describes the desig
 - Ethics considerations
 - Outputs and outcomes
 
-18F maintains [a research plan template on GitHub](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
+18F maintains [a research plan template on GitHub]({{ site.baseurl }}/resources/research-plan). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
 
 - Openly commit to learning more about the problem(s) at hand
 - Agree on which information is most useful for informing future decisions
@@ -71,7 +71,7 @@ What do you want to learn to make better evidence-based decisions? Research ques
 
 Consider holding a research alignment workshop to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
 
-- [Research alignment workshop plan](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md).  ([18F/GSA access only version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf))
+- [Research alignment workshop plan]({{ site.baseurl }}/research/alignment-workshop).  ([18F/GSA access only version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf))
 - [Research alignment presentation slides (18F/GSA access only](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4))
 
 ### Methods
@@ -220,7 +220,7 @@ Hold a meeting to bring the team — including your agency partners — together
 Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting excercises such as:
 
 - [Hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/)
-- [Research-alignment exercise](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md)
+- [Research-alignment exercise]({{ site.baseurl }}/research/alignment-workshop)
 - Creating provisional [personas](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
 
 Next, review and confirm elements listed in the research plan. It’s especially important to confirm:
@@ -261,7 +261,7 @@ Session documentation can take many forms. We often conduct research that may co
 {:.list-item--margin-bottom-extra}
 - What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.?
 - What type of documentation will your participants be most comfortable with (see [Privacy]({{site.baseurl}}/research/privacy))?
-- Did you ask your participants for [consent](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md) for this form of documentation?
+- Did you ask your participants for [consent]({{ site.baseurl }}/participant-agreement) for this form of documentation?
 
 ### Documentation methods
 

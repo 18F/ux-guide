@@ -1,10 +1,9 @@
 ---
 permalink: /resources/email-templates/stakeholder-introduces-researcher
-layout: redirect
+layout: post
 title: Email template - Stakeholder introduces researcher
 sidenav: research
 sticky_sidenav: true
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/email-templates/stakeholder-introduces-researcher.md
 ---
 
 Hi `[Colleagues]`,  

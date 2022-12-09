@@ -101,7 +101,7 @@ We prefer in-person research when we want to better understand the environment i
 ## Good practices
 
 {:.list-item--margin-bottom-extra}
-- **[Choose a research lead.](https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md)** A research lead is the team member ultimately responsible for setting the research agenda, explaining the team’s methods, tracking the team’s progress, and ensuring research quality. (While the research lead is normally 18F staff at the start, we work with our partners to identify someone on their side before the engagement ends.)
+- **[Choose a research lead.]({{ site.baseurl }}/research/lead)** A research lead is the team member ultimately responsible for setting the research agenda, explaining the team’s methods, tracking the team’s progress, and ensuring research quality. (While the research lead is normally 18F staff at the start, we work with our partners to identify someone on their side before the engagement ends.)
 - **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in [getting them on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
 - **Determine research questions as well as interview questions.** (They’re different.)
     - Example research question: _How do medical librarians find and make use of academic journal literature in answering questions for their patrons?_

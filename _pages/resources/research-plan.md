@@ -2,11 +2,8 @@
 title: Research plan
 description: "A high-level overview of questions, goals, roles, methods, and timelines for conducting research at 18F."
 permalink: /resources/research-plan/
-layout: redirect
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md
+layout: post
 ---
-
-# Research plan
 
 ## Background
 
