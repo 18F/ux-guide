@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meet partners where they are
+description: "18F user experience (UX) designers view government agency partners as co-creators, encouraging a more participatory and sustainable design process."
 permalink: /our-approach/meet-partners-where-they-are/
 sidenav: our-approach
 sticky_sidenav: true

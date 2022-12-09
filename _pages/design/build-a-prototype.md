@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build a prototype
+description: "18F encourages building something that will help you answer your questions with the least investment."
 permalink: /design/build-a-prototype/
 sidenav: design
 sticky_sidenav: true

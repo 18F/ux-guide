@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resources
+description: "Additional templates, checklists, presentations, and other resources that 18F user experience (UX) designers use."
 permalink: /resources/
 sidenav: overview
 sticky_sidenav: true

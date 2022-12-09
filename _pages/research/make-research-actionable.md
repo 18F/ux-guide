@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Make research actionable
+description: "Analysis, synthesis, and sharing helps 18F user experience (UX) designers reflect on the data we’ve collected and determine a course of action."
 permalink: /research/make-research-actionable/
 sidenav: research
 sticky_sidenav: true

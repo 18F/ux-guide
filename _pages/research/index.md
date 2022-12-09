@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Research
+description: "Design research explores possibilities, tests assumptions, and reduces risk by actively and systematically engaging with the world."
 permalink: /research/
 sidenav: research
 sticky_sidenav: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clarify the basics
+description: "All 18F teams commit to continuous design research in order to make better decisions informed by end user perspectives."
 permalink: /research/clarify-the-basics/
 sidenav: research
 sticky_sidenav: true

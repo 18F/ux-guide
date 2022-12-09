@@ -2,6 +2,7 @@
 permalink: /research/assist/
 layout: redirect
 title: Assisting in research
+description: "How to assist in user research at 18F."
 sidenav: research
 sticky_sidenav: true
 redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/assisting-in-research.md

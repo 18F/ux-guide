@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Values and principles
+description: "These are the fundamentals that guide our work as 18F user experience (UX) designers."
 permalink: /our-approach/values-and-principles/
 sidenav: our-approach
 sticky_sidenav: true
