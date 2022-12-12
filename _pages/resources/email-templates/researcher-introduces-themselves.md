@@ -1,5 +1,5 @@
 ---
-permalink: /resources/email-templates/researcher-introduces-themselves
+permalink: /resources/email-templates/researcher-introduces-themselves/
 layout: post
 title: Email template - Researcher introduces themselves to a participant
 sidenav: research

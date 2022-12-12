@@ -1,5 +1,5 @@
 ---
-permalink: /resources/email-templates/researcher-sends-agreement
+permalink: /resources/email-templates/researcher-sends-agreement/
 layout: post
 title: Email template - Researcher sends agreement to a participant
 sidenav: research
