@@ -1,12 +1,9 @@
 ---
 title: Interview checklist
 description: Helpful reminders for moderating interviews
-layout: redirect
+layout: post
 permalink: /interview-checklist/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md
 ---
-
-# Interview checklist
 
 [Interviews](https://methods.18f.gov/stakeholder-and-user-interviews/) often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)
 
@@ -93,7 +90,7 @@ Once the interview is complete, **spend 15 minutes** completing a post-interview
 
 ### Make sure to
 - [ ] If you’ve recorded the interview: Move any recordings from your Google Drive to the project folder
-- [ ] Engage the team in a post-interview debrief ([example](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-debrief.md)) to discuss surprises and reflect on what you heard
+- [ ] Engage the team in a post-interview debrief ([example]({{ site.baseurl }}/interview-debrief)) to discuss surprises and reflect on what you heard
 - [ ] Consider updating the interview guide based on this interview
 - [ ] If you promised the participant any follow-up communications, identify who will send them and when
 - [ ] Optional: Update your study contact list

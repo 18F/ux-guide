@@ -1,16 +1,13 @@
 ---
 permalink: /research/lead/
-layout: redirect
-title: Research lead
+layout: post
+title: Research lead (role description)
 description: "What a research lead's roles and responsibilities are at 18F."
 sidenav: research
 sticky_sidenav: true
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-lead.md
 ---
 
-# Research lead (role description)
-
-While being mindful that [18F practices research as a team sport](https://github.com/18F/ux-guide/blob/master/_pages/research/basics.md), research leads should:
+While being mindful that [18F practices research as a team sport]({{ site.baseurl }}/research/clarify-the-basics/), research leads should:
 
 - **Set the research agenda.** Determine the team’s research needs (for example, [inform its anticipated design decisions](https://medium.com/mule-design/dig-in-the-right-spot-6dc7af5a75e8) or [validate its riskiest assumptions](https://mvpworkshop.co/validate-riskiest-assumption/)), and propose right-sized studies to address them, highlighting cost and trade-offs. Identify allies who will advocate for research. If stakeholders exhibit resistance, identify the sources of that resistance and develop appropriate responses.
 - **Educate others on the role, types, and methods of research.** Help the team understand the different types of research (foundational, generative, evaluative), and why specific research [methods](https://methods.18f.gov) apply. Explain how to employ specific methods. Facilitate [research retrospectives](https://18f.gsa.gov/2018/10/23/two-exercises-for-improving-design-research-through-reflective-practice/) to encourage reflective practice.

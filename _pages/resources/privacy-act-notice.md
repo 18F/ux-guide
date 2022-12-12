@@ -1,13 +1,10 @@
 ---
 permalink: /resources/privacy-act-notice/
-layout: redirect
+layout: post
 title: Privacy Act Notice
 sidenav: research
 sticky_sidenav: true
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/privacy-act-notice.md
 ---
-
-# Privacy Act Notice
 
 The Privacy Act of 1974, 5 USC 552a, provides protection to individuals by ensuring that personal information collected by Federal agencies is limited to that which is legally authorized and necessary and is protected against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience or unfairness to the individual. The Privacy Act also requires that Privacy Act Notices appear whenever GSA collects personally identifiable information (PII) from individuals in order to allow for informed consent.
 

@@ -1,14 +1,11 @@
 ---
 permalink: /research/alignment-workshop/
-layout: redirect
+layout: post
 title: Research alignment workshop
 description: "Use this workshop to help you collect meaningful information about your users and problem space so that we can make better product decisions together."
 sidenav: research
 sticky_sidenav: true
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-alignment-workshop.md
 ---
-
-# Research alignment workshop
 
 As researchers, it's our role to collect *meaningful* information about our users and problem space so that our team can make better product decisions. To do this effectively, we must involve team members and stakeholders in the development of our initial research strategy.
 

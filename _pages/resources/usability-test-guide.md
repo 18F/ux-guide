@@ -1,14 +1,11 @@
 ---
 title: Usability Test Guide [Template]
 description: An example script for use while moderating a usability testing
-layout: redirect
+layout: post
 permalink: /usability-test-script/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/usability-test-guide.md
 ---
 
-# Usability Test Guide [Template]
-
-This document provides example questions grouped along the key moments usually found in a usability test: introductions, warm up, task completion, follow up, and wrap up. If your participant’s time is scarce, consider sharing a few questions ahead of time. See also this [checklist for running an interview](https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md). GSA staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
+This document provides example questions grouped along the key moments usually found in a usability test: introductions, warm up, task completion, follow up, and wrap up. If your participant’s time is scarce, consider sharing a few questions ahead of time. See also this [checklist for running an interview]({{ site.baseurl }}/interview-checklist). GSA staff, please see this [Google Doc Template](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/edit#).
 
 ## Introduction
 

@@ -1,9 +1,8 @@
 ---
 title: Example Design Research Participant Agreement
 description: An example design research participant agreement
-layout: redirect
+layout: post
 permalink: /participant-agreement/
-redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement.md
 ---
 
 ---
@@ -11,11 +10,9 @@ English version:
 - [Google Docs version with participant compensation](https://docs.google.com/document/d/18GLTggHUDI5MVrmL5Lbot58EB6c6tAkMbg54GqFaETc/edit)
 - [Google Docs version without participant compensation](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
 
-[Spanish version](https://github.com/18F/ux-guide/blob/master/_pages/resources/participant-agreement-spanish.md) (Note: Updates of the Spanish version pending translation of the updated English version.)
+[Spanish version]({{ site.baseurl }}/participant-agreement-spanish) (Note: Updates of the Spanish version pending translation of the updated English version.)
 
 ---
-
-# Example Design Research Participant Agreement (_without participant compensation_)
 
 This agreement relates to your participation in a U.S. General Services Administration (GSA) design research project. The project will take place between `<project start date>` and `<project end date>`. Our session with you is scheduled for `<session duration>`. The project’s purpose is to better understand `<area of inquiry>`. We ask that you read, sign, and return this agreement so you know your rights and what to expect from us. 
 
