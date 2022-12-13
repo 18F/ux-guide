@@ -27,7 +27,7 @@ As indicated below, some of these resources are available only to staff of GSA (
 ## Research
 
 [Research plan]({{ site.baseurl }}/resources/research-plan). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#)).  
-Prompts for planning research. Pairs well with our [research planning]({{site.baseurl}}/research/planning) article.
+Prompts for planning research. Pairs well with our [research planning]({{site.baseurl}}/research/plan) article.
 
 [Research alignment workshop]({{ site.baseurl }}/research/alignment-workshop). ([18F/GSA access only](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#)).  
 A workshop template for publicizing team questions and prioritizing research themes, setting you up to create a research plan that drives maximum value for your team.

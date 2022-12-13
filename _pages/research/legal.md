@@ -7,7 +7,7 @@ sidenav: research
 sticky_sidenav: true
 subnav:
 - text: Compensating research participants
-  href: '#compensating-research-participants'
+  href: '#compensating-research-participants-and-participant-agreements'
 - text: The Paperwork Reduction Act of 1995
   href: '#the-paperwork-reduction-act-of-1995'
 - text: Additional questions
