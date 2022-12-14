@@ -94,7 +94,11 @@ Choose one or more methods appropriate for meeting your goals and answering your
 
 Good research is collaborative. People who help accomplish the research are more likely to agree with its outputs.
 
-When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates)
+When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates).   
+
+Consider who’s perspective might be missing from the planning process. Any opportunities to include people who have direct experience using the product or service or people interacting regularly with those who do will help the team get closer to building with, not just for, the people who will use or be impacted by the outcomes of our research. 
+
+Running a [Bias Identification workshop(18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit#slide=id.ga8f8d32361_0_0)) helps teams account for their unconscious bias that might impact the research. The team should also collectively review the Bias and Ethics pages on the 18F UX Guide to see if their plan accounts for bias and ethics of the research they are about to engage in. 
 
 ### Timeline
 
@@ -132,13 +136,17 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 ## Participants and recruiting
 
-Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying target groups and defining your recruitment criteria relative to your research question.
+Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying target groups and defining your recruitment criteria relative to your research question. At 18F we are often designing for the diverse U.S. population. It is our responsibility to include and learn from people with a range of perspectives and a diversity of needs. Our products and services need to be accessible to all users regardless of their abilities and we need to consider equity of access and experience as we determine who to include in our research.
+
 
 ### Identifying target groups
 
-Because of the time-limited nature of 18F engagements, target groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. As a result, you can often rely on opportunistic tactics like “snowball sampling” (asking interviewees “who should I talk to next?”) instead of explicitly identified target groups.
+Because of the time-limited nature of 18F engagements, target groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. As a result, you can often rely on opportunistic tactics like “snowball sampling” (asking interviewees “who should I talk to next?”) instead of explicitly identified target groups. If you start with snowball sampling, make it a priority in future rounds of research to learn from people within your target groups.  
 
-Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need to.
+Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need to but be sure to revise them as you learn more about the users of your design. 
+
+To account for multiple ways people may experience or navigate your design might require having different research plans for different audiences. The audience you are designing for may be very broad, it’s not always possible (or preferable) to design a single experience that meets the needs of the entire population. Focus on identifying meaningful characteristics that might shape people’s perspectives and interactions with the experience you are designing. If you are conducting usability tests, consider what might be the best way to prototype an experience for someone who interacts with digital interfaces with assistive technologies.
+
 
 Consider especially:
 
@@ -148,7 +156,8 @@ Consider especially:
 
 ### Defining recruitment criteria
 
-Recruitment criteria specify the people you want to participate in your research. This depends on your research questions.
+Recruitment criteria specify the people you want to participate in your research. This depends on your research questions. How specific you are in defining your target audiences can differ at different stages of a project. When you’re just getting started with Foundational research, your understanding of who you need to recruit might be pretty high-level, but you’ll develop a more nuanced understanding of the unique perspectives to include as the project progresses.
+
 
 Example criteria might include:
 
@@ -164,6 +173,18 @@ If you’re doing usability testing, consider the following questions as well:
 - What level of domain knowledge do participants need?
 
 Regardless of how you arrive at them, review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
+
+### Recruitment for Demographic Diversity 
+It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for: 
+
+- **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources. 
+- 
+- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts but remember that asking family, friends and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings. 
+- 
+- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
+
+### Recruitment for Behavioral Diversity 
+People who look differently may behave similarly when using a product or service. Creating Personas allows you to define and distinguish between the way different groups of people perceive or behave towards your designs. 
 
 ### Compensating research participants
 
