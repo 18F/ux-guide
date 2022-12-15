@@ -98,7 +98,7 @@ When planning your research, clarify with your partners [the typical activities 
 
 Consider who’s perspective might be missing from the planning process. Any opportunities to include people who have direct experience using the product or service or people interacting regularly with those who do will help the team get closer to building with, not just for, the people who will use or be impacted by the outcomes of our research. 
 
-Running a [Bias Identification workshop(18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit#slide=id.ga8f8d32361_0_0)) helps teams account for their unconscious bias that might impact the research. The team should also collectively review the Bias and Ethics pages on the 18F UX Guide to see if their plan accounts for bias and ethics of the research they are about to engage in. 
+Running a [Bias Identification workshop(18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit#slide=id.ga8f8d32361_0_0)) helps teams account for their unconscious bias that might impact the research. The team should also collectively review the Bias and Ethics pages on the 18F UX Guide to see if their plan accounts for [bias](https://ux-guide.18f.gov/research/bias/) and [ethics](https://ux-guide.18f.gov/research/ethics/) of the research they are about to engage in. 
 
 ### Timeline
 
@@ -136,12 +136,12 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 ## Participants and recruiting
 
-Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying target groups and defining your recruitment criteria relative to your research question. At 18F we are often designing for the diverse U.S. population. It is our responsibility to include and learn from people with a range of perspectives and a diversity of needs. Our products and services need to be accessible to all users regardless of their abilities and we need to consider equity of access and experience as we determine who to include in our research.
+Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. At 18F we are often designing for the diverse U.S. population. It is our responsibility to include and learn from people with a range of perspectives and a diversity of needs. To make our products and services accessible to all, regardless of their abilities we need to take into account the degree of difficultly different groups might have when determining who to include in our research.
 
 
 ### Identifying participant groups
 
-Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. As a result, you can often rely on opportunistic tactics like “snowball sampling” (asking interviewees “who should I talk to next?”) instead of explicitly identified groups. If you start with snowball sampling, make it a priority in future rounds of research to learn from people within your audience of interest.  
+Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. An opportunistic tactic like asking interviewees “who should I talk to next?” to get an initial understanding of what the relevant segments or audiences of interest. However, in later rounds of research make it a priority to learn from people within your audience of interest.  
 
 Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your participant groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start, but revise them as you learn more about the users of your service. 
 
@@ -183,7 +183,7 @@ It’s important to consider the audience for whom you are designing products an
 - **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
 
 #### Recruitment for Behavioral Diversity 
-People who look differently may behave similarly when using a product or service. Creating [Personas](https://methods.18f.gov/decide/personas/) allows you to define and distinguish between the way different groups of people perceive or behave towards your designs. 
+People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics. 
 
 #### Recruitment within underserved communities
  
@@ -205,7 +205,7 @@ GSA can compensate members of the public for participating in user research. We 
 
 #### Why do we offer compensation?
 
-Many government services support people through stressful situations. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services. 
+Compensation for participation in research allows us to get perspectives from people who have the privilege and flexibility to donate their time unpaid. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services. 
 
 In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
 
