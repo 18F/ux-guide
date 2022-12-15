@@ -375,6 +375,14 @@ Here are a few high-level things to capture in a debrief:
 
 You may want to use this [example interview debrief worksheet]({{ site.baseurl }}/interview-debrief) ([18F/GSA access only](https://docs.google.com/document/d/1axCpR-pqdDIDRAAktlpbDEe1LbDCTZB7WxH6S4owIrU/edit?usp=sharing)); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
 
+### Make space for the team to process 
+
+Debriefing is also a time for the team to discuss how a session might have impacted them in case the topic might have brought up difficult or complex feelings. Making space for the team to share and process how they are impacted by the research allows the team to be emotionally centered and know if/when they need a break. 
+
+Reflect as a team:
+- Did the session bring up anything difficult that you want to share with the team? 
+- Does anyone need a break? 
+
 
 ## Additional reading
 - [Tips for capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)
