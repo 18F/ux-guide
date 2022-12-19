@@ -14,8 +14,11 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: check for properly-referenced internal links
-        run: ./.github/workflows/baseurl.sh
+      - name: check that root-relative internal links are prefixed
+        uses: mgwalker/action-no-root-relative-links@v1
+        with:
+          path: _pages
+          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
       - name: build the site
         run: bundle exec jekyll build
       - name: check for broken links
