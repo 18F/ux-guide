@@ -5,7 +5,7 @@ layout: post
 permalink: /participant-agreement-spanish/
 ---
 
-[English version](/participant-agreement/)
+[English version]({{site.baseurl}}/participant-agreement/)
 
 ---
 
@@ -54,7 +54,6 @@ Al firmar este documento, usted acepta leerlo, comprenderlo y aceptarlo. Usted l
   <ol>
     <li id="footnote-pia">
       <p>See <a href="https://www.gsa.gov/portal/content/162010">https://www.gsa.gov/portal/content/162010</a> and <a href="https://www.gsa.gov/portal/content/102237">https://www.gsa.gov/portal/content/102237</a></p>
-      <a href="#footnote-pia-ref" aria-label="Back to content">↩</a>
     </li>
   </ol>
 </footer>

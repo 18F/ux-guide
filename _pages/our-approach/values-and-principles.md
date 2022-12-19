@@ -58,10 +58,10 @@ A flexible vision is critical. We use data and direct conversations with and inv
 
 ### We coach advocates
 
-To better serve the public, we share practices that we've proven work. We publish living documentation of our [methods](https://methods.18f.gov/) and [approaches](/our-approach/) so others across government and beyond can benefit. 
+To better serve the public, we share practices that we've proven work. We publish living documentation of our [methods](https://methods.18f.gov/) and [approaches]({{site.baseurl}}/our-approach/) so others across government and beyond can benefit. 
 
 We work on cross-agency teams with civil servants who are experts in their field. Collaborating closely allows us a glimpse into their expertise and them into ours. This shared understanding allows us to recommend next steps and them to advocate for better design practices or policy changes to their colleagues. This advocacy helps other parts of government adopt human-centered design approaches.
 
 ### We finish with the diverse needs of real people
 
-We hold ourselves and our teams accountable to the public. We accept that a goal has been achieved when we confirm — via [design research](/research/) — that people with real needs can accomplish their goals with minimal frustration.
+We hold ourselves and our teams accountable to the public. We accept that a goal has been achieved when we confirm — via [design research]({{site.baseurl}}/research/) — that people with real needs can accomplish their goals with minimal frustration.
