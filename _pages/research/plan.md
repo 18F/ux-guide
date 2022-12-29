@@ -205,7 +205,7 @@ GSA can compensate members of the public for participating in user research. We 
 
 #### Why do we offer compensation?
 
-Compensation for participation in research allows us to get perspectives from people who have the privilege and flexibility to donate their time unpaid. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services. 
+Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time unpaid. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services. 
 
 In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
 
