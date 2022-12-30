@@ -20,7 +20,7 @@ subnav:
     href: "#additional-reading"
 ---
 
-We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
+We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide via Github](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
 
 As indicated below, some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services).
 
@@ -85,9 +85,9 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 
 18F/TTS staff can also participate in local communities of practice in by joining (18F/TTS access only):
 
-- [Content guild (#g-content)](https://gsa-tts.slack.com/messages/g-content)
-- [Accessibility guild (#g-accessibility)](https://gsa-tts.slack.com/messages/g-accessibility/)
-- [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
+- [Content guild (Channel #g-content in GSA Slack)](https://gsa-tts.slack.com/messages/g-content)
+- [Accessibility guild (Channel #g-accessibility in GSA Slack)](https://gsa-tts.slack.com/messages/g-accessibility/)
+- [Research guild (Channel #g-research in GSA Slack)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Microrequests
 

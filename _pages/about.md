@@ -13,7 +13,7 @@ description: "How 18F user experience (UX) designers improve interactions betwee
 
 ## What this guide is
 
-Like [our Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
+Like [our 18F Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
 
 * design research skills
 * the ability to skillfully navigate organizational relationships
@@ -44,16 +44,16 @@ This guide is divided into three sections:
 
 
 
-If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+If you have any suggestions or want to get involved, read [our contributing page on Github](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
 ## Reusing this guide in other organizations
 
-As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [Creative Commons CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our partners within GSA and throughout other agencies.
 
-Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways are best for you. If you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
+Feel free to [fork via Github this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways are best for you. If you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page on Github](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
 
 ## References
 
