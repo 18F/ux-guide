@@ -78,7 +78,7 @@ These engagements will begin by contemplating questions related to design maturi
 
 By initially assessing design maturity, we're able to help our partners increase their skills over time, and better measure how far they’ve come.
 
-As one example: 18F had a nine-week engagement in which our partner expressed interest in maturing their user-centered design practice. We determined our partner's initial level of design maturity through stakeholder interviews with their in-house designers and through [contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/). As a result, we identified three learning objectives. We created a lightweight curriculum using _backward design_, a curriculum design method in which you first define desired learning outcomes, then identify how you’ll assess learning, _before_ you devise training material.
+As one example: 18F had a nine-week engagement in which our partner expressed interest in maturing their user-centered design practice. We determined our partner's initial level of design maturity through stakeholder interviews with their in-house designers and through [contextual inquiry as described in the 18F methods](https://methods.18f.gov/discover/contextual-inquiry/). As a result, we identified three learning objectives. We created a lightweight curriculum using _backward design_, a curriculum design method in which you first define desired learning outcomes, then identify how you’ll assess learning, _before_ you devise training material.
 
 At the beginning of each week, for the first six weeks of the engagement, we included 15-minute “homework” assignments in our weekly status emails. This got the team thinking about a particular aspect of user-centered design. Each assignment corresponded with a skill-building workshop held later in the week. This helped us meet the engagement goal and also helped the team mature its user-centered design practice. By the end of this engagement our agency partners were planning their own research and moderating their own usability tests.
 
@@ -124,14 +124,14 @@ Our collaborations are frequently anchored by at least one or two in-person sess
 
 ## Security and privacy norms
 
-Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/) and [Cloud.gov](https://cloud.gov/).
+Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/),[Cloud.gov](https://cloud.gov/), [Login.gov](https://www.login.gov/), and [Seach.gov](https://search.gov/).
 
-As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as the authorizing official and system owner), and by following our [Before You Ship guide](https://before-you-ship.18f.gov/ato/). It can also be helpful to ask about:
+As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as the authorizing official and system owner). It can also be helpful to ask about:
 
 {:.list-item--margin-bottom-extra}
 - Authentication (it’s okay to have short-term and long-term solutions)
 - Our partner agency’s existing policies around account management
-- Our partner’s use of [FedRAMPed](https://marketplace.fedramp.gov/) products (as they relate to the product or service we’ve helped create)
+- Our partner’s use of tools authorized governement-wide via the [FedRAMP](https://marketplace.fedramp.gov/) authorization program.
 
 We discuss privacy norms and relevant information practices to ensure mutual understanding of essential concepts and identify differences in each agency's approaches. For example, 18F’s design research is defined by information practices outlined in [GSA’s Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia). However, our norms are not our partner’s norms; and just because GSA’s Privacy Office sanctions our design research program doesn’t mean that our partner agency’s privacy office will do the same (see [legal]({{site.baseurl}}/research/legal/) and [privacy]({{site.baseurl}}/research/privacy/)). As we conduct design research on behalf of our agency partners, we may need to prompt conversation between the following GSA offices and their counterparts at our partner agencies:
 
@@ -139,15 +139,16 @@ We discuss privacy norms and relevant information practices to ensure mutual und
 - Office of General Counsel
 - [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) Desk Officer
 
+Beyond research, we engage with our partner's privacy office when the systems we design will collect or use information specific to an individual. For systems that will interact with personal information, called personally identifable information (PII) in the government, we work with our partners and their organization's privacy office to assess the privacy impacts of that use, and document that impact in a Privacy Impact Assessment. If the system will routinely allow the government to retrieve PII by an identifier such as a social security number, then our partners will ensure there is a public notice and a legal purpose to process that PII. These notices are called System of Record Notices or SORNs.
 
 ## Policy
 
-Practicing user-centered design in government is complex. In some cases, we can find that policy dictates decisions we otherwise thought were ours to make about how a product or service functions or how we carry out the user-centered design process. For example, as we helped build [the new FEC.gov](https://18f.gsa.gov/2017/05/30/the-new-fec/) 18F conducted usability testing to see how our proposed designs might affect the site’s usability. If we were to suggest changes to the forms that campaigns use to file with the FEC, the FEC might be legally required to solicit public feedback in the Federal Register over a multi-month period.
+Practicing user-centered design in government is complex. In some cases, we can find that policy dictates decisions we otherwise thought were ours to make about how a product or service functions or how we carry out the user-centered design process. For example, as we helped build [the new FEC.gov as discussed on our blog](https://18f.gsa.gov/2017/05/30/the-new-fec/) 18F conducted usability testing to see how our proposed designs might affect the site’s usability. If we were to suggest changes to the forms that campaigns use to file with the FEC, the FEC might be legally required to solicit public feedback in the Federal Register over a multi-month period.
 
 As we collaboratively design with partners, we should ask:
 
 {:.list-item--margin-bottom-extra}
-- Which policies will shape our design? (see [this list of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/))
+- Which policies will shape our design? (see [Digital.gov's list of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/))
 - Which policies will shape our design process? (are we considering a research design that will require approval from our partner’s Paperwork Reduction Act Desk Officer?)
 - Whose permission will be required if we need a policy exception?
 
