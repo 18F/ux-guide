@@ -35,13 +35,13 @@ All research is subject to bias, whether in our choice of who participates, whic
 
 - Be mindful of the kinds of bias that can affect design research
 - Surface the team’s assumptions
-- Clearly identify the team’s research objectives (which should center around [people’s needs](https://playbook.cio.gov/#play1))
+- Clearly identify the team’s research objectives (which should center around people’s needs [in accodance with the U.S. Digital Services Digital Services Playbook](https://playbook.cio.gov/#play1))
 - Note the research’s inherent limitations
 
 
 ## Sampling bias
 
-**What it is:** When some members of the target population are less likely to be included in the study. For example, if a team leans too heavily on [digital-first participant recruiting processes](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/), it risks excluding members of the public who don’t interact with government online.
+**What it is:** When some members of the target population are less likely to be included in the study. For example, if a team leans too heavily on digital-first participant recruiting processes, it risks excluding members of the public who don’t interact with government online. We shared our experiences [building a prototype of an online recruiting tool on our blog](https://18f.gsa.gov/2017/11/08/four-lessons-we-learned-while-building-our-own-design-research-recruiting-tool/).
 
 **How to counter:**
 
@@ -64,7 +64,7 @@ All research is subject to bias, whether in our choice of who participates, whic
 - Refrain from asking close-ended questions
 - Practice interviewing beforehand
 - Periodically echo what you’ve heard during the interview back to interviewees (“Just to be sure I heard you correctly, you said…”)
-- Conduct [post-interview debriefs](https://methods.18f.gov/interview-debrief/)
+- Conduct [post-interview debriefs as described on the 18F methods](https://methods.18f.gov/interview-debrief/)
 
 
 ## Social desirability bias
@@ -87,12 +87,12 @@ All research is subject to bias, whether in our choice of who participates, whic
 **How to counter:**
 
 {:.list-item--margin-bottom-extra}
-- Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/) before the research begins
+- Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercises as described on 18F methods](https://methods.18f.gov/discover/hopes-and-fears/) before the research begins
 - Emphasize diversity when recruiting research participants
-- Invite the team to observe research in action, and hold [post-interview debriefs](https://methods.18f.gov/interview-debrief/)
+- Invite the team to observe research in action, and hold [post-interview debriefs as described on 18F methods](https://methods.18f.gov/interview-debrief/)
 - Consider different perspectives that challenge your beliefs
 - Use a variety of research methods when collecting data to triangulate your findings
-- [Collaboratively analyze data before synthesizing it](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/), and note any plausible alternative interpretations. Involve your partners and stakeholders in the synthesis process; stakeholders could include people who may not be directly involved in the project but could be users of your service or may be impacted by a change your work introduces to the agency, as well as, community leaders or others who are representative of your user base.
+- Collaboratively analyze data before synthesizing it, and note any plausible alternative interpretations. Involve your partners and stakeholders in the synthesis process; stakeholders could include people who may not be directly involved in the project but could be users of your service or may be impacted by a change your work introduces to the agency, as well as, community leaders or others who are representative of your user base. See our blog for more on how to [Get Partners onboard with Research Findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/)
 
 ## The observer effect (the Hawthorne effect)
 
