@@ -275,7 +275,7 @@ Note: If there are two notetakers available for a session, consider having one p
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.
 - **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings.
 - **Voice recording** - You can also make an audio recording in lieu of video, which can be helpful if you need to review portions of a session. You can record interviews using the voice memo app on your work phone.
-- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000) [Purchase Request](https://handbook.18f.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
+- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000) [Purchase Request](https://handbook.tts.gsa.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.tts.gsa.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
 
 Regardless of the method you choose, it’s good to keep in mind the overall reasons why you should document research as you proceed. We document research so that:
 

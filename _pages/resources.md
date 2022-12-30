@@ -80,7 +80,7 @@ An email asking participants to review and sign a participant agreement before t
 
 ### Collaboration
 
-Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.18f.gov/acqstack/), [Product Management](https://handbook.18f.gov/product/) and [Engineering](https://handbook.18f.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.18f.gov/) for more information.
+Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.tts.gsa.gov/acqstack/), [Product Management](https://handbook.tts.gsa.gov/product/) and [Engineering](https://handbook.tts.gsa.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.tts.gsa.gov/) for more information.
 
 
 18F/TTS staff can also participate in local communities of practice in by joining (18F/TTS access only):
