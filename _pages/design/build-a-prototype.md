@@ -8,10 +8,10 @@ sticky_sidenav: true
 subnav:
 - text: Communicating with prototypes
   href: '#communicating-with-prototypes'
-- text: Building prototypes with Federalist
-  href: '#building-prototypes-with-federalist'
-- text: Getting started with Federalist
-  href: '#getting-started-with-federalist'
+- text: Building prototypes with Cloud.gov Pages
+  href: '#building-prototypes-with-Cloudgov-Pages'
+- text: Getting started with Cloud.gov Pages
+  href: '#getting-started-with-Cloudgov-Pages'
 - text: Authorized prototyping tools
   href: '#authorized-prototyping-tools'
 ---
