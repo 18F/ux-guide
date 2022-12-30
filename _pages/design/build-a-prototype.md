@@ -9,9 +9,9 @@ subnav:
 - text: Communicating with prototypes
   href: '#communicating-with-prototypes'
 - text: Building prototypes with Cloud.gov Pages
-  href: '#building-prototypes-with-Cloudgov-Pages'
+  href: '#building-prototypes-with-cloudgov-pages'
 - text: Getting started with Cloud.gov Pages
-  href: '#getting-started-with-Cloudgov-Pages'
+  href: '#getting-started-with-cloudgov-pages'
 - text: Authorized prototyping tools
   href: '#authorized-prototyping-tools'
 ---
