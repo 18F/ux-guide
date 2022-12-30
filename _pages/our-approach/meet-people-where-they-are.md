@@ -96,7 +96,7 @@ People who are new to design will need to appreciate its direct benefits (like i
 
 ## Remote friendliness
 
-18F is a distributed team for many reasons. For example, being distributed allows us to hire people who would not traditionally join government or move to DC. It also allows us to include a broader cross-sampling of people when conducting design research. Being remote-first requires we maintain [a number of remote-friendly practices](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/).
+18F is a distributed team for many reasons. For example, being distributed allows us to hire people who would not traditionally join government or move to DC. It also allows us to include a broader cross-sampling of people when conducting design research. Being remote-first requires we maintain [a number of remote-friendly practices discussed further on the 18F blog](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/).
 
 That said, the majority of agencies we partner with are not distributed teams. At the beginning of every engagement, it’s helpful to ask:
 

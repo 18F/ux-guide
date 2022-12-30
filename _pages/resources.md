@@ -114,7 +114,7 @@ We most commonly share our work via presentations. These presentations can vary 
 
 ## General
 
-- [18F Handbook](https://handbook.tts.gsa.gov/)
+- [GSA TTS Handbook](https://handbook.tts.gsa.gov/)
 - [18F Methods](https://methods.18f.gov/)
 - [USDS Playbook](https://playbook.cio.gov/)
 - [New Hire README (18F/GSA access only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
