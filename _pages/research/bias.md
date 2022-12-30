@@ -87,9 +87,9 @@ All research is subject to bias, whether in our choice of who participates, whic
 **How to counter:**
 
 {:.list-item--margin-bottom-extra}
-- Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercises as described on 18F methods](https://methods.18f.gov/discover/hopes-and-fears/) before the research begins
+- Bring attention to the team’s shared values and beliefs—for example, by conducting a [hopes and fears exercises [18F methods]](https://methods.18f.gov/discover/hopes-and-fears/) before the research begins
 - Emphasize diversity when recruiting research participants
-- Invite the team to observe research in action, and hold [post-interview debriefs as described on 18F methods](https://methods.18f.gov/interview-debrief/)
+- Invite the team to observe research in action, and hold [post-interview debriefs [18F methods]](https://methods.18f.gov/interview-debrief/)
 - Consider different perspectives that challenge your beliefs
 - Use a variety of research methods when collecting data to triangulate your findings
 - Collaboratively analyze data before synthesizing it, and note any plausible alternative interpretations. Involve your partners and stakeholders in the synthesis process; stakeholders could include people who may not be directly involved in the project but could be users of your service or may be impacted by a change your work introduces to the agency, as well as, community leaders or others who are representative of your user base. See our blog for more on how to [Get Partners onboard with Research Findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/)

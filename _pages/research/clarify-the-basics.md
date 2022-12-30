@@ -32,7 +32,7 @@ All 18F teams do design research. [Design involves continuous decision making]({
 
 
 ## A team activity
-Because a collaborative approach [increases the team’s overall empathy and efficiency](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/), research is best done as a team activity. This means the entire team, including your agency partners, shares responsibility for:
+Because a collaborative approach increases the team’s overall empathy and efficiency, research is best done as a team activity. See our [18f blog on the impact of whole team collaboration on user research](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/). This means the entire team, including your agency partners, shares responsibility for:
 
 {:.list-item--margin-bottom-extra}
 - **Research design** — Formulating a research plan, including research questions and interview guides
@@ -52,7 +52,7 @@ On any given project you should only include the research activities that will i
 
 ### Foundational research
 
-Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://github.com/18F/path-analysis) engagements and results in, among other things, a [problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
+Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our Github repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
 
 
 ### Generative research
@@ -84,7 +84,7 @@ The following steps are repeated as necessary throughout each 18F engagement:
 
 ### Remote
 
-As a distributed team, 18F defaults to remote-friendly ways of working. This gives everyone on our team—including our partners—a chance to participate, and lets us hear from people regardless of their location. We’ve written before about [how to manage a research project](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/) and [conduct moderated usability tests remotely](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/), but our basic advice is:
+As a distributed team, 18F defaults to remote-friendly ways of working. This gives everyone on our team—including our partners—a chance to participate, and lets us hear from people regardless of their location. We’ve written on our blog before about [how to manage a research project](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/) and [conduct moderated usability tests remotely](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/), but our basic advice is:
 
 {:.list-item--margin-bottom-extra}
 - **Try to conduct remote research via video conference.** Find out what conferencing platforms your partners and participants can access.
@@ -93,7 +93,7 @@ As a distributed team, 18F defaults to remote-friendly ways of working. This giv
 
 ### In person
 
-With most projects you’ll conduct an in-person kickoff, during which you may have the chance to meet, interview, and conduct activities with stakeholders. If feasible, consider adding [contextual inquiry]( https://methods.18f.gov/discover/contextual-inquiry/) into your kick-off activities. Direct user observation will provide firsthand understanding of your stakeholders’ and users’ processes and contexts.
+With most projects you’ll conduct an in-person kickoff, during which you may have the chance to meet, interview, and conduct activities with stakeholders. If feasible, consider adding [contextual inquiry as described in the 18F methods]( https://methods.18f.gov/discover/contextual-inquiry/) into your kick-off activities. Direct user observation will provide firsthand understanding of your stakeholders’ and users’ processes and contexts.
 
 We prefer in-person research when we want to better understand the environment in which users normally interact with a government service. We also prefer in-person research when our participants aren’t especially proficient with, or don’t have access to, video conferencing software.
 
@@ -102,7 +102,7 @@ We prefer in-person research when we want to better understand the environment i
 
 {:.list-item--margin-bottom-extra}
 - **[Choose a research lead.]({{ site.baseurl }}/research/lead)** A research lead is the team member ultimately responsible for setting the research agenda, explaining the team’s methods, tracking the team’s progress, and ensuring research quality. (While the research lead is normally 18F staff at the start, we work with our partners to identify someone on their side before the engagement ends.)
-- **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in [getting them on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
+- **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in, getting them on board with research findings [as we discuss in our blog](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
 - **Determine research questions as well as interview questions.** (They’re different.)
     - Example research question: _How do medical librarians find and make use of academic journal literature in answering questions for their patrons?_
     - Example interview question: _Tell me about the last time you helped a patron answer a question that required you to review academic journal literature._
