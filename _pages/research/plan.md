@@ -104,7 +104,7 @@ Plan more time than you think you need, and consider especially:
 
 {:.list-item--margin-bottom-extra}
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
-- How you plan to involve the team in any level-setting exercises, such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
+- How you plan to involve the team in any level-setting exercises, such as [hopes and fears [18f methods]](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas [18f blog]](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
 - How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
 - If your research involves workshops and/or fieldwork:
     - Who needs to be where and when?
@@ -138,7 +138,7 @@ Most of 18F’s design research depends on you directly interacting with people.
 
 Because of the time-limited nature of 18F engagements, target groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. As a result, you can often rely on opportunistic tactics like “snowball sampling” (asking interviewees “who should I talk to next?”) instead of explicitly identified target groups.
 
-Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need to.
+Once you've [framed a problem see github](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need   to.
 
 Consider especially:
 
@@ -169,7 +169,7 @@ Regardless of how you arrive at them, review your recruitment criteria with your
 
 GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. Many government services support people through stressful situations. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives.
 
-[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 #### Why do we offer compensation?
 
@@ -199,7 +199,7 @@ Initial OGC guidance is to work with a recruiting agency to make payments to par
 
 Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
 
-Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
+Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust as we discuss further on our blog](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
 
 ## Outputs and outcomes
@@ -219,9 +219,9 @@ Hold a meeting to bring the team — including your agency partners — together
 
 Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting excercises such as:
 
-- [Hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/)
+- [Hopes and fears exercise [18f Design methods]](https://methods.18f.gov/discover/hopes-and-fears/)
 - [Research-alignment exercise]({{ site.baseurl }}/research/alignment-workshop)
-- Creating provisional [personas](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
+- Creating provisional [personas [18f Design methods]](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
 
 Next, review and confirm elements listed in the research plan. It’s especially important to confirm:
 
@@ -275,7 +275,7 @@ Note: If there are two notetakers available for a session, consider having one p
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.
 - **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings.
 - **Voice recording** - You can also make an audio recording in lieu of video, which can be helpful if you need to review portions of a session. You can record interviews using the voice memo app on your work phone.
-- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000) [Purchase Request](https://handbook.tts.gsa.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.tts.gsa.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
+- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000). [Purchase Request instructions are on the TTS Handbook](https://handbook.tts.gsa.gov/purchase-requests/). You will need to identify a vendor and obtain a quote via an request for quote.
 
 Regardless of the method you choose, it’s good to keep in mind the overall reasons why you should document research as you proceed. We document research so that:
 
@@ -285,4 +285,4 @@ Regardless of the method you choose, it’s good to keep in mind the overall rea
 
 ## Additional reading
 
-- [Examples of past research plans from past 18F projects](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
+- [Examples of past research plans from past 18F projects on Github](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
