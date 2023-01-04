@@ -94,7 +94,7 @@ Choose one or more methods appropriate for meeting your goals and answering your
 
 Good research is collaborative. People who help accomplish the research are more likely to agree with its outputs.
 
-When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates)
+When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [coaching advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-coach-advocates)
 
 ### Timeline
 
