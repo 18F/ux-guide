@@ -20,7 +20,7 @@ subnav:
     href: "#additional-reading"
 ---
 
-We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide via Github](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
+We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide via GitHub](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) and help us keep this list up-to-date!
 
 As indicated below, some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services).
 
@@ -100,7 +100,7 @@ For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/mic
 ### Presenting the work
 We most commonly share our work via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-* Utilize our [18F-branded templates found on the 18f brand site](https://brand.18f.gov/templates/) to maintain consistency and save time.
+* Utilize our [18F-branded templates found on the 18F brand site](https://brand.18f.gov/templates/) to maintain consistency and save time.
 * The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck (18F/GSA access only](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397)) for additional pointers and guidance.
 * Check out the [Project resources folder (18F/GSA access only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)) for reusable content and templates; browse [previous 18F Path Analysis project artifacts](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples.
 * Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.

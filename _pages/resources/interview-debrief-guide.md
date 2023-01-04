@@ -5,7 +5,7 @@ layout: post
 permalink: /interview-debrief/
 ---
 
-The following questions are provided as useful starting points for facilitating post-moderated research conversation (for example, after an [in-depth interview [18f design methods]](https://methods.18f.gov/stakeholder-and-user-interviews/) or a [usability test [18f design methods]](https://methods.18f.gov/usability-testing/)). We recommend copying the questions to collaborative writing tool and giving the team four minutes per section to respond, and then facilitating a section-wise discussion. GSA Staff, see this [Google Doc Template (GSA/TTS Access only)](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit#).
+The following questions are provided as useful starting points for facilitating post-moderated research conversation (for example, after an [in-depth interview [18F design methods]](https://methods.18f.gov/stakeholder-and-user-interviews/) or a [usability test [18F design methods]](https://methods.18f.gov/usability-testing/)). We recommend copying the questions to collaborative writing tool and giving the team four minutes per section to respond, and then facilitating a section-wise discussion. GSA Staff, see this [Google Doc Template (GSA/TTS Access only)](https://docs.google.com/document/d/1f5Ue2vbeg4-95EevvlURzvl6yMLwMOXtiNwe6OMnb9E/edit#).
 
 ## Warm up (4 minutes)
 

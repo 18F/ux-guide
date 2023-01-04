@@ -12,7 +12,7 @@ subnav:
     href: '#insights-into-action'
   - text: Sharing
     href: '#sharing'
-  - text: Publishing on Github
+  - text: Publishing on GitHub
     href: '#publishing-on-github'
   - text: Handing off research responsibly
     href: '#handing-off-research-responsibly'
@@ -33,7 +33,7 @@ At 18F this generally involves:
 {:.list-item--margin-bottom-extra}
 1. Highlighting key quotes in transcripts (based on your research goals) and from other research such as quantitative analysis and secondary research
 2. Gathering quotes and other data into a shared document/space
-3. [Affinity diagramming [18f design methods]](https://methods.18f.gov/decide/affinity-mapping/) to identify emergent themes, patterns, and insights
+3. [Affinity diagramming [18F design methods]](https://methods.18f.gov/decide/affinity-mapping/) to identify emergent themes, patterns, and insights
 4. Developing a shared understanding as a group
 
 Making meaning always happens in relation to the research questions and/or problem statements identified during [research planning]({{site.baseurl}}/research/plan). Some questions you might ask:
@@ -62,15 +62,15 @@ Before conducting shared analysis or synthesis, make sure that any quote could b
 
 ### Choosing methods
 
-Making meaning out of research can involve any number of different [methods[18f design methods]](https://methods.18f.gov). The most basic method is writing a summary of what you found. Write a brief summary of the data you collected that, when read together with your [research plan]({{ site.baseurl }}/resources/research-plan), documents the research itself: the questions you started with, how you went about answering them, what you learned, and why it matters. Aim for true and useful, rather than comprehensive.
+Making meaning out of research can involve any number of different [methods [18F design methods]](https://methods.18f.gov). The most basic method is writing a summary of what you found. Write a brief summary of the data you collected that, when read together with your [research plan]({{ site.baseurl }}/resources/research-plan), documents the research itself: the questions you started with, how you went about answering them, what you learned, and why it matters. Aim for true and useful, rather than comprehensive.
 
 Outside of writing a summary, you should choose your methods based on the desired outputs and outcomes of your research. For example:
 
 {:.list-item--margin-bottom-extra}
-- To build empathy for users and inform future design strategy, you might create a [mental model[18f design methods]](https://methods.18f.gov/decide/mental-modeling/) diagram, by combing through transcripts looking for reasonings, reactions, and guiding principles
-- To create reusable archetypes for grounding user stories and scenarios, you might create a [persona[18f design methods]](https://methods.18f.gov/decide/personas/), by reviewing transcripts for goals, behaviors, and pain points
-- To find themes in your data via a bottom-up process, try [affinity diagramming[18f design methods]](https://methods.18f.gov/decide/affinity-mapping/). Record ideas, quotes, or observations from your research on sticky notes (one idea per sticky note), place them on a wall or whiteboard, and then move the sticky notes into related groups. If working virtually, you can use digital whiteboarding tools such as Mural. Once you have the groupings, you can label them according to a theme or pattern.
-- To make the complexities of a work process or service visible, you might use [task flow analysis[18f design methods]](https://methods.18f.gov/decide/task-flow-analysis/) and [journey mapping[18f design methods]](https://methods.18f.gov/decide/journey-mapping/): these show connections between stakeholders or across organizational silos. Once you’ve visualized the process or journey, you can analyze for key interactions, pain points, and dependencies.
+- To build empathy for users and inform future design strategy, you might create a [mental model [18F design methods]](https://methods.18f.gov/decide/mental-modeling/) diagram, by combing through transcripts looking for reasonings, reactions, and guiding principles
+- To create reusable archetypes for grounding user stories and scenarios, you might create a [persona [18F design methods]](https://methods.18f.gov/decide/personas/), by reviewing transcripts for goals, behaviors, and pain points
+- To find themes in your data via a bottom-up process, try [affinity diagramming [18F design methods]](https://methods.18f.gov/decide/affinity-mapping/). Record ideas, quotes, or observations from your research on sticky notes (one idea per sticky note), place them on a wall or whiteboard, and then move the sticky notes into related groups. If working virtually, you can use digital whiteboarding tools such as Mural. Once you have the groupings, you can label them according to a theme or pattern.
+- To make the complexities of a work process or service visible, you might use [task flow analysis [18F design methods]](https://methods.18f.gov/decide/task-flow-analysis/) and [journey mapping [18F design methods]](https://methods.18f.gov/decide/journey-mapping/): these show connections between stakeholders or across organizational silos. Once you’ve visualized the process or journey, you can analyze for key interactions, pain points, and dependencies.
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
 
@@ -89,15 +89,15 @@ Turning insights into action helps us answer and communicate:
 Artifacts that we use to do this include:
 
 - [Research findings presentation template (18F/GSA access only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238))
-- [Design hypotheses[18f design methods]](https://methods.18f.gov/decide/design-hypothesis/)
-- [Design principles[18f design methods]](https://methods.18f.gov/decide/design-principles/)
-- [Personas[18f design methods]](https://methods.18f.gov/decide/personas/)
-- [Mental models[18f design methods]](https://methods.18f.gov/decide/mental-modeling/)
-- [User scenarios[18f design methods]](https://methods.18f.gov/decide/user-scenarios/)
+- [Design hypotheses [18F design methods]](https://methods.18f.gov/decide/design-hypothesis/)
+- [Design principles [18F design methods]](https://methods.18f.gov/decide/design-principles/)
+- [Personas [18F design methods]](https://methods.18f.gov/decide/personas/)
+- [Mental models [18F design methods]](https://methods.18f.gov/decide/mental-modeling/)
+- [User scenarios [18F design methods]](https://methods.18f.gov/decide/user-scenarios/)
 - User stories
-- [Storyboards[18f design methods]](https://methods.18f.gov/decide/storyboarding/)
-- [Journey maps[18f design methods]](https://methods.18f.gov/decide/journey-mapping/)
-- [Prototypes[18f design methods]](https://methods.18f.gov/make/prototyping/)
+- [Storyboards [18F design methods]](https://methods.18f.gov/decide/storyboarding/)
+- [Journey maps [18F design methods]](https://methods.18f.gov/decide/journey-mapping/)
+- [Prototypes [18F design methods]](https://methods.18f.gov/make/prototyping/)
 - Other creative outputs
 
 These artifacts are tools for communicating the answers to your research questions and prioritizing opportunities for action. When choosing which artifacts to make, consider your audience and think about what will best create a shared understanding of your findings. For example, imagine you are describing an experience that is often a challenge for a specific group of users. In this case, personas accompanied by a journey map may be more effective than a set of design principles.
@@ -135,7 +135,7 @@ We most commonly share our research findings via presentations. These presentati
 
 * Utilize our [18F-branded templates found on the 18F brand site](https://brand.18f.gov/templates/) to maintain consistency and save time. You may want to use this [Research findings presentation template (18F/GSA access only](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)) as a starting point.
 * The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck (18F/GSA access only](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397)) for additional pointers and guidance.
-* Check out the [Project resources folder (18F/GSA access only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)) for reusable content and templates; browse [project artifacts from previous 18F engagements on Github](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki on Github](https://github.com/18F/Design-Wiki/wiki) for additional examples.
+* Check out the [Project resources folder (18F/GSA access only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)) for reusable content and templates; browse [project artifacts from previous 18F engagements on GitHub](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki on GitHub](https://github.com/18F/Design-Wiki/wiki) for additional examples.
 * Consider making a [microrequest (instructions via the handbook)](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
 * Feel free to include references or links to further reading at the end of your presentation.
 
@@ -146,7 +146,7 @@ Keep in mind that a researcher’s job doesn’t end with a formal presentation.
 One of the ways we do this at 18F is sharing a “weekly ship” of what the team has worked on each week. This could be an opportunity to share a compelling quote or pain point uncovered between rounds of research synthesis.
 
 
-## Publishing on Github
+## Publishing on GitHub
 
 While it is not mandatory, we often use GitHub to manage our projects. GitHub also allows us to keep the public up to date on our research findings. It is also a useful tool for communicating with potential vendors who may work on our projects in the future. Publishing findings can help vendors and the public better understand the problem a partner is trying to solve and how they are approaching it. It also signals that the partner wants to work with a vendor who is also willing to work in the open.
 
@@ -164,7 +164,7 @@ Research handoffs occur when wrapping up a round of research or an engagement, w
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
 - Who should have access to what data? How will we get it to them?
 
-In addition to the above considerations, providing an introduction or tour of the work is a helpful way to transfer knowledge to new team members or vendors. Consider writing a [Github ReadMe](https://github.com/ONRR/doi-extractives-data/blob/dev/README.md) document which new team members can read and refer to for project background, context, history, and quick links to important files or resources.  
+In addition to the above considerations, providing an introduction or tour of the work is a helpful way to transfer knowledge to new team members or vendors. Consider writing a [GitHub README](https://github.com/ONRR/doi-extractives-data/blob/dev/README.md) document which new team members can read and refer to for project background, context, history, and quick links to important files or resources.  
 
 
 ## Additional reading

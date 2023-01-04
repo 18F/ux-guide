@@ -32,7 +32,7 @@ All 18F teams do design research. [Design involves continuous decision making]({
 
 
 ## A team activity
-Because a collaborative approach increases the team’s overall empathy and efficiency, research is best done as a team activity. See our [18f blog on the impact of whole team collaboration on user research](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/). This means the entire team, including your agency partners, shares responsibility for:
+Because a collaborative approach increases the team’s overall empathy and efficiency, research is best done as a team activity. See our [18F blog on the impact of whole team collaboration on user research](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/). This means the entire team, including your agency partners, shares responsibility for:
 
 {:.list-item--margin-bottom-extra}
 - **Research design** — Formulating a research plan, including research questions and interview guides
@@ -52,7 +52,7 @@ On any given project you should only include the research activities that will i
 
 ### Foundational research
 
-Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our Github repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
+Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our GitHub repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
 
 
 ### Generative research

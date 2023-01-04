@@ -94,13 +94,13 @@ Make time to meet with any team members who were not involved with designing the
 
 When conducting small group activities, prepare an agenda and confirm access to any materials you will need, such as sticky notes, printed facilitation aids, etc.
 
-Time moves fast in workshops, so be clear about what you want to accomplish and what you are willing to cut. Make sure to include time for tech checks and have a backup plan. The U.K. Government Digital Service (GDS) has some great additional tips for conducting [research in small group workshops [Gov.uk]](https://www.gov.uk/service-manual/user-research/research-small-group-workshops).
+Time moves fast in workshops, so be clear about what you want to accomplish and what you are willing to cut. Make sure to include time for tech checks and have a backup plan. The U.K. Government Digital Service (GDS) has some great additional tips for conducting [research in small group workshops [GOV.UK]](https://www.gov.uk/service-manual/user-research/research-small-group-workshops).
 
 ### Preparing a wireframe or prototype
 
 Identify in your [research plan]({{site.baseurl}}/research/plan) if your sessions will require the creation or use of [wireframes [18F design methods]](https://methods.18f.gov/make/wireframing/) or [prototypes]({{site.baseurl}}/design/build-a-prototype). This helps manage the team’s expectations, and gives the people creating those artifacts time to prepare them.
 
-In evaluative research such as [usability testing [18f design methods]](https://methods.18f.gov/validate/usability-testing/), prototypes often suggest how users might complete specific tasks. In this case:
+In evaluative research such as [usability testing [18F design methods]](https://methods.18f.gov/validate/usability-testing/), prototypes often suggest how users might complete specific tasks. In this case:
 
 {:.list-item--margin-bottom-extra}
 1. **Clarify the tasks your sessions will investigate.** Tasks are often included in artifacts such as personas or user stories. If your team doesn’t yet have those artifacts, ask them to identify “the most essential things that people need to do” relative to your research area of focus. Then pick the top two or three tasks the prototype will need to depict.
@@ -134,7 +134,7 @@ Most 18F interview guides include these sections:
 - Concluding thanks, questions, and opportunities to follow up
 - Ask who else you should meet with (if appropriate)
 
-For starting points, see this [example interview guide [18f design methods]](https://methods.18f.gov/interview-script/) ([18F/GSA access only version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
+For starting points, see this [example interview guide [18F design methods]](https://methods.18f.gov/interview-script/) ([18F/GSA access only version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
 
 When interviewing stakeholders, ask about their work as it relates to your research area of focus. Ask about business processes in which they play a role, the information and tools they use, the things they produce or make, and the decisions they’re responsible for. Ask about the people they work with on a regular basis and any challenges they face.
 
@@ -175,9 +175,9 @@ Make a list of places where participants are likely to be, both on- and offline.
 - Personal and professional networks, social media, mailing lists, etc.
 - The new or existing website
 
-Next, go to those locations and get people interested in the research. This often involves the creation of an intercept (“research call-to-action”). For example, if you’re doing pop-up research in a GSA building, you might print your intercept on a poster; if you’re doing remote research, you might place a pop-up directly on the website itself using the GSA approved [Touchpoints Tool](https://touchpoints.digital.gov/).
+Next, go to those locations and get people interested in the research. This often involves the creation of an intercept (“research call-to-action”). For example, if you’re doing pop-up research in a GSA building, you might print your intercept on a poster; if you’re doing remote research, you might place a pop-up directly on the website itself using the GSA approved [Touchpoints tool](https://touchpoints.digital.gov/).
 
-Note that while it can be tempting to include additional form fields on your intercept to help with screening, this can introduce a delay due to The Paperwork Reduction Act of 1995 (PRA). See [Legal]({{site.baseurl}}/research/legal) for more information. All you really need to collect from people is their contact information, which isn’t subject to PRA (per [this Office of Management and Budgeting memo [Archives.gov]](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)) if it’s collected on its own. A tweet-length intercept might read:
+Note that while it can be tempting to include additional form fields on your intercept to help with screening, this can introduce a delay due to The Paperwork Reduction Act of 1995 (PRA). See [Legal]({{site.baseurl}}/research/legal) for more information. All you really need to collect from people is their contact information, which isn’t subject to PRA (per [this Office of Management and Budget memo [Archives.gov]](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)) if it’s collected on its own. A tweet-length intercept might read:
 
     “Help us improve the design of OPM.gov! Sign up to participate in a remote feedback session by emailing participate-18F@gsa.gov. Learn more about how we’ll protect your information at https://www.gsa.gov/reference/gsa-privacy-program/Privacy-act-statement-for-design-research”
 

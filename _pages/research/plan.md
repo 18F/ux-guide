@@ -104,7 +104,7 @@ Plan more time than you think you need, and consider especially:
 
 {:.list-item--margin-bottom-extra}
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
-- How you plan to involve the team in any level-setting exercises, such as [hopes and fears [18f methods]](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas [18f blog]](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
+- How you plan to involve the team in any level-setting exercises, such as [hopes and fears [18F methods]](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas [18F blog]](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
 - How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
 - If your research involves workshops and/or fieldwork:
     - Who needs to be where and when?
@@ -138,7 +138,7 @@ Most of 18F’s design research depends on you directly interacting with people.
 
 Because of the time-limited nature of 18F engagements, target groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. As a result, you can often rely on opportunistic tactics like “snowball sampling” (asking interviewees “who should I talk to next?”) instead of explicitly identified target groups.
 
-Once you've [framed a problem see github](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need   to.
+Once you've [framed a problem [GitHub]](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your target groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start; create provisional personas (that is, personas not based on research) if you need to.
 
 Consider especially:
 
@@ -219,9 +219,9 @@ Hold a meeting to bring the team — including your agency partners — together
 
 Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting excercises such as:
 
-- [Hopes and fears exercise [18f Design methods]](https://methods.18f.gov/discover/hopes-and-fears/)
+- [Hopes and fears exercise [18F Design methods]](https://methods.18f.gov/discover/hopes-and-fears/)
 - [Research-alignment exercise]({{ site.baseurl }}/research/alignment-workshop)
-- Creating provisional [personas [18f Design methods]](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
+- Creating provisional [personas [18F Design methods]](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
 
 Next, review and confirm elements listed in the research plan. It’s especially important to confirm:
 
@@ -285,4 +285,4 @@ Regardless of the method you choose, it’s good to keep in mind the overall rea
 
 ## Additional reading
 
-- [Examples of past research plans from past 18F projects on Github](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
+- [Examples of past research plans from past 18F projects on GitHub](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)

@@ -23,7 +23,7 @@ subnav:
 
 ## Personally Identifiable Information (PII)
 
-We protect participants’ privacy by giving them a say whenever we seek to collect  identifying information about them. The Federal government defines personally identifiable information (PII) as “information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.” [(Obama White House Arcives OMB circular A130)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
+We protect participants’ privacy by giving them a say whenever we seek to collect  identifying information about them. The Federal government defines personally identifiable information (PII) as “information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.” [(Obama White House Archives OMB circular A130)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
 What is considered PII depends on context. Recordings of people’s voices and photos and videos of people are always considered PII. This includes recorded interviews and usability tests. Email addresses, phone numbers, and mailing addresses are sometimes considered PII; and when collected, stored, or presented in combination with a first name they often become PII.
 Each piece of collected or stored PII increases the risk of privacy violations. When possible, it’s best to refrain from collecting or storing PII at all (if you or your agency partner have questions about storing PII on third-party systems that have not been approved by GSA, you should consult with your partner agency’s Privacy Office). One way to do this is analyzing data collected via the [Digital Analytics Program](https://digital.gov/dap/).
@@ -35,7 +35,7 @@ Each piece of collected or stored PII increases the risk of privacy violations. 
 - Present [Privacy Act Notices]({{ site.baseurl }}/resources/privacy-act-notice) whenever they collect PII (in order to allow for informed consent)
 - Protect agency-held PII against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to the participant.
 
-18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research posted on GSA.gov](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf). The [TTS Research Guild [Github]](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
+18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research posted on GSA.gov](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf). The [TTS Research Guild [GitHub]](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
 
 
 ## Guidelines
