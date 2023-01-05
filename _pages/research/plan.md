@@ -177,9 +177,7 @@ Review your recruitment criteria with your team. Make sure you’re planning to 
 It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for:
 
 - **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources.
--
 - **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts but remember that asking family, friends and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings.
--
 - **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
 
 #### Recruitment for behavioral diversity
@@ -190,12 +188,12 @@ People who look differently may behave similarly when using a product or service
 The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity.’”
 
 Examples of underserved communities:
-- Black, Latino, Indigenous and Native American persons, Asian Americans and Pacific Islanders, and other persons of color
+- Black, Latino, Indigenous and Native American people, Asian Americans and Pacific Islanders, and other people of color
 - Members of religious minorities
-- LGBTQ+ persons
-- Persons with disabilities
-- Persons who live in rural areas
-- Persons otherwise adversely affected by persistent poverty or inequality
+- LGBTQ+ people
+- People with disabilities
+- People who live in rural areas
+- People otherwise adversely affected by persistent poverty or inequality
 
 ### Compensating research participants
 
