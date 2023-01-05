@@ -136,7 +136,7 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 ## Participants and recruiting
 
-Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. At 18F we are often designing for the diverse U.S. population. It is our responsibility to include and learn from people with a range of perspectives and a diversity of needs. To make our products and services accessible to all, regardless of their abilities we need to take into account the degree of difficultly different groups might have when determining who to include in our research.
+Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. At 18F we often design for the diverse U.S. public. It's our responsibility to include and learn from people with a range of perspectives and a diversity of needs. We must ensure our products and services are accessible to everyone, regardless of their abilities. This means we need to consider the barriers various groups might face and include people from those groups so we can ensure access.
 
 
 ### Identifying participant groups
@@ -173,7 +173,7 @@ If you’re doing usability testing, consider the following questions as well:
 
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
-#### Recruitment for Demographic Diversity
+#### Recruitment for demographic diversity
 It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for:
 
 - **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources.
@@ -182,7 +182,7 @@ It’s important to consider the audience for whom you are designing products an
 -
 - **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
 
-#### Recruitment for Behavioral Diversity
+#### Recruitment for behavioral diversity
 People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics.
 
 #### Recruitment within underserved communities
