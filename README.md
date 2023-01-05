@@ -4,9 +4,9 @@
 
 ---
 
-#### Under development
+#### We're always refining this guide
 
-This guide is currently under development. It is a living guide that will continue to be added to and updated over time. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-48b3228b-0241-4802-9442-e08ff5c3e680.app.cloud.gov/site/18f/ux-guide/), [contribute](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) or get a general overview below.
+It is a living guide that will continue to be added to and updated over time. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-48b3228b-0241-4802-9442-e08ff5c3e680.app.cloud.gov/site/18f/ux-guide/), [contribute](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) or get a general overview below.
 
 ---
 
