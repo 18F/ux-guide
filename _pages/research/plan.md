@@ -41,7 +41,7 @@ A research plan (sometimes also called a research protocol), describes the desig
 - Ethics considerations
 - Outputs and outcomes
 
-18F maintains [a research plan template on GitHub]({{ site.baseurl }}/resources/research-plan). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
+18F maintains [a research plan template]({{ site.baseurl }}/resources/research-plan). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
 
 - Openly commit to learning more about the problem(s) at hand
 - Agree on which information is most useful for informing future decisions
@@ -96,9 +96,9 @@ Good research is collaborative. People who help accomplish the research are more
 
 When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates).   
 
-Consider who’s perspective might be missing from the planning process. Any opportunities to include people who have direct experience using the product or service or people interacting regularly with those who do will help the team get closer to building with, not just for, the people who will use or be impacted by the outcomes of our research. 
+Consider whose perspective might be missing from the planning process. Identify opportunities to include people who have direct experience using the product or service. Involve people who interact directly and regularly with end users. Ideally we are designing and building _with_ the people who will be impacted by the outcomes of our research, not just _for_ them.
 
-Running a [Bias Identification workshop(18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit#slide=id.ga8f8d32361_0_0)) helps teams account for their unconscious bias that might impact the research. The team should also collectively review the Bias and Ethics pages on the 18F UX Guide to see if their plan accounts for [bias](https://ux-guide.18f.gov/research/bias/) and [ethics](https://ux-guide.18f.gov/research/ethics/) of the research they are about to engage in. 
+Run a [frames of reference bias identification workshop (18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit?usp=sharing)) so the team can avoid influencing the evidence they gather based on the things they presume to be true. The team should also collectively review this guide's [bias](https://ux-guide.18f.gov/research/bias/) and [ethics](https://ux-guide.18f.gov/research/ethics/) pages to ensure these are accounted for in the research.
 
 ### Timeline
 
@@ -143,7 +143,7 @@ Most of 18F’s design research depends on you directly interacting with people.
 
 Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. An opportunistic tactic like asking interviewees “who should I talk to next?” can help you get an initial understanding of the different user groups who's needs you must design for. You may need to focus later rounds of research on learning directly from people within these user groups.
 
-Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your participant groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start, but revise them as you learn more about the users of your service. 
+Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your participant groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start, but revise them as you learn more about the users of your service.
 
 To account for multiple ways people may experience or navigate your design might require having different research plans for different audiences. The audience you are designing for may be very broad, it’s not always possible (or preferable) to design a single experience that meets the needs of the entire population. Focus on identifying meaningful characteristics that might shape people’s perspectives and interactions with the experience you are designing. If you are conducting usability tests, consider what might be the best way to prototype an experience for someone who interacts with digital interfaces with assistive technologies.
 
@@ -173,21 +173,21 @@ If you’re doing usability testing, consider the following questions as well:
 
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
-#### Recruitment for Demographic Diversity 
-It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for: 
+#### Recruitment for Demographic Diversity
+It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for:
 
-- **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources. 
-- 
-- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts but remember that asking family, friends and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings. 
-- 
+- **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources.
+-
+- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts but remember that asking family, friends and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings.
+-
 - **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
 
-#### Recruitment for Behavioral Diversity 
-People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics. 
+#### Recruitment for Behavioral Diversity
+People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics.
 
 #### Recruitment within underserved communities
- 
-The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity.’” 
+
+The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity.’”
 
 Examples of underserved communities:
 - Black, Latino, Indigenous and Native American persons, Asian Americans and Pacific Islanders, and other persons of color
@@ -199,13 +199,13 @@ Examples of underserved communities:
 
 ### Compensating research participants
 
-GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. See the TTS Handbook for specifics on the process we use to [compensate user research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants). 
+GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. See the TTS Handbook for specifics on the process we use to [compensate user research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants).
 
 [Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 #### Why do we offer compensation?
 
-Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time unpaid. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services. 
+Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time unpaid. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
 
 In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
 
