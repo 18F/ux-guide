@@ -54,15 +54,15 @@ Describe factors that the research will need to account for, including any share
 
 ### Goals
 
-Design research is fundamentally about reducing risk and informing decisions. When writing your goals, use reality-oriented words like “describe,” “evaluate,” “quantify,” or “identify” and avoid vague words like “understand” or “explore.” Example goals could include: “describe users’ goals and pain points,” or “identify and evaluate the hypothesis behind our proposed design.”
+Design research is fundamentally about reducing risk and informing decisions. When writing your goals, use verbs that specify the output like “describe,” “evaluate,” “quantify,” or “identify.” Avoid vague words like “understand” or “explore.” Example goals could include: “describe user goals and pain points,” or “identify and evaluate the hypothesis behind our proposed design.”
 
 Research can also have subgoals. For example, some agencies choose to work with 18F to learn more about our approach. Explicitly stating these kinds of subgoals helps provide an honest account of the coaching work that the team will undertake alongside the research itself.
 
-Everyone on the team should agree on the research goals. A useful starting point for this conversation is clarifying [research types]({{site.baseurl}}/research/clarify-the-basics/#research-types).
+Everyone on the team should agree on the research goals. Clarifying [research types]({{site.baseurl}}/research/clarify-the-basics/#research-types) is a useful starting point for this conversation.
 
 ### Research questions
 
-What do you want to learn to make better evidence-based decisions? Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics); consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
+Research questions are high-level questions that reflect what you want to learn to make better evidence-based decisions. Research questions are different from interview questions. Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics): consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
 
 {:.list-item--margin-bottom-extra}
 - **Bad question:** How do we get unemployed adults interested in our website?
@@ -76,7 +76,7 @@ Consider holding a research alignment workshop to help stakeholders share and di
 
 ### Methods
 
-Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected from a single source and create a more complete understanding.
+Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected and create a more complete understanding.
 [18F’s Methods](https://methods.18f.gov/) provide an overview of our preferred research and design methods. Use these as a starting point, not as a list of constraints.
 
 
@@ -94,7 +94,7 @@ Choose one or more methods appropriate for meeting your goals and answering your
 
 Good research is collaborative. People who help accomplish the research are more likely to agree with its outputs.
 
-When planning your research, clarify with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates.]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates).   
+When planning your research, review with your partners [the typical activities involved in 18F’s research]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity), and determine which members of your partner agency’s team will help at each stage of the research process (that is, plan; do; analyze, synthesize, and share). Including partners in this process helps meet our team’s principles of [designing together]({{site.baseurl}}/our-approach/values-and-principles/#we-design-together) and [training advocates]({{site.baseurl}}/our-approach/values-and-principles/#we-train-advocates).   
 
 Consider whose perspective might be missing from the planning process. Identify opportunities to include people who have direct experience using the product or service. Involve people who interact directly and regularly with end users. Ideally we are designing and building _with_ the people who will be impacted by the outcomes of our research, not just _for_ them.
 
@@ -141,11 +141,11 @@ Most of 18F’s design research depends on you directly interacting with people.
 
 ### Identifying participant groups
 
-Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. An opportunistic tactic like asking interviewees “who should I talk to next?” can help you get an initial understanding of the different user groups who's needs you must design for. You may need to focus later rounds of research on learning directly from people within these user groups.
+Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. We recommend asking “Who else should we speak with?” in these discovery issues. This can help you learn of user groups whose needs should be considered. You might focus future rounds of research on learning from people within these user groups.
 
-Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or have otherwise centered your research around an existing service, though, it’s important that your participant groups include all of the different kinds of people who may experience that problem or need to use that service. User profiles and personas are a good place to start, but revise them as you learn more about the users of your service.
+Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or research hypothesis, it’s important that your participant groups include people who represent the make-up of the public who may experience the problem or need to use the related service. User profiles and personas are a good place to start, if they are based on existing data. Revise them as you learn more about the users of your service.
 
-To account for multiple ways people may experience or navigate your design might require having different research plans for different audiences. The audience you are designing for may be very broad, it’s not always possible (or preferable) to design a single experience that meets the needs of the entire population. Focus on identifying meaningful characteristics that might shape people’s perspectives and interactions with the experience you are designing. If you are conducting usability tests, consider what might be the best way to prototype an experience for someone who interacts with digital interfaces with assistive technologies.
+You may need multiple research plans to account for the variety of ways people may experience or navigate your design. The audience you're designing for may be very broad. It’s not always possible (or preferable) to design a single experience that meets the needs of the entire population. Focus on identifying the goals, behaviors, preferences, obstacles, and past experiences that might shape people’s interactions with the experience you're designing. If you're conducting usability tests, consider how to prototype an experience for someone who uses assistive technology.
 
 
 Consider especially:
@@ -153,16 +153,17 @@ Consider especially:
 - People who have disabilities or use assistive technologies
 - People who have limited digital skills or low literacy
 - People who may need help using the service in question
+- People who have limited internet access
 
 ### Defining recruitment criteria
 
-Recruitment criteria specify the people you want to participate in your research. This depends on your research questions. How specific you are in defining your target audiences can differ at different stages of a project. When you’re just getting started with [Foundational research](https://ux-guide.18f.gov/research/clarify-the-basics/#research-types), your understanding of who you need to recruit might be pretty high-level, but you’ll develop a more nuanced understanding of the unique perspectives to include as the project progresses.
+Recruitment criteria specify the people you want to participate in your research. This depends on your research questions. How specific you are in defining your target audiences can differ at different stages of a project. When you’re just getting started with [foundational research](https://ux-guide.18f.gov/research/clarify-the-basics/#research-types), your understanding of who you need to recruit might be pretty high-level, but you’ll develop a more nuanced understanding of the unique perspectives to include as the project progresses.
 
 Example criteria might include:
 
 - A particular demographic (for example, young people aged 16 to 24)
 - A specific audience (for example, small business owners)
-- A particular experience (for example, veterans who have recently moved home)
+- A particular experience (for example, veterans who've recently moved home)
 - A problematic situation (for example, people who suffer from opioid abuse)
 - Particular ways of accessing your service (for example, people who rely on a screen reader, use speech recognition software, or who only access the internet at a library or day center)
 
@@ -174,18 +175,18 @@ If you’re doing usability testing, consider the following questions as well:
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
 #### Recruitment for demographic diversity
-It’s important to consider the audience for whom you are designing products and services and to ensure those persons are represented and included as we conduct our research. There are a few strategies you can rely on to make sure your research participants are representative of the users you are designing for:
+It’s important to consider the audiences for whom you're designing products and services and to ensure those persons are represented and included as you conduct our research. There are a few strategies you can use to include research participants who are representative of the users you are designing for:
 
-- **Start recruitment early.** Developing your participant pool sooner rather than later and tapping into your agency partners resources to locate the appropriate participants for testing is recommended. It’s easiest to get access to people who already use a service but when your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. At 18F we are not typically allowed to compensate users for their time during testing, it can be more challenging to recruit portions of the population who have limited resources.
-- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts but remember that asking family, friends and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings.
-- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low income users.
+- **Start recruitment early.** Develop your participant pool sooner rather than later and tap into your agency partners' resources to locate the appropriate participants. It’s often easiest to get access to people who already use a service, but sometimes your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. If there's an existing website, you might be able to add a link to provide feedback with an option to sign up to speak with us.
+- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts, depending on how representative your networks are. For example, asking family, friends, and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings.
+- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low-income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low-income users.
 
 #### Recruitment for behavioral diversity
 People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics.
 
 #### Recruitment within underserved communities
 
-The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity.’”
+The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity:’”
 
 Examples of underserved communities:
 - Black, Latino, Indigenous and Native American people, Asian Americans and Pacific Islanders, and other people of color
@@ -203,7 +204,7 @@ GSA can compensate members of the public for participating in user research. We 
 
 #### Why do we offer compensation?
 
-Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time unpaid. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
+Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value participants' lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
 
 In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
 
@@ -227,18 +228,18 @@ Before you get started, discuss with your team (including your agency partners) 
 - **Outputs** are the documents, diagrams, etc. you will make to share the research with a broad audience. Will you produce a report, useful insights, validated design hypotheses, or something else?
 - **Outcomes** are the changes you expect to see through doing the research. Outcomes should tie back to the goals and subgoals listed earlier. How will doing the research impact the product being developed, the people involved, etc.? How will you know?
 
-We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid overspecifying your outputs, because you have no way of knowing what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research](#documenting-research).
+We follow a lean, iterative process, which allows the team to be more responsive and flexible to redefine outputs based on what the process finds. Avoid over-specifying your outputs, because you don't know what you’ll find until the research is underway. For example, it’s safer to say “We’ll produce a persona” (a type of artifact) than it is to commit to “We’ll provide 10 useful insights,” because it’s difficult to know how many useful insights the research will produce. That said, discussing possible outputs is useful because it can directly affect how you choose to [document the research](#documenting-research).
 
 
 ## Involving partners in research planning
 
 Hold a meeting to bring the team — including your agency partners — together to agree on the research plan. Tailor the agenda to your project’s history and your partner’s [design maturity]({{site.baseurl}}/our-approach/meet-partners-where-they-are/#design-maturity). For example, if your partner doesn’t yet have personas, you might create provisional personas before the planning meeting; if your partner hasn’t ever planned research before, you might draft a plan for them to respond to. Be ready to educate your partners on the methods you chose and why you chose them, provide example outputs from prior research, etc.
 
-Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting excercises such as:
+Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting exercises such as:
 
 - [Hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/)
 - [Research-alignment exercise]({{ site.baseurl }}/research/alignment-workshop)
-- Creating provisional [personas](https://methods.18f.gov/decide/personas/) (that is, personas not based on research)
+- User groups identification
 
 Next, review and confirm elements listed in the research plan. It’s especially important to confirm:
 
@@ -269,14 +270,14 @@ An example agenda for a research planning meeting might include:
 
 A roster is a spreadsheet to collect participants’ names, titles, contact information, and to track whether they’ve been contacted, interviewed, thanked, etc. A roster should note if specific people have opted out of the research.
 
-Create a folder to contain your roster, interview guides, session recordings and notes, etc. This folder should also be accessible only to the core team, as it will likely contain personally identifiable information (PII); see [Privacy]({{site.baseurl}}/research/privacy). A good way to share interview notes without jeopardizing PII is to assign each participant a codename or participant number and refer to those in calendar invitations and notes documents. Destroy this roster at the end of the engagement.
+Create a folder to contain your roster, interview guides, session recordings and notes, etc. This folder should also be accessible only to the core team, as it will likely contain personally identifiable information (PII); see [Privacy]({{site.baseurl}}/research/privacy). A good way to share interview notes without jeopardizing PII is to assign each participant a participant number, e.g. "p1," and refer to those in calendar invitations and notes documents. Destroy this roster at the end of the engagement.
 
 ### Documenting the sessions
 
 Session documentation can take many forms. We often conduct research that may cover sensitive topics or information. Consider the following as you decide how you will document your sessions:
 
 {:.list-item--margin-bottom-extra}
-- What is the lightest-weight way to document your session and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.?
+- What is the lightest-weight way to document your sessions and still capture the information you need to create your desired outputs, conduct shared [analysis]({{site.baseurl}}/research/make-research-actionable), etc.?
 - What type of documentation will your participants be most comfortable with (see [Privacy]({{site.baseurl}}/research/privacy))?
 - Did you ask your participants for [consent]({{ site.baseurl }}/participant-agreement) for this form of documentation?
 
@@ -288,13 +289,13 @@ Taking verbatim notes also curbs the natural tendency to want to understand and 
 - **Interaction notes** - Write down all of the actions people take and the reactions they have. For example, capturing a note such as “scrolled to top of page, re-read instructions, scrolled back down to input field and typed in name” would be sufficient. If conducting usability testing, consider flagging bugs or usability issues.<br /><br />
 Note: If there are two notetakers available for a session, consider having one person take verbatim notes, and the other take interaction notes. In this case, it’s best to work in separate documents, as working too close to each other in the same file can be distracting.
 - **Spreadsheet notes** - These are most commonly used for content audits to track insights and quality of existing content.
-- **Sticky notes (digital or physical)** - Frequently used in workshop and collaborative settings. We use Mural for remote workshops and collaboration. Physical stickies will need to be documented via photos or transposed to Mural.
+- **Sticky notes (digital or physical)** - Frequently used in workshop and collaborative settings. We have a subscription to a digital tool for remote workshops and collaboration. Physical stickies will need to be documented via photos or transposed to digital tools.
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.
-- **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings.
+- **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings, provided you have participant consent. One of our video chat software options includes automated transcription. Transcription quality varies depending on speaking style of people being recorded.
 - **Voice recording** - You can also make an audio recording in lieu of video, which can be helpful if you need to review portions of a session. You can record interviews using the voice memo app on your work phone.
-- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a micropurchase (under $10,000) [Purchase Request](https://handbook.18f.gov/purchase-requests/) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. You will need to identify a vendor and obtain a quote via an RFQ.
+- **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a [micropurchase (under $10,000) request](https://handbook.tts.gsa.gov/general-information-and-resources/purchase-requests/#services) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. Consult with OA about whether an Open Market Justification form is needed.
 
-Regardless of the method you choose, it’s good to keep in mind the overall reasons why you should document research as you proceed. We document research so that:
+Regardless of the method you choose, keep in mind the overall reasons why we document research as you proceed:
 
 - Team members who can’t attend the sessions can look at the notes and get a very clear sense of what the user said and did;
 - When even attendees’ memories eventually fade, we can refer back to the notes; and
