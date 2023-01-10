@@ -1,3 +1,10 @@
+---
+---
+
+// ^ that up there is frontmatter tags so that Jekyll will process this file and
+// replace {{ site.baseurl }} correctly. Without the frontmatter tags, Jekyll
+// copies the file unedited.
+
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
     defaultMessage: "This link is private to GSA.",
@@ -33,4 +40,19 @@ document.addEventListener('DOMContentLoaded', function() {
       'tock.18f.gov'
     ]
   });
+
+  const externalLinkIcon = document.createElement("img");
+  externalLinkIcon.setAttribute(
+    "src",
+    `{{ site.baseurl }}/assets/uswds/img/usa-icons/launch.svg`
+  );
+  externalLinkIcon.setAttribute("style", "width: 1rem;");
+
+  Array.from(document.querySelectorAll("a[href]"))
+    .filter((a) => {
+      const href = a.getAttribute("href");
+      return !href.startsWith(window.location.origin) && !/^[/#]/.test(a.getAttribute("href"))
+    })
+    .forEach((a) => a.appendChild(externalLinkIcon.cloneNode()));
+
 }, false );

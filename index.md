@@ -52,7 +52,7 @@ This guide is divided into three sections:
 
 
 
-If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+If you have any suggestions or want to get involved, read [our contributing page](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors); find us on Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
 ## Reusing this guide in other organizations
@@ -61,7 +61,7 @@ As a work of the federal government, this project is in the public domain within
 
 This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our agency partners.
 
-Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways best suit you. Also, if you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md#non-18F-contributors).
+Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways best suit you. Also, if you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors).
 
 ## References
 
@@ -97,8 +97,8 @@ This guide draws on information from many resources. GSA cannot endorse these re
 ## Introduction
 
 - [About this guide]({{site.baseurl}}/about/)
-- [License](https://github.com/18F/ux-guide/blob/master/LICENSE.md)
-- [Resources](https://github.com/18F/ux-guide/tree/master/_pages/resources)
+- [License](https://github.com/18F/ux-guide/blob/main/LICENSE.md)
+- [Resources](https://github.com/18F/ux-guide/tree/main/_pages/resources)
 
 ## [Our Approach]({{site.baseurl}}/our-approach/)
 
