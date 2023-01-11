@@ -20,7 +20,7 @@ subnav:
     href: "#additional-reading"
 ---
 
-We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md) and help us keep this list up-to-date!
+We’ve collected the following templates, presentations, checklists, etc. as starting points — feel free to [contribute to this guide via GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md) and help us keep this list up-to-date!
 
 As indicated below, some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services).
 
@@ -80,14 +80,14 @@ An email asking participants to review and sign a participant agreement before t
 
 ### Collaboration
 
-Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.18f.gov/acqstack/), [Product Management](https://handbook.18f.gov/product/) and [Engineering](https://handbook.18f.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.18f.gov/) for more information.
+Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.tts.gsa.gov/acqstack/), [Product Management](https://handbook.tts.gsa.gov/product/) and [Engineering](https://handbook.tts.gsa.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.tts.gsa.gov/) for more information.
 
 
 18F/TTS staff can also participate in local communities of practice in by joining (18F/TTS access only):
 
-- [Content guild (#g-content)](https://gsa-tts.slack.com/messages/g-content)
-- [Accessibility guild (#g-accessibility)](https://gsa-tts.slack.com/messages/g-accessibility/)
-- [Research guild (#g-research)](https://gsa-tts.slack.com/messages/g-research)
+- [Content guild (Channel #g-content in GSA Slack)](https://gsa-tts.slack.com/messages/g-content)
+- [Accessibility guild (Channel #g-accessibility in GSA Slack)](https://gsa-tts.slack.com/messages/g-accessibility/)
+- [Research guild (Channel #g-research in GSA Slack)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Microrequests
 
@@ -100,7 +100,7 @@ For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/mic
 ### Presenting the work
 We most commonly share our work via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
 
-* Utilize our [18F-branded templates](https://brand.18f.gov/templates/) to maintain consistency and save time.
+* Utilize our [18F-branded templates found on the 18F brand site](https://brand.18f.gov/templates/) to maintain consistency and save time.
 * The presentation deck should tell a compelling story and be easy to read. Make sure to include enough content so those not able to attend the presentation can view the deck later and understand what you’re aiming to communicate. Refer to this presentation on [How to design a better deck (18F/GSA access only](https://docs.google.com/presentation/d/1WMbN1feG1bMhaFx5YbXoYUTE7xgZdMewMaQBZeL3YmA/edit#slide=id.g58dd554fac_0_397)) for additional pointers and guidance.
 * Check out the [Project resources folder (18F/GSA access only](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)) for reusable content and templates; browse [previous 18F Path Analysis project artifacts](https://github.com/18F/project-artifacts/blob/master/projects.md) for inspiration; or view the [Design wiki](https://github.com/18F/Design-Wiki/wiki) for additional examples.
 * Consider making a [microrequest](https://handbook.tts.gsa.gov/microrequests/) if you’re unsure how to articulate or visualize an idea.
@@ -109,12 +109,12 @@ We most commonly share our work via presentations. These presentations can vary 
 
 ### Tools
 
-- [Federalist](https://federalist.18f.gov/)
+- [Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/)
 - [Cloud.gov](https://cloud.gov/)
 
 ## General
 
-- [18F Handbook](https://handbook.tts.gsa.gov/)
+- [GSA TTS Handbook](https://handbook.tts.gsa.gov/)
 - [18F Methods](https://methods.18f.gov/)
 - [USDS Playbook](https://playbook.cio.gov/)
 - [New Hire README (18F/GSA access only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))

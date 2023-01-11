@@ -12,22 +12,22 @@ layout: post
 
 ## Goals
 
-> When writing your [research goals](https://ux-guide.18f.gov/research/plan/#goals), use reality-oriented words like “describe”, “evaluate”, or “identify,” and avoid intangible ones like “understand” or “explore.” Consider how this research will help reduce risk and inform decisions.
+> When writing your [research goals]({{site.baseurl}}/research/plan/#goals), use reality-oriented words like “describe”, “evaluate”, or “identify,” and avoid intangible ones like “understand” or “explore.” Consider how this research will help reduce risk and inform decisions.
 
 
 ## Research questions
 
-> What do you want to learn to make better evidence-based decisions? [Good research questions](https://ux-guide.18f.gov/research/plan/#research-questions) are specific, actionable, and practical; they usually center around users' experiences and needs.
+> What do you want to learn to make better evidence-based decisions? [Good research questions]({{site.baseurl}}/research/plan/#research-questions) are specific, actionable, and practical; they usually center around users' experiences and needs.
 
 
 ## Method(s)
 
-> **Instructions:** Choose some [methods](https://ux-guide.18f.gov/research/plan/#methods) that are appropriate for meeting the goals and answering research questions.
+> **Instructions:** Choose some [methods]({{site.baseurl}}/research/plan/#methods) that are appropriate for meeting the goals and answering research questions.
 
 
 ## Research roles
 
-> **Instructions:** Consider how research can be [a team activity](https://ux-guide.18f.gov/research/clarify-the-basics/#a-team-activity) and decide who will hold specific [research roles](https://ux-guide.18f.gov/research/do/#clarify-team-roles).
+> **Instructions:** Consider how research can be [a team activity]({{site.baseurl}}/research/clarify-the-basics/#a-team-activity) and decide who will hold specific [research roles]({{site.baseurl}}/research/do/#clarify-team-roles).
 
 - Research lead
 - Moderator
@@ -36,7 +36,7 @@ layout: post
 
 ## Timeline
 
-> **Instructions:** Document the estimated [timeline](https://ux-guide.18f.gov/research/plan/#timeline) for completing this research. Plan more time than you think you need.
+> **Instructions:** Document the estimated [timeline]({{site.baseurl}}/research/plan/#timeline) for completing this research. Plan more time than you think you need.
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -51,12 +51,12 @@ layout: post
 
 
 ## Participants and recruiting
-> Describe at a high-level [who should participate in this study](https://ux-guide.18f.gov/research/plan/#participants-and-recruiting), and how you’ll recruit them. Consider how the team will communicate with participants, for example [by email](https://ux-guide.18f.gov/resources/#email-templates) and how the team will get [informed consent](https://ux-guide.18f.gov/research/do/#getting-informed-consent) from participants. See the [legal section](https://ux-guide.18f.gov/research/legal/) of the UX Guide for more information.
+> Describe at a high-level [who should participate in this study]({{site.baseurl}}/research/plan/#participants-and-recruiting), and how you’ll recruit them. Consider how the team will communicate with participants, for example [by email]({{site.baseurl}}/resources/#email-templates) and how the team will get [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent) from participants. See the [legal section]({{site.baseurl}}/research/legal/) of the UX Guide for more information.
 
 ## Ethics considerations
-> Document the [ethical principles or concerns](https://ux-guide.18f.gov/research/plan/#ethical-considerations) that influence this research approach. Discuss as a team the [biases](https://ux-guide.18f.gov/research/bias/) that could influence the work.
+> Document the [ethical principles or concerns]({{site.baseurl}}/research/plan/#ethical-considerations) that influence this research approach. Discuss as a team the [biases]({{site.baseurl}}/research/bias/) that could influence the work.
 
 
 ## Expected outcomes
 
-> Document what [outputs and outcomes](https://ux-guide.18f.gov/research/plan/#outputs-and-outcomes) the team expects from this research.
+> Document what [outputs and outcomes]({{site.baseurl}}/research/plan/#outputs-and-outcomes) the team expects from this research.

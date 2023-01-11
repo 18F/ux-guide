@@ -7,8 +7,8 @@ permalink: /participant-agreement/
 
 ---
 English version:
-- [Google Docs version with participant compensation](https://docs.google.com/document/d/18GLTggHUDI5MVrmL5Lbot58EB6c6tAkMbg54GqFaETc/edit)
-- [Google Docs version without participant compensation](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
+- [Google Docs version with participant compensation (TTS/GSA Access only)](https://docs.google.com/document/d/18GLTggHUDI5MVrmL5Lbot58EB6c6tAkMbg54GqFaETc/edit)
+- [Google Docs version without participant compensation (TTS/GSA Access only)](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
 
 [Spanish version]({{ site.baseurl }}/participant-agreement-spanish) (Note: Updates of the Spanish version pending translation of the updated English version.)
 
@@ -30,7 +30,7 @@ Contact info: `<researcher name>` `<researcher email>` `<researcher phone>`
 Please check below if you approve recording this session. At any time during the session, you can ask us to stop recording, or you can end the discussion.
 - [ ] I approve recording this session
 
-**We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
+**We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
 
 **You can withdraw your consent or change your mind about what you have shared with us.** You can do this during the session, at the end of the session, or up to <number days> after the session by contacting `<researcher name>` `<researcher email>` `<researcher phone>`.
 
@@ -67,7 +67,7 @@ Contact info: `<researcher name>` `<researcher email>` `<researcher phone>`
 Please check below if you approve recording this session. At any time during the session, you can ask us to stop recording, or you can end the discussion. You’d still receive compensation if you end the session early. 
 - [ ] I approve recording this session
 
-**We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
+**We’ll work to protect your privacy.** We’ll remove information that could be used to identify you, such as your face or name. (Your voice won’t be removed if you approved recording above.) There’s more information in this [Privacy Act Statement for Design Research [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research).
 
 **You can withdraw your consent or change your mind about what you have shared with us.** You can do this during the session, at the end of the session, or up to <number days> after the session by contacting `<researcher name>` `<researcher email>` `<researcher phone>`.
 
