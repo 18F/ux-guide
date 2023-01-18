@@ -23,19 +23,19 @@ subnav:
 
 ## Personally Identifiable Information (PII)
 
-We protect participants’ privacy by giving them a say whenever we seek to collect  identifying information about them. The Federal government [defines](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf) personally identifiable information (PII) as “information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.”
+We protect participants’ privacy by giving them a say whenever we seek to collect  identifying information about them. The Federal government defines personally identifiable information (PII) as “information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.” [(Obama White House Archives OMB circular A130)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
 What is considered PII depends on context. Recordings of people’s voices and photos and videos of people are always considered PII. This includes recorded interviews and usability tests. Email addresses, phone numbers, and mailing addresses are sometimes considered PII; and when collected, stored, or presented in combination with a first name they often become PII.
 Each piece of collected or stored PII increases the risk of privacy violations. When possible, it’s best to refrain from collecting or storing PII at all (if you or your agency partner have questions about storing PII on third-party systems that have not been approved by GSA, you should consult with your partner agency’s Privacy Office). One way to do this is analyzing data collected via the [Digital Analytics Program](https://digital.gov/dap/).
 
-[The Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) provides protection to individuals by ensuring that Federal agencies:
+[The Privacy Act of 1974 [Justice.gov]](https://www.justice.gov/opcl/privacy-act-1974) provides protection to individuals by ensuring that Federal agencies:
 
 {:.list-item--margin-bottom-extra}
 - Collect PII only when it is both legally authorized and necessary
 - Present [Privacy Act Notices]({{ site.baseurl }}/resources/privacy-act-notice) whenever they collect PII (in order to allow for informed consent)
 - Protect agency-held PII against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to the participant.
 
-18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf). The [TTS Research Guild](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
+18F complies with the Privacy Act by following the information practices outlined in our [Privacy Impact Assessment for Design Research posted on GSA.gov](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf). The [TTS Research Guild [GitHub]](https://github.com/18F/g-research) works with the [GSA Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) to annually review this assessment.
 
 
 ## Guidelines
@@ -47,7 +47,7 @@ The following guidelines, drawn from our Privacy Impact Assessment for Design Re
 {:.list-item--margin-bottom-extra}
 - Ask key stakeholders to [introduce you before conducting interviews]({{ site.baseurl }}/resources/email-templates/stakeholder-introduces-researcher) with their team
 - Build rapport with research participants in advance of the research session — for example, [by emailing participants]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement) to see if they have any questions about the research, or briefly meeting with participants before the session begins to go over any logistical requirements
-- Whenever you collect PII, store it digitally on [GSA’s approved systems for PII](https://www.gsa.gov/reference/gsa-privacy-program/systems-of-records-privacy-act/system-of-records-notices-sorns-privacy-act) and actively remove access to PII from anyone not on your project team; and always place paper documents with PII in locked file cabinets
+- Whenever you collect PII, store it digitally on [GSA’s approved systems for PII](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia) and actively remove access to PII from anyone not on your project team; and always place paper documents with PII in locked file cabinets
 - Store design research administrative data (for example, contact information collected during research participant recruiting) separate from study data (for example, recorded video of a usability test); share research-related records on a need-to-know basis
 - Collect the [informed consent]({{site.baseurl}}/research/do/#getting-informed-consent) of anyone who participates in moderated research; we generally do this with a [participant agreement]({{ site.baseurl }}/participant-agreement)
 - When scheduling research sessions via Google calendar, set the event visibility to “Private” (since invitations include the participant’s name and email address)

@@ -55,7 +55,7 @@ We have a responsibility to further the best interests of the people and the cou
 
 ## Honesty
 
-Design research should never be covert or manipulative. We provide clear descriptions of our data practices in our [Privacy Impact Assessment for Design Research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
+Design research should never be covert or manipulative. We provide clear descriptions of our data practices in our [Privacy Impact Assessment for Design Research [GSA.gov]](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
 
 ### Ways to demonstrate honesty:
 
@@ -63,5 +63,5 @@ Design research should never be covert or manipulative. We provide clear descrip
 - Acknowledge that all research is subject to [bias]({{site.baseurl}}/research/bias), and actively work to counter it
 - Be honest about what you can and cannot conclude based on your research. Do not overstate your findings.
 - Be careful of the conclusions you draw from any one study
-- Be transparent in conversations with your research participants about how you plan to use the data you collect (for example, by sharing a [Privacy Act Notice](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research))
+- Be transparent in conversations with your research participants about how you plan to use the data you collect (for example, by sharing a [Privacy Act Notice [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research))
 - Provide participants with as much information as possible to avoid misleading them while maintaining the integrity of the research and protecting people’s privacy
