@@ -47,8 +47,7 @@ Because a collaborative approach increases the team’s overall empathy and effi
 
 
 ## Research types
-On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into several categories that can done separately or in a sequence as you focus from problem definition to solution exploration:
-
+On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into several categories. You can do research from any category on its own or in a sequence as you focus from problem definition to solution exploration:
 
 ### Foundational research
 
