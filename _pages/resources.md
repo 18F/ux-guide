@@ -38,13 +38,13 @@ A list of indicators to help you and your team determine if your usability test 
 ### Privacy and informed consent
 18F’s Design Research is covered by [GSA's Privacy Act Statement for Design Research.](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
 
-[Privacy Act Notice Example]({{ site.baseurl }}/resources/privacy-act-notice). ([18F/GSA access only](https://docs.google.com/document/d/1CcVLPNNra1WCGqHewK2ojQ_ysHcGxmJ1IlsCo9pAiSU/edit#)).  
+[Privacy Act Notice Example]({{ site.baseurl }}/resources/privacy-act-notice). ([18F/GSA access only](https://docs.google.com/document/d/1uWusmU9o-kTaiiM6d-XlW13wma_NL5MJpTLtzyD0L2M/edit?usp=sharing)).  
 Example of a statement to include in your participant agreement.  
 Please note: you should run substantial customizations by your supervisor, GSA’s Privacy Office, and GSA’s Office of General Counsel.  
 - [Legal notes from GSA OGC (18F/GSA access only](https://drive.google.com/a/gsa.gov/open?id=13FWBP5wMf_MgDToVBBrkOafFe5T8NsldzttGENhGgSU))
 - [GSA Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia)
 
-[Design research participant agreement]({{ site.baseurl }}/participant-agreement). ([18F/GSA access only](https://drive.google.com/open?id=16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo)).  
+[Design research participant agreement]({{ site.baseurl }}/participant-agreement). 
 [Design research participant agreement in Spanish]({{ site.baseurl }}/participant-agreement-spanish).  
 Example agreement for people participating in moderated design research.  
 Note: You can customize this template, but it must include a Privacy Act statement. If the interview is with a Federal employee, or otherwise will not include compensation, the agreement must also include an Anti-deficiency Act clause.
