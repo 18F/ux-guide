@@ -47,28 +47,37 @@ Because a collaborative approach increases the team’s overall empathy and effi
 
 
 ## Research types
-On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into three categories:
+On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into several categories that can done separately or in a sequence as you focus from problem definition to solution exploration:
 
 
 ### Foundational research
 
 Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our GitHub repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
 
+Foundational research helps you ask: what problem are we trying to solve?
+
+### Descriptive research
+
+Descriptive research focuses on understanding and documenting the context of a known problem. It could look like describing the needs and characteristics of a particular audience. 
+
+Descriptive research helps you ask: who or what are we solving this problem for? 
 
 ### Generative research
 
-Generative research helps you better frame the problem(s) you’re solving, spark new ideas, and reveal opportunities. Generative research helps you ask:
+Generative research helps you better frame the problem(s) you’re solving, spark new ideas, and reveal opportunities. 
+
+Generative research helps you ask:
 
 - What are our users’ goals, behaviors, and pain points?
 - What is their context?
 - How might we address the problems we’ve identified?
 - What does success look like?
 
-
 ### Evaluative research
 
-Evaluative research is the research you do to test assumptions, hypotheses, and the ease of use of design solutions, such as prototypes. Evaluative research helps you ask: Am I building the right thing—or if this research is done regularly, am I building the thing _right_? Does it meet user needs?
+Evaluative research is the research you do to test assumptions, hypotheses, and the ease of use of design solutions, such as prototypes. 
 
+Evaluative research helps you ask: Are we building the right thing — or if this research is done regularly, are we building the thing _right_? Does it meet user needs?
 
 ## The process
 
