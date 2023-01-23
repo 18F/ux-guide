@@ -23,8 +23,9 @@ subnav:
 
 ## Compensating research participants and participant agreements
 
-See the Guide's "Plan" page section: "[Compensating research participants]({{site.baseurl}}/research/plan/#compensating-research-participants)" for legal requirements. Ask participants for signed or verbal confirmation of [informed consent]({{ site.baseurl }}/research/do/#getting-informed-consent): see the [design research participant agreement]({{ site.baseurl }}/participant-agreement). The agreement can be accessed in both English and Spanish. If you will be compensating participants, replace the section on compensation with details of the amount and method of payment, and indicate that they will be compensated regardless of how much of the session they complete.
+See the [TTS handbook for requirements around compensating research participants.](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants)
 
+Ask participants for signed or verbal confirmation of [informed consent]({{ site.baseurl }}/research/do/#getting-informed-consent). Our [example design research participant agreement]({{ site.baseurl }}/participant-agreement) is available in both English and Spanish. 
 
 ## The Paperwork Reduction Act of 1995
 
