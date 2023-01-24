@@ -1,10 +1,23 @@
-name: pull request
+name: invalid links check
 
 on: [pull_request]
 
 jobs:
-  check-links:
-    name: verify links
+  root-relative-links-pages:
+    name: no root-relative links in source
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v3
+      - name: check that root-relative internal links are prefixed (pages)
+        uses: mgwalker/action-no-root-relative-links@v1
+        with:
+          path: _pages
+          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
+
+  internal-links:
+    name: verify internal links are valid
     runs-on: ubuntu-latest
     env:
       LANG: C.UTF-8
@@ -14,11 +27,6 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: check that root-relative internal links are prefixed
-        uses: mgwalker/action-no-root-relative-links@v1
-        with:
-          path: _pages
-          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
       - name: build the site
         run: bundle exec jekyll build
       - name: check for broken links
