@@ -17,7 +17,7 @@ Every project is shaped by a series of decisions, whether those decisions are ab
 
 ### Design depends on context
 
-What’s the right approach? It depends. We use [design research]({{site.baseurl}}/research/clarify-the-basics#what-it-is) to better understand the problems we might solve, and the systems those problems connect to. We actively validate the success of our solutions through design research.
+What’s the right approach? It depends. We use [design research](/research/clarify-the-basics#what-it-is) to better understand the problems we might solve, and the systems those problems connect to. We actively validate the success of our solutions through design research.
 
 
 ### User-centered design is for people
