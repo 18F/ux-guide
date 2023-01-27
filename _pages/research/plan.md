@@ -132,6 +132,8 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 ## Participants and recruiting
 
+<strong>We must do research with people who will actually use our services</strong>. Many government services support people through stressful situations. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives.
+
 Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying target groups and defining your recruitment criteria relative to your research question.
 
 ### Identifying target groups
@@ -145,6 +147,8 @@ Consider especially:
 - People who have disabilities or use assistive technologies
 - People who have limited digital skills or low literacy
 - People who may need help using the service in question
+
+[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 ### Defining recruitment criteria
 
@@ -167,33 +171,21 @@ Regardless of how you arrive at them, review your recruitment criteria with your
 
 ### Compensating research participants
 
-GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. Many government services support people through stressful situations. We learn the usability limitations of our designs when we get input from people with lived experience and diverse perspectives.
+Offering compensation is critical to reaching the people most in need of government services. It helps ensure that we are gathering feedback and input from diverse audiences to develop and improve our products and services. It makes it easier to recruit participants, especially from underserved communities, and helps build trust. 
 
-[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+Without providing incentives and compensation, we are likely to hear only from the people who can afford to volunteer their time.
 
-#### Why do we offer compensation?
+In addition to paying participants, there are other ways to recognize the value of participants’ knowledge and experience. These can include:
 
-We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value their lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
-
-In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
-
-- Opportunity to provide feedback on design over time
 - Resources for additional information on the topic
-- Offer to find out answers to questions they may have
-- Whenever possible, share the outcomes of the research
+- Offering to find out answers to questions they may have
+- Sharing outcomes of the research, and how the research impacted the final product
 
 #### Financial compensation
 
-To compensate people for participation in design research, we must obtain authorization from the agency partner with the appropriate level of authority, and we must meet the following criteria:
+TTS can and should compensate members of the public for participating in user research. We can’t compensate government employees, as well as certain other groups.
 
-1. The benefit to the government in obtaining the feedback outweighs the benefit to the participant
-   (i.e., amount paid to the user)
-2. Compensating user research participants must directly advance the client’s statutory mission and objectives
-
-The process of paying participants for research is similar to paying for a contractor or vendor. In order to add compensation for participants to your in-flight engagement or new IAA, you can use the [18F User Research Authorization - Part B, Attachment 2 (18F/GSA access only](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit)).  
-
-Initial OGC guidance is to work with a recruiting agency to make payments to participants. In many cases, we'll be more successful at achieving diverse and representative participation if we work with trusted community organizations, including from tribal nations. TTS will continue to iterate on this approach in partnership with OGC. More detailed information can be found in the doc: [Compensating research participants document (18F/GSA access only](https://docs.google.com/document/d/1oWDxVUsRbO1ELNmni3Qa-uYPhXDWuNM3HESgAUxs7Uw/edit)).
-
+[Details on how to compensate research participants are available in the TTS Handbook.](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants)
 
 ## Ethical considerations
 
