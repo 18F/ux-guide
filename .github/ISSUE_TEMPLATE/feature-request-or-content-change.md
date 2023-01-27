@@ -21,4 +21,4 @@ Add any other context or screenshots about the feature request here.
 
 **Add reviewers** 
 
-When you submit your issue, add @dahianna in tts-outreach as a reviewer. 
+When you submit your issue, add @dahianna in tts-outreach as a reviewer.

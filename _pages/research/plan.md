@@ -108,7 +108,7 @@ Plan more time than you think you need, and consider especially:
 
 {:.list-item--margin-bottom-extra}
 - If your research is meant to inform a decision, note when the team anticipates that it will make that decision (for example, is your research due before the next quarterly planning meeting?)
-- How you plan to involve the team in any level-setting exercises, such as [hopes and fears](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
+- How you plan to involve the team in any level-setting exercises, such as [hopes and fears [18F methods]](https://methods.18f.gov/discover/hopes-and-fears/), [provisional personas [18F blog]](https://18f.gsa.gov/2016/07/21/buying-better-digital-products-part-1-proto-personas-and-understanding-the-problem/), etc.)
 - How you plan to handle any participant-related logistics (such as [inviting participation]({{site.baseurl}}/research/do/#inviting-participation), [getting informed consent]({{site.baseurl}}/research/do/#getting-informed-consent), and [scheduling]({{site.baseurl}}/research/do/#scheduling))
 - If your research involves workshops and/or fieldwork:
     - Who needs to be where and when?
@@ -138,7 +138,6 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. At 18F we often design for the diverse U.S. public. It's our responsibility to include and learn from people with a range of perspectives and a diversity of needs. We must ensure our products and services are accessible to everyone, regardless of their abilities. This means we need to consider the barriers various groups might face and include people from those groups so we can ensure access.
 
-
 ### Identifying participant groups
 
 Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. We recommend asking “Who else should we speak with?” in these discovery issues. This can help you learn of user groups whose needs should be considered. You might focus future rounds of research on learning from people within these user groups.
@@ -147,13 +146,14 @@ Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/
 
 You may need multiple research plans to account for the variety of ways people may experience or navigate your design. The audience you're designing for may be very broad. It’s not always possible (or preferable) to design a single experience that meets the needs of the entire population. Focus on identifying the goals, behaviors, preferences, obstacles, and past experiences that might shape people’s interactions with the experience you're designing. If you're conducting usability tests, consider how to prototype an experience for someone who uses assistive technology.
 
-
 Consider especially:
 
 - People who have disabilities or use assistive technologies
 - People who have limited digital skills or low literacy
 - People who may need help using the service in question
 - People who have limited internet access
+
+[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 ### Defining recruitment criteria
 
@@ -206,18 +206,17 @@ GSA can compensate members of the public for participating in user research. We 
 
 Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value participants' lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
 
-In addition to paying participants, there are other ways to recognize the value of participants' knowledge and experience. These can include:
+In addition to paying participants, there are other ways to recognize the value of participants’ knowledge and experience. These can include:
 
-- Opportunity to provide feedback on design over time
 - Resources for additional information on the topic
-- Offer to find out answers to questions they may have
-- Whenever possible, share the outcomes of the research
+- Offering to find out answers to questions they may have
+- Sharing outcomes of the research, and how the research impacted the final product
 
 ## Ethical considerations
 
 Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
 
-Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
+Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust as we discuss further on our blog](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
 
 ## Outputs and outcomes
@@ -237,7 +236,7 @@ Hold a meeting to bring the team — including your agency partners — together
 
 Create an agenda and invite anyone who has an interest in the team’s research. Depending on where you’re at in the design process, you might begin the meeting with level-setting exercises such as:
 
-- [Hopes and fears exercise](https://methods.18f.gov/discover/hopes-and-fears/)
+- [Hopes and fears exercise [18F Design methods]](https://methods.18f.gov/discover/hopes-and-fears/)
 - [Research-alignment exercise]({{ site.baseurl }}/research/alignment-workshop)
 - User groups identification
 
@@ -293,7 +292,9 @@ Note: If there are two notetakers available for a session, consider having one p
 - **Photography** - Highly recommended for workshops! During workshops with government stakeholders you don’t need consent forms, but you should still ask for permission if you are taking photos of participants.
 - **Video recording** - Many of our interviews are done via video chat. You can record sessions from within the video conferencing apps themselves, or you can use video recording software to capture other types of recordings, provided you have participant consent. One of our video chat software options includes automated transcription. Transcription quality varies depending on speaking style of people being recorded.
 - **Voice recording** - You can also make an audio recording in lieu of video, which can be helpful if you need to review portions of a session. You can record interviews using the voice memo app on your work phone.
+
 - **Transcripts** - If you would like to obtain full transcripts of your recordings, you can do so by submitting a [micropurchase (under $10,000) request](https://handbook.tts.gsa.gov/general-information-and-resources/purchase-requests/#services) for the service to the TTS [Office of Acquisitions](https://handbook.18f.gov/oa/) team. Consult with OA about whether an Open Market Justification form is needed.
+
 
 Regardless of the method you choose, keep in mind the overall reasons why we document research as you proceed:
 
@@ -303,4 +304,4 @@ Regardless of the method you choose, keep in mind the overall reasons why we doc
 
 ## Additional reading
 
-- [Examples of past research plans from past 18F projects](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
+- [Examples of past research plans from past 18F projects on GitHub](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)

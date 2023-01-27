@@ -5,7 +5,7 @@ layout: post
 permalink: /interview-checklist/
 ---
 
-[Interviews](https://methods.18f.gov/stakeholder-and-user-interviews/) often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. GSA Staff, please see this [Google Doc Template](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)
+[Stakeholder and user interviews [18F design methods]](https://methods.18f.gov/stakeholder-and-user-interviews/) often progress through key moments: introductions lead to warm-up questions, which lead to topic-specific questions, activities, etc. This checklist outlines those key moments, and suggests things to do as you go through them. GSA Staff, please see this [Google Doc Template (GSA/TTS Access only)](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)
 
 
 ## Pre-interview preparation
@@ -16,7 +16,7 @@ permalink: /interview-checklist/
 - [ ] Establish clear roles for anyone who will join (for example, moderators, observers, notetakers, etc.).
 - [ ] Confirm with teammates, especially remote ones, how they might ask questions during the interview (for example, in a Slack thread)
 - [ ] Do a tech check: confirm that screen sharing, recording, etc. works
-- [ ] Check receipt of a signed participant agreement ([example](/participant-agreement/))
+- [ ] Check receipt of a signed participant agreement ([example]({{site.baseurl}}/participant-agreement/))
 - [ ] Double-check any links, files, etc. that participants will need to evaluate (i.e., ensure that your concept, wireframes, or prototypes are available for testing)
 
 
@@ -29,7 +29,7 @@ permalink: /interview-checklist/
 - [ ] Explain the purpose of your research
 - [ ] Provide an overview of the shape of the interview, including any required logistics (for example, screen sharing)
 - [ ] Confirm the expected length of the interview
-- [ ] Confirm receipt of a signed participant agreement ([example](/participant-agreement/))
+- [ ] Confirm receipt of a signed participant agreement ([example]({{site.baseurl}}/participant-agreement/))
 - [ ] Explain
   - [ ] How you’ll take notes (for example, video recording).
   - [ ] How you’ll use any notes you take (for example, unattributed quotes)

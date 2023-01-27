@@ -7,7 +7,7 @@ sidenav: research
 sticky_sidenav: true
 subnav:
 - text: Compensating research participants
-  href: '#compensating-research-participants'
+  href: '#compensating-research-participants-and-participant-agreements'
 - text: The Paperwork Reduction Act of 1995
   href: '#the-paperwork-reduction-act-of-1995'
 - text: Additional questions
@@ -16,19 +16,20 @@ subnav:
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-18F designs our research to account for the [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
+18F designs our research to account for the [The Paperwork Reduction Act of 1995 (PRA)](https://pra.digital.gov/), among other laws. This article summarizes what we’ve learned through conversations with [GSA’s Privacy Office [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program) and [GSA’s Office of General Counsel [GSA.gov]](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview).
 
 *Disclaimer: This article is intended for internal use. It’s shared in the spirit of open source, to prompt conversations around design research as it relates to the law. GSA has no regulatory authority over any of the laws discussed in this article, so don’t just take our word for it.*
 
 
 ## Compensating research participants and participant agreements
 
-See the Guide's "Plan" page section: "[Compensating research participants]({{site.baseurl}}/research/plan/#compensating-research-participants)" for legal requirements. Ask participants for signed or verbal confirmation of [informed consent]({{ site.baseurl }}/research/do/#getting-informed-consent): see the [design research participant agreement]({{ site.baseurl }}/participant-agreement). The agreement can be accessed in both English and Spanish. If you will be compensating participants, replace the section on compensation with details of the amount and method of payment, and indicate that they will be compensated regardless of how much of the session they complete.
+See the [TTS handbook for requirements around compensating research participants.](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants)
 
+Ask participants for signed or verbal confirmation of [informed consent]({{ site.baseurl }}/research/do/#getting-informed-consent). Our [example design research participant agreement]({{ site.baseurl }}/participant-agreement) is available in both English and Spanish. 
 
 ## The Paperwork Reduction Act of 1995
 
-[The Paperwork Reduction Act](https://pra.digital.gov/) (PRA) is a law governing how federal agencies collect information from the American public. We want to be good stewards of the public’s time, and not overwhelm them with unnecessary or duplicative requests for information. We also want to make sure the data we collect is accurate, helpful, and a good fit for its proposed use. In general, the PRA applies whenever you are requesting the same information from ten or more people over a 12-month period. [Office of Information and Regulatory Affairs](https://www.whitehouse.gov/omb/information-regulatory-affairs/) (OIRA) within the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) reviews and approves Government collections of information from the public under the PRA.
+[The Paperwork Reduction Act [Digital.gov]](https://pra.digital.gov/) (PRA) is a law governing how federal agencies collect information from the American public. We want to be good stewards of the public’s time, and not overwhelm them with unnecessary or duplicative requests for information. We also want to make sure the data we collect is accurate, helpful, and a good fit for its proposed use. In general, the PRA applies whenever you are requesting the same information from ten or more people over a 12-month period. [Office of Information and Regulatory Affairs](https://www.whitehouse.gov/omb/information-regulatory-affairs/) (OIRA) within the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) reviews and approves Government collections of information from the public under the PRA.
 
 ### Research methods and modes
 
@@ -45,9 +46,9 @@ Our intercepts also generally do not ask people to disclose information about th
 Some tweet-length examples:
 
 {:.list-item--margin-bottom-extra}
-- **Good:** We’d love to hear your feedback on www.gsa.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
-- **Good:** Hey @username, we’d love to hear your feedback on www.gsa.gov. Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
-- **Bad:** Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+- **Good:** We’d love to hear your feedback on www.gsa.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+- **Good:** Hey @username, we’d love to hear your feedback on www.gsa.gov. Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
+- **Bad:** Are you the parent of a 4th grader? We’d love your feedback on everykidinapark.gov! Email [18F-research@gsa.gov](mailto:18F-research@gsa.gov) to participate in a usability test. Here’s how we’ll use the information we collect: [Link to [Privacy Act Statement for Design Research [GSA.gov]](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)]
 
 
 ## Additional questions
