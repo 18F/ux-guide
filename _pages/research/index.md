@@ -7,10 +7,4 @@ sidenav: research
 sticky_sidenav: true
 ---
 
-Design research explores possibilities, tests assumptions, and reduces risk by actively and systematically engaging with the world. It includes:
-
-- Qualitative and quantitative methods
-- Investigating tools and systems
-- Interacting with members of the public
-
-All 18F teams do design research. Design involves continuous decision making, and those decisions are made better when they’re informed by end-user perspectives. As a result, we’re committed to continuous research. Rather than seeing designed products or services themselves as the goal, we view the products or services we’re designing as the result of our continued effort to identify, understand, and address user needs.
+The Research section is the foundation of the UX Guide and is core to our work at 18F. This section covers everything you need to know about conducting ethical, inclusive, and unbiased user research from start to finish and includes information about privacy and storing PII as well as legal considerations such as PRA and compensation.
