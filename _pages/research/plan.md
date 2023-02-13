@@ -184,11 +184,13 @@ It’s important to ensure the audiences you’re designing products and service
 
 You could consider many scenarios to include non-native English speakers in user research activities, including:
 - **Developing multilingual website content:** When your public-facing website is offered in multiple languages, you need to ensure the content in each language is written in plain language, accessible, and culturally appropriate. Set up usability sessions to test the content with people who speak these languages.
+
 - **Understanding barriers:** When you’re conducting discovery research to understand barriers that people face accessing your service, decide on multiple populations to conduct interviews with, including non-native English speakers.
 
 We recommend recruiting people who speak the language you are focusing on as their native language, and still speak that language in their home. That way, you’re able to screen out native English speakers who learned the target language in school, and do not share the cultural perspectives of native speakers.
 
 Cultural and historical context matters when we decide how to screen for participants who speak certain languages and not others, especially when considering those who live in not just states but tribes and territories, too. If possible, consult on wording for screening questions with colleagues from the communities you want to conduct research with.  
+
 There are two distinct modes of engaging with language that you might encounter in the user research process: translating and interpreting.
 
 **Translating:** Applies to written content. This can include recruitment materials, your interview script, interview notes, and video clips.
