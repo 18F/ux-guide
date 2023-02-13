@@ -191,12 +191,12 @@ We recommend recruiting people who speak the language you are focusing on as the
 
 Cultural and historical context matters when we decide how to screen for participants who speak certain languages and not others, especially when considering those who live in not just states but tribes and territories, too. If possible, consult on wording for screening questions with colleagues from the communities you want to conduct research with.  
 
-There are two distinct modes of engaging with language that you might encounter in the user research process: translating and interpreting.
+There are two distinct modes of engaging with language that you might encounter in the user research process: interpreting and translating.
+
+**Interpreting:** Applies to spoken language in real time or with a delay. For example, including an interpreter in a user research interview with someone who only speaks Portuguese, or collaborating with an interviewer who will conduct interviews for you in the language you are focusing on. 
 
 **Translating:** Applies to written content. This can include recruitment materials, your interview script, interview notes, and video clips.
 When translating materials, it’s essential to consider the cultural context of the demographic you’re recruiting. Some groups will need a little more context, some less. For instance, a newcomer to the U.S. may need a little more information about how to register and vote than a person who grew up in the U.S. and had voting woven into the fabric of their lives.
-
-**Interpreting:** Applies to spoken language in real time or with a delay. For example, including an interpreter in a user research interview with someone who only speaks Portuguese, or collaborating with an interviewer who will conduct interviews for you in the language you are focusing on. 
 
 #### Translating recruiting materials
 
