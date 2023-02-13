@@ -157,44 +157,115 @@ Consider especially:
 
 ### Defining recruitment criteria
 
-Recruitment criteria specify the people you want to participate in your research. This depends on your research questions. How specific you are in defining your target audiences can differ at different stages of a project. When you’re just getting started with [foundational research](https://ux-guide.18f.gov/research/clarify-the-basics/#research-types), your understanding of who you need to recruit might be pretty high-level, but you’ll develop a more nuanced understanding of the unique perspectives to include as the project progresses.
+Recruitment criteria specify the people you want to participate in your research. This depends on your research questions. How specific you are in defining your target audiences can differ at different stages of a project. When you’re just getting started with [foundational research](https://ux-guide.18f.gov/research/clarify-the-basics/#research-types), your understanding of who you need to recruit might be pretty high-level, but you’ll develop a deeper understanding of the perspectives you’ll want to include in future stages of research.
 
 Example criteria might include:
 
-- A particular demographic (for example, young people aged 16 to 24)
+- A particular demographic (for example, people aged 16 to 24)
 - A specific audience (for example, small business owners)
 - A particular experience (for example, veterans who've recently moved home)
-- A problematic situation (for example, people who suffer from opioid abuse)
-- Particular ways of accessing your service (for example, people who rely on a screen reader, use speech recognition software, or who only access the internet at a library or day center)
+- A problematic situation (for example, people experiencing a substance use disorder)
+- Particular ways of accessing your service (for example, people who rely on a screen reader, use speech recognition software, or who only access the internet at a library, or on a phone)
 
-If you’re doing usability testing, consider the following questions as well:
-- What are the specific behaviors we’re looking for from participants?
-- What level of tool knowledge do participants need?
-- What level of domain knowledge do participants need?
+If you’re doing usability testing, also consider:
+- the level of tool knowledge participants need
+- the level of domain knowledge participants need
 
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
 #### Recruitment for demographic diversity
-It’s important to consider the audiences for whom you're designing products and services and to ensure those persons are represented and included as you conduct our research. There are a few strategies you can use to include research participants who are representative of the users you are designing for:
+It’s important to ensure the audiences you’re designing products and services for are part of your research. There are a few strategies you can use to include research participants who are representative of the users you’re designing for:
 
-- **Start recruitment early.** Develop your participant pool sooner rather than later and tap into your agency partners' resources to locate the appropriate participants. It’s often easiest to get access to people who already use a service, but sometimes your research goals involve learning from people who aren’t currently using an existing service they may be difficult to find. If there's an existing website, you might be able to add a link to provide feedback with an option to sign up to speak with us.
-- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks are a fine place to start your recruitment efforts, depending on how representative your networks are. For example, asking family, friends, and colleagues to participate in research may contribute to the likelihood of socio-economic bias impacting the findings.
-- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population, such as libraries and post-offices, is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low-income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low-income users.
+- **Start recruitment early.** Develop your participant pool sooner rather than later and tap into your agency partners’ resources to locate the appropriate participants. It’s often easiest to get access to people who already use a service, but sometimes your research goals involve learning from people who aren’t currently using an existing service. They may be difficult to find. If there’s an existing website, you might be able to add a link to provide feedback with an option to sign up to speak with you.
+- **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks can be an okay place to start recruiting from, depending on how representative your networks are. However, it is important to expand past personal networks as soon as possible because asking family, friends, and colleagues to participate in research may contribute to the likelihood of bias impacting the findings.
+- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population like libraries and post offices is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low-income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low-income users. Here’s a guide on [how to do intercept research within GSA buildings (18F/GSA access only)](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz)
 
-#### Recruitment for behavioral diversity
-People who look differently may behave similarly when using a product or service. Create behavioral [Personas](https://methods.18f.gov/decide/personas/) that group target audiences by behaviors rather than demographics.
+#### Recruitment with non-native English speakers
+
+You could consider many scenarios to include non-native English speakers in user research activities, including:
+- **Developing multilingual website content:** When your public-facing website is offered in multiple languages, you need to ensure the content in each language is written in plain language, accessible, and culturally appropriate. Set up usability sessions to test the content with people who speak these languages.
+- **Understanding barriers:** When you’re conducting discovery research to understand barriers that people face accessing your service, decide on multiple populations to conduct interviews with, including non-native English speakers.
+
+We recommend recruiting people who speak the language you are focusing on as their native language, and still speak that language in their home. That way, you’re able to screen out native English speakers who learned the target language in school, and do not share the cultural perspectives of native speakers.
+
+Cultural and historical context matters when we decide how to screen for participants who speak certain languages and not others, especially when considering those who live in not just states but tribes and territories, too. If possible, consult on wording for screening questions with colleagues from the communities you want to conduct research with.  
+There are two distinct modes of engaging with language that you might encounter in the user research process: translating and interpreting.
+
+**Translating:** Applies to written content. This can include recruitment materials, your interview script, interview notes, and video clips.
+When translating materials, it’s essential to consider the cultural context of the demographic you’re recruiting. Some groups will need a little more context, some less. For instance, a newcomer to the U.S. may need a little more information about how to register and vote than a person who grew up in the U.S. and had voting woven into the fabric of their lives.
+
+**Interpreting:** Applies to spoken language in real time or with a delay. For example, including an interpreter in a user research interview with someone who only speaks Portuguese, or collaborating with an interviewer who will conduct interviews for you in the language you are focusing on. 
+
+#### Translating recruiting materials
+
+If you plan on conducting interviews with people who primarily speak a language other than English, you should translate your recruiting materials into the targeted language(s) to remove a barrier to participating in your study.
+
+Two federal agencies offer translation and interpretation services in hundreds of languages:
+- [National Language Service Corps](https://nlscorps.org/become-a-government-partner) within the Department of Defense
+- [Office of Language Services](https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-administration/office-of-language-services/) within the Department of State
+
+See if your partner agency has an Interagency Agreement (IAA) set up with either of these organizations or is open to starting one for this work.
+
+#### Resources for recruiting non-native English speakers
+
+The [Multilingual Community of Practice](https://digital.gov/communities/multilingual/?promo) is a valuable resource for practitioners across government to expand and improve digital content in languages other than English. It includes a mailing list where people can share user research opportunities seeking participants who speak particular languages, among other ideas, challenges and best practices for managing multilingual content and websites. 
 
 #### Recruitment within underserved communities
 
 The [Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) contains a list of communities historically underserved by the Federal government and defines underserved communities as: “populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by the list in the preceding definition of ‘equity:’”
 
 Examples of underserved communities:
+
 - Black, Latino, Indigenous and Native American people, Asian Americans and Pacific Islanders, and other people of color
 - Members of religious minorities
 - LGBTQ+ people
 - People with disabilities
 - People who live in rural areas
 - People otherwise adversely affected by persistent poverty or inequality
+
+#### Partnering with community organizations 
+When conducting user research with people who have been historically underserved, we must make sure we are not contributing to the power imbalances, extractive practices, and harm that led to these communities becoming underserved and marginalized in the first place. 
+
+In this research, it is important to partner with community organizations, who work closely to support and advocate for the needs of their communities.
+
+Examples include: 
+- Worker centers
+- Cultural institutions
+- Neighborhood organizations
+- Advocacy groups
+- Legal aid organizations
+
+Learn about the connections your partner agency has with community organizations. See if your agency has a community engagement or outreach team that you could collaborate or consult with who already has established relationships with communities. 
+Just as you consider diversity in your recruitment criteria for participants, you should also consider diversity in the community organizations you’d like to partner with, such as not only contacting community organizations in urban areas, but rural areas, too. 
+
+#### What if your partner agency does not have established relationships with communities? 
+
+If your partner agency does not have established relationships with communities or the organizations that support them, carefully consider whether to move forward with this research. 
+
+We encourage you and your partner organization to weigh the tradeoffs of trying to introduce yourselves and the research opportunity. Recruiting is often the most time-consuming part of user research, and without established relationships with communities, you are more likely to encounter delays. It takes a long time to earn trust. 
+
+#### Guiding questions to help you and your partner agency decide to conduct research with communities
+
+Here are some questions to consider as you decide whether to conduct research with communities:
+- Does your partner agency have any established relationships with anyone who is part of the community or with the organizations (e.g. grantees) that support them?
+- Does your partner agency have a budget for participant compensation?
+- Is your partner agency able to invest in translation for recruitment materials and interpreters for interviews if the groups you are interested in  include non-native English speakers?
+- How long is the research engagement? Do you have enough time and budget scoped into the project for recruiting?
+- Is your partner agency able to invest in this relationship beyond the initial research engagement? 
+- Is your partner agency willing to include the community and/or community organization(s) in a co-design process?
+
+Ideally, many of these questions should be answered in the scoping part of the project before an agreement is signed. This is not always recognized as a need during that process, though.
+
+#### Make it easy for people to participate  
+
+Underserved communities often have limited time and resources, so it is important to be considerate when planning how you will conduct research with them. You can highlight these expectations in your recruitment materials, such as:
+
+- Shorter sessions, or unmoderated engagements that they can incorporate into their own schedule, like diary studies
+- Hosting the sessions in a central location, like libraries or community organizations, that are accessible by public transit, or remotely by phone or video conference
+- Working with interpreters if people would participate more fully in a language other than English
+- Publicizing the dollar amount you’ll compensate each participant and in what form they will receive it. (And take note of any language limitations for your gift card provider. You may need to figure out some workarounds if they don’t offer content in your participants’ preferred language.
+
+To learn about various strategies for creating recruitment materials and screening potential participants, see the “[Corresponding with participants](https://ux-guide.18f.gov/research/do/#corresponding-with-participants)” section.
 
 ### Compensating research participants
 
