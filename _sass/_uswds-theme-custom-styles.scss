@@ -154,16 +154,9 @@ pre {
   opacity: 0.2;
 }
 
-h1,
-h2,
-h3,
-h4 {
-  &:hover,
-  &:focus {
-    .heading-permalink {
-      opacity: 1;
-    }
-  }
+a.heading-permalink:hover,
+a.heading-permalink:focus {
+  opacity: 1;
 }
 
 
