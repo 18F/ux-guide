@@ -148,6 +148,18 @@ pre {
   white-space: pre-wrap;
 }
 
+// Show link icon after headings
+.heading-permalink {
+  text-decoration: none;
+  opacity: 0.2;
+}
+
+a.heading-permalink:hover,
+a.heading-permalink:focus {
+  opacity: 1;
+}
+
+
 // Show Slack icon before Slack Links
 a[href^="https://gsa-tts.slack.com"]::before {
   content: "";
