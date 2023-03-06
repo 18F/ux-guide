@@ -12,13 +12,23 @@ Before you submit your new issue, add labels so that we know which guide/site th
 While it might seem redundant, we have one team that manages issues across multiple products, and these labels help us keep our wires straight! 
 _______________________________________________________
 
-
 **Background**
 _What should we consider when addressing this issue?_
+
+### Point of contact on this issue
+Who can folks follow-up with if we have questions?
 
 **Acceptance criteria _(we'll know we're done when…)_** 
 - [ ] 
 - [ ] 
+
+**Timeline**
+Does this need to happen in the next two weeks?
+
+- [ ] Yes
+- [ ] No
+
+How much time do you anticipate this work taking?
 
 **Tasks**
 - [ ] ...
