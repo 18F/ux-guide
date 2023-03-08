@@ -28,5 +28,32 @@ jobs:
           github-token: ${{ steps.app_token.outputs.token }}
           script: |
             const { owner, repo } = context.repo;
-            const milestones = await github.paginate(`GET /repos/${ owner }/${ "methods" }/milestones`);
-            console.log(milestones);
+            const syncTargets = ["methods", "ux-guide"].filter((r) => r !== repo);
+
+            const myMilestones = await github
+              .paginate(`GET /repos/${owner}/${"methods"}/milestones`)
+              .then((milestones) =>
+                milestones.map(({ title, description, due_on, state }) => ({
+                  title,
+                  description,
+                  due_on,
+                  state,
+                }))
+              );
+            const milestoneNames = new Set(myMilestones.map(({ title }) => title));
+
+            for await (const target of syncTargets) {
+              const theirMilestones = new Set(
+                await github
+                  .paginate(`GET /repos/${owner}/${"methods"}/milestones`)
+                  .then((milestones) => milestones.map(({ title }) => title))
+              );
+
+              for await (const milestone of myMilestones) {
+                if (!theirMilestones.has(milestone.title)) {
+                  // create this milestone over there
+                  console.log(`add milestone ${milestone.title} to ${target}`);
+                }
+              }
+            }
+
