@@ -1,0 +1,32 @@
+name: sync milestones
+
+on:
+  push:
+    branches:
+      - 374-milestone-syncing
+
+jobs:
+  synchronize:
+    name: synchronize milestones
+    runs-on: ubuntu-latest
+
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.PROJECT_APP_ID }}
+          installation_id: ${{ secrets.PROJECT_INSTALLATION_ID }}
+          private_key: ${{ secrets.PROJECT_PRIVATE_KEY }}
+      
+      - name: list milestones in this repo
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ steps.app_token.outputs.token }}
+          script: |
+            const { owner, repo } = context.repo;
+            const milestones = github.paginate(`GET /repos/${ owner }/${ repo }/milestones`);
+            console.log(milestones);
