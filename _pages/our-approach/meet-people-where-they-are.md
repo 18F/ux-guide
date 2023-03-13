@@ -124,7 +124,7 @@ Our collaborations are frequently anchored by at least one or two in-person sess
 
 ## Security and privacy norms
 
-Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/),[Cloud.gov](https://cloud.gov/), [Login.gov](https://www.login.gov/), and [Seach.gov](https://search.gov/).
+Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages](https://cloud.gov/pages/),[Cloud.gov](https://cloud.gov/), [Login.gov](https://www.login.gov/), and [Seach.gov](https://search.gov/).
 
 As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as the authorizing official and system owner). It can also be helpful to ask about:
 
