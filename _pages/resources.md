@@ -109,7 +109,7 @@ We most commonly share our work via presentations. These presentations can vary 
 
 ### Tools
 
-- [Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/)
+- [Cloud.gov Pages](https://cloud.gov/pages/)
 - [Cloud.gov](https://cloud.gov/)
 
 ## General
