@@ -55,15 +55,15 @@ A prototype is a great way to communicate system behavior through interaction de
 
 ## Building prototypes with Cloud.gov Pages
 
-[Cloud.gov Pages](https://cloud.gov/pages/) is a product built by 18F to help manage and deploy static websites. While many organizations may use Cloud.gov Pages to host and deploy their production code, Federalist is also a great tool for automatically creating and deploying preview versions of websites.
+[Cloud.gov Pages](https://cloud.gov/pages/) is a product built by 18F to help manage and deploy static websites. While many organizations may use Cloud.gov Pages to host and deploy their production code, Cloud.gov Pages is also a great tool for automatically creating and deploying preview versions of websites.
 
-If your project is hosted on Federalist, you may configure the platform to build a custom version of the site for every branch on GitHub. This makes it easy for designers to make changes in their content and code and see what they would look like as rendered HTML. Federalist is set up to constantly monitor GitHub for any changes so when you create a new git commit Federalist will start building a new version of the site.
+If your project is hosted on Cloud.gov Pages, you may configure the platform to build a custom version of the site for every branch on GitHub. This makes it easy for designers to make changes in their content and code and see what they would look like as rendered HTML. Cloud.gov Pages is set up to constantly monitor GitHub for any changes so when you create a new git commit, Cloud.gov Pages will start building a new version of the site.
 
 Cloud.gov Pages also provides a number of [static-site templates](https://cloud.gov/pages/documentation/templates/) you can use to kick start your new project or idea. The templates are built with the [U.S. Web Design System](https://designsystem.digital.gov/) so you have a library of additional components at your disposal.
 
 
 ## Getting started with Cloud.gov Pages
-When you’re ready to get started with Cloud.gov Pages, you’ll want to jump into the [#federalist-support room on Slack](https://chat.18f.gov/) and ask the team to add your account account to Cloud.gov Pages.
+When you’re ready to get started with Cloud.gov Pages, you’ll want to jump into the [#cg-pages room on Slack](https://chat.18f.gov/) and ask the team to add your account to Cloud.gov Pages.
 
 Once they’ve added your account, you can [sign in](https://pages.cloud.gov/) by authorizing access to your GSA Account and checking out the [Using Cloud.gov Pages](https://cloud.gov/pages/documentation/).
 
