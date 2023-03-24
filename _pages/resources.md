@@ -89,13 +89,11 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 - [Accessibility guild (Channel #g-accessibility in GSA Slack)](https://gsa-tts.slack.com/messages/g-accessibility/)
 - [Research guild (Channel #g-research in GSA Slack)](https://gsa-tts.slack.com/messages/g-research)
 
-### Microrequests
+### Requesting help
 
-If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F’s microrequest staffing team can provide support. You can request assistance from 18F colleagues for help on billable projects in the [#microrequests (18F/TTS access only](https://gsa-tts.slack.com/app_redirect?channel=microrequests)) channel. Each discipline is represented at any time in the channel.
+If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F staff  may be able to provide support. You can request assistance from 18F colleagues for help on non-billable and billable projects in the [#18f-helpwanted (18F/TTS access only](https://gsa-tts.slack.com/app_redirect?channel=18f-helpwanted)) channel. Each discipline is represented at any time in the channel.
 
-Any billable project work is eligible for assistance via a microrequest. The only limitation is that microrequest tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. You may post non-billable requests in the [#helpwanted (18F/TTS access only](https://gsa-tts.slack.com/app_redirect?channel=helpwanted)) channel.
-
-For more information, visit the [Microrequests](https://handbook.tts.gsa.gov/microrequests/) page in the [TTS Handbook](https://handbook.tts.gsa.gov/).
+The only limitation is that tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. 
 
 ### Presenting the work
 We most commonly share our work via presentations. These presentations can vary widely based on the audience. Here are a few presentation-building tips:
