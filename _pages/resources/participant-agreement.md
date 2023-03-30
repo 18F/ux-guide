@@ -10,7 +10,7 @@ English version:
 - [Google Docs version with participant compensation (TTS/GSA Access only)](https://docs.google.com/document/d/18GLTggHUDI5MVrmL5Lbot58EB6c6tAkMbg54GqFaETc/edit)
 - [Google Docs version without participant compensation (TTS/GSA Access only)](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
 
-[Spanish version]({{ site.baseurl }}/participant-agreement-spanish) (Note: Updates of the Spanish version pending translation of the updated English version.)
+[Spanish version]({{ site.baseurl }}/participant-agreement-spanish-no-compensation) (Note: Updates of the Spanish version pending translation of the updated English version.)
 
 ---
 
