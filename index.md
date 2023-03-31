@@ -65,7 +65,7 @@ Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on
 
 ## References
 
-This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access a list of [references (18F/GSA access only](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y)).
+This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access a list of [references](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y).
 
 <!--
 <style type="text/css">

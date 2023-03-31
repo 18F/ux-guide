@@ -1,3 +1,11 @@
+---
+---
+
+// ^ that up there is frontmatter tags so that Jekyll will process this file and
+// replace {{ site.baseurl }} correctly. Without the frontmatter tags, Jekyll
+// copies the file unedited.
+
+
 // https://github.com/18F/private-eye
 (function() {
   'use strict';
@@ -10,7 +18,7 @@
     wrapper: ''
   };
 
-  var LOCK_ICON = "<img src=\"images/lock.svg\" aria-hidden=\"true\" width=\"20\" height=\"20\">";
+  var LOCK_ICON = "<img src=\"{{ site.baseurl }}/images/lock.svg\" aria-hidden=\"true\" width=\"16\" height=\"16\">";
   var PRIVATE_TEXT = "GSA-only: "
 
   var isString = function(str) { return !!str && typeof str === 'string'; };
