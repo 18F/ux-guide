@@ -2,13 +2,16 @@
 (function() {
   'use strict';
 
-  var STYLES = 'a.private-link::after { content: "\\1F512"; font-size: 0.75em; vertical-align: baseline; padding-left:2px; }';
+  var STYLES = 'a.private-link::after { font-size: 0.75em; vertical-align: baseline; padding-left:2px; }';
   var STYLES_ID = '_privateEye-styles';
 
   var DEFAULT_OPTIONS = {
     defaultMessage: 'This is a link to a private site, which may or may not be accessible to you.',
     wrapper: ''
   };
+
+  var LOCK_ICON = "<img src=\"images/lock.svg\" aria-hidden=\"true\" width=\"20\" height=\"20\">";
+  var PRIVATE_TEXT = "GSA-only: "
 
   var isString = function(str) { return !!str && typeof str === 'string'; };
   var isArray = function(arr) { return !!arr && arr.length; };
@@ -87,6 +90,8 @@
 
         if (anchorHref.indexOf(hrefValue.toLowerCase()) !== -1) {
           anchor.className += ' private-link';
+          console.log(anchor.innerHTML);
+          anchor.innerHTML = `${LOCK_ICON} ${PRIVATE_TEXT} ${anchor.innerHTML}`;
         }
       });
     });
