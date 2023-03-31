@@ -48,6 +48,5 @@ We don’t have all the answers. And that’s okay. We take an iterative, cyclic
 
 #### Additional resources
 
-18F/GSA access only: 
-* [What is design?](https://drive.google.com/a/gsa.gov/open?id=1dFVWZQzSGMUEj8oDQ_i3Ja0B4z1TFzuPGnYoO4sBAK4)presentation
+* [What is design?](https://drive.google.com/a/gsa.gov/open?id=1dFVWZQzSGMUEj8oDQ_i3Ja0B4z1TFzuPGnYoO4sBAK4) presentation
 * [Design 101](https://docs.google.com/presentation/d/16XEv3POpUtjzHG-KBzjT0lUyh5Vcp7CKFAeOj9QT27k/edit#slide=id.g3a57b3f921_0_227) presentation

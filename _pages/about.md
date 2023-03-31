@@ -45,7 +45,7 @@ This guide is divided into three sections:
 
 
 
-If you have any suggestions or want to get involved, read [our contributing page  on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+If you have any suggestions or want to get involved, read [our contributing page on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
 ## Reusing this guide in other organizations
