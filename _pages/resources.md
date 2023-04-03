@@ -85,9 +85,9 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 
 18F/TTS staff can also participate in local communities of practice in by joining (18F/TTS access only):
 
-- [Content guild (Channel #g-content in GSA Slack)](https://gsa-tts.slack.com/messages/g-content)
-- [Accessibility guild (Channel #g-accessibility in GSA Slack)](https://gsa-tts.slack.com/messages/g-accessibility/)
-- [Research guild (Channel #g-research in GSA Slack)](https://gsa-tts.slack.com/messages/g-research)
+- [Content guild (#g-content in Slack)](https://gsa-tts.slack.com/messages/g-content)
+- [Accessibility guild (#g-accessibility in Slack)](https://gsa-tts.slack.com/messages/g-accessibility/)
+- [Research guild (Channel #g-research in Slack)](https://gsa-tts.slack.com/messages/g-research)
 
 ### Requesting help
 
