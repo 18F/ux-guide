@@ -105,7 +105,7 @@ In evaluative research such as [usability testing [18F design methods]](https://
 {:.list-item--margin-bottom-extra}
 1. **Clarify the tasks your sessions will investigate.** Tasks are often included in artifacts such as personas or user stories. If your team doesn’t yet have those artifacts, ask them to identify “the most essential things that people need to do” relative to your research area of focus. Then pick the top two or three tasks the prototype will need to depict.
 2. **Prepare a scenario for each task.** Scenarios help your team create a more believable prototype; they also help moderators prepare research participants during the sessions themselves. If applicable, incorporate your scenarios into the guide you’ll use to moderate the session.
-[Example usability test guide.]({{ site.baseurl }}/usability-test-script) ([18F/GSA access only version.](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/)).
+[Example usability test guide.]({{ site.baseurl }}/usability-test-script) ([Example usability test guide.](https://docs.google.com/document/d/1VimyVSt7qK3iKc2uZkobLWM0zuJuvO03vFk_R_EjhOU/)).
 3. **Discuss with your team how and when you’ll share the prototype** (for example, sharing a link to an online prototype or sending a document).
 
 Prototypes create dependencies in your research. When doing research involving prototypes, you will need to:
@@ -134,7 +134,7 @@ Most 18F interview guides include these sections:
 - Concluding thanks, questions, and opportunities to follow up
 - Ask who else you should meet with (if appropriate)
 
-For starting points, see this [example interview guide [18F design methods]](https://methods.18f.gov/interview-script/) ([18F/GSA access only version](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
+For starting points, see this [example interview guide [18F design methods]](https://methods.18f.gov/interview-script/) ([18F design methods](https://docs.google.com/document/d/1kju19eC5vjqAd6bZCprniLixr1_u1b4Qfs1zVwTn6UA/edit#)).
 
 When interviewing stakeholders, ask about their work as it relates to your research area of focus. Ask about business processes in which they play a role, the information and tools they use, the things they produce or make, and the decisions they’re responsible for. Ask about the people they work with on a regular basis and any challenges they face.
 
@@ -171,7 +171,7 @@ Make a list of places where participants are likely to be, both on- and offline.
 
 - Relevant community organizations
 - Government-run events
-- Government buildings ([Doing pop-up research in GSA buildings, 18F/GSA access only](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz))
+- Government buildings ([Doing pop-up research in GSA buildings](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz))
 - Personal and professional networks, social media, mailing lists, etc.
 - The new or existing website
 
@@ -199,8 +199,8 @@ Getting informed consent ensures that:
 
 Copy and customize one of the participant agreements below to reflect your research design. This is the agreement you'll ask participants to sign before they participate.
 
-- [Example design research participant agreement]({{ site.baseurl }}/participant-agreement)<br /> ([18F/GSA access only version](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
-- [Spanish version of participant agreement]({{ site.baseurl }}/participant-agreement-spanish)<br />  ([18F/GSA access only version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit))
+- [Example design research participant agreement]({{ site.baseurl }}/participant-agreement)<br /> ([Example design research participant agreement](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit))
+- [Spanish version of participant agreement]({{ site.baseurl }}/participant-agreement-spanish)<br />  ([Spanish version of participant agreement](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit))
 
 Correspond with participants ahead of time to explain things that might otherwise get lost in the agreement-signing process. In the event that a participant has not signed an agreement ahead of the interview, obtain their verbal consent. In order to give their informed consent, participants need to understand:
 
@@ -221,8 +221,8 @@ You must also let participants know:
 
 There are two email templates available to help with participant correspondence:
 
-1. [Template for introducing yourself]({{ site.baseurl }}/resources/email-templates/researcher-introduces-themselves)<br />([18F/GSA access only version](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg))
-2. [Template for passing along a participant agreement]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement)<br /> ([18F/GSA access only version](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit))
+1. [Template for introducing yourself]({{ site.baseurl }}/resources/email-templates/researcher-introduces-themselves)<br />([Template for introducing yourself](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg))
+2. [Template for passing along a participant agreement]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement)<br /> ([Template for passing along a participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit))
 
 Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable.
 
@@ -254,7 +254,7 @@ Also remember to:
     - Download and install any necessary software (eg. Zoom if you are using Zoom for your sessions)
 - If you conduct research sessions via Google Meet and initiate a screen recording, the video will be saved to the Google Drive of the person who created the meeting. A link to the video will be added to the calendar event after the meeting.
 
-Your agency partners can often assist in the scheduling process, particularly when setting up sessions with stakeholders. Don’t hesitate to ask them for help! You can provide them with a tailored version of this [email where stakeholder introduces researcher]({{ site.baseurl }}/resources/email-templates/stakeholder-introduces-researcher). ([18F/GSA access only version ](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).
+Your agency partners can often assist in the scheduling process, particularly when setting up sessions with stakeholders. Don’t hesitate to ask them for help! You can provide them with a tailored version of this [email where stakeholder introduces researcher]({{ site.baseurl }}/resources/email-templates/stakeholder-introduces-researcher). ([email where stakeholder introduces researcher](https://docs.google.com/document/d/1AEq-h3wuOxl8CCR9Gg4RPO7NaHJnedC4UbXN0UFQ24Y/edit)).
 
 ## Moderating research sessions
 
@@ -267,7 +267,7 @@ Before each session, you should double-check:
 - Your primary documentation method
 - That you have a backup documentation method (such as a notepad and a pen)
 
-Moderating a research session can be nuanced, but we encourage all team members to be involved. Make sure participants are comfortable and that facilitators, notetakers, and other team members are prepared. We created [a checklist of best practices for interviews]({{ site.baseurl }}/interview-checklist). ([18F/GSA access only version](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)). The checklist includes:
+Moderating a research session can be nuanced, but we encourage all team members to be involved. Make sure participants are comfortable and that facilitators, notetakers, and other team members are prepared. We created [a checklist of best practices for interviews]({{ site.baseurl }}/interview-checklist). ([a checklist of best practices for interviews](https://docs.google.com/document/d/1zRA2EK9qZ5H_cM3Ki5xf6Gz72F6Ah6i0E87YpwHTC9A/edit)). The checklist includes:
 
 {:.list-item--margin-bottom-extra}
 - Keep an eye on the time. Decide beforehand which questions or activities you must cover and which ones you can cut if you run out of time.
@@ -276,7 +276,7 @@ Moderating a research session can be nuanced, but we encourage all team members 
 - Allow time for notetakers or observers to ask follow-up questions. Leave time for the interviewee to ask questions of the team as well.
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
-While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics/) ([18F/GSA access only](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research, 18F/GSA access only](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
+While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics/) ([usability test quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
 
 ### Tips for remote research
 
@@ -371,7 +371,7 @@ Here are a few high-level things to capture in a debrief:
 - What new questions do we have?
 - Are there any new people we should talk to?
 
-You may want to use this [example interview debrief worksheet]({{ site.baseurl }}/interview-debrief) ([18F/GSA access only](https://docs.google.com/document/d/1axCpR-pqdDIDRAAktlpbDEe1LbDCTZB7WxH6S4owIrU/edit?usp=sharing)); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
+You may want to use this [example interview debrief worksheet]({{ site.baseurl }}/interview-debrief) ([example interview debrief worksheet](https://docs.google.com/document/d/1axCpR-pqdDIDRAAktlpbDEe1LbDCTZB7WxH6S4owIrU/edit?usp=sharing)); feel free to modify it to your team’s needs. When determining which team members to include, default to a more diverse group. If a team member wasn’t part of the session, their role can be focused on asking questions and documenting.
 
 ### Make space for the team to process 
 

@@ -34,8 +34,8 @@ This guide includes information that may be new to the designers we hire (who ma
 18F staff should consult additional guidance:
 
 * [TTS Handbook page on doing research at Technology Transformation Services](https://handbook.tts.gsa.gov/research-guidelines/)
-* [New Hire README (18F/GSA access only](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#))
-* [Project Start Guide (18F/GSA access only](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#))
+* [New Hire README](https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#)
+* [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#)
 * [Before You Ship guide](https://before-you-ship.18f.gov/)
 
 
@@ -65,7 +65,7 @@ Feel free to [fork this guide](https://help.github.com/articles/fork-a-repo/) on
 
 ## References
 
-This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access a list of [references (18F/GSA access only](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y)).
+This guide draws on information from many resources. GSA cannot endorse these resources, or their respective authors. GSA employees interested in further reading can access a list of [references](https://docs.google.com/document/d/1ZH6TrVBOQvmlUFRKZlFFk182fiOhyaqyZqiTrVcEW4w/edit?folder=18EUSppsHd4O2eKwMiYXtxNd29O2TH31S#heading=h.v2me8g6plb8y).
 
 <!--
 <style type="text/css">
