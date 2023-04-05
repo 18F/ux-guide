@@ -20,6 +20,16 @@ Research provides us with powerful opportunities. The following ethical principl
 
 ***Disclaimer:*** *These principles are meant to serve in addition to your basic ethical obligations as public servants. They are for internal use only, and shared in the spirit of open source. If you have questions, contact your supervisor, GSA’s Privacy Office, or Ethics Legal counsel.*
 
+## Guiding principles
+The team should actively work to identify their own biases, include diverse perspectives in their research, understand the context in which they are conducting research, and identify and reduce potential harm to participants and communities. We are living these principles when the team:
+- Treats research participants as partners: Participants’ experience, values and needs are more important than what you are hoping or expecting to learn from them
+- Broadens who is heard and considered: Proactively acknowledge who you are (or are not) including as participants and interrogate your own bias and assumptions
+- Identifies potential harms to researchers, participants, and communities, and adjusts research plans and methods to reduce harm
+- Chooses research methods ethically by acknowledging when the team does not have the skills or access to execute a particular method
+- Continues to grow and improve research practices
+
+## Share power 
+TBD
 
 ## Respect
 
