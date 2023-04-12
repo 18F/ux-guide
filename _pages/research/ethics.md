@@ -24,12 +24,15 @@ Research provides us with powerful opportunities. The following ethical principl
 The team should actively work to identify their own biases, include diverse perspectives in their research, understand the context in which they are conducting research, and identify and reduce potential harm to participants and communities. We are living these principles when the team:
 - Treats research participants as partners: Participants’ experience, values and needs are more important than what you are hoping or expecting to learn from them
 - Broadens who is heard and considered: Proactively acknowledge who you are (or are not) including as participants and interrogate your own bias and assumptions
-- Identifies potential harms to researchers, participants, and communities, and adjusts research plans and methods to reduce harm
+- Identifies potential harms to researchers, participants, and communities, and adjusts research goals, plans and methods to reduce harm
 - Chooses research methods ethically by acknowledging when the team does not have the skills or access to execute a particular method
 - Continues to grow and improve research practices
 
-## Share power 
-TBD
+We should regularly reflect on our ethical practices by asking ourselves: 
+* Where we are strong – what are we doing well that promotes fairness and opportunity?  
+* Where we are weak – what negative behaviors, practices and systems undermine being fair and just?  
+* Where do we have opportunities – how can we innovate and/or learn from others doing well to help us advance fairness and opportunity?  
+* Where do we have challenges or barriers - that may hinder our growth towards fairnesss and justice?
 
 ## Respect
 
@@ -46,7 +49,6 @@ that they are experts on their own experiences.
 - Honor people’s opinions and choices. Do not correct participants during a research session. You are there to develop empathy and learn about people’s experiences as they experience them, so there are no right or wrong answers to your interview questions.
 - If someone who participates in your research appears uncomfortable, offer that person the option to skip the subject altogether or to cease their participation
 - Ask yourself: am I treating people as collaborators in, rather than subjects of, the research process?
-
 
 ## Responsibility
 
