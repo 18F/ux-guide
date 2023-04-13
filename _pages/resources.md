@@ -91,7 +91,7 @@ Doing UX at 18F can involve working with Content and Visual Designers, or people
 
 ### Requesting help
 
-If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F staff  may be able to provide support. You can request assistance from 18F colleagues for help on non-billable and billable projects in the [#18f-helpwanted](https://gsa-tts.slack.com/app_redirect?channel=18f-helpwanted) channel. Each discipline is represented at any time in the channel.
+If you’re in need of a particular skill — help with a presentation or design deliverable; writing and content strategy; or development tasks — 18F staff  may be able to provide support. You can request assistance from 18F colleagues for help on non-billable and billable projects in the [#18f-help-wanted](https://gsa-tts.slack.com/app_redirect?channel=18f-help-wanted) channel. Each discipline is represented at any time in the channel.
 
 The only limitation is that tasks must typically take fewer than 8 hours of work a week, over no more than 3 weeks, for the person providing the assistance. 
 
