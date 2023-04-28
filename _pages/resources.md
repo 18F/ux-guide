@@ -80,7 +80,7 @@ An email asking participants to review and sign a participant agreement before t
 
 ### Collaboration
 
-Doing UX at 18F can involve working with Content and Visual Designers, or people in our [Acquisition](https://handbook.tts.gsa.gov/acqstack/), [Product Management](https://handbook.tts.gsa.gov/product/) and [Engineering](https://handbook.tts.gsa.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.tts.gsa.gov/) for more information.
+Designers at 18F should work together with other designers or people in our [Acquisition](https://handbook.tts.gsa.gov/acqstack/), [Product Management](https://handbook.tts.gsa.gov/product/) and [Engineering](https://handbook.tts.gsa.gov/engineering/) Chapters. Read their pages in the [TTS/18F Handbook](https://handbook.tts.gsa.gov/) for more information.
 
 
 18F/TTS staff can also participate in local communities of practice in by joining (18F/TTS access only):
@@ -145,6 +145,7 @@ We most commonly share our work via presentations. These presentations can vary 
 
 ## Additional reading
 
+- [Digital.gov: Understanding design in 10 questions](https://digital.gov/2023/03/03/understanding-design-in-10-questions/)
 - [GSA + the Lab@OPM’s Human-Centered Design Discovery Stage Field Guide ](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf)
 - [Lab@OPM's HCD Discovery Concept Guide](https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/)
 - [Lab@OPM's HCD Discovery Operations Guide](https://the-lab-at-opm.github.io/HCD-Discovery-Operations-Guide/)
