@@ -8,20 +8,20 @@ description: "How 18F user experience (UX) designers improve interactions betwee
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-18F user experience (UX) designers join cross-functional teams to improve interactions between government agencies and the people they serve. The 18F UX Guide helps us get this job done. It’s a starting point for UX design at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
+18F designers join cross-functional teams to improve interactions between government agencies and the people they serve. The 18F UX Guide, or User Experience Guide, helps us get this job done. It’s a starting point for design research at 18F: doing it, discussing it, and ensuring it’s done to a consistent level of quality. Throughout this guide we use “design research” as a substitute and broader  term for “user research” to show the focus of our research work is making designs better for people.
 
 
 ## What this guide is
 
-Like [our 18F Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F UX guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F UX designers are expected to possess, among other things:
+Like [our 18F Content Guide](https://content-guide.18f.gov/how-to-use-this-guide/), the 18F User Experience guide is written for our internal designers, but we hope it’s a useful reference for anyone. Our working assumptions for this guide include that 18F designers are expected to possess, among other things:
 
 * design research skills
 * the ability to skillfully navigate organizational relationships
 * the communication and facilitation skills to explain research clearly and run co-design and workshop sessions
 * consulting and coaching skills, especially supporting those new to research, design, and/or modern development practices
-* the ability to deliver artifacts that guide development, like wireframes and prototypes
+* the ability to deliver artifacts that guide development and service improvements, like wireframes, service blueprints, and prototypes
 
-This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to design). For details of specific UX activities and how to conduct them, see [18F's methods](https://methods.18f.gov/).
+This guide includes information that may be new to the designers we hire (who may be new to government), and useful starting points for conversations with the people we work with (who may be new to design). For details of specific UX and service activities and how to conduct them, see [18F's methods](https://methods.18f.gov/).
 
 18F staff should consult the following additional guidance:
 
@@ -33,7 +33,7 @@ This guide includes information that may be new to the designers we hire (who ma
 
 ## How to use this guide
 
-We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{site.baseurl}}/research/privacy/), or for quick access to [UX-related templates, presentations, etc.]({{site.baseurl}}/resources/) You’re also welcome to read it from start to finish if you like.
+We created this guide for our reference. It’s here for a refresher on [ways to protect research participant privacy]({{site.baseurl}}/research/privacy/), or for quick access to [design-related templates, presentations, etc.]({{site.baseurl}}/resources/) You’re also welcome to read it from start to finish if you like.
 
 This guide is divided into three sections:
 
@@ -45,16 +45,16 @@ This guide is divided into three sections:
 
 
 
-If you have any suggestions or want to get involved, read [our contributing page on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
+If you have any suggestions or want to get involved, read [our contributing page on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors); find us on our TTS Slack in either #ux, #ux-guide, #service-design, or #g-research; or [create an issue in GitHub](https://github.com/18F/ux-guide/issues).
 
 
 ## Reusing this guide in other organizations
 
 As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [Creative Commons CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
-This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our partners within GSA and throughout other agencies.
+This guide is written for internal use and is shared in the spirit of open source.  This guide is a product of what we’ve learned from doing UX and service research and design in government over the past few years, in collaboration with GSA’s Office of General Counsel, Privacy Office, PRA (Paperwork Reduction Act) Desk Officer, and our partners within GSA and throughout other agencies.
 
-Feel free to [fork this guide  via GitHub](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways are best for you. If you have a suggestion, spot an error, or otherwise want to make constructive contribution to this guide, head over to [our contributing page hosted on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors).
+Feel free to [fork this guide  via GitHub](https://help.github.com/articles/fork-a-repo/) on GitHub and personalize it for your organization; we trust you’ll change it in whatever ways are best for you. If you have a suggestion, spot an error, or otherwise want to make constructive contributions to this guide, head over to [our contributing page hosted on GitHub](https://github.com/18F/ux-guide/blob/main/CONTRIBUTING.md#non-18F-contributors).
 
 ## References
 
