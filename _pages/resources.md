@@ -144,7 +144,6 @@ We most commonly share our work via presentations. These presentations can vary 
 - [Research presentation template](https://docs.google.com/presentation/d/1hB0tX65pHGRESHc2e_tGlO65Q4AGwSWFuqhSNImNuRk/edit#slide=id.g9af2006e6a_1_238)
 
 ## Additional reading
-
 - [Digital.gov: Understanding design in 10 questions](https://digital.gov/2023/03/03/understanding-design-in-10-questions/)
 - [GSA + the Lab@OPM’s Human-Centered Design Discovery Stage Field Guide ](https://www.gsa.gov/cdnstatic/HCD-Discovery-Guide-Interagency-v12-1.pdf)
 - [Lab@OPM's HCD Discovery Concept Guide](https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/)
