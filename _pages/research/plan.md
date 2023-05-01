@@ -41,7 +41,7 @@ A research plan (sometimes also called a research protocol), describes the desig
 - Ethics considerations
 - Outputs and outcomes
 
-18F maintains [a research plan template]({{ site.baseurl }}/resources/research-plan). ([18F/GSA access only](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
+18F maintains [a research plan template]({{ site.baseurl }}/resources/research-plan). ([a research plan template](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
 
 - Openly commit to learning more about the problem(s) at hand
 - Agree on which information is most useful for informing future decisions
@@ -71,8 +71,8 @@ Research questions are high-level questions that reflect what you want to learn 
 
 Consider holding a research alignment workshop to help stakeholders share and discuss what they’re interested in learning. Regardless of how you build alignment, focus on the value of obtaining useful information.
 
-- [Research alignment workshop plan]({{ site.baseurl }}/research/alignment-workshop).  ([18F/GSA access only version](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf))
-- [Research alignment presentation slides (18F/GSA access only](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4))
+- [Research alignment workshop plan]({{ site.baseurl }}/research/alignment-workshop).  ([Research alignment workshop plan](https://docs.google.com/document/d/1NI_riUcrxaMaHihxzHOsr5Gr1n-FxAIqGZ5wzKt3wh4/edit#heading=h.aou5xt3rvfpf))
+- [Research alignment presentation slides](https://docs.google.com/presentation/d/16z-oauPeHeBeVxYS3TFRXGFld4uVUEsUjAFZ87fM_IE/edit#slide=id.g4c9bb7ecb1_0_4)
 
 ### Methods
 
@@ -98,7 +98,7 @@ When planning your research, review with your partners [the typical activities i
 
 Consider whose perspective might be missing from the planning process. Identify opportunities to include people who have direct experience using the product or service. Involve people who interact directly and regularly with end users. Ideally we are designing and building _with_ the people who will be impacted by the outcomes of our research, not just _for_ them.
 
-Run a [frames of reference bias identification workshop (18F/GSA access only](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit?usp=sharing)) so the team can avoid influencing the evidence they gather based on the things they presume to be true. The team should also collectively review this guide's [bias](https://ux-guide.18f.gov/research/bias/) and [ethics](https://ux-guide.18f.gov/research/ethics/) pages to ensure these are accounted for in the research.
+Run a [frames of reference bias identification workshop](https://docs.google.com/presentation/d/1l9UrizeRtiYrdclCRb7LIxPQF6XTvCI5A58ty-blRj4/edit?usp=sharing) so the team can avoid influencing the evidence they gather based on the things they presume to be true. The team should also collectively review this guide's [bias](https://ux-guide.18f.gov/research/bias/) and [ethics](https://ux-guide.18f.gov/research/ethics/) pages to ensure these are accounted for in the research.
 
 ### Timeline
 
@@ -153,7 +153,7 @@ Consider especially:
 - People who may need help using the service in question
 - People who have limited internet access
 
-[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 ### Defining recruitment criteria
 
@@ -178,7 +178,7 @@ It’s important to ensure the audiences you’re designing products and service
 
 - **Start recruitment early.** Develop your participant pool sooner rather than later and tap into your agency partners’ resources to locate the appropriate participants. It’s often easiest to get access to people who already use a service, but sometimes your research goals involve learning from people who aren’t currently using an existing service. They may be difficult to find. If there’s an existing website, you might be able to add a link to provide feedback with an option to sign up to speak with you.
 - **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks can be an okay place to start recruiting from, depending on how representative your networks are. However, it is important to expand past personal networks as soon as possible because asking family, friends, and colleagues to participate in research may contribute to the likelihood of bias impacting the findings.
-- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population like libraries and post offices is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low-income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low-income users. Here’s a guide on [how to do intercept research within GSA buildings (18F/GSA access only)](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz)
+- **Intercept testing in government buildings.** Doing in-person research in public buildings that are visited by a wide cross-section of the population like libraries and post offices is one way to reach a diverse group of participants. If you reach a point where you realize you’ve excluded a specific set of users who will use your product/service, intercept testing can be a great save. Intercept testing can be used as a way to be intentional about testing with a specific set of diverse users. For example, setting up intercept testing at a library in a low-income neighborhood might increase a team’s chances of ensuring some of the feedback on a product or service comes directly from low-income users. Here’s a guide on [how to do intercept research within GSA buildings](https://docs.google.com/document/d/1ph3fP2rGr0FeXSeueRD4YmIJYF3f-3yIoI-uDz6iwsI/edit#heading=h.ssdnqe2zdwhz)
 
 #### Recruitment with non-native English speakers
 
@@ -273,7 +273,7 @@ To learn about various strategies for creating recruitment materials and screeni
 
 GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. See the TTS Handbook for specifics on the process we use to [compensate user research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants).
 
-[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility (18F/GSA access only)](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 #### Why do we offer compensation?
 

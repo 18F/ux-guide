@@ -62,7 +62,6 @@ const configurePrivateEye = () => {
   PrivateEye({
     defaultMessage: "This link is private to GSA.",
     ignoreUrls: [
-      "gsa-tts.slack.com",
       "anywhere.gsa.gov",
       "bookit.gsa.gov",
       "calendar.gsa.gov",
