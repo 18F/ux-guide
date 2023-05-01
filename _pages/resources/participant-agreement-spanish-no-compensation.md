@@ -1,6 +1,6 @@
 ---
-Spanish title: Contrato para participantes en el Estudio de Investigación (sin pagar)
-English title translation: Design research participant agreement (without compensation)
+title: Contrato para participantes en el Estudio de Investigación (sin pagar)
+description: Design research participant agreement (without compensation)
 layout: post
 permalink: /participant-agreement-spanish/
 ---
