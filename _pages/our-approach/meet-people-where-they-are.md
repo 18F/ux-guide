@@ -36,7 +36,7 @@ We view our partners as co-creators of our design process. We are especially min
 
 ## Ability to participate
 
-Partner participation is essential to our [UX team's principle]({{site.baseurl}}/our-approach/values-and-principles) of training design advocates. But just because an agency enters into an agreement with 18F doesn’t mean we take their ongoing participation as a given—we actively work to engage our partners at every step of the way.
+Partner participation is essential to our [team's principle]({{site.baseurl}}/our-approach/values-and-principles) of training design advocates. But just because an agency enters into an agreement with 18F doesn’t mean we take their ongoing participation as a given—we actively work to engage our partners at every step of the way.
 
 At a high level, to encourage participation we:
 
@@ -73,8 +73,10 @@ These engagements will begin by contemplating questions related to design maturi
 
 - What is our partner agency’s design awareness and ability?
 - Who in their agency already does design? Does that person have a full-time design role or is design the side job of an engineer, program manager, etc.
+- How does the partner learn from those most impacted by design decisions?
 - How often does our partner team prototype new ideas?
 - How often does our partner team engage in critique?
+- How do product changes ladder up to service design or organizational considerations?
 
 By initially assessing design maturity, we're able to help our partners increase their skills over time, and better measure how far they’ve come.
 
@@ -91,7 +93,7 @@ Engaging partners in conversations about how they might level-up in their practi
 - How might we better incorporate our partner’s perspective into the creative process (via stakeholder interviews, design studios, etc.), so that they see design’s ability to facilitate constructive dialog?
 - How could we more directly communicate design’s ability to meet their goals (such as demonstrating how proactive usability testing helps them reduce risk)?
 
-People who are new to design will need to appreciate its direct benefits (like improved usability and customer adoption) before its indirect benefits (such as helping the team identify the most important problems for them to solve). We aim to give our partners something tangible, and let them experience the show before pulling back the curtain.
+Partners who are new to design will need to appreciate its direct benefits (like improved usability and customer adoption) before its indirect benefits (such as helping the team identify the most important problems for them to solve). We aim to give our partners something tangible, and let them experience the show before pulling back the curtain.
 
 
 ## Remote friendliness
@@ -124,22 +126,22 @@ Our collaborations are frequently anchored by at least one or two in-person sess
 
 ## Security and privacy norms
 
-Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages](https://cloud.gov/pages/),[Cloud.gov](https://cloud.gov/), [Login.gov](https://www.login.gov/), and [Seach.gov](https://search.gov/).
+Risk management is a big part of developing government digital services. 18F relies on a number of platforms to create secure, compliant-by-default websites and web applications, including the use of [Cloud.gov Pages](https://cloud.gov/pages/), [Cloud.gov](https://cloud.gov/), [Login.gov](https://www.login.gov/), and [Search.gov](https://search.gov/).
 
 As our work moves closer to production, our partners may ask us to help them obtain an Authority to Operate (ATO) for the products or services we’ve helped create. We often begin this conversation by identifying who at our partner agency will play key roles in the authorization process (such as the authorizing official and system owner). It can also be helpful to ask about:
 
 {:.list-item--margin-bottom-extra}
 - Authentication (it’s okay to have short-term and long-term solutions)
 - Our partner agency’s existing policies around account management
-- Our partner’s use of tools authorized governement-wide via the [FedRAMP](https://marketplace.fedramp.gov/) authorization program.
+- Our partner’s use of tools authorized government-wide via the [FedRAMP](https://marketplace.fedramp.gov/) authorization program.
 
-We discuss privacy norms and relevant information practices to ensure mutual understanding of essential concepts and identify differences in each agency's approaches. For example, 18F’s design research is defined by information practices outlined in [GSA’s Privacy Impact Assessment for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia). However, our norms are not our partner’s norms; and just because GSA’s Privacy Office sanctions our design research program doesn’t mean that our partner agency’s privacy office will do the same (see [legal]({{site.baseurl}}/research/legal/) and [privacy]({{site.baseurl}}/research/privacy/)). As we conduct design research on behalf of our agency partners, we may need to prompt conversation between the following GSA offices and their counterparts at our partner agencies:
+We discuss privacy norms and relevant information practices to ensure mutual understanding of essential concepts and identify differences in each agency's approaches. However, our norms are not our partner’s norms; and just because GSA’s Privacy Office sanctions our design research program doesn’t mean that our partner agency’s privacy office will do the same (see [legal]({{site.baseurl}}/research/legal/) and [privacy]({{site.baseurl}}/research/privacy/)). As we conduct design research on behalf of our agency partners, we may need to prompt conversation between the following GSA offices and their counterparts at our partner agencies:
 
 - Privacy office
 - Office of General Counsel
 - [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) Desk Officer
 
-Beyond research, we engage with our partner's privacy office when the systems we design will collect or use information specific to an individual. For systems that will interact with personal information, called personally identifable information (PII) in the government, we work with our partners and their organization's privacy office to assess the privacy impacts of that use, and document that impact in a Privacy Impact Assessment. If the system will routinely allow the government to retrieve PII by an identifier such as a social security number, then our partners will ensure there is a public notice and a legal purpose to process that PII. These notices are called System of Record Notices or SORNs.
+Beyond research, we engage with our partner's privacy office when the systems we design will collect or use information specific to an individual. For systems that will interact with personal information, called personally identifiable information (PII) in the government, we work with our partners and their organization's privacy office to assess the privacy impacts of that use, and document that impact in a Privacy Impact Assessment. If the system will routinely allow the government to retrieve PII by an identifier such as a social security number, then our partners will ensure there is a public notice and a legal purpose to process that PII. These notices are called System of Record Notices or SORNs.
 
 ## Policy
 
@@ -152,4 +154,4 @@ As we collaboratively design with partners, we should ask:
 - Which policies will shape our design process? (are we considering a research design that will require approval from our partner’s Paperwork Reduction Act Desk Officer?)
 - Whose permission will be required if we need a policy exception?
 
-We recognize our partners are working to deliver their missions in a complex ecosystem of regulatory, organizational, and technological policies and constraints. Taking the time up front to agree on tools and practices helps set the foundation for a strong collaboration.
+We recognize our partners are working to deliver their missions in a complex ecosystem of regulatory, organizational, and technological policies and constraints. Taking the time upfront to agree on tools and practices helps set the foundation for a strong collaboration.
