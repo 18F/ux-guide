@@ -34,6 +34,7 @@ Each piece of collected or stored PII increases the risk of privacy violations. 
 - Collect PII only when it is both legally authorized and necessary
 - Present [Privacy Act Notices]({{ site.baseurl }}/resources/privacy-act-notice) whenever they collect PII (in order to allow for informed consent)
 - Protect agency-held PII against anticipated threats to security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to the participant.
+- 18F complies with the Privacy Act by following the information practices outlined in our [Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research on GSA.gov).
 
 ## Guidelines
 
