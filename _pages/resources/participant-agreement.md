@@ -11,6 +11,7 @@ English version:
 - [Google Docs version without participant compensation](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit)
 
 [Spanish version]({{ site.baseurl }}/participant-agreement-spanish) 
+
 ---
 
 This agreement relates to your participation in a U.S. General Services Administration (GSA) design research project. The project will take place between `<project start date>` and `<project end date>`. Our session with you is scheduled for `<session duration>`. The project’s purpose is to better understand `<area of inquiry>`. We ask that you read, sign, and return this agreement so you know your rights and what to expect from us. 
