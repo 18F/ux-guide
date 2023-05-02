@@ -26,13 +26,13 @@ Design research can feel overwhelming, even to people who’ve done it before! C
 
 
 ## What it is
-Design research explores possibilities, tests assumptions, and reduces risk by actively and systematically engaging with the world. It includes qualitative and quantitative methods, investigating tools and systems, and interacting with members of the public.
+Essentially, when we say design research, we mean the process of thoughtful exploration and learning with people to inform decisions. Design research explores possibilities, tests assumptions, and reduces risk by actively and systematically engaging with the world. It includes qualitative and quantitative methods, investigating tools and systems, and interacting with members of the public.
 
-All 18F teams do design research. [Design involves continuous decision making]({{site.baseurl}}/our-approach/defining-design), and those decisions are made better when they’re informed by end-user perspectives. As a result, we’re committed to continuous research. Rather than seeing designed products or services themselves as the goal, we view the products or services we’re designing as the result of our continued effort to identify, understand, and address user needs.
+All 18F teams do design research. [Design involves continuous decision-making]({{site.baseurl}}/our-approach/defining-design), and those decisions are made better when they’re informed by people's perspectives. As a result, we’re committed to continuous research. Rather than seeing designed products or services themselves as the goal, we view the products or services we’re designing as the result of our continued effort to identify, understand, and address people's needs.
 
 
 ## A team activity
-Because a collaborative approach increases the team’s overall empathy and efficiency, research is best done as a team activity. See our [18F blog on the impact of whole team collaboration on user research](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/). This means the entire team, including your agency partners, shares responsibility for:
+Because a collaborative approach increases the team’s overall empathy and efficiency, research is best done as a team activity. See our [18F blog on the impact of whole team collaboration on design research](https://18f.gsa.gov/2016/08/16/what-happens-when-the-whole-team-joins-user-interviews/). This means the entire team, including your agency partners, shares responsibility for:
 
 {:.list-item--margin-bottom-extra}
 - **Research design** — Formulating a research plan, including research questions and interview guides
@@ -49,34 +49,45 @@ Because a collaborative approach increases the team’s overall empathy and effi
 ## Research types
 On any given project you should only include the research activities that will inform the decisions you plan to make. Broadly speaking, 18F research falls into several categories. You can do research from any category on its own or in a sequence as you focus from problem definition to solution exploration:
 
+### Always start with background research
+Background or secondary research should be done on every project. This involves reviewing what is already known about the context you are working in or the people you want to learn about. Background research can save you and others time by reviewing findings from previous research studies or similar projects so you can build on what is already known, develop unique questions, and eliminate asking unnecessary, redundant, or triggering questions to people that could be harmful and reduce trust. 
+
+Background research helps you ask: what do we already know? 
+
 ### Foundational research
 
-Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. This includes stakeholder interviews, secondary research, and workshops. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our GitHub repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
+Foundational research is the research you do to identify and clarify the team’s objectives, assumptions, and constraints. On the 18F Methods site, [Discover methods](https://methods.18f.gov/discover/) help to build context for the problem you’re investigating. This includes; [Stakeholder and user interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews), [heuristic evaluation](https://methods.18f.gov/discover/heuristic-evaluation), and (Hopes and fears workshops)[https://methods.18f.gov/discover/hopes-and-fears]. Foundational research is primarily (though not exclusively) the domain of [18F Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis) engagements and results in, among other things, a [problem statement as outlined on our GitHub repository](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement).
 
 Foundational research helps you ask: what problem are we trying to solve?
 
 ### Descriptive research
 
-Descriptive research focuses on understanding and documenting the context of a known problem. It could look like describing the needs and characteristics of a particular audience. 
+Descriptive research focuses on understanding, validating, and documenting the context of an assumed problem. On the 18F Methods site, [Decide methods](https://methods.18f.gov/#decide) help develop a deeper understanding of workflows and processes. It could look like describing the needs and characteristics of a particular audience like [Journey mapping or Mental modeling](https://methods.18f.gov/decide/journey-mapping).
 
 Descriptive research helps you ask: who or what are we solving this problem for? 
 
 ### Generative research
 
+Generative research helps you better frame the problem(s) you’re solving, spark new ideas, and reveal opportunities. On the 18F Methods site, [Make methods](https://methods.18f.gov/#make) help create testable designs like [Prototyping and Wireframing](https://methods.18f.gov/make/wireframing) to ensure your product reflects your users’ needs. 
+
 Generative research helps you better frame the problem(s) you’re solving, spark new ideas, and reveal opportunities. 
 
 Generative research helps you ask:
 
-- What are our users’ goals, behaviors, and pain points?
+- What are our people's goals, behaviors, and pain points?
 - What is their context?
 - How might we address the problems we’ve identified?
 - What does success look like?
+- How do design opportunities impact the overall service and organizational context?
 
 ### Evaluative research
 
-Evaluative research is the research you do to test assumptions, hypotheses, and the ease of use of design solutions, such as prototypes. 
+Evaluative research is the research you do to test assumptions, hypotheses, and the ease of use of design solutions. On the 18F Methods site, [Validate methods](https://methods.18f.gov/#validate) like [Multivariate testing](https://methods.18f.gov/validate/multivariate-testing), and [Usability testing ](https://methods.18f.gov/validate/usability-testing) help to understand how to determine if the product or service delivers as you designed.
 
-Evaluative research helps you ask: Are we building the right thing — or if this research is done regularly, are we building the thing _right_? Does it meet user needs?
+Evaluative research helps you ask: 
+
+- Are we building the right thing — or if this research is done regularly, are we building the thing _right_? 
+- Does our product or service meet the needs of people who use it?
 
 ## The process
 
@@ -101,7 +112,7 @@ As a distributed team, 18F defaults to remote-friendly ways of working. This giv
 
 ### In person
 
-With most projects you’ll conduct an in-person kickoff, during which you may have the chance to meet, interview, and conduct activities with stakeholders. If feasible, consider adding [contextual inquiry as described in the 18F methods]( https://methods.18f.gov/discover/contextual-inquiry/) into your kick-off activities. Direct user observation will provide firsthand understanding of your stakeholders’ and users’ processes and contexts.
+With most projects you’ll conduct an in-person kickoff, during which you may have the chance to meet, interview, and conduct activities with stakeholders. If feasible, consider adding [contextual inquiry as described in the 18F methods]( https://methods.18f.gov/discover/contextual-inquiry/) into your kick-off activities. Direct observation will provide firsthand understanding of your stakeholders’ and users’ processes and contexts.
 
 We prefer in-person research when we want to better understand the environment in which users normally interact with a government service. We also prefer in-person research when our participants aren’t especially proficient with, or don’t have access to, video conferencing software.
 
@@ -110,12 +121,12 @@ We prefer in-person research when we want to better understand the environment i
 
 {:.list-item--margin-bottom-extra}
 - **[Choose a research lead.]({{ site.baseurl }}/research/lead)** A research lead is the team member ultimately responsible for setting the research agenda, explaining the team’s methods, tracking the team’s progress, and ensuring research quality. (While the research lead is normally 18F staff at the start, we work with our partners to identify someone on their side before the engagement ends.)
-- **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in, getting them on board with research findings [as we discuss in our blog](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
+- **Discuss.** Discuss your research plan and interview guides. Debrief after each session. Make sure to include partners in these discussions, which will go a long way in getting them on board with research findings [as we discuss in our blog](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
 - **Determine research questions as well as interview questions.** (They’re different.)
     - Example research question: _How do medical librarians find and make use of academic journal literature in answering questions for their patrons?_
     - Example interview question: _Tell me about the last time you helped a patron answer a question that required you to review academic journal literature._
 - **Be clear about who your research participants are.** How we approach our research will depend on whether we are interacting with:
-    - Stakeholders (generally our agency partners)
+    - [Stakeholders](https://product-guide.18f.gov/discover/stakeholders/#understand-your-key-stakeholders) (generally our agency partners)
     - Users (those interacting with the system or product we’re investigating)
     - The public at large
 
