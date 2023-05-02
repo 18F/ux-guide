@@ -25,15 +25,18 @@ Use prototypes to:
 - Demonstrate that your ideas are technically possible
 - Explore/set up the deployment process
 - Demonstrate a collaborative design process
-- Reduce risk
+- Reduce risk (“What are the riskiest assumptions and how can we test them?”)
 - Validate a [design hypothesis [18F design methods]](https://methods.18f.gov/decide/design-hypothesis/)
 
-Prototypes can range in fidelity from basic paper prototypes to fully functional software. The idea is to build something that will help you answer your questions with the least investment. Prototyping can take many different forms depending on what you are trying to do. For example:
+Prototypes can range in fidelity from basic paper prototypes to fully functional software.  Prototypes can be digital products as well as services. The idea is to build something that will help you answer your questions with the least investment. Prototyping can take many different forms depending on what you are trying to do. For example:
 
 - Paper sketches are fast to make and to change, and easy for the whole team to participate in designing
 - [Wireframes [18F design methods]](https://methods.18f.gov/make/wireframing/) are preliminary blueprints that can help teams align on structure, placement, and hierarchy for a product or service
 - Static visual mock-ups can help communicate and test things like brand identity and tone
 - Clickable prototypes can help test usability by finding out if users can complete the needed tasks
+- A service prototype or simulation that mimics, as much as possible, what users might experience which can include space, online and offline touchpoints, people, and time
+- Service storyboards that visualize scenarios of a future service and can illustrate parts of a service
+
 
 
 ## Communicating with prototypes
@@ -70,7 +73,7 @@ Once they’ve added your account, you can [sign in](https://pages.cloud.gov/) b
 
 ## Authorized prototyping tools
 
-Depending where you worked prior to joining 18F, you are probably accustomed to having some flexibility around your design toolset. Working for the government means only using tools that have been granted an Authority to Operate, an approval granted after a thorough review of the secuirty and privacy of a tool. Due to the sensitive nature much of the data we encounter of government work, we are only allowed to use GSA IT-approved tools.
+Depending where you worked prior to joining 18F, you are probably accustomed to having some flexibility around your design toolset. Working for the government means only using tools that have been granted an Authority to Operate, an approval granted after a thorough review of the security and privacy of a tool. Due to the sensitive nature of much of the data we encounter in government work, we are only allowed to use GSA IT-approved tools.
 
 Don’t fret! 18F has done a great job of getting us licenses to standard prototyping [tools as listed on the TTS handbook](https://handbook.tts.gsa.gov/design/#tools). To request licenses, [review the TTS Handbook](https://handbook.tts.gsa.gov/design/#tools). Ensure you review the usage parameters for each tool.  
 
