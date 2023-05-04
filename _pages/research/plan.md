@@ -76,19 +76,7 @@ Consider holding a research alignment workshop to help stakeholders share and di
 
 ### Methods
 
-Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected and create a more complete understanding.
-[18F’s Methods](https://methods.18f.gov/) provide an overview of our preferred research and design methods. Use these as a starting point, not as a list of constraints.
-
-
-- [Stakeholder and user interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
-- [Contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/)
-- [Content audit](https://methods.18f.gov/decide/content-audit/)
-- [User interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
-- [Design studio](https://methods.18f.gov/discover/design-studio/)
-- [KJ Method](https://methods.18f.gov/discover/kj-method/)
-- [Usability testing](https://methods.18f.gov/validate/usability-testing/)
-- [Cognitive walkthrough](https://methods.18f.gov/discover/cognitive-walkthrough/)
-- [Card sorting](https://methods.18f.gov/validate/card-sorting/)
+Choose one or more methods appropriate for meeting your goals and answering your research questions. Multiple methods can help you challenge or verify information collected and create a more complete understanding. [18F’s Methods](https://methods.18f.gov/) provide an overview of our preferred research and design methods. Use these as a starting point, not as a list of constraints. See the [Research types](https://ux-guide.18f.gov/research/clarify-the-basics/#research-types) section of UX Guide for more on which methods might be the best fit for the type of research you are doing.
 
 ### Team participation
 
@@ -140,7 +128,7 @@ Most of 18F’s design research depends on you directly interacting with people.
 
 ### Identifying participant groups
 
-Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. We recommend asking “Who else should we speak with?” in these discovery issues. This can help you learn of user groups whose needs should be considered. You might focus future rounds of research on learning from people within these user groups.
+Because of the time-limited nature of 18F engagements, participant groups can depend on the [type of research]({{site.baseurl}}/research/clarify-the-basics/#research-types) you're doing and where you’re at in the overall design process. For example, if you’re doing stakeholder interviews as part of a Path Analysis project, you’re likely to learn more about who you need to talk to with each interview you do. We recommend asking “Who else should we speak with?” in these discovery issues. This can help you learn of groups whose needs should be considered. You might focus future rounds of research on learning from people within these groups.
 
 Once you've [framed a problem](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement) or research hypothesis, it’s important that your participant groups include people who represent the make-up of the public who may experience the problem or need to use the related service. User profiles and personas are a good place to start, if they are based on existing data. Revise them as you learn more about the users of your service.
 
@@ -153,7 +141,7 @@ Consider especially:
 - People who may need help using the service in question
 - People who have limited internet access
 
-[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+[The Access Board's Section 508 standards](https://www.section508.gov/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your research and usability testing. To learn more about inclusive design, visit [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 ### Defining recruitment criteria
 
@@ -182,7 +170,7 @@ It’s important to ensure the audiences you’re designing products and service
 
 #### Recruitment with non-native English speakers
 
-You could consider many scenarios to include non-native English speakers in user research activities, including:
+You could consider many scenarios to include non-native English speakers in research activities, including:
 - **Developing multilingual website content:** When your public-facing website is offered in multiple languages, you need to ensure the content in each language is written in plain language, accessible, and culturally appropriate. Set up usability sessions to test the content with people who speak these languages.
 
 - **Understanding barriers:** When you’re conducting discovery research to understand barriers that people face accessing your service, decide on multiple populations to conduct interviews with, including non-native English speakers.
@@ -191,9 +179,9 @@ We recommend recruiting people who speak the language you are focusing on as the
 
 Cultural and historical context matters when we decide how to screen for participants who speak certain languages and not others, especially when considering those who live in not just states but tribes and territories, too. If possible, consult on wording for screening questions with colleagues from the communities you want to conduct research with.  
 
-There are two distinct modes of engaging with language that you might encounter in the user research process: interpreting and translating.
+There are two distinct modes of engaging with language that you might encounter in the research process: interpreting and translating.
 
-**Interpreting:** Applies to spoken language in real time or with a delay. For example, including an interpreter in a user research interview with someone who only speaks Portuguese, or collaborating with an interviewer who will conduct interviews for you in the language you are focusing on. 
+**Interpreting:** Applies to spoken language in real time or with a delay. For example, including an interpreter in a research interview with someone who only speaks Portuguese, or collaborating with an interviewer who will conduct interviews for you in the language you are focusing on. 
 
 **Translating:** Applies to written content. This can include recruitment materials, your interview script, interview notes, and video clips.
 When translating materials, it’s essential to consider the cultural context of the demographic you’re recruiting. Some groups will need a little more context, some less. For instance, a newcomer to the U.S. may need a little more information about how to register and vote than a person who grew up in the U.S. and had voting woven into the fabric of their lives.
@@ -210,7 +198,7 @@ See if your partner agency has an Interagency Agreement (IAA) set up with either
 
 #### Resources for recruiting non-native English speakers
 
-The [Multilingual Community of Practice](https://digital.gov/communities/multilingual/?promo) is a valuable resource for practitioners across government to expand and improve digital content in languages other than English. It includes a mailing list where people can share user research opportunities seeking participants who speak particular languages, among other ideas, challenges and best practices for managing multilingual content and websites. 
+The [Multilingual Community of Practice](https://digital.gov/communities/multilingual/?promo) is a valuable resource for practitioners across government to expand and improve digital content in languages other than English. It includes a mailing list where people can share design research opportunities seeking participants who speak particular languages, among other ideas, challenges and best practices for managing multilingual content and websites. 
 
 #### Recruitment within underserved communities
 
@@ -226,7 +214,7 @@ Examples of underserved communities:
 - People otherwise adversely affected by persistent poverty or inequality
 
 #### Partnering with community organizations 
-When conducting user research with people who have been historically underserved, we must make sure we are not contributing to the power imbalances, extractive practices, and harm that led to these communities becoming underserved and marginalized in the first place. 
+When conducting research with people who have been historically underserved, we must make sure we are not contributing to the power imbalances, extractive practices, and harm that led to these communities becoming underserved and marginalized in the first place. 
 
 In this research, it is important to partner with community organizations, who work closely to support and advocate for the needs of their communities.
 
@@ -244,7 +232,7 @@ Just as you consider diversity in your recruitment criteria for participants, yo
 
 If your partner agency does not have established relationships with communities or the organizations that support them, carefully consider whether to move forward with this research. 
 
-We encourage you and your partner organization to weigh the tradeoffs of trying to introduce yourselves and the research opportunity. Recruiting is often the most time-consuming part of user research, and without established relationships with communities, you are more likely to encounter delays. It takes a long time to earn trust. 
+We encourage you and your partner organization to weigh the tradeoffs of trying to introduce yourselves and the research opportunity. Recruiting is often the most time-consuming part of design research, and without established relationships with communities, you are more likely to encounter delays. It takes a long time to earn trust. 
 
 #### Guiding questions to help you and your partner agency decide to conduct research with communities
 
@@ -271,9 +259,9 @@ To learn about various strategies for creating recruitment materials and screeni
 
 ### Compensating research participants
 
-GSA can compensate members of the public for participating in user research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. See the TTS Handbook for specifics on the process we use to [compensate user research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants).
+GSA can compensate members of the public for participating in design research. We can not compensate government employees. <strong>We must do research with people who will actually use our services</strong>. See the TTS Handbook for specifics on the process we use to [compensate research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/#compensating-user-research-participants).
 
-[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your user research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
+[Section 508 standards](https://www.access-board.gov/ict/) require that our designs are accessible to people with disabilities. The best way to make sure our products and services are accessible is to design for these users from the start. Include people with disabilities in your design research and usability testing. To learn more about inclusive design, visit [Accessibility for Teams](https://accessibility.digital.gov/), [18F's Accessibility Guide](https://accessibility.18f.gov/), or the TTS Accessibility guild [#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q).
 
 #### Why do we offer compensation?
 
