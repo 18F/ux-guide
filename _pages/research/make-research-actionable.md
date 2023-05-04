@@ -22,7 +22,7 @@ subnav:
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-Design research is most valuable when it leads to shared understanding.  Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
+Research with people is most valuable when it leads to shared understanding.  Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
 
 
 ## From data to insights
@@ -39,12 +39,13 @@ At 18F this generally involves:
 Making meaning always happens in relation to the research questions and/or problem statements identified during [research planning]({{site.baseurl}}/research/plan). Some questions you might ask:
 
 {:.list-item--margin-bottom-extra}
-- What notable experiences did participants share? What were outliers?
+- What notable experiences did people share? What were outliers?
 - What is the root cause of those experiences?
 - What is the context of their use of the product or service?
 - What is their mindset and/or emotional state while using the product or service?
 - What is their mental model of using the product or service?
-- Were there any differences between what users said and what they actually did?
+- Were there any differences between what people said and what they actually did?
+- What are the needs, motivations, and workflows of not only people using the service, but also those of staff supporting the service?
 
 ### Involving the team
 Finding patterns in research is a great time to involve partners and team members, especially people who were not involved in conducting the research. A collaborative approach helps to:
@@ -53,6 +54,7 @@ Finding patterns in research is a great time to involve partners and team member
 - Make research visible
 - Build consensus within the team
 - Harness the perspectives of different listeners (which can help correct for [bias]({{site.baseurl}}/research/bias)
+- Create artifacts that can generate buy-in for overall service design and organizational investments
 
 When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
 
@@ -70,7 +72,8 @@ Outside of writing a summary, you should choose your methods based on the desire
 - To build empathy for users and inform future design strategy, you might create a [mental model [18F design methods]](https://methods.18f.gov/decide/mental-modeling/) diagram, by combing through transcripts looking for reasonings, reactions, and guiding principles
 - To create reusable archetypes for grounding user stories and scenarios, you might create a [persona [18F design methods]](https://methods.18f.gov/decide/personas/), by reviewing transcripts for goals, behaviors, and pain points
 - To find themes in your data via a bottom-up process, try [affinity diagramming [18F design methods]](https://methods.18f.gov/decide/affinity-mapping/). Record ideas, quotes, or observations from your research on sticky notes (one idea per sticky note), place them on a wall or whiteboard, and then move the sticky notes into related groups. If working virtually, you can use digital whiteboarding tools such as Mural. Once you have the groupings, you can label them according to a theme or pattern.
-- To make the complexities of a work process or service visible, you might use [task flow analysis [18F design methods]](https://methods.18f.gov/decide/task-flow-analysis/) and [journey mapping [18F design methods]](https://methods.18f.gov/decide/journey-mapping/): these show connections between stakeholders or across organizational silos. Once you’ve visualized the process or journey, you can analyze for key interactions, pain points, and dependencies.
+- To make the complexities of a work process or service visible, you might use [task flow analysis [18F design methods]](https://methods.18f.gov/decide/task-flow-analysis/), service blueprints, or [journey mapping [18F design methods]](https://methods.18f.gov/decide/journey-mapping/): these show connections between stakeholders or across organizational silos. Once you’ve visualized the process or journey, you can analyze for key interactions, pain points, and dependencies.
+- To get buy-in from agency stakeholders or to validate insights and opportunities further with groups most impacted by the work, consider storytelling approaches within reporting, blog posts or press releases, presentations, or sharing sessions. 
 
 Whichever method you use, introduce it to your partner as well so they can build their research skills.
 
@@ -97,6 +100,7 @@ Artifacts that we use to do this include:
 - User stories
 - [Storyboards [18F design methods]](https://methods.18f.gov/decide/storyboarding/)
 - [Journey maps [18F design methods]](https://methods.18f.gov/decide/journey-mapping/)
+- Service blueprints 
 - [Prototypes [18F design methods]](https://methods.18f.gov/make/prototyping/)
 - Other creative outputs
 
@@ -104,7 +108,13 @@ These artifacts are tools for communicating the answers to your research questio
 
 ### Making decisions based on the research
 
-After each round of research, the whole team should identify how the research findings change the work planned for the next sprint. After discovery research, this could include prioritized areas for further exploration or prototyping. For a new or existing product, this could include new bugs identified, new features to explore, or a different design focus.
+After each round of research, the whole team should identify how the research findings change the work planned for the next sprint or for future service design efforts. After discovery research, this could include prioritized areas for further exploration or prototyping. For a new or existing product, this could include new bugs identified, new features to explore, or a different design focus.
+
+Artifacts are most useful when you act on them. For example, a current-state service blueprint could highlight the lengthy amount of time it takes for the public to receive certain benefits, while also highlighting the constraints that staff experience processing applications. What do you do next with these learnings? Here are some activities your team could do to act on these opportunity areas: 
+
+- __Develop user stories:__ A user story is one or more sentences in the language of the user that captures what a user needs to accomplish. You can write it like this: “As a [X], I need [Y] so that I (can) [benefit].” Based on the learnings from the service blueprint, you can create user stories for the public and staff that can inspire recommendations. These user stories can be incorporated into sprint planning at the ticket level, where you can also link back to the service blueprint that inspired these user stories. 
+- __Conduct a prioritization exercise:__ Your team may have a variety of ideas to reduce the time it takes to deliver benefits for both the public and staff. You can set up a two-by-two matrix on a virtual or physical whiteboard, with “level of effort” on the x-axis and “level of impact” on the y-axis. With input from your team’s product owner and any teams impacted by these ideas, like a representative from the staff processing benefit applications, you can plot the ideas from your service blueprint on this matrix. During this exercise, it is important to consider how proposed changes to the product or service could impact the staff delivering the service, which is why it is important to have a representative from the staff participate. Ideas with high impact and low effort could make sense to prioritize first, while ideas with high impact and high effort could be revisited later.
+- __Incorporate recommendations into the product roadmap:__ Based on the results of your prioritization exercise, you can slot recommendations into your [roadmap](https://product-guide.18f.gov/define/roadmap/), using a “Soon/next/later” framework.
 
 
 ## Sharing
@@ -125,7 +135,8 @@ Our research often gets shared far beyond the project team. Depending on the pro
 - The broader 18F organization (chapters, guilds, business development, etc.)
 - Managers and employees above and across our partner’s organization (managers, engineers, press offices, steering committees, legislative bodies, etc.)
 - Other government agencies
-- Members of the public (vendors, press, curious citizens)
+- Policymakers
+- Members of the public (community-based organizations, advocacy groups, vendors, press, others impacted or interested)
 
 Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively.
 
@@ -158,7 +169,7 @@ Research handoffs occur when wrapping up a round of research or an engagement, w
 
 {:.list-item--margin-bottom-extra}
 - Who will lead the research moving forward?
-- What will the next research team who picks this up this need to know?
+- What will the next research team who picks this up need to know?
 - Are the notes, recordings, and findings properly organized? ([List of things to catalog](https://docs.google.com/document/d/1m4Q98Ah8XdUs4kfJk7n9vwAEhNApoXMWib_jptMF63Y/edit).
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
 - Who should have access to what data? How will we get it to them?

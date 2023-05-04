@@ -12,7 +12,7 @@ subnav:
   href: '#our-principles'
 ---
 
-We believe good design helps government better serve the public. 18F UX designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
+We believe good design helps government better serve the public. 18F designers join cross-functional teams to improve interactions between government agencies and the people they serve. Together, we’re helping build a 21st century government that works for all.
 
 Our approach is fundamentally collaborative. This document exists to help our cross-functional and often cross-agency teams collaborate better through a shared understanding of the values and principles that guide us.
 
@@ -54,7 +54,7 @@ Having a team with varied life experience — particularly around issues of acce
 
 ### We use an iterative process of learning and discovery informed by data
 
-A flexible vision is critical. We use data and direct conversations with and involvement of relevant members of the public to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams the context to make better decisions. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean that little mistakes don’t become big failures.
+A flexible vision is critical. We use data and direct conversations with relevant members of the public to inform our decisions. We prototype ideas and do frequent rounds of research to give our teams the context to make better decisions about products and services. We deliver early and often, using an iterative cycle of build, test, and learn to refine our ideas over time. Quick feedback loops keep the cost of change low and mean that little mistakes don’t become big failures.
 
 ### We coach advocates
 
