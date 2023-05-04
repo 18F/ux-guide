@@ -6,10 +6,10 @@ permalink: /our-approach/stay-lean/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:
-  - text: Lean UX at 18F
-    href: '#lean-ux-at-18f'
-  - text: Lean UX Principles
-    href: '#lean-ux-principles'
+  - text: Lean Design at 18F
+    href: '#lean-design-at-18f'
+  - text: Lean Design Principles
+    href: '#lean-design-principles'
   - text: Acknowledgements
     href: '#acknowledgements'
 ---
