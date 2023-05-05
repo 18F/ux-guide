@@ -22,7 +22,7 @@ subnav:
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
 
-Design research is most valuable when it leads to shared understanding. Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
+Research with people is most valuable when it leads to shared understanding. Analysis, synthesis, and sharing help us reflect on the data we’ve collected and determine a course of action that involves the broader team.
 
 
 ## From data to insights
@@ -45,6 +45,7 @@ Making meaning always happens in relation to the research questions and/or probl
 - What is their mindset and/or emotional state while using the product or service?
 - What is their mental model of using the product or service?
 - Were there any differences between what people said and what they actually did?
+- What are the needs, motivations, and workflows of the people using the service, as well as, the people supporting the service?
 
 ### Involving the team
 Finding patterns in research is a great time to involve partners and team members, especially people who were not involved in conducting the research. A collaborative approach helps to:
@@ -55,7 +56,7 @@ Finding patterns in research is a great time to involve partners and team member
 - Correct for[bias]({{site.baseurl}}/research/bias) by ensuring research insights aren’t influenced by individual preferences and including reviews from multiple perspectives.
 - Increase the value of research for your teammates by making research visible and involving them in the review of data.
 
-When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of power dynamics and your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research.
+When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of power dynamics and your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
 
 ### De-identifying data
 
@@ -63,7 +64,7 @@ Before conducting shared analysis or synthesis, make sure that any quote could b
 
 ### Choosing methods
 
-Making meaning out of research can involve any number of different [methods [18F design methods]](https://methods.18f.gov). The most basic method is writing a summary of what you found. Write a brief summary of the data you collected that, when read together with your [research plan]({{ site.baseurl }}/resources/research-plan)documents the research itself: the questions you started with, how you went about answering them, what you learned, and why it matters. Aim for true and useful, rather than comprehensive.
+Making meaning out of research can involve any number of different [methods [18F design methods]](https://methods.18f.gov). The most basic method is writing a summary of what you found. Write a brief summary of the data you collected that, when read together with your [research plan]({{ site.baseurl }}/resources/research-plan), documents the research itself: the questions you started with, how you went about answering them, what you learned, and why it matters. Aim for true and useful, rather than comprehensive.
 
 Outside of writing a summary, you should choose your methods based on the desired outputs and outcomes of your research. For example:
 
@@ -107,7 +108,12 @@ These artifacts are tools for communicating the answers to your research questio
 
 ### Making decisions based on the research
 
-After each round of research, the whole team should identify how the research findings change the work planned for the next sprint. After discovery research, this could include prioritized areas for further exploration or prototyping. For a new or existing product, this could include new bugs identified, new features to explore, or a different design focus.
+After each round of research, the whole team should identify how the research findings change the work planned for the next sprint or for future service design efforts. After discovery research, this could include prioritized areas for further exploration or prototyping. For a new or existing product, this could include new bugs identified, new features to explore, or a different design focus.
+
+Artifacts are most useful when you act on them. For example, a current-state service blueprint could highlight the lengthy amount of time it takes for the public to receive certain benefits, while also highlighting the constraints that staff experience processing applications. What do you do next with these learnings? Here are some activities your team could do to act on these opportunity areas: 
+- __Develop user stories:__ A user story is one or more sentences in the language of the user that captures what a user needs to accomplish. You can write it like this: “As a [X], I need [Y] so that I (can) [benefit].” Based on the learnings from the service blueprint, you can create user stories for the public and staff that can inspire recommendations. These user stories can be incorporated into sprint planning at the ticket level, where you can also link back to the service blueprint that inspired these user stories. 
+- __Conduct a prioritization exercise:__ Your team may have a variety of ideas to reduce the time it takes to deliver benefits for both the public and staff. You can set up a two-by-two matrix on a virtual or physical whiteboard, with “level of effort” on the x-axis and “level of impact” on the y-axis. With input from your team’s product owner and any teams impacted by these ideas, like a representative from the staff processing benefit applications, you can plot the ideas from your service blueprint on this matrix. During this exercise, it is important to consider how proposed changes to the product or service could impact the staff delivering the service, which is why it is important to have a representative from the staff participate. Ideas with high impact and low effort could make sense to prioritize first, while ideas with high impact and high effort could be revisited later.
+- __Incorporate recommendations into the product roadmap:__ Based on the results of your prioritization exercise, you can slot recommendations into your [roadmap](https://product-guide.18f.gov/define/roadmap/), using a “Soon/next/later” framework.
 
 ## Sharing research
 
@@ -128,7 +134,7 @@ Our research often gets shared far beyond the project team. Depending on the pro
 - Managers and employees above and across our partner’s organization (managers, engineers, press offices, steering committees, legislative bodies, etc.)
 - Other government agencies
 - Policymakers
-- Members of the public (vendors, press, curious citizens)
+- Members of the public (community-based organizations, advocacy groups, vendors, press, others impacted or interested)
 
 Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively.
 
