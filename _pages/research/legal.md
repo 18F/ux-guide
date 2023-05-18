@@ -10,6 +10,8 @@ subnav:
   href: '#compensating-research-participants-and-participant-agreements'
 - text: The Paperwork Reduction Act of 1995
   href: '#the-paperwork-reduction-act-of-1995'
+- text: PRA clearance considerations
+  href: '#pra-clearance-considerations'
 - text: Additional questions
   href: '#additional-questions'
 ---
@@ -55,6 +57,7 @@ Some tweet-length examples:
 Detailed guidance on what needs PRA clearance is available on [pra.digital.gov](https://pra.digital.gov/). Note, not every request or collection falls under the PRA’s scope, and you may not need clearance at all. **Always ask about PRA** throughout a project’s lifecycle.
 
 When figuring out if PRA clearance is needed, consider the following:
+
 - What type of information are you collecting,
 - Who are you collecting it from,
 - How will you be collecting it, and
@@ -65,6 +68,7 @@ When figuring out if PRA clearance is needed, consider the following:
 Below are considerations for when clearance is needed and what type of clearance may be appropriate. Find out more about [types of clearances on PRA’s website](https://pra.digital.gov/clearance-types/). 
 
 Keep in mind some activities **don’t** need PRA clearance. This includes 
+
 - General requests for public input and comments.
 - Information asked for or received in connection with a public hearing or meeting.
 - Activities with fewer than 10 people. 
@@ -75,6 +79,7 @@ Keep in mind some activities **don’t** need PRA clearance. This includes
 Visit the PRA website’s [Do I need a clearance page](https://pra.digital.gov/do-i-need-clearance/) for more information. 
 
 What needs PRA clearance?
+
 - Forms, such as the IRS 1040.
 - Program evaluations, such as looking at the outcomes of a subsidized housing initiative for seniors.
 - Applications for benefits and grant programs.
@@ -85,28 +90,31 @@ Note, **voluntary collections are not automatically exempt from PRA clearance**.
 ### Full PRA
 
 The full PRA process is outlined on the [PRA website](https://pra.digital.gov/clearance-process/). 
+
 Using the PRA process, a new information collection request (ICR) can take an estimated 9 to 12 months to complete. 
 
 ### PRA-exempt and -fast track 
 In addition to the full PRA process, there may be other approaches for 18F teams to consider depending on research method and scope. 
 
-- **PRA-exempt research methods.** These methods don’t require PRA and include:
-  - **Direct observation** — this could include observing how someone uses a website to test their abilities or knowledge.
-  - **Unstructured or non-standardized interviews** — this could include asking for information through an unstructured format that has clarifying  follow-up questions that change based on the conversation. (Note, whenever you are posing identical, structured questions or information requests to 10 or more people, this will normally require PRA approval.)
-  - Visit the [PRA website](https://pra.digital.gov/do-i-need-clearance/) for more information.
-- **“Fast-track” research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
-  - 18F teams may use GSA’s generic clearances. 
-      - **Consider first** — In 2022, GSA received a generic clearance specifically designed for customer experience (CX) or user experience (UX) work. 
-The clearance is A11-280 (control number at GSA is 3090-0325), which is active until April 30, 2025. 
-This has a much faster turnaround than other generic clearances. 
-For research efforts that may fall under this GSA generic clearance, refer to an outline of steps [internal link].
-See also these internal resources for examples: sample PRA fast-track. [internal link] 
-Additional consideration — GSA also has a generic clearance for fast-track qualitative service delivery. 
-This process goes through the standard officers. 
-This generic clearance is not as focused on CX/UX as A11-280. It is active until June 30, 2025. 
-If 18F is partnered on a project with another agency, teams may consider using GSA’s generic clearances or the partner’s agency clearances (if applicable) for the project. 
-This approach may depend on the type of research and which clearance may apply. 
-Reach out to PRA contacts early in the process to see what’s possible.   
+**PRA-exempt research methods.** These methods don’t require PRA and include:
+
+- **Direct observation** — this could include observing how someone uses a website to test their abilities or knowledge.
+- **Unstructured or non-standardized interviews** — this could include asking for information through an unstructured format that has clarifying  follow-up questions that change based on the conversation. (Note, whenever you are posing identical, structured questions or information requests to 10 or more people, this will normally require PRA approval.)
+- Visit the [PRA website](https://pra.digital.gov/do-i-need-clearance/) for more information.
+
+**“Fast-track” research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
+- 18F teams may use GSA’s generic clearances. 
+  - **Consider first** — In 2022, GSA received a generic clearance specifically designed for customer experience (CX) or user experience (UX) work. 
+    - The clearance is A11-280 (control number at GSA is 3090-0325), which is active until April 30, 2025. 
+    - This has a much faster turnaround than other generic clearances. 
+    - For research efforts that may fall under this GSA generic clearance, refer to an outline of steps [internal link].
+    - See also these internal resources for examples: sample PRA fast-track. [internal link] 
+  - Additional consideration — GSA also has a generic clearance for fast-track qualitative service delivery. 
+    - This process goes through the standard officers. 
+    - This generic clearance is not as focused on CX/UX as A11-280. It is active until June 30, 2025. 
+- If 18F is partnered on a project with another agency, teams may consider using GSA’s generic clearances or the partner’s agency clearances (if applicable) for the project. 
+   - This approach may depend on the type of research and which clearance may apply. 
+   - Reach out to PRA contacts early in the process to see what’s possible.   
 
 
 ## Additional questions
