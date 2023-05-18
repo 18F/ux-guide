@@ -105,16 +105,32 @@ In addition to the full PRA process, there may be other approaches for 18F teams
 **“Fast-track” research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
 - 18F teams may use GSA’s generic clearances. 
   - **Consider first** — In 2022, GSA received a generic clearance specifically designed for customer experience (CX) or user experience (UX) work. 
-    - The clearance is A11-280 (control number at GSA is 3090-0325), which is active until April 30, 2025. 
+    - The clearance is [A11-280](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-3090-003) (control number at GSA is 3090-0325), which is active until April 30, 2025. 
     - This has a much faster turnaround than other generic clearances. 
-    - For research efforts that may fall under this GSA generic clearance, refer to an outline of steps [internal link].
-    - See also these internal resources for examples: sample PRA fast-track. [internal link] 
-  - Additional consideration — GSA also has a generic clearance for fast-track qualitative service delivery. 
+    - For research efforts that may fall under this GSA generic clearance, refer to an [outline of steps](https://docs.google.com/document/d/1r0-AQ6DChw3FoZEV9q6K9dnhEa05uwLyPcEzLAV74FI/edit).
+    - See also these internal resources for examples: [sample PRA fast-track](https://drive.google.com/drive/folders/11fe_mlPZtEnW1TSA5-BG29IlHiiarpSj). 
+  - **Additional consideration** — GSA also has a [generic clearance for fast-track qualitative service delivery](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202205-3090-001). 
     - This process goes through the standard officers. 
-    - This generic clearance is not as focused on CX/UX as A11-280. It is active until June 30, 2025. 
+    - This [generic clearance](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202205-3090-001) is not as focused on CX/UX as A11-280. It is active until June 30, 2025. 
 - If 18F is partnered on a project with another agency, teams may consider using GSA’s generic clearances or the partner’s agency clearances (if applicable) for the project. 
    - This approach may depend on the type of research and which clearance may apply. 
-   - Reach out to PRA contacts early in the process to see what’s possible.   
+   - Reach out to [PRA contacts](https://pra.digital.gov/contact/) early in the process to see what’s possible.   
+
+### PRA and multiple languages
+
+Depending on the scope of the project, teams may also consider how to approach PRA when working in multiple languages. 
+
+Considerations to keep in mind:
+
+- You can submit PRA for multiple languages on the same form if the documents are a direct translation in each language.
+- You can submit the translated versions as they become available. 
+- If translating from English, anticipate and plan for the possibility of English language materials being cleared prior to receiving clearance for languages in other materials. Coordinate with your team and translation service on the desired timeline, and how to create the best forms with the fewest edits needed. 
+- Once approved, minor updates can be made without re-approval, but must be made in all languages to match. The PRA reviewer has requested that a docx and a screenshot of the form be submitted for record keeping.
+- You may need to translate legal PRA language.
+
+Remember to plan ahead and always ask about PRA over the course of a project! Be sure to check with your PRA contact as soon as possible in the process. 
+
+For more information, refer to the [PRA website](https://pra.digital.gov/).
 
 
 ## Additional questions
