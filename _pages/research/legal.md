@@ -125,7 +125,7 @@ Considerations to keep in mind:
 - You can submit PRA for multiple languages on the same form if the documents are a direct translation in each language.
 - You can submit the translated versions as they become available. 
 - If translating from English, anticipate and plan for the possibility of English language materials being cleared prior to receiving clearance for languages in other materials. Coordinate with your team and translation service on the desired timeline, and how to create the best forms with the fewest edits needed. 
-- Once approved, minor updates can be made without re-approval, but must be made in all languages to match. The PRA reviewer has requested that a docx and a screenshot of the form be submitted for record keeping.
+- Once approved, minor updates can be made without re-approval, but must be made in all languages to match. The PRA reviewer has requested that a document file and a screenshot of the form be submitted for record keeping.
 - You may need to translate legal PRA language.
 
 Remember to plan ahead and always ask about PRA over the course of a project! Be sure to check with your PRA contact as soon as possible in the process. 
