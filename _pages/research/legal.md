@@ -93,7 +93,7 @@ The full PRA process is outlined on the [PRA website](https://pra.digital.gov/cl
 
 Using the PRA process, a new information collection request (ICR) can take an estimated 9 to 12 months to complete. 
 
-### PRA-exempt and -fast track 
+### Exempt and fast-track process 
 In addition to the full PRA process, there may be other approaches for 18F teams to consider depending on research method and scope. 
 
 **PRA-exempt research methods.** These methods don’t require PRA and include:
