@@ -99,7 +99,7 @@ In addition to the full PRA process, there may be other approaches for 18F teams
 **PRA-exempt research methods.** These methods don’t require PRA and include:
 
 - **Direct observation** — This could include observing how someone uses a website to test their abilities or knowledge.
-- **Unstructured or non-standardized interviews** — this could include asking for information through an unstructured format that has clarifying  follow-up questions that change based on the conversation. (Note, whenever you are posing identical, structured questions or information requests to 10 or more people, this will normally require PRA approval.)
+- **Unstructured or non-standardized interviews** — This could include asking for information through an unstructured format that has clarifying  follow-up questions that change based on the conversation. (Note, whenever you are posing identical, structured questions or information requests to 10 or more people, this will normally require PRA approval.)
 - Visit the PRA website’s [Do I need a clearance page](https://pra.digital.gov/do-i-need-clearance/) for more information.
 
 **Fast-track research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
