@@ -102,7 +102,7 @@ In addition to the full PRA process, there may be other approaches for 18F teams
 - **Unstructured or non-standardized interviews** — this could include asking for information through an unstructured format that has clarifying  follow-up questions that change based on the conversation. (Note, whenever you are posing identical, structured questions or information requests to 10 or more people, this will normally require PRA approval.)
 - Visit the [PRA website](https://pra.digital.gov/do-i-need-clearance/) for more information.
 
-**“Fast-track” research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
+**Fast-track research under agencies’ [generic clearances](https://pra.digital.gov/clearance-types/#generic-clearance).**
 - 18F teams may use GSA’s generic clearances. 
   - **Consider first** — In 2022, GSA received a generic clearance specifically designed for customer experience (CX) or user experience (UX) work. 
     - The clearance is [A11-280](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-3090-003) (control number at GSA is 3090-0325), which is active until April 30, 2025. 
