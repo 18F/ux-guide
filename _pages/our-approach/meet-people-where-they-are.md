@@ -150,8 +150,8 @@ Practicing user-centered design in government is complex. In some cases, we can 
 As we collaboratively design with partners, we should ask:
 
 {:.list-item--margin-bottom-extra}
-- Which policies will shape our design? (see [Digital.gov's list of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/))
-- Which policies will shape our design process? (are we considering a research design that will require approval from our partner’s Paperwork Reduction Act Desk Officer?)
+- Which policies will shape our design? (See [Digital.gov's list of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/))
+- Which policies will shape our design process? (Are we considering a research design that will require approval from our partner’s Paperwork Reduction Act Desk Officer? See [legal](https://ux-guide.18f.gov/research/legal/) page for considerations.))
 - Whose permission will be required if we need a policy exception?
 
 We recognize our partners are working to deliver their missions in a complex ecosystem of regulatory, organizational, and technological policies and constraints. Taking the time upfront to agree on tools and practices helps set the foundation for a strong collaboration.
