@@ -363,6 +363,8 @@ Regardless of the method you choose, keep in mind the overall reasons why we doc
 - When even attendees’ memories eventually fade, we can refer back to the notes; and
 - We create a starting point for analysis and synthesis.
 
+While several of 18F research methods are exempt under the [Paperwork Reduction Act (PRA)](https://pra.digital.gov/) clearance process, be sure to review [legal](https://ux-guide.18f.gov/research/legal/) considerations at the start and throughout the process to avoid any possible issues. Individual [methods’ pages](https://methods.18f.gov/) may have further PRA considerations.
+
 ## Additional reading
 
 - [Examples of past research plans from past 18F projects on GitHub](https://github.com/18F/Design-Wiki/wiki/Research-Protocol)
