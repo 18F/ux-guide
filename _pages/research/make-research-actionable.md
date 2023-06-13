@@ -164,7 +164,7 @@ One of the ways we do this at 18F is sharing a “weekly ship” of what the tea
 
 ### Tribal data sovereignty and sharing with participants
 
-While it’s not always relevant or practical to shareback primary data collected with all research participants, it’s crucial to the efforts of [Tribal data sovereignty]([https://18f.gsa.gov/2017/10/11/pulling-back-the-curtain-on-it-procurement/](https://bja.ojp.gov/doc/tribal-data-sovereignty-presentation.pdf). Indigenous data sovereignty is the right of a nation to govern the collection, ownership, and application of its own data. 
+While it’s not always relevant or practical to shareback primary data collected with all research participants, it’s crucial to the efforts of [Tribal data sovereignty](https://bja.ojp.gov/doc/tribal-data-sovereignty-presentation.pdf). Indigenous data sovereignty is the right of a nation to govern the collection, ownership, and application of its own data. 
 
 Tribal Nations have not historically had complete control or autonomy over their data and knowledge. In order to fulfill [Federal trust and treaty responsibilities to Tribal Nations](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/), federal employees should promote [ethical research]({{site.baseurl}}/research/ethics) and enhance the research capacity of Tribal governments by providing people who participate in research with the opportunity to have the data collected from them. 
 
