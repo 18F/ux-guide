@@ -10,8 +10,6 @@ subnav:
     href: '#writing-a-research-plan'
   - text: Participants and recruiting
     href: '#participants-and-recruiting'
-  - text: Ethical considerations
-    href: '#ethical-considerations'
   - text: Outputs and outcomes
     href: '#outputs-and-outcomes'
   - text: Involving partners in research planning
@@ -59,6 +57,12 @@ Design research is fundamentally about reducing risk and informing decisions. Wh
 Research can also have subgoals. For example, some agencies choose to work with 18F to learn more about our approach. Explicitly stating these kinds of subgoals helps provide an honest account of the coaching work that the team will undertake alongside the research itself.
 
 Everyone on the team should agree on the research goals. Clarifying [research types]({{site.baseurl}}/research/clarify-the-basics/#research-types) is a useful starting point for this conversation.
+
+### Ethical considerations
+
+Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns and ensure that your research will not bring harm to participants. 
+
+Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust as we discuss further on our blog](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
 ### Research questions
 
@@ -272,13 +276,6 @@ In addition to paying participants, there are other ways to recognize the value 
 - Resources for additional information on the topic
 - Offering to find out answers to questions they may have
 - Sharing outcomes of the research, and how the research impacted the final product
-
-## Ethical considerations
-
-Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns.
-
-Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust as we discuss further on our blog](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
-
 
 ## Outputs and outcomes
 
