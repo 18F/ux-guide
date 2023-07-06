@@ -26,18 +26,24 @@ subnav:
 
 All research is subject to bias, whether in our choice of who participates, which pieces of information we collect, or how we interpret what we've collected. Proactively engaging with bias helps us improve the credibility of our research. 
 
-What is bias?
+## What is bias?
 Bias is a tendency to believe that some people, ideas, etc., are better than others based solely on preconceived opinions. Everyone carries their past experiences and multiple identities (e.g., your age, gender, education) into their work, which can generate assumptions and biases about who people are and what they need. While everyone has biases, unaddressed biases usually result in unfair assumptions and/or unsubstantiated decision-making. 
-For more information and examples of bias, watch the TTS Diversity Guild training on Designing for Cognitive Bias (TTS only link). 
-How bias affects research
+
+For more information and examples of bias, watch the TTS Diversity Guild training on [Designing for Cognitive Bias](https://drive.google.com/file/d/1wzOeci2SkVHiWz-Mo7ubET1viWzlSlr8/view?usp=sharing) (TTS only link). 
+
+## How bias affects research
 Historically, parts of the design industry asserted that design and research can and should be neutral or objective, but that’s not realistic or possible. All design and research is subject to bias—whether in the choice of who participates, which pieces of information you collect, or how you interpret what you’ve collected. It’s important to be aware of how and where our biases show up in our research so that we don’t overlook other perspectives or make assumptions based on experiences that are not our own. 
-How to account for bias
+
+## How to account for bias
 You can actively work to identify your biases by including diverse perspectives in your research, understanding the context in which you are conducting research, and identifying and reducing potential harm to participants and communities. 
 In general, you can acknowledge and address bias and arrive at better solutions by intentionally including people throughout the design process, as well as by helping your team see research as a team activity. 
 Create a practice of awareness and reflection
+
 Start with acknowledging that you can’t know the full experience of a community you are not a member of, and that you can only hope to increase your awareness of their point of view as it relates to the service you are working on. 
+
 Individually or with your team, surface your biases assumptions using this GSA-only: frames of reference bias identification workshop so the team can avoid influencing the evidence they gather based on the things they presume to be true
-Be accountable
+
+### Be accountable
 Create a role on the team for challenging the team’s assumptions and perspectives to avoid groupthink. Consider rotating this responsibility so that everyone tries holding views counter to the dominant take. Rotating this role also avoids having one person holding that position throughout a project, which can be draining. 
 Clarify the difference between stakeholders (usually public servants) and users of your product/service (usually the public) and who will benefit from your work
 Diversify perspectives
