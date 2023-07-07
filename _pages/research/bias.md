@@ -7,43 +7,43 @@ sidenav: research
 sticky_sidenav: true
 subnav:
   - text: What is bias?
-    href: '#What-is-bias?'
+    href: '#what-is-bias?'
   - text: How bias affects research
-    href: '#How-bias-affects-research'
+    href: '#how-bias-affects-research'
   - text: How to account for bias 
-    href: '#How-to-account-for-bias'
+    href: '#how-to-account-for-bias'
   - text: Create a practice of awareness and reflection
-    href: '#Create-a-practice-of-awareness-and-reflection'
+    href: '#create-a-practice-of-awareness-and-reflection'
   - text: Be accountable 
-    href: '#Be-accountable'
+    href: '#be-accountable'
   - text: Diversify perspectives
-    href: '#Diversify-perspectives'
+    href: '#diversify-perspectives'
   - text: Build rapport with research participants
-    href: '#Build-rapport-with-research-participants'
+    href: '#build-rapport-with-research-participants'
   - text: Interpreting interview data
-    href: '#Interpreting-interview-data' 
+    href: '#interpreting-interview-data' 
   - text: Types of bias in research
-    href: '#Types-of-bias-in-research'
+    href: '#types-of-bias-in-research'
   - text: Confirmation bias
     href: '#confirmation-bias'
   - text: Cultural bias
-    href: '#Cultural-bias'
+    href: '#cultural-bias'
   - text: Framing effect 
-    href: '#Framing-effect'
+    href: '#framing-effect'
   - text: Interviewer bias
     href: '#interviewer-bias'
   - text: The observer effect
     href: '#the-observer-effect'
   - text: Research design bias 
-    href: '#Research-design-bias'
+    href: '#research-design-bias'
   - text: Sampling bias
     href: '#sampling-bias'
   - text: Social desirability bias
     href: '#social-desirability-bias'
   - text: Survivorship bias
-    href: '#Survivorship-bias'
+    href: '#survivorship-bias'
   - text: Further reading
-    href: '#Further-reading'
+    href: '#further-reading'
 ---
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
