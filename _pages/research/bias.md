@@ -7,7 +7,7 @@ sidenav: research
 sticky_sidenav: true
 subnav:
   - text: What is bias?
-    href: '#what-is-bias?'
+    href: '#what-is-bias'
   - text: How bias affects research
     href: '#how-bias-affects-research'
   - text: How to account for bias 
@@ -33,7 +33,7 @@ subnav:
   - text: Interviewer bias
     href: '#interviewer-bias'
   - text: The observer effect
-    href: '#the-observer-effect'
+    href: '#observer-effect'
   - text: Research design bias 
     href: '#research-design-bias'
   - text: Sampling bias
