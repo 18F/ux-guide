@@ -8,7 +8,7 @@ sticky_sidenav: true
 subnav:
   - text: What is bias?
     href: '#What-is-bias?'
--  text: How bias affects research
+  - text: How bias affects research
     href: '#How-bias-affects-research'
   - text: How to account for bias 
     href: '#How-to-account-for-bias'
@@ -16,7 +16,7 @@ subnav:
     href: '#Create-a-practice-of-awareness-and-reflection'
   - text: Be accountable 
     href: '#Be-accountable'
-   - text: Diversify perspectives
+  - text: Diversify perspectives
     href: '#Diversify-perspectives'
   - text: Build rapport with research participants
     href: '#Build-rapport-with-research-participants'
@@ -29,18 +29,18 @@ subnav:
   - text: Cultural bias
     href: '#Cultural-bias'
   - text: Framing effect 
-    href: '#Framing-effect'        
+    href: '#Framing-effect'
   - text: Interviewer bias
     href: '#interviewer-bias'
   - text: The observer effect
     href: '#the-observer-effect'
   - text: Research design bias 
     href: '#Research-design-bias'
- - text: Sampling bias
+  - text: Sampling bias
     href: '#sampling-bias'
   - text: Social desirability bias
     href: '#social-desirability-bias'
-   - text: Survivorship bias
+  - text: Survivorship bias
     href: '#Survivorship-bias'
   - text: Further reading
     href: '#Further-reading'
