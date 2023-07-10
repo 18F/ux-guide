@@ -361,7 +361,7 @@ Thank you for observing! Your team appreciates your participation.
 
 ## Debriefing
 
-Debriefing is a useful way to discuss and capture what everyone took away from a session. It is important to debrief shortly after each session, while the details are still fresh in everyone’s minds. Keep in mind, debriefing is not synthesis — unless you're doing continuous synthesis, it's good to keep it descriptive only and move assessment until later in the research process.
+Debriefing is a useful way to discuss and capture what everyone took away from a session. It is important to debrief shortly after each session, while the details are still fresh in everyone’s minds. To mitigate [bias]({{ site.baseurl }}/research/bias) while debriefing, use your notes from the session to ensure you are not relying solely on recall to form your impressions and insights. Keep in mind, debriefing is not synthesis — unless you're doing continuous synthesis, it's good to keep it descriptive only and move assessment until later in the research process.
 
 Here are a few high-level things to capture in a debrief:
 
