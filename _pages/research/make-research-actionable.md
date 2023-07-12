@@ -47,6 +47,12 @@ Making meaning always happens in relation to the research questions and/or probl
 - Were there any differences between what people said and what they actually did?
 - What are the needs, motivations, and workflows of the people using the service, as well as, the people supporting the service?
 
+### Multiple user groups might require multiple solutions
+The public is made up of people with different needs and might require different designs. Most products are set to solve things for their majority user. Accommodate different contexts, access methods, languages, and user cases. If you are designing one path to a government service, who might be left out? Consider: 
+- What are the tradeoffs around prioritizing the “majority” of users over “edge users?” 
+- How might cognitive load and tech savviness imply different needs from a website or require different navigation paths through a service or product?  
+- How might work schedules, access to transportation or physical ability  impact when and for how long someone might be able to use the in person component of a service?
+
 ### Involving the team
 Finding patterns in research is a great time to involve partners and team members, especially people who were not involved in conducting the research. A collaborative approach helps to:
 
@@ -137,9 +143,9 @@ Our research often gets shared far beyond the project team. Depending on the pro
 - Policymakers
 - Members of the public (community-based organizations, advocacy groups, vendors, press, others impacted or interested)
 
-Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively.
-
-Data can tell different stories. It's important that those who are experiencing inequity be involved in crafting the stories the data tells. If it data will be shared outside of its original purpose don't remove the context around it.   Recontextualised data doesn’t not honor the people who provided the data.
+Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively. 
+- Be careful of the conclusions you draw from any one study. Be honest to yourself and your partners about what you can and cannot conclude based on your research. Do not overstate your findings.
+- If data will be shared outside of its original purpose don't remove the context around it. Recontextualised data doesn’t not honor the people who provided the data.
 
 ### Presenting the work
 
@@ -158,7 +164,6 @@ Avoid stereotyping and generalizing in how you present findings, especially when
 - Contextualize quotes from participants. You should not assume identity based on appearance, rely solely on a participant’s self-identification.
   - Instead of “LGBT+ people felt included with our new form design.” Try something like, “The two participants who selected the non-binary gender option remarked this addition made them feel included.”
   - Methodological triangulation (using multiple data sets; for example, augmenting qualitative interview data with quantitative statistical data) can help minimize the risk of unintentionally perpetuating biases expressed by individual interview participants
-- When sharing data from proxy measures, present them in context to explain what they stand in for. If a metric is a proxy for something else make sure it is clear what is the important factor to change. 
 
 ### Lightweight sharing
 
