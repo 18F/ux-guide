@@ -284,7 +284,8 @@ While UX Designers heavily utilize interviews, we also use a variety of other me
 
 ### Moderating sensitive research sessions
 
-- Take time to be informed about the topic so you don't make participants needlessly explain uncomfortable information. 
+- Take time to be informed about the topic so you don't make participants needlessly explain uncomfortable information.
+  - Gov.UK advises when [researching emotionally sensitive subjects](https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects) to consult a subject matter expert who has insights into your audience of focus to ensure your questions are appropriate and the discussion will not harm your participant.
 - Ask for consent on a granular basis, not just at the beginning of an interview.
  - Acknowledge the session might be difficult and note they can change their mind during the conversation or afterward with no penalty.
  - Don’t assume their experience was traumatizing but just because they agreed to talk with you doesn’t mean they knew what they were getting into or how it would feel in the moment. You don’t have to ask for consent for every question, but the first time you hit a topic that might bring up a stressful time, tell the person what you’d like to talk about, and ask if that’s ok. This sets up the dynamic that they can help steer the conversation. 
