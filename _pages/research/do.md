@@ -225,7 +225,7 @@ You must also let participants know:
 
 Here is a [template for passing along a participant agreement]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement)<br /> ([Template for passing along a participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit))
 
-Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable and they understand thatparticipation is 100% voluntary and there are no repercussions for opting out. If someone is uncomfortable with or prefers not to sign a participant agreement, consider offering them alternative opportunities to participate that don't involve you recording or taking notes. 
+Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable and they understand that participation is 100% voluntary and there are no repercussions for opting out. If someone is uncomfortable with or prefers not to sign a participant agreement, consider offering them alternative opportunities to participate that don't involve you recording or taking notes. 
 
 If your plans for keeping research-related records changes later, it’s your responsibility to communicate to participants about any changes in the use of their data.
 
@@ -278,6 +278,7 @@ Moderating a research session can be nuanced, but we encourage all team members 
 - Remind them they can take a break or end the interview at any time.
 - Give space for people to pause. When there is a silence, try counting to five in your head. It will feel like a long time but will establish that there’s not a rush and you’re there to hear what the person has to say.
 - Allow time for notetakers or observers to ask follow-up questions. Leave time for the interviewee to ask questions of the team as well.
+
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
 While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics/) ([usability test quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
