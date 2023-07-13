@@ -167,6 +167,16 @@ If you’re doing usability testing, also consider:
 
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
+#### Participant safety as a recruitment factor
+
+We have a responsibility to further the best interests of the people impacted by our works and to avoid actions that might bring harm to research participants.  
+
+- Mitigate the chances of triggering a trauma response by not recruiting people at their most vulnerable 
+  - For example, if your project is to develop a person centered addiction recovery website, instead of someone actively experiencing addiction you might recruit people who are at least 30 days into their recovery journey or the friends and family of people expreincing addiction or in recovery 
+- Protect employee safety during internal research 
+  - We want stakeholders to be engaged, but having them observe usability tests and interviews of collegues might cause participants anxiety or diminished honesty in conversations about topics that might have potential repercussions to their jobs or relationships
+
+
 #### Recruitment for demographic diversity
 It’s important that the audiences you’re designing products and services for are part of your research. Ensuring diversity hels to design, develop, and deliver technology products and services in ways that:
 - Includes the many communities/geographies, identities, races, ethnicities, backgrounds, abilities, cultures, and beliefs of the American people, including underserved communities. 
