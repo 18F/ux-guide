@@ -128,7 +128,9 @@ Here’s a sample timeline for a contextual inquiry (on site) followed by eight 
 
 ## Participants and recruiting
 
-Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. At 18F we often design for the diverse U.S. public. It's our responsibility to include and learn from people with a range of perspectives and a diversity of needs. We must ensure our products and services are accessible to everyone, regardless of their abilities. This means we need to consider the barriers various groups might face and include people from those groups so we can ensure access.
+Most of 18F’s design research depends on you directly interacting with people. Who those people are matters. Participants are the people you’ll recruit to take part in your research. For planning purposes, recruiting involves identifying participant groups and defining your recruitment criteria relative to your research question. 
+
+At 18F we often design for the diverse U.S. public. It's our responsibility to include and learn from people with a range of perspectives and a diversity of needs. We must ensure our products and services are accessible to everyone, regardless of their abilities. This means we need to consider the barriers various groups might face and include people from those groups so we can ensure access.
 
 ### Identifying participant groups
 
@@ -165,8 +167,24 @@ If you’re doing usability testing, also consider:
 
 Review your recruitment criteria with your team. Make sure you’re planning to recruit the right people to help answer your research questions.
 
+#### Participant safety as a recruitment factor
+
+We have a responsibility to further the best interests of the people impacted by our works and to avoid actions that might bring harm to research participants.  
+
+- Mitigate the chances of triggering a trauma response by not recruiting people at their most vulnerable 
+  - For example, if your project is to develop a person centered addiction recovery website, instead of someone actively experiencing addiction you might recruit people who are at least 30 days into their recovery journey or the friends and family of people expreincing addiction or in recovery 
+- Protect employee safety during internal research 
+  - We want stakeholders to be engaged, but having them observe usability tests and interviews of collegues might cause participants anxiety or diminished honesty in conversations about topics that might have potential repercussions to their jobs or relationships
+
+
 #### Recruitment for demographic diversity
-It’s important to ensure the audiences you’re designing products and services for are part of your research. There are a few strategies you can use to include research participants who are representative of the users you’re designing for:
+It’s important that the audiences you’re designing products and services for are part of your research. Ensuring diversity helps to design, develop, and deliver technology products and services in ways that:
+- Includes the many communities/geographies, identities, races, ethnicities, backgrounds, abilities, cultures, and beliefs of the American people, including underserved communities. 
+- Leads to consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment. 
+- Recognizes, appreciates, and uses the talents and skills of our employees and end users of all backgrounds. 
+- Allows all people, including people with disabilities, to fully and independently use them. 
+
+There are a few strategies you can use to include research participants who are representative of the users you’re designing for:
 
 - **Start recruitment early.** Develop your participant pool sooner rather than later and tap into your agency partners’ resources to locate the appropriate participants. It’s often easiest to get access to people who already use a service, but sometimes your research goals involve learning from people who aren’t currently using an existing service. They may be difficult to find. If there’s an existing website, you might be able to add a link to provide feedback with an option to sign up to speak with you.
 - **Tap into organizations and networks that serve the populations you’re trying to engage.** Personal networks can be an okay place to start recruiting from, depending on how representative your networks are. However, it is important to expand past personal networks as soon as possible because asking family, friends, and colleagues to participate in research may contribute to the likelihood of bias impacting the findings.
@@ -230,6 +248,7 @@ Examples include:
 - Legal aid organizations
 
 Learn about the connections your partner agency has with community organizations. See if your agency has a community engagement or outreach team that you could collaborate or consult with who already has established relationships with communities. 
+
 Just as you consider diversity in your recruitment criteria for participants, you should also consider diversity in the community organizations you’d like to partner with, such as not only contacting community organizations in urban areas, but rural areas, too. 
 
 #### What if your partner agency does not have established relationships with communities? 
@@ -271,11 +290,16 @@ GSA can compensate members of the public for participating in design research. W
 
 Compensating participants helps us reduce bias in our research. Not compensating research participants can limit our participant pool to people who have the privilege and flexibility to donate their time. We compensate participants for more than just the time they spend speaking with us. There can be additional costs like transportation, time off from work, and child care. We also compensate to show we value participants' lived experiences and expertise. Sometimes we ask participants to imagine or recall a painful personal experience, including previous difficulties that resulted from interactions with government services.
 
-In addition to paying participants, there are other ways to recognize the value of participants’ knowledge and experience. These can include:
+#### Providing value to participants 
 
-- Resources for additional information on the topic
-- Offering to find out answers to questions they may have
-- Sharing outcomes of the research, and how the research impacted the final product
+In addition to [financial compensation]({{ site.baseurl }}/research/plan/#compensating-research-participants), there are additional ways you can recognize the value of participants’ knowledge and experience that help you with your research. The people who are the focus of our product/service can be left out of the design process once their feedback is initially collected and never know how valuable their contribution was. 
+
+- Give credit to the people who would like their participation identified and quote/attribute with care so the research participants recognize their voices while providing the level of anonymity they prefer 
+- Share decision making with participants where possible, such as making time for topics that they would like to share that are not on your research question list
+- Provide access to the data they provided you and the outcomes of your research where possible
+- Share resources for additional information on the topic or finding out answers to questions they may have
+- Share outcomes of the research, and how the research impacted the final product
+- Engage and re-engage with participants throughout the design process, sharing research synthesis with opportunities for clarification
 
 ## Outputs and outcomes
 
