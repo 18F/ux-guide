@@ -66,7 +66,7 @@ When inviting partners, think about how exposed they were to the research proces
 
 ### De-identifying data
 
-Before conducting shared analysis or synthesis, make sure that any quote could be attributable to multiple participants so no one person can be identified as the person that said it. This is especially important if your stakeholders know your participants or you are working with people from [vulnerable communities]({{site.baseurl}}/research/plan) who might be negatively impacted if they can be identified. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
+Before conducting shared analysis or synthesis, make sure that any quote could be attributable to multiple participants so no one person can be identified as the person that said it. This is especially important if your stakeholders know your participants or you are working with people from [underserved communities]({{site.baseurl}}/research/plan/#recruitment-within-underserved-communities) who might be negatively impacted if they can be identified. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
 
 ### Choosing methods
 
@@ -163,8 +163,8 @@ Avoid stereotyping and generalizing in how you present findings, especially when
 {:.list-item--margin-bottom-extra}
 - Contextualize quotes from participants. You should not assume identity based on appearance, rely solely on a participant’s self-identification.
 - Resist flattening complexity by oversimplifying peoples' expereinces by making the inherent complexity clearer. 
-  - Instead of “LGBT+ people felt included with our new form design.” Try something like, “The two participants who selected the non-binary gender option remarked this addition made them feel included.”
-  - Methodological triangulation (using multiple data sets; for example, augmenting qualitative interview data with quantitative statistical data) can help minimize the risk of unintentionally perpetuating biases expressed by individual interview participants
+- Instead of “LGBT+ people felt included with our new form design.” Try something like, “The two participants who selected the non-binary gender option remarked this addition made them feel included.”
+- Methodological triangulation (using multiple data sets; for example, augmenting qualitative interview data with quantitative statistical data) can help minimize the risk of unintentionally perpetuating biases expressed by individual interview participants
 
 ### Lightweight sharing
 
