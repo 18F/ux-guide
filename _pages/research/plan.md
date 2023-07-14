@@ -39,7 +39,7 @@ A research plan (sometimes also called a research protocol), describes the desig
 - Ethics considerations
 - Outputs and outcomes
 
-18F maintains [a research plan template]({{ site.baseurl }}/resources/research-plan). ([a research plan template](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
+18F maintains [a research plan template]({{ site.baseurl }}/resources/research-plan). [a research plan template](https://docs.google.com/document/d/1M3GP1JWW9mlZAAONklogurd8qXZLLgBqcKfU5HiS9h0/edit#heading=h.qjlo8a1jasd5)). Your research plans do not have to follow this template. What’s important is that you create a plan at all. Research planning helps you and your team:
 
 - Openly commit to learning more about the problem(s) at hand
 - Agree on which information is most useful for informing future decisions
@@ -54,19 +54,21 @@ Describe factors that the research will need to account for, including any share
 
 Design research is fundamentally about reducing risk and informing decisions. When writing your goals, use verbs that specify the output like “describe,” “evaluate,” “quantify,” or “identify.” Avoid vague words like “understand” or “explore.” Example goals could include: “describe user goals and pain points,” or “identify and evaluate the hypothesis behind our proposed design.”
 
+Make sure your goals work towards concrete positive change for your audiences. Goals poorly written can reinforce structural problems or only adress surface level issues. 
+
 Research can also have subgoals. For example, some agencies choose to work with 18F to learn more about our approach. Explicitly stating these kinds of subgoals helps provide an honest account of the coaching work that the team will undertake alongside the research itself.
 
 Everyone on the team should agree on the research goals. Clarifying [research types]({{site.baseurl}}/research/clarify-the-basics/#research-types) is a useful starting point for this conversation.
 
 ### Ethical considerations
 
-Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns and ensure that your research will not bring harm to participants. 
+Research affords your team powerful opportunities to interact with people and to explore what’s possible. While 18F’s UX team agrees on our own [ethical principles for design research]({{site.baseurl}}/research/ethics), these are just our own. Discuss and clarify ethical principles with your team and your partners. Note any ethical dilemmas or concerns. Identify potential hazards in your product/service and ensure that your research will not bring harm to participants. 
 
 Next, engage your team in a conversation about bias. Bias is always present in research, but you can help mitigate it by discussing the [types of bias]({{site.baseurl}}/research/bias) we actively work to mitigate. Power dynamics are always at play when people interact with government. As a researcher in the federal government, be aware that [people’s willingness to share may change depending on their level of trust as we discuss further on our blog](https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/) in government.
 
 ### Research questions
 
-Research questions are high-level questions that reflect what you want to learn to make better evidence-based decisions. Research questions are different from interview questions. Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics): consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues.
+Research questions are high-level questions that reflect what you want to learn to make better evidence-based decisions. Research questions are different from interview questions. Research questions should be relevant, actionable, and practical. They should also be [ethical]({{site.baseurl}}/research/ethics): consider whether answering your research questions would put participants in a compromising position. For example, studying the degree to which participants adhere to a law or policy enforced by the researcher’s own office or institution could jeopardize participants’ careers and/or pose authority and coercion issues. Take care when asking participants questions that might unintentionally exclude or harm interviewees. It’s your responsibility to make sure that participants' experience in your research session as smooth and painless as possible expecially when asking about what isn’t working about a product/service, or bringing up potentially sensitive emotional experiences. 
 
 {:.list-item--margin-bottom-extra}
 - **Bad question:** How do we get unemployed adults interested in our website?
