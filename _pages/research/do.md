@@ -272,7 +272,7 @@ Moderating a research session can be nuanced, but we encourage all team members 
 
 {:.list-item--margin-bottom-extra}
 - Keep an eye on the time. Decide beforehand which questions or activities you must cover and which ones you can cut if you run out of time.
-- Be curious. Ask clarifying questions about the stories behind answers but don’t dig on unnecessary details beyond your project scope
+- Be curious. Ask clarifying questions about the stories behind answers but don’t dig on unnecessary details beyond your project scope.
 - Adapt your script as needed to make the participant comfortable and to be respectful of their time.
 - Let participants be in control of the pacing of the interview and to signal if they need to pause.
 - Remind them they can take a break or end the interview at any time.
@@ -289,13 +289,13 @@ While UX Designers heavily utilize interviews, we also use a variety of other me
   - Gov.UK advises when [researching emotionally sensitive subjects](https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects) to consult a subject matter expert who has insights into your audience of focus to ensure your questions are appropriate and the discussion will not harm your participant.
 - Ask for consent on a granular basis, not just at the beginning of an interview.
  - Acknowledge the session might be difficult and note they can change their mind during the conversation or afterward with no penalty.
- - Don’t assume their experience was traumatizing but just because they agreed to talk with you doesn’t mean they knew what they were getting into or how it would feel in the moment. You don’t have to ask for consent for every question, but the first time you hit a topic that might bring up a stressful time, tell the person what you’d like to talk about, and ask if that’s ok. This sets up the dynamic that they can help steer the conversation. 
+ - Don’t assume their experience was traumatizing. However, just because they agreed to talk with you doesn’t mean they knew what they were getting into or how it would feel in the moment. You don’t have to ask for consent for every question, but the first time you hit a topic that might bring up a stressful time, tell the person what you’d like to talk about, and ask if that’s ok. This sets up the dynamic that they can help steer the conversation. 
 - Ask questions about sensitive subjects in a gentle manner
  - We can ask “would you mind telling me about…” or other phasing that is softer than “Tell me about…” when discussing sensitive subjects.
  - While researchers are supposed to be impartial, you should still act human and it's okay to acknowledge a difficult situation. Depending on the context you might say things like “That sounds really hard” or “I’m sorry you had to go through that.” Use your judgment. 
 - Notice signs of distress such as a change in attitude or strong emotion
  - Check in to see how they are doing. Let them decide to take a break or not.
- - Don't center your discomfort rather than leaving the power to stop the conversation with the person who’s upset. They are giving their time because they want to help the research. We need to maintain a respectful emotional distance so that we’re able to get good data. Giving advice or specific help would be irresponsible as we’re not trained helpers.
+ - Don't center your discomfort rather, leave the power to stop the conversation with the person who’s upset. They are giving their time because they want to help the research. We need to maintain a respectful emotional distance so that we’re able to get good data. Giving advice or specific help would be irresponsible as we’re not trained helpers.
 
 ### Tips for remote research
 
