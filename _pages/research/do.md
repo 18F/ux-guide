@@ -183,12 +183,14 @@ Note that while it can be tempting to include additional form fields on your int
 
 You can find out more about what makes a good tweet-length intercept [here in our Legal article]({{site.baseurl}}/research/legal/#intercepts).
 
+Here is a [template for introducing yourself]({{ site.baseurl }}/resources/email-templates/researcher-introduces-themselves)<br />([Template for introducing yourself](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg)) to potential participants.
+
 The third and final step is identifying interested people and determine if they meet your recruitment criteria. Once you’ve got a list of interested people and their contact information, you can easily screen them by having brief, unstructured conversations with them. Once you’ve determined that someone is qualified to participate in the session, you’ll need to get their informed consent.
 
 
 ### Getting informed consent
 
-18F must ensure that people participate in our research willingly and understand how the research will be conducted and that they have control over their participation.
+18F must ensure that people participate in our research willingly and understand how the research will be conducted and that they have control over their participation. Tell them what you’d like to learn from them, and why them in particular so they understand how we value their experiences. 
 
 Getting informed consent ensures that:
 
@@ -202,16 +204,18 @@ Copy and customize one of the participant agreements below to reflect your resea
 - [Example design research participant agreement]({{ site.baseurl }}/participant-agreement)<br /> ([Example design research participant agreement](https://docs.google.com/document/d/1EPElAVthOF2ojcoamRitDHSYK4lT9c5yFY8IBwbJNqE/edit))
 - [Spanish version of participant agreement]({{ site.baseurl }}/participant-agreement-spanish)<br />  ([Spanish version of participant agreement](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/edit))
 
-Correspond with participants ahead of time to explain things that might otherwise get lost in the agreement-signing process. In the event that a participant has not signed an agreement ahead of the interview, obtain their verbal consent. In order to give their informed consent, participants need to understand:
+Correspond with participants ahead of time to explain things that might otherwise get lost in the agreement-signing process. Provide participants with as much context as possible to avoid misleading them and to protect their privacy. In the event that a participant has not signed an agreement ahead of the interview, obtain their verbal consent. In order to give their informed consent, participants need to understand:
 
 - Who is doing the research
 - The purpose/goals of the research
 - The duration of the research session
-- What data you’ll collect, and how long it will be kept
+- What data you’ll collect, how you will use it and how long it will be kept
 - What will happen during the research, including any reasonably foreseeable risks or discomforts to the participant
 - How you will use the results of the research, and who you’ll share them with
 - That they may decline to answer any question and can stop participating at any time, without penalty
 - What their rights are and how they can complain
+
+If a research topic might be emotionally difficult consider designing a pre-task – a small survey or activity for participants to complete before you meet them so they will be prepared for the topics that will be covered. 
 
 You must also let participants know:
 
@@ -219,12 +223,9 @@ You must also let participants know:
 - Whether and how the session is being recorded
 - If you will ask participants to share their screen (some organizations lack the technology or may have policies preventing screen sharing).
 
-There are two email templates available to help with participant correspondence:
+Here is a [template for passing along a participant agreement]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement)<br /> ([Template for passing along a participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit))
 
-1. [Template for introducing yourself]({{ site.baseurl }}/resources/email-templates/researcher-introduces-themselves)<br />([Template for introducing yourself](https://drive.google.com/open?id=1aiK07pszR331v1d1J2tT6HUQ5JGsSjKjeFBzOwCwHLg))
-2. [Template for passing along a participant agreement]({{ site.baseurl }}/resources/email-templates/researcher-sends-agreement)<br /> ([Template for passing along a participant agreement](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit))
-
-Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable.
+Remember to cover the information listed above. Ask participants if they have any questions. Ensure they don’t feel pressure to participate in ways that make them uncomfortable and they understand that participation is 100% voluntary and there are no repercussions for opting out. If someone is uncomfortable with or prefers not to sign a participant agreement, consider offering them alternative opportunities to participate that don't involve you recording or taking notes. 
 
 If your plans for keeping research-related records changes later, it’s your responsibility to communicate to participants about any changes in the use of their data.
 
@@ -271,12 +272,30 @@ Moderating a research session can be nuanced, but we encourage all team members 
 
 {:.list-item--margin-bottom-extra}
 - Keep an eye on the time. Decide beforehand which questions or activities you must cover and which ones you can cut if you run out of time.
-- Be curious. Ask clarifying questions about the stories behind answers.
+- Be curious. Ask clarifying questions about the stories behind answers but don’t dig on unnecessary details beyond your project scope.
 - Adapt your script as needed to make the participant comfortable and to be respectful of their time.
+- Let participants be in control of the pacing of the interview and to signal if they need to pause.
+- Remind them they can take a break or end the interview at any time.
+- Give space for people to pause. When there is a silence, try counting to five in your head. It will feel like a long time but will establish that there’s not a rush and you’re there to hear what the person has to say.
 - Allow time for notetakers or observers to ask follow-up questions. Leave time for the interviewee to ask questions of the team as well.
+
 - If appropriate, ask if they know others who would be good for your team to talk to.
 
 While UX Designers heavily utilize interviews, we also use a variety of other methods. Tips for moderating other methods can be found in the [18F Method Cards](https://methods.18f.gov). We’ve also created a breakdown of [usability test quality heuristics]({{ site.baseurl }}/usability-test-quality-heuristics/) ([usability test quality heuristics](https://docs.google.com/document/d/1qfGp3H1pdOlNbMYuJNQGyBIkpOcQErduDAl0adv1X-w/edit)). For Technology Transformation Services staff interested in developing additional methods, the [Research guild (#g-research](https://gsa-tts.slack.com/messages/g-research)) is a great place to find collaborators.
+
+### Moderating sensitive research sessions
+
+- Take time to be informed about the topic so you don't make participants needlessly explain uncomfortable information.
+  - Gov.UK advises when [researching emotionally sensitive subjects](https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects) to consult a subject matter expert who has insights into your audience of focus to ensure your questions are appropriate and the discussion will not harm your participant.
+- Ask for consent on a granular basis, not just at the beginning of an interview.
+ - Acknowledge the session might be difficult and note they can change their mind during the conversation or afterward with no penalty.
+ - Don’t assume their experience was traumatizing. However, just because they agreed to talk with you doesn’t mean they knew what they were getting into or how it would feel in the moment. You don’t have to ask for consent for every question, but the first time you hit a topic that might bring up a stressful time, tell the person what you’d like to talk about, and ask if that’s ok. This sets up the dynamic that they can help steer the conversation. 
+- Ask questions about sensitive subjects in a gentle manner
+ - We can ask “would you mind telling me about…” or other phasing that is softer than “Tell me about…” when discussing sensitive subjects.
+ - While researchers are supposed to be impartial, you should still act human and it's okay to acknowledge a difficult situation. Depending on the context you might say things like “That sounds really hard” or “I’m sorry you had to go through that.” Use your judgment. 
+- Notice signs of distress such as a change in attitude or strong emotion
+ - Check in to see how they are doing. Let them decide to take a break or not.
+ - Don't center your discomfort rather, leave the power to stop the conversation with the person who’s upset. They are giving their time because they want to help the research. We need to maintain a respectful emotional distance so that we’re able to get good data. Giving advice or specific help would be irresponsible as we’re not trained helpers.
 
 ### Tips for remote research
 
