@@ -47,6 +47,12 @@ Making meaning always happens in relation to the research questions and/or probl
 - Were there any differences between what people said and what they actually did?
 - What are the needs, motivations, and workflows of the people using the service, as well as, the people supporting the service?
 
+### Multiple user groups might require multiple solutions
+The public is made up of people with different needs and might require different designs. Most products are set to solve things for their majority user. Accommodate different contexts, access methods, languages, and user cases. If you are designing one path to a government service, who might be left out? Consider: 
+- What are the tradeoffs around prioritizing the “majority” of users over “edge users?” 
+- How might cognitive load and tech savviness imply different needs from a website or require different navigation paths through a service or product?  
+- How might work schedules, access to transportation or physical ability  impact when and for how long someone might be able to use the in person component of a service?
+
 ### Involving the team
 Finding patterns in research is a great time to involve partners and team members, especially people who were not involved in conducting the research. A collaborative approach helps to:
 
@@ -114,6 +120,7 @@ Artifacts are most useful when you act on them. For example, a current-state ser
 - __Develop user stories:__ A user story is one or more sentences in the language of the user that captures what a user needs to accomplish. You can write it like this: “As a [X], I need [Y] so that I (can) [benefit].” Based on the learnings from the service blueprint, you can create user stories for the public and staff that can inspire recommendations. These user stories can be incorporated into sprint planning at the ticket level, where you can also link back to the service blueprint that inspired these user stories. 
 - __Conduct a prioritization exercise:__ Your team may have a variety of ideas to reduce the time it takes to deliver benefits for both the public and staff. You can set up a two-by-two matrix on a virtual or physical whiteboard, with “level of effort” on the x-axis and “level of impact” on the y-axis. With input from your team’s product owner and any teams impacted by these ideas, like a representative from the staff processing benefit applications, you can plot the ideas from your service blueprint on this matrix. During this exercise, it is important to consider how proposed changes to the product or service could impact the staff delivering the service, which is why it is important to have a representative from the staff participate. Ideas with high impact and low effort could make sense to prioritize first, while ideas with high impact and high effort could be revisited later.
 - __Incorporate recommendations into the product roadmap:__ Based on the results of your prioritization exercise, you can slot recommendations into your [roadmap](https://product-guide.18f.gov/define/roadmap/), using a “Soon/next/later” framework.
+- __Keep your metrics up to date:__ Review what you are measuring over time and evolve them if new ways of measuring impact become more useful. What is important to measure may change over time or when better data becomes available.
 
 ## Sharing research
 
@@ -136,7 +143,9 @@ Our research often gets shared far beyond the project team. Depending on the pro
 - Policymakers
 - Members of the public (community-based organizations, advocacy groups, vendors, press, others impacted or interested)
 
-Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively.
+Sharing research is all about storytelling. When packaging research, think about what role the audience plays in that story and what the outcomes will be for them. Being clear about who the audience is, what they need to understand, and how they might best understand it, helps us communicate our findings more effectively. 
+- Be careful of the conclusions you draw from any one study. Be honest to yourself and your partners about what you can and cannot conclude based on your research. Do not overstate your findings.
+- If data will be shared outside of its original purpose don't remove the context around it. Recontextualised data doesn’t not honor the people who provided the data.
 
 ### Presenting the work
 
@@ -153,6 +162,7 @@ Avoid stereotyping and generalizing in how you present findings, especially when
 
 {:.list-item--margin-bottom-extra}
 - Contextualize quotes from participants. You should not assume identity based on appearance, rely solely on a participant’s self-identification.
+- Resist flattening complexity by oversimplifying peoples' expereinces by making the inherent complexity clearer. 
   - Instead of “LGBT+ people felt included with our new form design.” Try something like, “The two participants who selected the non-binary gender option remarked this addition made them feel included.”
   - Methodological triangulation (using multiple data sets; for example, augmenting qualitative interview data with quantitative statistical data) can help minimize the risk of unintentionally perpetuating biases expressed by individual interview participants
 
@@ -162,9 +172,9 @@ Keep in mind that a researcher’s job doesn’t end with a formal presentation.
 
 One of the ways we do this at 18F is sharing a “weekly ship” of what the team has worked on each week. This could be an opportunity to share a compelling quote or pain point uncovered between rounds of research synthesis.
 
-### Tribal data sovereignty and sharing with participants
+### Sharing data with your participants
 
-While it’s not always relevant or practical to shareback primary data collected with all research participants, it’s crucial to the efforts of [Tribal data sovereignty](https://bja.ojp.gov/doc/tribal-data-sovereignty-presentation.pdf). Indigenous data sovereignty is the right of a nation to govern the collection, ownership, and application of its own data. 
+Data collected from research participants of specific groups should be available to them to use in ways they seek fit. While it’s not always relevant or practical to shareback primary data collected with all research participants, it’s crucial to the efforts of [Tribal data sovereignty](https://bja.ojp.gov/doc/tribal-data-sovereignty-presentation.pdf). Indigenous data sovereignty is the right of a nation to govern the collection, ownership, and application of its own data. 
 
 Tribal Nations have not historically had complete control or autonomy over their data and knowledge. In order to fulfill [Federal trust and treaty responsibilities to Tribal Nations](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/), federal employees should promote [ethical research]({{site.baseurl}}/research/ethics) and enhance the research capacity of Tribal governments by providing people who participate in research with the opportunity to have the data collected from them. 
 
