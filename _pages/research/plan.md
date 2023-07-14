@@ -178,7 +178,7 @@ We have a responsibility to further the best interests of the people impacted by
 
 
 #### Recruitment for demographic diversity
-It’s important that the audiences you’re designing products and services for are part of your research. Ensuring diversity hels to design, develop, and deliver technology products and services in ways that:
+It’s important that the audiences you’re designing products and services for are part of your research. Ensuring diversity helps to design, develop, and deliver technology products and services in ways that:
 - Includes the many communities/geographies, identities, races, ethnicities, backgrounds, abilities, cultures, and beliefs of the American people, including underserved communities. 
 - Leads to consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment. 
 - Recognizes, appreciates, and uses the talents and skills of our employees and end users of all backgrounds. 
