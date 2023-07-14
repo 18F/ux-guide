@@ -292,7 +292,7 @@ Compensating participants helps us reduce bias in our research. Not compensating
 
 #### Providing value to participants 
 
-In addition to [financial compensation]({{ site.baseurl }}/research/plan/#compensating-research-participants), there are additional ways you can recognize the value of participants’ knowledge and experience that you help your research. The people who are the focus of our product/service can be left out of the design process once their feedback is initially collected and never know how valuable their contribution was. 
+In addition to [financial compensation]({{ site.baseurl }}/research/plan/#compensating-research-participants), there are additional ways you can recognize the value of participants’ knowledge and experience that help you with your research. The people who are the focus of our product/service can be left out of the design process once their feedback is initially collected and never know how valuable their contribution was. 
 
 - Give credit to the people who would like their participation identified and quote/attribute with care so the research participants recognize their voices while providing the level of anonymity they prefer 
 - Share decision making with participants where possible, such as making time for topics that they would like to share that are not on your research question list
