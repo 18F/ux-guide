@@ -67,7 +67,7 @@ As a designer, you have power and privilege to influence and decide how someone 
   - Ensure that people participate in our research willingly and understand how the research will be conducted and that they have control over their participation through [informed consent]({{ site.baseurl }}/research/do/#getting-informed-consent). Be clear on how the information they share will be used and who will have access to it. Allow them to opt out.
   - Provide value to [participants]({{ site.baseurl }}/research/plan/#providing-value-to-participants) to recognize and honor  their knowledge and experience
 - Reduce harm
-  - Respect participants’ experience, values and needs as more important than achieving your research goals by mitigating the chances of potential harms to participants when [moderating sensitive research sessions]({{ site.baseurl }}/research/do/#moderating sensitive-research-sessions)
+  - Respect participants’ experience, values and needs as more important than achieving your research goals by mitigating the chances of potential harms to participants when [moderating sensitive research sessions]({{ site.baseurl }}/research/do/#moderating-sensitive-research-sessions)
   - Recruit for your [participant safety]({{ site.baseurl }}/research/plan/#participant-safety-as-a-recruitment-factor) to avoid the chances of triggering a trauma response
   - Debriefing to intentionally [make space for the team to process]({{ site.baseurl }}/research/do/#make-space-for-the-team-to-process) how they might be impacted by difficult research sessions so the team can be emotionally centered and know if/when they need a break
 
