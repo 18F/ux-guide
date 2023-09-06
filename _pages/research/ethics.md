@@ -60,7 +60,7 @@ As a designer, you have power and privilege to influence and decide how someone 
 {:.list-item--margin-bottom-extra}
 - Build capacity 
   - Identify [biases]({{ site.baseurl }}/research/bias) you and your team have and discuss how that might impact your work
-  - Expand the range of [diverse perspectives](/research/plan/#recruitment-for-demographic-diversity) that inform your research, from participation in design activities to decision making, e.g., how diverse are the observers in research interviews or your sources from desk research?
+  - Expand the range of [diverse perspectives]({{ site.baseurl }}/research/plan/#recruitment-for-demographic-diversity) that inform your research, from participation in design activities to decision making, e.g., how diverse are the observers in research interviews or your sources from desk research?
 
 - Share power
   - Understand the [power]({{ site.baseurl }}/research/share-power) difference between you and your research participants and move towards partnership 
