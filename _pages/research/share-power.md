@@ -7,7 +7,7 @@ sidenav: research
 sticky_sidenav: true
 subnav:
   - text: What is power?
-    href: '#what-is-power?'
+    href: '#what-is-power'
   - text: How power shows up in research
     href: '#how-power-shows-up-in-research'
   - text: How to address power in research
@@ -89,7 +89,7 @@ Once you’ve identified the power differentials and dynamics at play, define sp
     - Provide time during design and research activities for people to tell their story, in their own words, in addition to meeting your objectives
     - Build in additional time on projects to allow communities to move at their own pace
 - [Compensate participants]({{ site.baseurl }}/research/plan/#compensating-research-participants) for their time and contributions to the project 
-- Identify community assets or resources (e.g. community services or programs, local skills or capabilities, hospitals, community-based organizations) and find ways to mobilize or enhance those assets. You can document and visualize asset maps in different ways. Here is one [template.](http://www.ncfh.org/uploads/3/8/6/8/38685499/ncfh_asset_mapping_tool.pdf)
+- Identify community assets or resources (e.g. community services or programs, local skills or capabilities, hospitals, community-based organizations) and find ways to mobilize or enhance those assets. You can document and visualize asset maps in different ways. Here is one [template.](https://www.ncfh.org/uploads/3/8/6/8/38685499/ncfh_asset_mapping_tool.pdf)
 - Return [value]({{ site.baseurl }}/research/plan/#providing-value-to-participants) to the research participants/communities as quickly as you benefit from their lived experiences by:
     - Providing resources for additional information on your topic
     - Finding answers to questions they may have on your topic
