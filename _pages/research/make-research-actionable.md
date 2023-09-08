@@ -59,7 +59,7 @@ Finding patterns in research is a great time to involve partners and team member
 {:.list-item--margin-bottom-extra}
 - Create an inclusive team where everyone’s feedback is heard. 
 - Build consensus within the team with frequent check-ins and showing how data turns into insights.
-- Correct for[bias]({{site.baseurl}}/research/bias) by ensuring research insights aren’t influenced by individual preferences and including reviews from multiple perspectives.
+- Correct for [bias]({{site.baseurl}}/research/bias) by ensuring research insights aren’t influenced by individual preferences and including reviews from multiple perspectives.
 - Increase the value of research for your teammates by making research visible and involving them in the review of data.
 
 When inviting partners, think about how exposed they were to the research process and set clear expectations on how you would like them to engage. Be mindful of power dynamics and your [ethical obligation]({{site.baseurl}}/research/ethics) to respect the people who participated in your research. For example, you might want to be careful when involving a CIO in analyzing data you collected while interviewing their employees.
@@ -197,7 +197,7 @@ Research handoffs occur when wrapping up a round of research or an engagement, w
 - Where and how do files containing PII need to be stored in order to maintain privacy? Was all identifying information removed from data that hasn’t been stored securely?
 - Who should have access to what data? How will we get it to them?
 - Can this information be used to generalize or stereotype groups? What can be done to prevent misuse? 
-- How can I support [US Indigenous and Tribal data sovereignty](#tribal-data-sovereignty-and-sharing-with-participants)? 
+- How can I support [US Indigenous and Tribal data sovereignty]({{site.baseurl}}/research/make-research-actionable/#sharing-data-with-your-participants)? 
 
 In addition to the above considerations, providing an introduction or tour of the work is a helpful way to transfer knowledge to new team members or vendors. Consider writing a [GitHub README](https://github.com/ONRR/doi-extractives-data/blob/dev/README.md) document which new team members can read and refer to for project background, context, history, and quick links to important files or resources.  
 
