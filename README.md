@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 # 18F UX Guide
 
 18F user experience (UX) designers join cross-functional teams to
